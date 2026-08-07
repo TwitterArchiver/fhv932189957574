@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2073426551618908600",
+    "created_at": "2026-07-05T04:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073632764872839522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929599866088603648",
+          "start": 0,
+          "username": "NoctNekoAsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073632764872839522",
+    "in_reply_to_user_id": "1929599866088603648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073426551618908600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoctNekoAsh 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5826,
+        "height": 1080,
+        "media_key": "13_2073426486569455616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073426486569455616/img/sXnIdCU0c8s2AzkI.jpg",
+        "public_metrics": {
+          "view_count": 2073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486569455616/vid/avc1/534x360/s6vds1lchBRSJNGe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073426486569455616/pl/gRJg9VF5QGsUWAdI.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486569455616/vid/avc1/1068x720/t83EdekBzQdiqE9K.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486569455616/vid/avc1/400x270/nevV6ropj2QFAs_s.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486569455616/vid/avc1/1602x1080/aPOLwC9pjJ0OTRyA.mp4"
+          }
+        ],
+        "width": 1602
+      },
+      {
+        "duration_ms": 15021,
+        "height": 2336,
+        "media_key": "13_2073426486535811073",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073426486535811073/img/WBFTezk7u9yJ-oW8.jpg",
+        "public_metrics": {
+          "view_count": 450
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486535811073/vid/avc1/1080x2336/IIik-_xsYJsJtCqe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073426486535811073/pl/nvfexSIzjE3ETu7L.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486535811073/vid/avc1/320x692/-qIbSKxZ2NFYTcnS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486535811073/vid/avc1/720x1556/Ijg7svW6Rlb8F6RR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073426486535811073/vid/avc1/480x1038/5uz-piq6CROyBvsD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2073426551618908600",
+        "created_at": "2026-07-05T04:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073632764872839522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929599866088603648",
+              "start": 0,
+              "username": "NoctNekoAsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073632764872839522",
+        "in_reply_to_user_id": "1929599866088603648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073426551618908600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoctNekoAsh 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073426486569455616",
+            "13_2073426486535811073"
+          ]
+        },
+        "author_id": "1929599866088603648",
+        "conversation_id": "2073426551618908600",
+        "created_at": "2026-07-04T15:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073426551618908600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 50,
+              "tag": "wutheringwaves"
+            },
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "rovlychi"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "lychi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLaqawPmtN",
+              "end": 106,
+              "expanded_url": "https://x.com/NoctNekoAsh/status/2073426551618908600/video/1",
+              "media_key": "13_2073426486569455616",
+              "start": 83,
+              "url": "https://t.co/MLaqawPmtN"
+            },
+            {
+              "display_url": "pic.x.com/MLaqawPmtN",
+              "end": 106,
+              "expanded_url": "https://x.com/NoctNekoAsh/status/2073426551618908600/video/1",
+              "media_key": "13_2073426486535811073",
+              "start": 83,
+              "url": "https://t.co/MLaqawPmtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073426551618908600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 4680,
+          "like_count": 423,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Two beautiful girls became his new wives  &lt;33\n\n#wutheringwaves #rovlychi #lychi https://t.co/MLaqawPmtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 315,
+          "like_count": 9142,
+          "listed_count": 0,
+          "media_count": 908,
+          "tweet_count": 2423
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T18:04:31.000Z",
+        "description": "Wives gatherer 😏 • Plays ML gacha games • Aspiring Gacha Content Creator 🎮 • Married with Iuno, Aemeath and Denia 💍 • YT: https://t.co/xDY3N1EWl8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@noctnekoash",
+                "end": 145,
+                "expanded_url": "http://youtube.com/@noctnekoash",
+                "start": 122,
+                "url": "https://t.co/xDY3N1EWl8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/noctnekoash",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/noctnekoash",
+                "start": 0,
+                "url": "https://t.co/D4W9wpDS99"
+              }
+            ]
+          }
+        },
+        "id": "1929599866088603648",
+        "name": "Unwritten",
+        "pinned_tweet_id": "2073346610592145511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049846580061368321/2DCMqbbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4300,
+          "following_count": 45,
+          "like_count": 5228,
+          "listed_count": 8,
+          "media_count": 736,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/D4W9wpDS99",
+        "username": "NoctNekoAsh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2083902064913272947",
+    "created_at": "2026-08-02T13:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083902064913272947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/wuyuandev/status/2083841705883976123",
+          "start": 73,
+          "url": "https://t.co/LgqtKC9FVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083902064913272947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083841705883976123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先不说grok是否有错误，我怎么感觉跨圈越来越魔怔了，只需要让社会的性别的刻板印象消失掉绝大部分，还想要女性社会身份证的或许就是想要性别特权的了 https://t.co/LgqtKC9FVK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2083841698728394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtK-_zaQAAbcFi.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083902064913272947",
+        "created_at": "2026-08-02T13:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083902064913272947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2083841705883976123",
+              "start": 73,
+              "url": "https://t.co/LgqtKC9FVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083902064913272947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083841705883976123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先不说grok是否有错误，我怎么感觉跨圈越来越魔怔了，只需要让社会的性别的刻板印象消失掉绝大部分，还想要女性社会身份证的或许就是想要性别特权的了 https://t.co/LgqtKC9FVK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083841698728394752"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2083841705883976123",
+        "created_at": "2026-08-02T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083841705883976123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpWjSBhzvq",
+              "end": 45,
+              "expanded_url": "https://x.com/wuyuandev/status/2083841705883976123/photo/1",
+              "media_key": "3_2083841698728394752",
+              "start": 22,
+              "url": "https://t.co/QpWjSBhzvq"
+            },
+            {
+              "display_url": "x.com/ffynya/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ffynya/status/2083833778842263719",
+              "start": 46,
+              "url": "https://t.co/yNqatOztst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083841705883976123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1256,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083833778842263719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来想试试给ftm递刀子\n结果看到了这个😅 https://t.co/QpWjSBhzvq https://t.co/yNqatOztst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 481,
+          "like_count": 14299,
+          "listed_count": 0,
+          "media_count": 1182,
+          "tweet_count": 3381
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 923,
+          "like_count": 10128,
+          "listed_count": 8,
+          "media_count": 816,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

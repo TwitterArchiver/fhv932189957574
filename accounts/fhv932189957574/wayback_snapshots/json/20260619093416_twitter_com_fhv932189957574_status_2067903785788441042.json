@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067903778104520704"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067878252681806164",
+    "created_at": "2026-06-19T09:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067903785788441042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1618486174854811650",
+          "start": 0,
+          "username": "gosari542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/68GrOynXmI",
+          "end": 47,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067903785788441042/photo/1",
+          "media_key": "3_2067903778104520704",
+          "start": 24,
+          "url": "https://t.co/68GrOynXmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067903785788441042",
+    "in_reply_to_user_id": "1618486174854811650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067878252681806164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gosari542 求您多做一些千咲的视频😭 https://t.co/68GrOynXmI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2067903778104520704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKrh6ubsAA3hjE.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 12450,
+        "height": 2560,
+        "media_key": "13_2067878132749930496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067878132749930496/img/1czBT25c9uA4e-IK.jpg",
+        "public_metrics": {
+          "view_count": 14467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067878132749930496/pl/9uXV9oMqaYV1t6ww.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067878132749930496/vid/avc1/320x568/zRDHBtkvlSZW71CA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067878132749930496/vid/avc1/720x1280/l_x29F1QG-aY2WF7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067878132749930496/vid/avc1/1440x2560/Fyuer3L6LghQpLG6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067878132749930496/vid/avc1/480x852/v7GDpwT_Fj2WRV6f.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067903778104520704"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067878252681806164",
+        "created_at": "2026-06-19T09:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067903785788441042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618486174854811650",
+              "start": 0,
+              "username": "gosari542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/68GrOynXmI",
+              "end": 47,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067903785788441042/photo/1",
+              "media_key": "3_2067903778104520704",
+              "start": 24,
+              "url": "https://t.co/68GrOynXmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067903785788441042",
+        "in_reply_to_user_id": "1618486174854811650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067878252681806164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gosari542 求您多做一些千咲的视频😭 https://t.co/68GrOynXmI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067878132749930496"
+          ]
+        },
+        "author_id": "1618486174854811650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "新共鳴者がまもなく解禁！\n配信を視聴して、星声などの豪華報酬をゲットしよう！\n\n『鳴潮』Ver.3.5 予告特別通信\n6月26日（金）20:00 配信開始\n19:30より「鳴潮予告特別通信~ちょこっとお茶会~」をお届けします。\n\n漂泊者の皆様、\n下記ポスト欄、または #めいちょう予告特別通信 を付けて感想を投稿してください。\n抽選で16名様に賞品をプレゼント!\n\n【賞品】\n・アマギフ5,000円分 × 10名様\n・Ver.3.5「秧秧・玄翎」限定グッズ × 5名様\n・PlayStation 5 デジタル・エディション × 1名様\n\n【参加方法】\n①本ページをポスト\n②#めいちょう予告特別通信 を付けて感想を投稿\n〆切：6/26（金）24:00\n\n『鳴潮』好評配信中!\nDL：https://wuwa.kurogames-global.com/4qdsnK4",
+              "id": "2067497614933635072",
+              "name": "Kudo live 202606"
+            }
+          }
+        ],
+        "conversation_id": "2067878252681806164",
+        "created_at": "2026-06-19T07:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067878252681806164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "cartethyia"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "カルテジア"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "卡提希娅"
+            },
+            {
+              "end": 58,
+              "start": 43,
+              "tag": "wutheringwaves"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "wuwa"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "mmd"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "鳴潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N09GhAp1xh",
+              "end": 97,
+              "expanded_url": "https://x.com/gosari542/status/2067878252681806164/video/1",
+              "media_key": "13_2067878132749930496",
+              "start": 74,
+              "url": "https://t.co/N09GhAp1xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067878252681806164",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 40719,
+          "like_count": 4992,
+          "quote_count": 28,
+          "reply_count": 67,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "Cartethyia doodle #cartethyia #カルテジア #卡提希娅 #wutheringwaves #wuwa #mmd #鳴潮 https://t.co/N09GhAp1xh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 211,
+          "like_count": 7036,
+          "listed_count": 1,
+          "media_count": 639,
+          "tweet_count": 1735
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T05:49:21.000Z",
+        "description": "https://t.co/5loxUXeKyf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gosari542/fea…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@gosari542/featured",
+                "start": 0,
+                "url": "https://t.co/5loxUXeKyf"
+              }
+            ]
+          }
+        },
+        "id": "1618486174854811650",
+        "name": "gosari ごさり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618486230303531010/iDVXrxx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101746,
+          "following_count": 14,
+          "like_count": 196,
+          "listed_count": 161,
+          "media_count": 2358,
+          "tweet_count": 3938
+        },
+        "url": "",
+        "username": "gosari542",
+        "verified": false
+      }
+    ]
+  }
+}

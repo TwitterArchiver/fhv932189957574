@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072726135981674738",
+    "created_at": "2026-07-02T16:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072726135981674738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bananachristop…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bananachristoph/status/2072620576104231019",
+          "start": 4,
+          "url": "https://t.co/D3gUJ30OJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072726135981674738",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072620576104231019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✌🏻👍 https://t.co/D3gUJ30OJb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072726135981674738",
+        "created_at": "2026-07-02T16:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072726135981674738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bananachristop…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bananachristoph/status/2072620576104231019",
+              "start": 4,
+              "url": "https://t.co/D3gUJ30OJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072726135981674738",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072620576104231019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✌🏻👍 https://t.co/D3gUJ30OJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347014115223425027",
+        "conversation_id": "2072620576104231019",
+        "created_at": "2026-07-02T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072620576104231019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072620576104231019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 19304,
+          "like_count": 498,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个广东打工女人的自述好有意思\n\n她是被亲妈和弟弟赶出来无家可归所以南下打工的，她一开始很驴，给老家寄了80%工资，某天接触了女权内容，多看几天人醒了\n\n然后因为她的身边和工厂认识的朋友几乎都是各地被男宝妈或者家里兄弟排挤赶出来打工的女性，她女权觉醒后言传身教传播得特别快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 314,
+          "like_count": 9034,
+          "listed_count": 0,
+          "media_count": 884,
+          "tweet_count": 2358
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-07T02:56:16.000Z",
+        "description": "创造一个无需跪拜的天堂",
+        "id": "1347014115223425027",
+        "name": "Christopher Banana ▽",
+        "pinned_tweet_id": "1528349541212495876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410426772856786944/rYGVEojt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17385,
+          "following_count": 481,
+          "like_count": 75656,
+          "listed_count": 54,
+          "media_count": 1022,
+          "tweet_count": 15460
+        },
+        "url": "",
+        "username": "BananaChristoph",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053601822414356480",
+        "3_2053601822418649088"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2053601850251940071",
+    "created_at": "2026-05-10T22:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T23:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053601850251940071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/um7QO0V9Vx",
+          "end": 27,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053601850251940071/photo/1",
+          "media_key": "3_2053601822414356480",
+          "start": 4,
+          "url": "https://t.co/um7QO0V9Vx"
+        },
+        {
+          "display_url": "pic.x.com/um7QO0V9Vx",
+          "end": 27,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053601850251940071/photo/1",
+          "media_key": "3_2053601822418649088",
+          "start": 4,
+          "url": "https://t.co/um7QO0V9Vx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053601850251940071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/um7QO0V9Vx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2053601822414356480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_b-h8aQAAykSj.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1583,
+        "media_key": "3_2053601822418649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_b-h9bwAAMNhp.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053601822414356480",
+            "3_2053601822418649088"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2053601850251940071",
+        "created_at": "2026-05-10T22:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053601850251940071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/um7QO0V9Vx",
+              "end": 27,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053601850251940071/photo/1",
+              "media_key": "3_2053601822414356480",
+              "start": 4,
+              "url": "https://t.co/um7QO0V9Vx"
+            },
+            {
+              "display_url": "pic.x.com/um7QO0V9Vx",
+              "end": 27,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053601850251940071/photo/1",
+              "media_key": "3_2053601822418649088",
+              "start": 4,
+              "url": "https://t.co/um7QO0V9Vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053601850251940071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/um7QO0V9Vx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不健不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 411
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      }
+    ]
+  }
+}

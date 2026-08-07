@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2068462900105121857",
+    "created_at": "2026-06-21T09:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629785354588540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831384254909181955",
+          "start": 0,
+          "username": "tnglngx480156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629785354588540",
+    "in_reply_to_user_id": "1831384254909181955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068462900105121857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnglngx480156 其实没人说你不能帅🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33390,
+        "height": 1280,
+        "media_key": "13_2068402543030403072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068402543030403072/img/i-P06BrhIkyo-tNu.jpg",
+        "public_metrics": {
+          "view_count": 116759
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068402543030403072/vid/avc1/320x568/yjGyRSv3zKZSff9u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068402543030403072/vid/avc1/480x852/VUqZjysc7nOcrkxG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068402543030403072/vid/avc1/720x1280/eWQuJTwgThoQlJZc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068402543030403072/pl/zkI9N0IGbWf1xTOf.m3u8?tag=14&v=74c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2068462900105121857",
+        "created_at": "2026-06-21T09:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629785354588540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831384254909181955",
+              "start": 0,
+              "username": "tnglngx480156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629785354588540",
+        "in_reply_to_user_id": "1831384254909181955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068462900105121857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnglngx480156 其实没人说你不能帅🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068402543030403072"
+          ]
+        },
+        "author_id": "1831384254909181955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068462900105121857",
+        "created_at": "2026-06-20T22:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068462900105121857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OR3OvcejD9",
+              "end": 34,
+              "expanded_url": "https://x.com/tnglngx480156/status/2068462900105121857/video/1",
+              "media_key": "13_2068402543030403072",
+              "start": 11,
+              "url": "https://t.co/OR3OvcejD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068462900105121857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 225610,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 143,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "原来孕妇也可以这么帅 https://t.co/OR3OvcejD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 218,
+          "like_count": 7398,
+          "listed_count": 0,
+          "media_count": 691,
+          "tweet_count": 1830
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T17:30:24.000Z",
+        "description": "Ordinary girl, love to travel, like to share their daily life, welcome everyone to pay attention to me。",
+        "id": "1831384254909181955",
+        "location": "Northwest，China",
+        "name": "Melody",
+        "pinned_tweet_id": "2068157135200952478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833814119251898368/LuTe-8S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17760,
+          "following_count": 7538,
+          "like_count": 62334,
+          "listed_count": 28,
+          "media_count": 2795,
+          "tweet_count": 10881
+        },
+        "url": "",
+        "username": "tnglngx480156",
+        "verified": false
+      }
+    ]
+  }
+}

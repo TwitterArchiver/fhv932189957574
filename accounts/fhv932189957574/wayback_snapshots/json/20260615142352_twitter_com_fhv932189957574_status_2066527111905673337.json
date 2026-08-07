@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066527018670514176"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2064177034801164530",
+    "created_at": "2026-06-15T14:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066527111905673337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1180487163567210499",
+          "start": 0,
+          "username": "Makeitordie1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1oMr5r29dB",
+          "end": 47,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066527111905673337/video/1",
+          "media_key": "13_2066527018670514176",
+          "start": 24,
+          "url": "https://t.co/1oMr5r29dB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066527111905673337",
+    "in_reply_to_user_id": "1180487163567210499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064177034801164530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makeitordie1 急急急，看完再说吧 https://t.co/1oMr5r29dB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33180,
+        "height": 720,
+        "media_key": "13_2066527018670514176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066527018670514176/img/5EXq5YctpDHiWvg9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066527018670514176/vid/avc1/480x270/jFq8Y6vmNhNNAfNp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066527018670514176/vid/avc1/640x360/dw9PrcXO__pOK--O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066527018670514176/vid/avc1/1280x720/BjOtAzi8zrmgzsma.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066527018670514176/pl/VSTprAgfcxMr9Hmh.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066527018670514176"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2064177034801164530",
+        "created_at": "2026-06-15T14:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066527111905673337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1180487163567210499",
+              "start": 0,
+              "username": "Makeitordie1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oMr5r29dB",
+              "end": 47,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066527111905673337/video/1",
+              "media_key": "13_2066527018670514176",
+              "start": 24,
+              "url": "https://t.co/1oMr5r29dB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066527111905673337",
+        "in_reply_to_user_id": "1180487163567210499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064177034801164530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makeitordie1 急急急，看完再说吧 https://t.co/1oMr5r29dB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180487163567210499",
+        "conversation_id": "2064177034801164530",
+        "created_at": "2026-06-09T02:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064177034801164530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064177034801164530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 500314,
+          "like_count": 23521,
+          "quote_count": 39,
+          "reply_count": 542,
+          "retweet_count": 652
+        },
+        "reply_settings": "everyone",
+        "text": "一个高中女生，穿着校服，素面朝天，还没见识到社会残忍，就因为高考完在镜头前说了一句提高性同意年龄到18岁，遭bro们开盒。\n别装死，这事儿只能是男的干的。\n\nbro们别装了，脸上写着「我想睡十几岁小女生」还希望别人理解尊重呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 174,
+          "like_count": 6573,
+          "listed_count": 1,
+          "media_count": 567,
+          "tweet_count": 1595
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T14:17:48.000Z",
+        "description": "未经允许请勿传播照片⚠️\n人是观念的动物｜哲学小白｜feminist｜cytus2\n| \n倾向于自由的、社会主义女权｜精神分析中毒症",
+        "id": "1180487163567210499",
+        "name": "Make-it-or-die",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060917074147614720/VPGYKILk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 353,
+          "like_count": 3087,
+          "listed_count": 21,
+          "media_count": 2731,
+          "tweet_count": 11697
+        },
+        "username": "Makeitordie1",
+        "verified": false
+      }
+    ]
+  }
+}

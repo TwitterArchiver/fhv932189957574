@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067957030581948416"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067913727240757518",
+    "created_at": "2026-06-19T13:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067957079294566906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922297317681401856",
+          "start": 0,
+          "username": "kuchibavibes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LzlINJjOLe",
+          "end": 74,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067957079294566906/photo/1",
+          "media_key": "16_2067957030581948416",
+          "start": 51,
+          "url": "https://t.co/LzlINJjOLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067957079294566906",
+    "in_reply_to_user_id": "1922297317681401856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067913727240757518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuchibavibes Please let me go on a date with you. https://t.co/LzlINJjOLe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2067957030581948416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLLb9nqb0AA3UOO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLLb9nqb0AA3UOO.mp4"
+          }
+        ],
+        "width": 240
+      },
+      {
+        "height": 923,
+        "media_key": "3_2067913723369459712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK0kzuXkAAJHBH.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067957030581948416"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067913727240757518",
+        "created_at": "2026-06-19T13:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067957079294566906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922297317681401856",
+              "start": 0,
+              "username": "kuchibavibes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzlINJjOLe",
+              "end": 74,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067957079294566906/photo/1",
+              "media_key": "16_2067957030581948416",
+              "start": 51,
+              "url": "https://t.co/LzlINJjOLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067957079294566906",
+        "in_reply_to_user_id": "1922297317681401856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067913727240757518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuchibavibes Please let me go on a date with you. https://t.co/LzlINJjOLe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067913723369459712"
+          ]
+        },
+        "author_id": "1922297317681401856",
+        "conversation_id": "2067913727240757518",
+        "created_at": "2026-06-19T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067913727240757518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7r7rq5z3L",
+              "end": 180,
+              "expanded_url": "https://x.com/kuchibavibes/status/2067913727240757518/photo/1",
+              "media_key": "3_2067913723369459712",
+              "start": 157,
+              "url": "https://t.co/r7r7rq5z3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067913727240757518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3887,
+          "like_count": 162,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "perks of dating me:\n- constant affection \n- will take care of you\n- I’m funny \n\ndownsides of dating me:\n- needy asf\n- insecure \n- not great at communication https://t.co/r7r7rq5z3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 210,
+          "like_count": 7099,
+          "listed_count": 1,
+          "media_count": 644,
+          "tweet_count": 1742
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-13T14:26:36.000Z",
+        "description": "wuthering waves content & giveaways \nS6 Chisa owner",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuchibavibes.straw.page",
+                "end": 23,
+                "expanded_url": "https://kuchibavibes.straw.page/",
+                "start": 0,
+                "url": "https://t.co/29Zdwh5al4"
+              }
+            ]
+          }
+        },
+        "id": "1922297317681401856",
+        "location": "he | 19",
+        "name": "Ima",
+        "pinned_tweet_id": "2060663946697167106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060116025505431556/9DxGcZ0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 806,
+          "like_count": 6709,
+          "listed_count": 12,
+          "media_count": 711,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/29Zdwh5al4",
+        "username": "kuchibavibes",
+        "verified": true
+      }
+    ]
+  }
+}

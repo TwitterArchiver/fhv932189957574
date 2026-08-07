@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060652235881935148",
+    "created_at": "2026-05-30T13:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060715112894456226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2050276668066111488",
+          "start": 0,
+          "username": "4x6xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060715112894456226",
+    "in_reply_to_user_id": "2050276668066111488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060652235881935148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x6xa 一定要在有好感度的人面前说，这是一句夸自己的话语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060652231909941248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjoSYCboAAFzKu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060652235881935148",
+        "created_at": "2026-05-30T13:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060715112894456226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2050276668066111488",
+              "start": 0,
+              "username": "4x6xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060715112894456226",
+        "in_reply_to_user_id": "2050276668066111488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060652235881935148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x6xa 一定要在有好感度的人面前说，这是一句夸自己的话语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060652231909941248"
+          ]
+        },
+        "author_id": "2050276668066111488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060652235881935148",
+        "created_at": "2026-05-30T09:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060652235881935148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DeIdd13fFo",
+              "end": 45,
+              "expanded_url": "https://x.com/4x6xa/status/2060652235881935148/photo/1",
+              "media_key": "3_2060652231909941248",
+              "start": 22,
+              "url": "https://t.co/DeIdd13fFo"
+            },
+            {
+              "display_url": "x.com/4x6xa/status/2…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/4x6xa/status/2060582939617038629",
+              "start": 46,
+              "url": "https://t.co/7tGgVqAZn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060652235881935148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 67517,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060582939617038629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何これ………\n元ネタとかあるんですか！！！ https://t.co/DeIdd13fFo https://t.co/7tGgVqAZn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 104,
+          "like_count": 4282,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1084
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T18:11:08.000Z",
+        "description": "06 ⌇英文学科2年⌇二外🇨🇳 ⌇三外🇩🇪 ⌇INFP",
+        "id": "2050276668066111488",
+        "location": "ゆっくり返信，フォローバックします～！",
+        "name": "浪たりー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 433,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 476
+        },
+        "username": "4x6xa",
+        "verified": false
+      }
+    ]
+  }
+}

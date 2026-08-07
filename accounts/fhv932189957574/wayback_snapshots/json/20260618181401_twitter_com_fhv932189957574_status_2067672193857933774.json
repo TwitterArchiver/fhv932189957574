@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067672185569935360"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067461231473295442",
+    "created_at": "2026-06-18T18:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067672193857933774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1323216034396999681",
+          "start": 0,
+          "username": "ZZSSNNi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LrKeAgZ1z",
+          "end": 32,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067672193857933774/photo/1",
+          "media_key": "3_2067672185569935360",
+          "start": 9,
+          "url": "https://t.co/0LrKeAgZ1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067672193857933774",
+    "in_reply_to_user_id": "1323216034396999681",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067461231473295442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZSSNNi https://t.co/0LrKeAgZ1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2067672185569935360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHY5dTaAAAMwSM.jpg",
+        "width": 1215
+      },
+      {
+        "duration_ms": 28305,
+        "height": 2192,
+        "media_key": "13_2067461063545958400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067461063545958400/img/PVNVLV0SArPPQQyc.jpg",
+        "public_metrics": {
+          "view_count": 162572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067461063545958400/vid/avc1/720x1308/qGsEWSP8-xuISTJ2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067461063545958400/vid/avc1/480x872/Updshwds0xDH45Xs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067461063545958400/vid/avc1/320x580/Ol3cOTPvyLJVzC5V.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067461063545958400/vid/avc1/1206x2192/Woao6l2An4JQhJUJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067461063545958400/pl/1LSg7bRG15k7zUkz.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067672185569935360"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067461231473295442",
+        "created_at": "2026-06-18T18:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067672193857933774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1323216034396999681",
+              "start": 0,
+              "username": "ZZSSNNi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LrKeAgZ1z",
+              "end": 32,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067672193857933774/photo/1",
+              "media_key": "3_2067672185569935360",
+              "start": 9,
+              "url": "https://t.co/0LrKeAgZ1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067672193857933774",
+        "in_reply_to_user_id": "1323216034396999681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067461231473295442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZSSNNi https://t.co/0LrKeAgZ1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067461063545958400"
+          ]
+        },
+        "author_id": "1323216034396999681",
+        "conversation_id": "2067461231473295442",
+        "created_at": "2026-06-18T04:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067461231473295442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/simMLqMRSj",
+              "end": 71,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2067461231473295442/video/1",
+              "media_key": "13_2067461063545958400",
+              "start": 48,
+              "url": "https://t.co/simMLqMRSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067461231473295442",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2056,
+          "impression_count": 509594,
+          "like_count": 17588,
+          "quote_count": 543,
+          "reply_count": 67,
+          "retweet_count": 5736
+        },
+        "reply_settings": "everyone",
+        "text": "세상에 이렇게 순한 고양이 처음봄ㅠㅠㅠ하악질도 못해서 솜방망이로 때리는거밖에 못해ㅠㅠ https://t.co/simMLqMRSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 211,
+          "like_count": 6954,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 1705
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-02T10:51:10.000Z",
+        "description": "역마살 버섯팔이피플🍄‍🟫중국에서 자영업(백수)🦢제태크 초보📈3n살 한국인여성🇰🇷\n좋아하는거 위주로 아무거나 올립니다\n유튭: https://t.co/iavVtNg9et",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mogoomogoo0508",
+                "end": 92,
+                "expanded_url": "https://youtube.com/@mogoomogoo0508",
+                "start": 69,
+                "url": "https://t.co/iavVtNg9et"
+              }
+            ]
+          }
+        },
+        "id": "1323216034396999681",
+        "location": "중국 어딘가",
+        "name": "모구모구🍄",
+        "pinned_tweet_id": "2067461231473295442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642158239705092096/toqgIa3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6029,
+          "following_count": 1369,
+          "like_count": 50862,
+          "listed_count": 23,
+          "media_count": 4756,
+          "tweet_count": 14881
+        },
+        "username": "ZZSSNNi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2079419042100920567",
+    "created_at": "2026-07-21T04:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079419103719395365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tiredowl_12/st…",
+          "end": 23,
+          "expanded_url": "https://x.com/tiredowl_12/status/2079249387717554223?s=46",
+          "start": 0,
+          "url": "https://t.co/cpRJi1CuuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079419103719395365",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079249387717554223",
+        "type": "quoted"
+      },
+      {
+        "id": "2079419042100920567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/cpRJi1CuuF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10145,
+        "height": 900,
+        "media_key": "13_2079249361469591553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079249361469591553/img/Qj4H4CSBcJ5qI3yH.jpg",
+        "public_metrics": {
+          "view_count": 13225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079249361469591553/vid/avc1/320x400/IW0EQXgly6prU5PC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079249361469591553/vid/avc1/480x600/vCCkOEyaikPZtLI_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079249361469591553/vid/avc1/720x900/eRiONvBSDsxzcmtg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079249361469591553/pl/-8RGQSfx7isYjqTY.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2079419042100920567",
+        "created_at": "2026-07-21T04:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079419103719395365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tiredowl_12/st…",
+              "end": 23,
+              "expanded_url": "https://x.com/tiredowl_12/status/2079249387717554223?s=46",
+              "start": 0,
+              "url": "https://t.co/cpRJi1CuuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079419103719395365",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079249387717554223",
+            "type": "quoted"
+          },
+          {
+            "id": "2079419042100920567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cpRJi1CuuF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079249361469591553"
+          ]
+        },
+        "author_id": "2058448404645318657",
+        "conversation_id": "2079249387717554223",
+        "created_at": "2026-07-20T16:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079249387717554223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGBfbECTjF",
+              "end": 37,
+              "expanded_url": "https://x.com/tiredowl_12/status/2079249387717554223/video/1",
+              "media_key": "13_2079249361469591553",
+              "start": 14,
+              "url": "https://t.co/fGBfbECTjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079249387717554223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 32909,
+          "like_count": 898,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "He's so slow😭 https://t.co/fGBfbECTjF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2079419042100920567",
+        "created_at": "2026-07-21T04:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079419042100920567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079419042100920567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 473,
+          "like_count": 12225,
+          "listed_count": 0,
+          "media_count": 1083,
+          "tweet_count": 3065
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T07:23:00.000Z",
+        "description": "cute birds and animals memes",
+        "id": "2058448404645318657",
+        "name": "tired owl",
+        "pinned_tweet_id": "2078399705785213387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058466100543922176/kBBfangc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 220,
+          "like_count": 935,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "tiredowl_12",
+        "verified": false
+      }
+    ]
+  }
+}

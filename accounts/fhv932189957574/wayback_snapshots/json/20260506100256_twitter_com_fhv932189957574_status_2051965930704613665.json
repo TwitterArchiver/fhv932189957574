@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2051934747371401604",
+    "created_at": "2026-05-06T10:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051965930704613665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "962502216",
+          "start": 0,
+          "username": "ChrisSlacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051965930704613665",
+    "in_reply_to_user_id": "962502216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051934747371401604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrisSlacker 所以苹果要关掉那几个，好像大多都是安卓和三星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2051934747371401604",
+        "created_at": "2026-05-06T10:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051965930704613665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "962502216",
+              "start": 0,
+              "username": "ChrisSlacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051965930704613665",
+        "in_reply_to_user_id": "962502216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051934747371401604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrisSlacker 所以苹果要关掉那几个，好像大多都是安卓和三星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962502216",
+        "conversation_id": "2051934747371401604",
+        "created_at": "2026-05-06T07:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051934747371401604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051934747371401604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发：你的手机每4.5分钟向谷歌发送一次数据。\n\n屏幕关闭。手机未触碰。\n\n都柏林圣三一学院在同行评审研究中证实了这一点。\n\n以下是12个关闭它的设置："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 275
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T14:38:13.000Z",
+        "description": "科技圈资深韭菜🌿 ｜ 科技新品试毒☠️专员\n\n分享科技资讯🗞️、互联网工具🧰\n\n提升📈生产力，降低钱包💰厚度",
+        "id": "962502216",
+        "name": "科技混子Chris",
+        "pinned_tweet_id": "2032641622085906577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933402794918359079/joMW_Hnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28327,
+          "following_count": 42,
+          "like_count": 12641,
+          "listed_count": 140,
+          "media_count": 2333,
+          "tweet_count": 3539
+        },
+        "username": "ChrisSlacker",
+        "verified": true
+      }
+    ]
+  }
+}

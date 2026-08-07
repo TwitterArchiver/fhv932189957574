@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2078484617699725705",
+    "created_at": "2026-07-18T14:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078484617699725705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jie1735869/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jie1735869/status/2078460528524206252",
+          "start": 14,
+          "url": "https://t.co/5Bzj2FcZ4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078484617699725705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078460528524206252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "齁哦哦哦齁噢噢噢帮人转发😋 https://t.co/5Bzj2FcZ4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7072,
+        "height": 1278,
+        "media_key": "7_2078460509880512512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078460509880512512/pu/img/rzPhNgNpgQBh78Oy.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078460509880512512/pu/vid/avc1/320x714/IdmVdwEJ-6Hf3XeV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078460509880512512/pu/vid/avc1/480x1072/_3yQQplytGOd2cNf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078460509880512512/pu/vid/avc1/572x1278/qUyY7ppGvlDTrXNc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078460509880512512/pu/pl/Osaxa-8Ki9HSTqxe.m3u8?tag=12"
+          }
+        ],
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2078484617699725705",
+        "created_at": "2026-07-18T14:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078484617699725705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jie1735869/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jie1735869/status/2078460528524206252",
+              "start": 14,
+              "url": "https://t.co/5Bzj2FcZ4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078484617699725705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078460528524206252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "齁哦哦哦齁噢噢噢帮人转发😋 https://t.co/5Bzj2FcZ4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078460509880512512"
+          ]
+        },
+        "author_id": "1865070685535768579",
+        "conversation_id": "2078460528524206252",
+        "created_at": "2026-07-18T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078460528524206252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcoVM6VKPA",
+              "end": 30,
+              "expanded_url": "https://x.com/jie1735869/status/2078460528524206252/video/1",
+              "media_key": "7_2078460509880512512",
+              "start": 7,
+              "url": "https://t.co/bcoVM6VKPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078460528524206252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有原视频 https://t.co/bcoVM6VKPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078098147067457857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 471,
+          "like_count": 11790,
+          "listed_count": 0,
+          "media_count": 1070,
+          "tweet_count": 3001
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T16:28:14.000Z",
+        "description": "",
+        "id": "1865070685535768579",
+        "location": "Nakano-ku, Tokyo",
+        "name": "冷たい.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075324157567565824/ECzEskzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "jie1735869",
+        "verified": false
+      }
+    ]
+  }
+}

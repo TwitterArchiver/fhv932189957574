@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      }
+    ],
+    "conversation_id": "2051958643197890904",
+    "created_at": "2026-05-06T10:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051971815015326176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        },
+        {
+          "end": 21,
+          "id": "145185000",
+          "start": 12,
+          "username": "deepseek"
+        },
+        {
+          "end": 30,
+          "id": "1598184256626298880",
+          "start": 22,
+          "username": "ChatGPT"
+        },
+        {
+          "end": 38,
+          "id": "2815661158",
+          "start": 31,
+          "username": "Gemini"
+        },
+        {
+          "end": 46,
+          "id": "84107004",
+          "start": 39,
+          "username": "Claude"
+        },
+        {
+          "end": 52,
+          "id": "1720665183188922368",
+          "start": 47,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051971815015326176",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051958643197890904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 @deepseek @ChatGPT @Gemini @Claude @grok 👍"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ChatGPT].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ChatGPT",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ChatGPT"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          }
+        ],
+        "conversation_id": "2051958643197890904",
+        "created_at": "2026-05-06T10:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051971815015326176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            },
+            {
+              "end": 21,
+              "id": "145185000",
+              "start": 12,
+              "username": "deepseek"
+            },
+            {
+              "end": 30,
+              "id": "1598184256626298880",
+              "start": 22,
+              "username": "ChatGPT"
+            },
+            {
+              "end": 38,
+              "id": "2815661158",
+              "start": 31,
+              "username": "Gemini"
+            },
+            {
+              "end": 46,
+              "id": "84107004",
+              "start": 39,
+              "username": "Claude"
+            },
+            {
+              "end": 52,
+              "id": "1720665183188922368",
+              "start": 47,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051971815015326176",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051958643197890904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 @deepseek @ChatGPT @Gemini @Claude @grok 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          }
+        ],
+        "conversation_id": "2051958643197890904",
+        "created_at": "2026-05-06T09:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051958643197890904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "145185000",
+              "start": 24,
+              "username": "deepseek"
+            },
+            {
+              "end": 46,
+              "id": "1598184256626298880",
+              "start": 38,
+              "username": "ChatGPT"
+            },
+            {
+              "end": 58,
+              "id": "2815661158",
+              "start": 51,
+              "username": "Gemini"
+            },
+            {
+              "end": 70,
+              "id": "84107004",
+              "start": 63,
+              "username": "Claude"
+            },
+            {
+              "end": 80,
+              "id": "1720665183188922368",
+              "start": 75,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051958643197890904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 218,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@豆包，插死我\n@千问，插死我\n@元宝，插死我\n@deepseek，插死我\n@ChatGPT，插死我\n@Gemini，插死我\n@Claude，插死我\n@grok，插死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 281
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9429,
+          "following_count": 5802,
+          "like_count": 52285,
+          "listed_count": 14,
+          "media_count": 921,
+          "tweet_count": 7375
+        },
+        "username": "kxk1388574",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-18T09:42:32.000Z",
+        "description": "",
+        "id": "145185000",
+        "name": "deepseek",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "deepseek",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-08T15:15:57.000Z",
+        "description": "Monitor the situation on Gemini",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Gemini.com/X",
+                "end": 23,
+                "expanded_url": "http://Gemini.com/X",
+                "start": 0,
+                "url": "https://t.co/8ayZnnxQz2"
+              }
+            ]
+          }
+        },
+        "id": "2815661158",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927424793436942336/W9dVrsPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623618,
+          "following_count": 1647,
+          "like_count": 46937,
+          "listed_count": 4483,
+          "media_count": 3020,
+          "tweet_count": 17121
+        },
+        "url": "https://t.co/8ayZnnxQz2",
+        "username": "Gemini",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-21T16:05:10.000Z",
+        "description": "Entrepreneur, technologies, #startups, #economy Founder & CEO of @alpisparis Alpis Translation and Interpreting. Survivor of car crash. Life enthusiast !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 28,
+                "tag": "startups"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "economy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "alpisparis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/claude",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/claude",
+                "start": 0,
+                "url": "https://t.co/p8lnGz5kTd"
+              }
+            ]
+          }
+        },
+        "id": "84107004",
+        "location": "Paris, France",
+        "name": "Claude R Perrin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/428538614134231041/FwXKzqt3_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 605,
+          "like_count": 2170,
+          "listed_count": 77,
+          "media_count": 298,
+          "tweet_count": 7580
+        },
+        "url": "https://t.co/p8lnGz5kTd",
+        "username": "Claude",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8699683,
+          "following_count": 4,
+          "like_count": 91,
+          "listed_count": 6793,
+          "media_count": 8897930,
+          "tweet_count": 124856453
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

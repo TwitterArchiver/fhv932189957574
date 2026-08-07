@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061746004492423170",
+        "3_2061746004488253440"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2061746026097397801",
+    "created_at": "2026-06-02T09:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061746026097397801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYjOseH2fY",
+          "end": 25,
+          "expanded_url": "https://x.com/fhv932189957574/status/2061746026097397801/photo/1",
+          "media_key": "3_2061746004492423170",
+          "start": 2,
+          "url": "https://t.co/yYjOseH2fY"
+        },
+        {
+          "display_url": "pic.x.com/yYjOseH2fY",
+          "end": 25,
+          "expanded_url": "https://x.com/fhv932189957574/status/2061746026097397801/photo/1",
+          "media_key": "3_2061746004488253440",
+          "start": 2,
+          "url": "https://t.co/yYjOseH2fY"
+        },
+        {
+          "display_url": "x.com/oe_madu/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/oe_madu/status/2061460972368228789",
+          "start": 26,
+          "url": "https://t.co/OflsiqE8n6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061746026097397801",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061460972368228789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！ https://t.co/yYjOseH2fY https://t.co/OflsiqE8n6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2061746004492423170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzLEUbaEAIPT_9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061746004488253440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzLEUaacAAgGal.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061746004492423170",
+            "3_2061746004488253440"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061746026097397801",
+        "created_at": "2026-06-02T09:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061746026097397801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYjOseH2fY",
+              "end": 25,
+              "expanded_url": "https://x.com/fhv932189957574/status/2061746026097397801/photo/1",
+              "media_key": "3_2061746004492423170",
+              "start": 2,
+              "url": "https://t.co/yYjOseH2fY"
+            },
+            {
+              "display_url": "pic.x.com/yYjOseH2fY",
+              "end": 25,
+              "expanded_url": "https://x.com/fhv932189957574/status/2061746026097397801/photo/1",
+              "media_key": "3_2061746004488253440",
+              "start": 2,
+              "url": "https://t.co/yYjOseH2fY"
+            },
+            {
+              "display_url": "x.com/oe_madu/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/oe_madu/status/2061460972368228789",
+              "start": 26,
+              "url": "https://t.co/OflsiqE8n6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061746026097397801",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061460972368228789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！ https://t.co/yYjOseH2fY https://t.co/OflsiqE8n6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561039797489131521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-01T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061460972368228789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061460972368228789",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 178931,
+          "like_count": 4131,
+          "quote_count": 143,
+          "reply_count": 222,
+          "retweet_count": 871
+        },
+        "reply_settings": "everyone",
+        "text": "as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 110,
+          "like_count": 4904,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 1172
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-20T17:18:50.000Z",
+        "description": "detestable, but these hearts adore • história | UFSC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/madu.pereira",
+                "end": 23,
+                "expanded_url": "http://instagram.com/madu.pereira",
+                "start": 0,
+                "url": "https://t.co/MpypJj9VIY"
+              }
+            ]
+          }
+        },
+        "id": "1561039797489131521",
+        "location": "ele/elu/ela",
+        "name": "madu ⛥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055111732285112321/QmyZAvep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 307,
+          "like_count": 29388,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/MpypJj9VIY",
+        "username": "oe_madu",
+        "verified": false
+      }
+    ]
+  }
+}

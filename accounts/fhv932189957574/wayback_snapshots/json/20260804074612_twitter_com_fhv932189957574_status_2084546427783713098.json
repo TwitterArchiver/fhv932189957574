@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084546423224410112"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2084386267018707305",
+    "created_at": "2026-08-04T07:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084546427783713098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1500303802041126913",
+          "start": 0,
+          "username": "BarncordS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e9oespgbej",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2084546427783713098/photo/1",
+          "media_key": "3_2084546423224410112",
+          "start": 11,
+          "url": "https://t.co/e9oespgbej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084546427783713098",
+    "in_reply_to_user_id": "1500303802041126913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084386267018707305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BarncordS https://t.co/e9oespgbej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2084546423224410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3L7XIaIAAUDmR.jpg",
+        "width": 640
+      },
+      {
+        "height": 1846,
+        "media_key": "3_2084386253496266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO06QQZaMAA1QS8.jpg",
+        "width": 852
+      },
+      {
+        "height": 1870,
+        "media_key": "3_2084386258214862848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO06Qh-aQAAfiGk.jpg",
+        "width": 841
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2084386263025729536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO06Qz5aQAAZjJE.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084546423224410112"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2084386267018707305",
+        "created_at": "2026-08-04T07:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084546427783713098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1500303802041126913",
+              "start": 0,
+              "username": "BarncordS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9oespgbej",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2084546427783713098/photo/1",
+              "media_key": "3_2084546423224410112",
+              "start": 11,
+              "url": "https://t.co/e9oespgbej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084546427783713098",
+        "in_reply_to_user_id": "1500303802041126913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084386267018707305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BarncordS https://t.co/e9oespgbej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084386253496266752",
+            "3_2084386258214862848",
+            "3_2084386263025729536"
+          ]
+        },
+        "author_id": "1500303802041126913",
+        "conversation_id": "2084386267018707305",
+        "created_at": "2026-08-03T21:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084386267018707305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJSOhqpqHb",
+              "end": 28,
+              "expanded_url": "https://x.com/BarncordS/status/2084386267018707305/photo/1",
+              "media_key": "3_2084386253496266752",
+              "start": 5,
+              "url": "https://t.co/VJSOhqpqHb"
+            },
+            {
+              "display_url": "pic.x.com/VJSOhqpqHb",
+              "end": 28,
+              "expanded_url": "https://x.com/BarncordS/status/2084386267018707305/photo/1",
+              "media_key": "3_2084386258214862848",
+              "start": 5,
+              "url": "https://t.co/VJSOhqpqHb"
+            },
+            {
+              "display_url": "pic.x.com/VJSOhqpqHb",
+              "end": 28,
+              "expanded_url": "https://x.com/BarncordS/status/2084386267018707305/photo/1",
+              "media_key": "3_2084386263025729536",
+              "start": 5,
+              "url": "https://t.co/VJSOhqpqHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084386267018707305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 24521,
+          "like_count": 1985,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "ビオラ② https://t.co/VJSOhqpqHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14388,
+          "listed_count": 0,
+          "media_count": 1186,
+          "tweet_count": 3390
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-06T02:54:55.000Z",
+        "description": "都内で留学中の女子大生です🌸\nブルアカ（Lv80↑、ユウカ推し）とプロセカ（25時、ナイトコードで。推し）をメインに遊んでいます。\n最近はメイクとファッションを勉強中💄\n無言フォロー失礼します。ブルアカ勢の方や趣味の合う方と仲良くなりたいです！\n​#ブルアカ勢と繋がりたい #プロセカ好きと繋がりたい #Twi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 124,
+                "tag": "ブルアカ勢と繋がりたい"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "tag": "プロセカ好きと繋がりたい"
+              },
+              {
+                "end": 155,
+                "start": 151,
+                "tag": "Twi"
+              }
+            ]
+          }
+        },
+        "id": "1500303802041126913",
+        "name": "是愛華亲",
+        "pinned_tweet_id": "2073967590582718815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027988342902820873/qct2XY_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4639,
+          "following_count": 784,
+          "like_count": 1629,
+          "listed_count": 18,
+          "media_count": 100,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "BarncordS",
+        "verified": true
+      }
+    ]
+  }
+}

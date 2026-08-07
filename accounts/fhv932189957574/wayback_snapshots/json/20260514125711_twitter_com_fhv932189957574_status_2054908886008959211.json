@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2054774768575156379",
+    "created_at": "2026-05-14T12:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054908886008959211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "569189962",
+          "start": 0,
+          "username": "Techbruneth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054908886008959211",
+    "in_reply_to_user_id": "569189962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054774768575156379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Techbruneth 或许他不喜欢这样😄"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45232,
+        "height": 1280,
+        "media_key": "7_2054774705513717760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054774705513717760/pu/img/lVzlx8mgl7OKlUAv.jpg",
+        "public_metrics": {
+          "view_count": 2381
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054774705513717760/pu/vid/avc1/320x568/VIZ3qu3YwC35K8V8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054774705513717760/pu/vid/avc1/480x852/OVU-nNQ6FdeDzSxm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054774705513717760/pu/vid/avc1/720x1280/MVdgR_7MUmn1XTJo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054774705513717760/pu/pl/4oNajurajCaOfcek.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2054774768575156379",
+        "created_at": "2026-05-14T12:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054908886008959211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "569189962",
+              "start": 0,
+              "username": "Techbruneth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054908886008959211",
+        "in_reply_to_user_id": "569189962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054774768575156379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Techbruneth 或许他不喜欢这样😄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054774705513717760"
+          ]
+        },
+        "author_id": "569189962",
+        "conversation_id": "2054774768575156379",
+        "created_at": "2026-05-14T04:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054774768575156379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URF7yHatCT",
+              "end": 40,
+              "expanded_url": "https://x.com/Techbruneth/status/2054774768575156379/video/1",
+              "media_key": "7_2054774705513717760",
+              "start": 17,
+              "url": "https://t.co/URF7yHatCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054774768575156379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6138,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "每个男人都应该把儿子培养成这样。 https://t.co/URF7yHatCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不健不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 627
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-02T15:25:03.000Z",
+        "description": "跨领域知识分享者🎓 \n\n英语学习📝｜金融思维🧠｜科技前沿🤖\n\n历史趣事📚｜冷知识｜深度思考💭\n\n让好奇心永远在线💪🏻～",
+        "id": "569189962",
+        "name": "杂学大师✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933097007503314944/1nqKDcY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32837,
+          "following_count": 69,
+          "like_count": 12986,
+          "listed_count": 149,
+          "media_count": 2154,
+          "tweet_count": 3473
+        },
+        "username": "Techbruneth",
+        "verified": true
+      }
+    ]
+  }
+}

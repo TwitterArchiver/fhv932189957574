@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2082851722863448554",
+    "created_at": "2026-07-30T17:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082877212290961729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067535566535815168",
+          "start": 0,
+          "username": "yumumu_msknb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082877212290961729",
+    "in_reply_to_user_id": "2067535566535815168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082851722863448554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumumu_msknb 👍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082851722863448554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082851722863448554",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082851722863448554"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2082851722863448554",
+        "created_at": "2026-07-30T17:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082877212290961729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067535566535815168",
+              "start": 0,
+              "username": "yumumu_msknb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082877212290961729",
+        "in_reply_to_user_id": "2067535566535815168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082851722863448554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumumu_msknb 👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 477,
+          "like_count": 13876,
+          "listed_count": 0,
+          "media_count": 1166,
+          "tweet_count": 3328
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T09:11:58.000Z",
+        "description": "我很坏不要和我玩\n兄弟们我是霖\n主人💗@woaiuai0721\n💊@AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "AminoXx_killer"
+              }
+            ]
+          }
+        },
+        "id": "2067535566535815168",
+        "name": "这里只有小伊",
+        "pinned_tweet_id": "2075658366651613615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067536430273048576/Utm49WY9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 84,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "yumumu_msknb",
+        "verified": false
+      }
+    ]
+  }
+}

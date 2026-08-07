@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405259614053036032",
+          "name": "Dating sims"
+        }
+      }
+    ],
+    "conversation_id": "2072374071283925417",
+    "created_at": "2026-07-01T17:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072374071283925417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aelen_altria/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aelen_altria/status/2072287334486212801",
+          "start": 4,
+          "url": "https://t.co/QDZ6lQyFk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072374071283925417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072287334486212801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爽爽爽 https://t.co/QDZ6lQyFk6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2072374071283925417",
+        "created_at": "2026-07-01T17:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072374071283925417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aelen_altria/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aelen_altria/status/2072287334486212801",
+              "start": 4,
+              "url": "https://t.co/QDZ6lQyFk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072374071283925417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072287334486212801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爽爽爽 https://t.co/QDZ6lQyFk6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "261228117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2072287334486212801",
+        "created_at": "2026-07-01T11:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072287334486212801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072287334486212801",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 68449,
+          "like_count": 3853,
+          "quote_count": 31,
+          "reply_count": 44,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "Rumors are that now CCP is going to use LADS shitting its pants as an excuse to ban otome games in general, imagine the game gets canceled and girlies get so angry they topple the CCP and we'll be talking how Valko lead to a regime change or smth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8884,
+          "listed_count": 0,
+          "media_count": 872,
+          "tweet_count": 2290
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-05T14:31:58.000Z",
+        "description": "Russian girl in Japan /\nFandom gushing twitter /\nРусский, English, 日本語 /\nArknights, Fate, Higurashi, Umineko and Ciconia / my adventures in Japan: @jul_aelen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "jul_aelen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aelen_altria",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aelen_altria",
+                "start": 0,
+                "url": "https://t.co/W3kbexfmI8"
+              }
+            ]
+          }
+        },
+        "id": "261228117",
+        "location": "Tokyo-to, Japan",
+        "name": "Aelen",
+        "pinned_tweet_id": "2043396742465671611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666974677804388352/7WKllkRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1213,
+          "like_count": 199904,
+          "listed_count": 29,
+          "media_count": 19868,
+          "tweet_count": 298968
+        },
+        "url": "https://t.co/W3kbexfmI8",
+        "username": "aelen_altria",
+        "verified": false
+      }
+    ]
+  }
+}

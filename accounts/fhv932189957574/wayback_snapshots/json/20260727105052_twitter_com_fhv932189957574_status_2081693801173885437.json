@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1467613975323955201",
+          "name": "Asante Kotoko"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1467613975323955201",
+          "name": "Asante Kotoko"
+        }
+      }
+    ],
+    "conversation_id": "2081693801173885437",
+    "created_at": "2026-07-27T10:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081693801173885437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235807095888285698",
+          "start": 3,
+          "username": "udngame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081693801173885437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081637617809129779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @udngame: 【澤澤砂羽！？太誇張了吧】\n​\n​俗稱「柚子社」的日本遊戲公司 YUZU SOFT 宣布旗下和風戀愛作品《千戀＊萬花》動畫化，預定 2027 年播出。\n​\n官方更加碼宣布，\n四位女主角的聲優皆與原作遊戲的名義相同，主題曲也同樣找來 KOTOKO 獻聲，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2081637589807931392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON2W-OaIAAjj08.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          }
+        ],
+        "conversation_id": "2081693801173885437",
+        "created_at": "2026-07-27T10:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081693801173885437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235807095888285698",
+              "start": 3,
+              "username": "udngame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081693801173885437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081637617809129779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @udngame: 【澤澤砂羽！？太誇張了吧】\n​\n​俗稱「柚子社」的日本遊戲公司 YUZU SOFT 宣布旗下和風戀愛作品《千戀＊萬花》動畫化，預定 2027 年播出。\n​\n官方更加碼宣布，\n四位女主角的聲優皆與原作遊戲的名義相同，主題曲也同樣找來 KOTOKO 獻聲，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081637589807931392"
+          ]
+        },
+        "author_id": "1235807095888285698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          }
+        ],
+        "conversation_id": "2081637617809129779",
+        "created_at": "2026-07-27T07:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637617809129779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bd8vxCzQ8x",
+              "end": 161,
+              "expanded_url": "https://x.com/udngame/status/2081637617809129779/photo/1",
+              "media_key": "3_2081637589807931392",
+              "start": 138,
+              "url": "https://t.co/bd8vxCzQ8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637617809129779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 28968,
+          "like_count": 757,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "【澤澤砂羽！？太誇張了吧】\n​\n​俗稱「柚子社」的日本遊戲公司 YUZU SOFT 宣布旗下和風戀愛作品《千戀＊萬花》動畫化，預定 2027 年播出。\n​\n官方更加碼宣布，\n四位女主角的聲優皆與原作遊戲的名義相同，主題曲也同樣找來 KOTOKO 獻聲，\n一起回味最初的感動～ https://t.co/bd8vxCzQ8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 474,
+          "like_count": 13232,
+          "listed_count": 0,
+          "media_count": 1149,
+          "tweet_count": 3236
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-06T05:59:14.000Z",
+        "description": "最夯的ACG新聞，最廣的深度評析，偶爾吸點迷因或替自己加點「油」(？)，快來udn遊戲角落，找尋自己的角落吧！ 投稿或合作洽詢： udngame@udngroup.com.tw YouTube 頻道： https://t.co/79EOaloavm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@udngame",
+                "end": 124,
+                "expanded_url": "https://www.youtube.com/@udngame",
+                "start": 101,
+                "url": "https://t.co/79EOaloavm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "game.udn.com/game/",
+                "end": 23,
+                "expanded_url": "https://game.udn.com/game/",
+                "start": 0,
+                "url": "https://t.co/xpo5BOYPcd"
+              }
+            ]
+          }
+        },
+        "id": "1235807095888285698",
+        "location": "新北市汐止區",
+        "name": "遊戲角落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996266424315367424/Qj5qDiT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10465,
+          "following_count": 256,
+          "like_count": 1361,
+          "listed_count": 20,
+          "media_count": 707,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/xpo5BOYPcd",
+        "username": "udngame",
+        "verified": true
+      }
+    ]
+  }
+}

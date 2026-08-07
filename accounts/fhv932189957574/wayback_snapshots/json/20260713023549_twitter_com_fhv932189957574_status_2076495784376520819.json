@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076495777388716032"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076423476362309799",
+    "created_at": "2026-07-13T02:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076495784376520819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 23,
+          "id": "1775548468632944640",
+          "start": 14,
+          "username": "Colafat_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHbcQY3m3l",
+          "end": 57,
+          "expanded_url": "https://x.com/fhv932189957574/status/2076495784376520819/photo/1",
+          "media_key": "3_2076495777388716032",
+          "start": 34,
+          "url": "https://t.co/HHbcQY3m3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076495784376520819",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076423476362309799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ @Colafat_ 没招了，急急盘哭了 https://t.co/HHbcQY3m3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2076495777388716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEx6GTaYAAU4sC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2076423448637902848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDwIAtakAAx1TF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076495777388716032"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076423476362309799",
+        "created_at": "2026-07-13T02:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076495784376520819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 23,
+              "id": "1775548468632944640",
+              "start": 14,
+              "username": "Colafat_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHbcQY3m3l",
+              "end": 57,
+              "expanded_url": "https://x.com/fhv932189957574/status/2076495784376520819/photo/1",
+              "media_key": "3_2076495777388716032",
+              "start": 34,
+              "url": "https://t.co/HHbcQY3m3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076495784376520819",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076423476362309799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ @Colafat_ 没招了，急急盘哭了 https://t.co/HHbcQY3m3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076423448637902848"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2076423476362309799",
+        "created_at": "2026-07-12T21:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076423476362309799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775548468632944640",
+              "start": 0,
+              "username": "Colafat_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNahfTIkvS",
+              "end": 39,
+              "expanded_url": "https://x.com/huahuojiang_/status/2076423476362309799/photo/1",
+              "media_key": "3_2076423448637902848",
+              "start": 16,
+              "url": "https://t.co/uNahfTIkvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076423476362309799",
+        "in_reply_to_user_id": "1775548468632944640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Colafat_ 永遠懷念🤡 https://t.co/uNahfTIkvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 400,
+          "like_count": 10565,
+          "listed_count": 0,
+          "media_count": 1032,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2074840481842987133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7128,
+          "following_count": 3576,
+          "like_count": 103520,
+          "listed_count": 16,
+          "media_count": 8909,
+          "tweet_count": 100636
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T15:38:44.000Z",
+        "description": "我支持马克思列宁主义 邓小平理论 毛泽东思想 习近平新时代中国特色社会主义思想",
+        "id": "1775548468632944640",
+        "name": "colafat",
+        "pinned_tweet_id": "1840069905951142149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813202291627044864/tOxSLndq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 0,
+          "like_count": 651,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "Colafat_",
+        "verified": false
+      }
+    ]
+  }
+}

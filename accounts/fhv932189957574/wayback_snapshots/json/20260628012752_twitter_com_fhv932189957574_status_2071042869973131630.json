@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071042869973131630",
+    "created_at": "2026-06-28T01:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071042869973131630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kimininastranh…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kimininastranha/status/2070680342902587627",
+          "start": 6,
+          "url": "https://t.co/5p5onwN6F1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071042869973131630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070680342902587627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对的对的 https://t.co/5p5onwN6F1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071042869973131630",
+        "created_at": "2026-06-28T01:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071042869973131630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kimininastranh…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kimininastranha/status/2070680342902587627",
+              "start": 6,
+              "url": "https://t.co/5p5onwN6F1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071042869973131630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070680342902587627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对的对的 https://t.co/5p5onwN6F1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1173774078525808640",
+        "conversation_id": "2070680342902587627",
+        "created_at": "2026-06-27T01:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070680342902587627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070680342902587627",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2391,
+          "impression_count": 1482800,
+          "like_count": 34496,
+          "quote_count": 230,
+          "reply_count": 243,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "Uma vez eu me relacionei com um cara que nunca reclamava de nada do que eu fazia, não demonstrava ciúmes e não me podava nunca\n\neu, burra, via como desinteresse\n\naí ele me disse que queria me amar do jeito que eu era, não do jeito que ele queria que eu fosse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 291,
+          "like_count": 8583,
+          "listed_count": 0,
+          "media_count": 830,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-17T01:42:14.000Z",
+        "description": "vai virar, vai vingar, vai melhorar",
+        "id": "1173774078525808640",
+        "name": "gabi ✩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994939242867228673/oKflEV9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 621,
+          "like_count": 75330,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 23446
+        },
+        "url": "",
+        "username": "kimininastranha",
+        "verified": false
+      }
+    ]
+  }
+}

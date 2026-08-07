@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071044215044526236",
+    "created_at": "2026-06-28T10:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071173269634662854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071173269634662854",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071044215044526236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 我管你妈是不是租的，也得赔，我停不停车库关你屁事"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36433,
+        "height": 1596,
+        "media_key": "13_2071044123700953088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071044123700953088/img/U9KxDM4XScul-85S.jpg",
+        "public_metrics": {
+          "view_count": 106358
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071044123700953088/pl/HPb76R9UXE20b5q3.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071044123700953088/vid/avc1/320x574/q7Hkx1DC6Z5D1yQ_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071044123700953088/vid/avc1/888x1596/J1LEnXiYemxoqOAv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071044123700953088/vid/avc1/480x862/dfShQqj2uaW8QBN_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071044123700953088/vid/avc1/720x1294/2mPCFArLl0iCP_Li.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071044215044526236",
+        "created_at": "2026-06-28T10:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071173269634662854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071173269634662854",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071044215044526236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 我管你妈是不是租的，也得赔，我停不停车库关你屁事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071044123700953088"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2071044215044526236",
+        "created_at": "2026-06-28T01:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071044215044526236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g02pzVoakw",
+              "end": 109,
+              "expanded_url": "https://x.com/cuichenghao/status/2071044215044526236/video/1",
+              "media_key": "13_2071044123700953088",
+              "start": 86,
+              "url": "https://t.co/g02pzVoakw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071044215044526236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 228277,
+          "like_count": 331,
+          "quote_count": 4,
+          "reply_count": 183,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "近日有内地车主称，其法拉利跑车被一群儿童爬上去，造成漆面大量划伤，事发已经整整一个月，与孩子家长的索赔事宜陷入困境。其中一个家长称，那么贵的车为什么不停车库？是租来的吧？ https://t.co/g02pzVoakw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 313,
+          "like_count": 8715,
+          "listed_count": 0,
+          "media_count": 841,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111655,
+          "following_count": 764,
+          "like_count": 8823,
+          "listed_count": 354,
+          "media_count": 5106,
+          "tweet_count": 5361
+        },
+        "url": "",
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

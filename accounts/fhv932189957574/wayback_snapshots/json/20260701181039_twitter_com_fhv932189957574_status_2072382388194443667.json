@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072382388194443667",
+    "created_at": "2026-07-01T18:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072382388194443667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xaivhi/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xaivhi/status/2072314937855352881",
+          "start": 2,
+          "url": "https://t.co/eDykAMAOdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072382388194443667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072314937855352881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷 https://t.co/eDykAMAOdC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072382388194443667",
+        "created_at": "2026-07-01T18:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072382388194443667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xaivhi/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xaivhi/status/2072314937855352881",
+              "start": 2,
+              "url": "https://t.co/eDykAMAOdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072382388194443667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072314937855352881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷 https://t.co/eDykAMAOdC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903154934046244864",
+        "conversation_id": "2072314937855352881",
+        "created_at": "2026-07-01T13:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072314937855352881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072314937855352881",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5784,
+          "like_count": 886,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "Guys please don't interact with the cn users leaving nasty posts here. They're trolls trying to distract us because they know we're so close to being heard ‼️ Don't give up, we have a chance and we will keep fighting ‼️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-21T18:41:18.000Z",
+        "description": "Quitting lads",
+        "id": "1903154934046244864",
+        "location": "29 • She/Her ໒꒱",
+        "name": "Angel 🍎🐦‍⬛🐺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059669424320479232/5u1DA--g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 657,
+          "like_count": 15199,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3805
+        },
+        "url": "",
+        "username": "Xaivhi",
+        "verified": false
+      }
+    ]
+  }
+}

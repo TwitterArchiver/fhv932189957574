@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081754102955208704",
+        "3_2081754102938349568"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081471066959204720",
+    "created_at": "2026-07-27T14:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081754107296313353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrA2aByluZ",
+          "end": 43,
+          "expanded_url": "https://x.com/fhv932189957574/status/2081754107296313353/photo/1",
+          "media_key": "3_2081754102955208704",
+          "start": 20,
+          "url": "https://t.co/xrA2aByluZ"
+        },
+        {
+          "display_url": "pic.x.com/xrA2aByluZ",
+          "end": 43,
+          "expanded_url": "https://x.com/fhv932189957574/status/2081754107296313353/photo/1",
+          "media_key": "3_2081754102938349568",
+          "start": 20,
+          "url": "https://t.co/xrA2aByluZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081754107296313353",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081471066959204720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 还有两张 https://t.co/xrA2aByluZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2081754102955208704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPgU7hbcAAHVRy.jpg",
+        "width": 512
+      },
+      {
+        "height": 544,
+        "media_key": "3_2081754102938349568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPgU7daMAA-9ug.jpg",
+        "width": 510
+      },
+      {
+        "height": 508,
+        "media_key": "3_2081471059161952256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLe5nOasAAF4uw.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081754102955208704",
+            "3_2081754102938349568"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081471066959204720",
+        "created_at": "2026-07-27T14:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081754107296313353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrA2aByluZ",
+              "end": 43,
+              "expanded_url": "https://x.com/fhv932189957574/status/2081754107296313353/photo/1",
+              "media_key": "3_2081754102955208704",
+              "start": 20,
+              "url": "https://t.co/xrA2aByluZ"
+            },
+            {
+              "display_url": "pic.x.com/xrA2aByluZ",
+              "end": 43,
+              "expanded_url": "https://x.com/fhv932189957574/status/2081754107296313353/photo/1",
+              "media_key": "3_2081754102938349568",
+              "start": 20,
+              "url": "https://t.co/xrA2aByluZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081754107296313353",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081471066959204720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 还有两张 https://t.co/xrA2aByluZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081471059161952256"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2081471066959204720",
+        "created_at": "2026-07-26T20:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081471066959204720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51pTi915Ox",
+              "end": 31,
+              "expanded_url": "https://x.com/Goldwater8964/status/2081471066959204720/photo/1",
+              "media_key": "3_2081471059161952256",
+              "start": 8,
+              "url": "https://t.co/51pTi915Ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081471066959204720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4204,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "当今互联网现状 https://t.co/51pTi915Ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 474,
+          "like_count": 13258,
+          "listed_count": 0,
+          "media_count": 1150,
+          "tweet_count": 3238
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1058,
+          "like_count": 8734,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

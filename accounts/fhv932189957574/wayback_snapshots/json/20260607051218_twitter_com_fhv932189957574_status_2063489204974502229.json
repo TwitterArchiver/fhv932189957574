@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063489196082499584"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2063489204974502229",
+    "created_at": "2026-06-07T05:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063489204974502229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wgddking/statu…",
+          "end": 34,
+          "expanded_url": "https://x.com/wgddking/status/2063316255759909135?s=46",
+          "start": 11,
+          "url": "https://t.co/LZ3Rf0L8CW"
+        },
+        {
+          "display_url": "pic.x.com/HDrDFtjQZE",
+          "end": 58,
+          "expanded_url": "https://x.com/fhv932189957574/status/2063489204974502229/photo/1",
+          "media_key": "3_2063489196082499584",
+          "start": 35,
+          "url": "https://t.co/HDrDFtjQZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489204974502229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063316255759909135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类呢，怎么没有看到\nhttps://t.co/LZ3Rf0L8CW https://t.co/HDrDFtjQZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2063489196082499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL8fbJakAAQCRv.jpg",
+        "width": 960
+      },
+      {
+        "height": 1732,
+        "media_key": "3_2063316252869988352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJfMzebEAAxjqt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063489196082499584"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2063489204974502229",
+        "created_at": "2026-06-07T05:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063489204974502229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgddking/statu…",
+              "end": 34,
+              "expanded_url": "https://x.com/wgddking/status/2063316255759909135?s=46",
+              "start": 11,
+              "url": "https://t.co/LZ3Rf0L8CW"
+            },
+            {
+              "display_url": "pic.x.com/HDrDFtjQZE",
+              "end": 58,
+              "expanded_url": "https://x.com/fhv932189957574/status/2063489204974502229/photo/1",
+              "media_key": "3_2063489196082499584",
+              "start": 35,
+              "url": "https://t.co/HDrDFtjQZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489204974502229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063316255759909135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类呢，怎么没有看到\nhttps://t.co/LZ3Rf0L8CW https://t.co/HDrDFtjQZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063316252869988352"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2063316255759909135",
+        "created_at": "2026-06-06T17:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063316255759909135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo4lsKAymn",
+              "end": 39,
+              "expanded_url": "https://x.com/wgddking/status/2063316255759909135/photo/1",
+              "media_key": "3_2063316252869988352",
+              "start": 16,
+              "url": "https://t.co/jo4lsKAymn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063316255759909135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3151,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "19岁少年性侵7头母猪致死3头 https://t.co/jo4lsKAymn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 118,
+          "like_count": 5166,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 1222
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（温指导）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 88,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

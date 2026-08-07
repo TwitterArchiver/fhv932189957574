@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2082875881320845623",
+    "created_at": "2026-07-30T17:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082875881320845623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bang_dream_inf…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bang_dream_info/status/2082834798394159106",
+          "start": 12,
+          "url": "https://t.co/GIm172K6uP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082875881320845623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082834798394159106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "薇姐是好女孩吗😋夜神薇 https://t.co/GIm172K6uP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17142,
+        "height": 1080,
+        "media_key": "13_2082834724654034944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082834724654034944/img/IrCTNQo9mBQhIFs3.jpg",
+        "public_metrics": {
+          "view_count": 147336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082834724654034944/vid/avc1/640x360/I-F_nqBmK9QEWe8_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082834724654034944/pl/b_OQvgZvHRlrg9Sj.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082834724654034944/vid/avc1/480x270/jDCGuz_sh66qEQQ-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082834724654034944/vid/avc1/1920x1080/YL6-t6ZelsrM4niO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082834724654034944/vid/avc1/1280x720/S9MeaQ7dp01I9rWd.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2082875881320845623",
+        "created_at": "2026-07-30T17:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082875881320845623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/2082834798394159106",
+              "start": 12,
+              "url": "https://t.co/GIm172K6uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082875881320845623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082834798394159106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "薇姐是好女孩吗😋夜神薇 https://t.co/GIm172K6uP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082834724654034944"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2082834798394159106",
+        "created_at": "2026-07-30T14:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082834798394159106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "アニメゆめみた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gENxafhWDS",
+              "end": 32,
+              "expanded_url": "https://x.com/bang_dream_info/status/2082834798394159106/video/1",
+              "media_key": "13_2082834724654034944",
+              "start": 9,
+              "url": "https://t.co/gENxafhWDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082834798394159106",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 968,
+          "impression_count": 463162,
+          "like_count": 6991,
+          "quote_count": 1002,
+          "reply_count": 150,
+          "retweet_count": 2233
+        },
+        "reply_settings": "everyone",
+        "text": "#アニメゆめみた https://t.co/gENxafhWDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 477,
+          "like_count": 13861,
+          "listed_count": 0,
+          "media_count": 1166,
+          "tweet_count": 3327
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式Xです。\n\nTVアニメ「バンドリ！ ゆめ∞みた」\n毎週木曜23:00～\nTOKYO MXほか各局＆各配信プラットフォームにて好評放送中！\n\n▶ https://t.co/fYOnnezSEZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "anime.bang-dream.com/yumemita",
+                "end": 139,
+                "expanded_url": "https://anime.bang-dream.com/yumemita",
+                "start": 116,
+                "url": "https://t.co/fYOnnezSEZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "2082836705091133736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082827306335371265/XeH4bms6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816620,
+          "following_count": 150,
+          "like_count": 449,
+          "listed_count": 4765,
+          "media_count": 17501,
+          "tweet_count": 36895
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

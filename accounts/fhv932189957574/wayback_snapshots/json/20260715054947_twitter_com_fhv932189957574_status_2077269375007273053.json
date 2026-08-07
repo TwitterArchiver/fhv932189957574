@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077172255805878293",
+    "created_at": "2026-07-15T05:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077269375007273053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452287269017112582",
+          "start": 0,
+          "username": "SLOTH303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077269375007273053",
+    "in_reply_to_user_id": "1452287269017112582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077172255805878293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLOTH303 本当に美しいですね、大好きです！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077172250214879232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOZJ_9bUAAZklh.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077172255805878293",
+        "created_at": "2026-07-15T05:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077269375007273053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452287269017112582",
+              "start": 0,
+              "username": "SLOTH303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077269375007273053",
+        "in_reply_to_user_id": "1452287269017112582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077172255805878293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLOTH303 本当に美しいですね、大好きです！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077172250214879232"
+          ]
+        },
+        "author_id": "1452287269017112582",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2077172255805878293",
+        "created_at": "2026-07-14T23:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077172255805878293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 121,
+              "start": 106,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "ホタル"
+            },
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "Firefly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stSCW2dx0H",
+              "end": 159,
+              "expanded_url": "https://x.com/SLOTH303/status/2077172255805878293/photo/1",
+              "media_key": "3_2077172250214879232",
+              "start": 136,
+              "url": "https://t.co/stSCW2dx0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077172255805878293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 2713,
+          "like_count": 321,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "ホタル / Firefly 🔥\n\n今日がしんどい日でも、明日はきっと違う景色が見えるよ。\n私だって、何度もくじけそうになった。でも君がいるから前を向けるんだ。今の君を、応援してもいい？\n\n🔥\n#崩壊スターレイル #HonkaiStarRail #ホタル #Firefly https://t.co/stSCW2dx0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 468,
+          "like_count": 10881,
+          "listed_count": 0,
+          "media_count": 1043,
+          "tweet_count": 2855
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-24T14:56:16.000Z",
+        "description": "AI Illustrator & Music \nLoves gacha games and anime.\nPosting daily AI art and thoughts.\nFollow if interested 🫶\nSub: @Aska41Al",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "Aska41Al"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aska_twt?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aska_twt?igsh=cTFvNGJ5Y2ppOG4=",
+                "start": 0,
+                "url": "https://t.co/V5c6i1tWaX"
+              }
+            ]
+          }
+        },
+        "id": "1452287269017112582",
+        "location": "No Dm🔕",
+        "name": "アスカAska😺",
+        "pinned_tweet_id": "2076807604408619270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601331067424768/ZE0pILY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50324,
+          "following_count": 30114,
+          "like_count": 6508,
+          "listed_count": 134,
+          "media_count": 2120,
+          "tweet_count": 10259
+        },
+        "url": "https://t.co/V5c6i1tWaX",
+        "username": "SLOTH303",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2075526679980871924",
+    "created_at": "2026-07-10T12:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075550873355440334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1618486174854811650",
+          "start": 0,
+          "username": "gosari542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075550873355440334",
+    "in_reply_to_user_id": "1618486174854811650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075526679980871924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gosari542 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2075526641150033920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Ae8ebgAAT-2a.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2075526641166757888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Ae8iasAA8sLQ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2075526679980871924",
+        "created_at": "2026-07-10T12:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075550873355440334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618486174854811650",
+              "start": 0,
+              "username": "gosari542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075550873355440334",
+        "in_reply_to_user_id": "1618486174854811650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075526679980871924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gosari542 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075526641150033920",
+            "3_2075526641166757888"
+          ]
+        },
+        "author_id": "1618486174854811650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075526679980871924",
+        "created_at": "2026-07-10T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075526679980871924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eb37ci7Xe7",
+              "end": 23,
+              "expanded_url": "https://x.com/gosari542/status/2075526679980871924/photo/1",
+              "media_key": "3_2075526641150033920",
+              "start": 0,
+              "url": "https://t.co/Eb37ci7Xe7"
+            },
+            {
+              "display_url": "pic.x.com/Eb37ci7Xe7",
+              "end": 23,
+              "expanded_url": "https://x.com/gosari542/status/2075526679980871924/photo/1",
+              "media_key": "3_2075526641166757888",
+              "start": 0,
+              "url": "https://t.co/Eb37ci7Xe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075526679980871924",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7108,
+          "like_count": 875,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Eb37ci7Xe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 408,
+          "like_count": 10014,
+          "listed_count": 0,
+          "media_count": 991,
+          "tweet_count": 2672
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T05:49:21.000Z",
+        "description": "https://t.co/5loxUXeKyf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gosari542/fea…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@gosari542/featured",
+                "start": 0,
+                "url": "https://t.co/5loxUXeKyf"
+              }
+            ]
+          }
+        },
+        "id": "1618486174854811650",
+        "name": "gosari ごさり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618486230303531010/iDVXrxx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107799,
+          "following_count": 14,
+          "like_count": 196,
+          "listed_count": 163,
+          "media_count": 2389,
+          "tweet_count": 3984
+        },
+        "url": "",
+        "username": "gosari542",
+        "verified": false
+      }
+    ]
+  }
+}

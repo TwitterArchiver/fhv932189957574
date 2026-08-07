@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2050757085881880832",
+    "created_at": "2026-05-03T16:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050983601811214798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626002616009519104",
+          "start": 0,
+          "username": "HOIYmessenger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050983601811214798",
+    "in_reply_to_user_id": "1626002616009519104",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050757085881880832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOIYmessenger ？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2050757085881880832",
+        "created_at": "2026-05-03T16:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050983601811214798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626002616009519104",
+              "start": 0,
+              "username": "HOIYmessenger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050983601811214798",
+        "in_reply_to_user_id": "1626002616009519104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050757085881880832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOIYmessenger ？😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626002616009519104",
+        "conversation_id": "2050757085881880832",
+        "created_at": "2026-05-03T01:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050757085881880832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sayori_awa/sta…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/sayori_awa/status/2049484873661096046",
+              "start": 85,
+              "url": "https://t.co/Yc9axkDgdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050757085881880832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049484873661096046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求大家死好吗😈😈想自杀之前可以试着做点烧炭、吃药、跳楼、割腕、上吊、撞大运、安乐死，就一会，马上就会离开这个世界，来到火狱，我们都是罪人，如果不愿意听的话可以尽情骂我 https://t.co/Yc9axkDgdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 50
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T23:36:58.000Z",
+        "description": "2025.12.26/2009.10.26\n🏆🏆🏆\n跨圈第一穆斯林人妖🥇 全世界最重XYN🥇 全世界最丑XYN🥇 以上奖项不接受反驳😡😡😡👊",
+        "id": "1626002616009519104",
+        "location": "火狱",
+        "name": "Asuku🍥🏳️‍⚧️☪️",
+        "pinned_tweet_id": "2050757085881880832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050761107141480448/sgTCo116_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 209,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "HOIYmessenger",
+        "verified": false
+      }
+    ]
+  }
+}

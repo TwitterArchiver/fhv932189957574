@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083920267894722560"
+      ],
+      "media_source_tweet_id": [
+        "2084066969301475660"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084552819412271180",
+    "created_at": "2026-08-04T08:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084552819412271180"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "ellenjoe"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1783753780309401600",
+          "start": 3,
+          "username": "AtomLuiz75101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMmQTWsNIj",
+          "end": 57,
+          "expanded_url": "https://x.com/AtomLuiz75101/status/2084066969301475660/video/1",
+          "media_key": "13_2083920267894722560",
+          "start": 34,
+          "url": "https://t.co/mMmQTWsNIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084552819412271180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 633
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084066969301475660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @AtomLuiz75101: #ellenjoe 洗髪 🔔 https://t.co/mMmQTWsNIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12074,
+        "height": 1880,
+        "media_key": "13_2083920267894722560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083920267894722560/img/sxgGTIG4YHadEGzI.jpg",
+        "public_metrics": {
+          "view_count": 795848
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083920267894722560/vid/avc1/720x1252/slYzN-0vu0slhASY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083920267894722560/vid/avc1/320x556/1M1kvy6Q41pJerCR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083920267894722560/pl/cQEUBtLHVYt-CCBH.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083920267894722560/vid/avc1/1080x1880/n2aM1rAwU3HFc1vs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083920267894722560/vid/avc1/480x834/_asjpV1eCqqTNrUA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083920267894722560"
+          ]
+        },
+        "author_id": "1783753780309401600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084066969301475660",
+        "created_at": "2026-08-03T00:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084066969301475660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ellenjoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMmQTWsNIj",
+              "end": 38,
+              "expanded_url": "https://x.com/AtomLuiz75101/status/2084066969301475660/video/1",
+              "media_key": "13_2083920267894722560",
+              "start": 15,
+              "url": "https://t.co/mMmQTWsNIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084066969301475660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2182,
+          "impression_count": 2050105,
+          "like_count": 9829,
+          "quote_count": 21,
+          "reply_count": 121,
+          "retweet_count": 633
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#ellenjoe 洗髪 🔔 https://t.co/mMmQTWsNIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083920267894722560"
+          ],
+          "media_source_tweet_id": [
+            "2084066969301475660"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084552819412271180",
+        "created_at": "2026-08-04T08:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084552819412271180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "ellenjoe"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1783753780309401600",
+              "start": 3,
+              "username": "AtomLuiz75101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMmQTWsNIj",
+              "end": 57,
+              "expanded_url": "https://x.com/AtomLuiz75101/status/2084066969301475660/video/1",
+              "media_key": "13_2083920267894722560",
+              "start": 34,
+              "url": "https://t.co/mMmQTWsNIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084552819412271180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 633
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084066969301475660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @AtomLuiz75101: #ellenjoe 洗髪 🔔 https://t.co/mMmQTWsNIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14408,
+          "listed_count": 0,
+          "media_count": 1189,
+          "tweet_count": 3400
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-26T07:03:47.000Z",
+        "description": "Follow for daily doses of cute & relaxing chibi stories 💛\n毎日のんびりちびストーリー｜フォロー歓迎💙",
+        "id": "1783753780309401600",
+        "location": "Oslo, Norge",
+        "name": "Åse@AI画像生成～🔰AIart🔰～❤️AI創作💕",
+        "pinned_tweet_id": "2084066969301475660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783796780871933952/uXzPXDOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 1056,
+          "like_count": 38397,
+          "listed_count": 24,
+          "media_count": 2417,
+          "tweet_count": 7966
+        },
+        "url": "",
+        "username": "AtomLuiz75101",
+        "verified": true
+      }
+    ]
+  }
+}

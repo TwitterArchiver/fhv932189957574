@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071241589293257016",
+    "created_at": "2026-06-28T15:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071258888444502279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "961245252",
+          "start": 0,
+          "username": "james84_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071258888444502279",
+    "in_reply_to_user_id": "961245252",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071241589293257016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@james84_ hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071241589293257016",
+        "created_at": "2026-06-28T15:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071258888444502279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "961245252",
+              "start": 0,
+              "username": "james84_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071258888444502279",
+        "in_reply_to_user_id": "961245252",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071241589293257016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@james84_ hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961245252",
+        "conversation_id": "2071241589293257016",
+        "created_at": "2026-06-28T14:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071241589293257016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071241589293257016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5125,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 285,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine you say hi 👋 and 100+ people follow you👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 306,
+          "like_count": 8726,
+          "listed_count": 0,
+          "media_count": 845,
+          "tweet_count": 2206
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-20T21:36:27.000Z",
+        "description": "",
+        "id": "961245252",
+        "location": "💜",
+        "name": "James Cole",
+        "pinned_tweet_id": "2070457878209495163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031175437141831680/PdOCUcVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43805,
+          "following_count": 16937,
+          "like_count": 45338,
+          "listed_count": 75,
+          "media_count": 2527,
+          "tweet_count": 63592
+        },
+        "url": "",
+        "username": "james84_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2083993778629824867",
+    "created_at": "2026-08-02T19:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083993778629824867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jvyu3612/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/jvyu3612/status/2083869159134462087",
+          "start": 2,
+          "url": "https://t.co/N7QzF6wTik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083993778629824867",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083869159134462087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👍 https://t.co/N7QzF6wTik"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2083993778629824867",
+        "created_at": "2026-08-02T19:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083993778629824867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jvyu3612/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/jvyu3612/status/2083869159134462087",
+              "start": 2,
+              "url": "https://t.co/N7QzF6wTik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083993778629824867",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083869159134462087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍 https://t.co/N7QzF6wTik"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995808308750581760",
+        "conversation_id": "2083869159134462087",
+        "created_at": "2026-08-02T10:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083869159134462087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083686500865126744",
+              "start": 11,
+              "url": "https://t.co/DTsHeOV7Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869159134462087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083686500865126744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来的事 楠的就这样 https://t.co/DTsHeOV7Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 483,
+          "like_count": 14331,
+          "listed_count": 0,
+          "media_count": 1182,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-02T10:52:46.000Z",
+        "description": "06 she/her queer&feminist EN/中文/Beim Deutschlernen",
+        "id": "1995808308750581760",
+        "name": "jyva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034448313555324928/Nf_E6Wsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 92,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "jvyu3612",
+        "verified": false
+      }
+    ]
+  }
+}

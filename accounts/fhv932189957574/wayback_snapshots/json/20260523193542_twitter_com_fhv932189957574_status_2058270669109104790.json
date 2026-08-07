@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2057718107838259308",
+    "created_at": "2026-05-23T19:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058270669109104790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1933781248394366976",
+          "start": 0,
+          "username": "KONKON383"
+        },
+        {
+          "end": 21,
+          "id": "1795346502451363840",
+          "start": 11,
+          "username": "plum08knk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058270669109104790",
+    "in_reply_to_user_id": "1933781248394366976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057721770036314581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KONKON383 @plum08knk 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2057718107838259308",
+        "created_at": "2026-05-23T19:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058270669109104790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1933781248394366976",
+              "start": 0,
+              "username": "KONKON383"
+            },
+            {
+              "end": 21,
+              "id": "1795346502451363840",
+              "start": 11,
+              "username": "plum08knk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058270669109104790",
+        "in_reply_to_user_id": "1933781248394366976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057721770036314581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KONKON383 @plum08knk 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933781248394366976",
+        "conversation_id": "2057718107838259308",
+        "created_at": "2026-05-22T07:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057721770036314581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1795346502451363840",
+              "start": 0,
+              "username": "plum08knk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057721770036314581",
+        "in_reply_to_user_id": "1795346502451363840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64670,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057718107838259308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plum08knk 嫁と嫁が…イチャイチャしてる…最高…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜别特么问了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 3054,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 924
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T06:59:25.000Z",
+        "description": "嫁・キャストリス・セイレンス・ヒアンシー\nキャストリス140連二凸モチーフ入手\n非観測者　＠ginnkai20　狂信者\nギンの素晴らしさを語った人は問答無用でフォロー\n小説をなろう小説で公開中https://t.co/6ysmIkfquV\n素敵なアイコンを書いてくれた方　@Libera_022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "ginnkai20"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "username": "Libera_022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mypage.syosetu.com/3013749",
+                "end": 119,
+                "expanded_url": "https://mypage.syosetu.com/3013749",
+                "start": 96,
+                "url": "https://t.co/6ysmIkfquV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/KONKON383/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/KONKON383/",
+                "start": 0,
+                "url": "https://t.co/6ykuPChPwN"
+              }
+            ]
+          }
+        },
+        "id": "1933781248394366976",
+        "location": "ホヨバゲーを皆やろう",
+        "name": "天月零華（小説投稿中）",
+        "pinned_tweet_id": "2057817175470281011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038249080670056448/fIHw741Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 404,
+          "like_count": 29916,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 9683
+        },
+        "url": "https://t.co/6ykuPChPwN",
+        "username": "KONKON383",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T06:49:20.000Z",
+        "description": "百合のイラストを描きます。20↑ 基本百合厨で雑食。描いたイラストの無断転載、商用利用禁止\n◼︎ご依頼→plum08knk@gmail.com \n◼︎skeb→https://t.co/LgoXxucX28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@plum08knk",
+                "end": 103,
+                "expanded_url": "https://skeb.jp/@plum08knk",
+                "start": 80,
+                "url": "https://t.co/LgoXxucX28"
+              }
+            ]
+          }
+        },
+        "id": "1795346502451363840",
+        "location": "AI学習🚫",
+        "name": "プラム🌸",
+        "pinned_tweet_id": "2046846467617468665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011093344286597120/ChQmqdp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134850,
+          "following_count": 449,
+          "like_count": 4109,
+          "listed_count": 346,
+          "media_count": 465,
+          "tweet_count": 3273
+        },
+        "username": "plum08knk",
+        "verified": true
+      }
+    ]
+  }
+}

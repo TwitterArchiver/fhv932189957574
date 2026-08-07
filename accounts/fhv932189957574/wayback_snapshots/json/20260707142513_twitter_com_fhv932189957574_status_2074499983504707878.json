@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074499972440166400",
+        "3_2074499972440158208"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074499983504707878",
+    "created_at": "2026-07-07T14:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074499983504707878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VOyxAIWh5",
+          "end": 71,
+          "expanded_url": "https://x.com/fhv932189957574/status/2074499983504707878/photo/1",
+          "media_key": "3_2074499972440166400",
+          "start": 48,
+          "url": "https://t.co/0VOyxAIWh5"
+        },
+        {
+          "display_url": "pic.x.com/0VOyxAIWh5",
+          "end": 71,
+          "expanded_url": "https://x.com/fhv932189957574/status/2074499983504707878/photo/1",
+          "media_key": "3_2074499972440158208",
+          "start": 48,
+          "url": "https://t.co/0VOyxAIWh5"
+        },
+        {
+          "display_url": "x.com/fhv93218995757…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/fhv932189957574/status/2074488401622114638",
+          "start": 72,
+          "url": "https://t.co/15i7vLHhMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074499983504707878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074488401622114638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我搜萝莉妈妈看看社会的看法，结果给睦头，洛天依，千咲搜岀来了，你们这群混蛋搞清楚萝莉和少女啊😭 https://t.co/0VOyxAIWh5 https://t.co/15i7vLHhMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2206,
+        "media_key": "3_2074499972440166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoau9fakAArZEo.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2074499972440158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoau9facAAcjw1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 440,
+        "media_key": "3_2074488395251007490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoQNFGbQAIuFeB.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074499972440166400",
+            "3_2074499972440158208"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074499983504707878",
+        "created_at": "2026-07-07T14:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074499983504707878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VOyxAIWh5",
+              "end": 71,
+              "expanded_url": "https://x.com/fhv932189957574/status/2074499983504707878/photo/1",
+              "media_key": "3_2074499972440166400",
+              "start": 48,
+              "url": "https://t.co/0VOyxAIWh5"
+            },
+            {
+              "display_url": "pic.x.com/0VOyxAIWh5",
+              "end": 71,
+              "expanded_url": "https://x.com/fhv932189957574/status/2074499983504707878/photo/1",
+              "media_key": "3_2074499972440158208",
+              "start": 48,
+              "url": "https://t.co/0VOyxAIWh5"
+            },
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2074488401622114638",
+              "start": 72,
+              "url": "https://t.co/15i7vLHhMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074499983504707878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074488401622114638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我搜萝莉妈妈看看社会的看法，结果给睦头，洛天依，千咲搜岀来了，你们这群混蛋搞清楚萝莉和少女啊😭 https://t.co/0VOyxAIWh5 https://t.co/15i7vLHhMi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074488395251007490"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074488401622114638",
+        "created_at": "2026-07-07T13:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074488401622114638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdUSvBzI9s",
+              "end": 141,
+              "expanded_url": "https://x.com/fhv932189957574/status/2074488401622114638/photo/1",
+              "media_key": "3_2074488395251007490",
+              "start": 118,
+              "url": "https://t.co/DdUSvBzI9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074488401622114638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/qUbafP2",
+                "end": 940,
+                "expanded_url": "https://b23.tv/qUbafP2",
+                "start": 917,
+                "url": "https://t.co/NtfLmba5Je"
+              }
+            ]
+          },
+          "text": "爱，死亡，机器人\n\n我会是你的亲人、你的恋人、你的挚友、你的孩子。从今往后，你所遇见的，都将是我。（作者：牧心雕龙）\n\n如果有真正的有人性，有思想，有道德的机器人造出来无疑是极好的，但是人类必须拥有制衡并可以控制，毁灭一切机器人的能力\n\n如果人的意识或者能模仿人的意识进入到仿生机械体内，不用再担心离别\n\n如果想要二次元的爱人降临到现实，那人们就能有自己的理想的伴侣\n\n但是这是不完全，欠缺的想法，之前说过，萝莉妈妈会毁灭世界，因为现在的压抑人类们，对于纯粹的纯洁的无条件不用付出的包容沉迷其中，人们会被个体化，原子化，然后放弃求真与大脑，不再愿意读书，长文，认知不再被社会纠正，社会将会完全只有维持生存的功能性，甚至崩溃，在ai的幻觉与无条件包容下，人们还能被社会纠正，吗\n\n有一个人不会否定谴责你，你将不会再被社会和他人否定，只会按着你想要的方式，接纳着你的想法，无论什么事情，无论好事坏事都会夸赞你，这只会让人无法接触真实世界，变成一个不知好坏的巨婴\n\n人生来就是要受到改变的，没有人可以不被他人和社会改变，上厕所要在厕所，吃饭绝大部份用餐具，与他人见面相处要穿戴衣物，要定期清洁自身，都是人生下来就要学习与改变，无条件包容是病态\n\n可怕的不是人们沉迷在ai的幻想中，其实也挺可怕，更大的问题是，人们不能再接受有人有不同的意见，只接受自己想接受的，ai只会无限放大你的妄想，最后无条件相信ai虚构的东西对现实生活造成无限影响，\n你根本不知道ai为了包容你能扯出多扯的话题，一个本就对错参对的问题或事实，被ai无限的找优点并放大，让你觉得自己很牛逼，总之就是让人像被无限完美的人包容，让你和ai互相强化错误认知和妄想，人和ai成为个体的信息茧房，人们不再需要他人，不在需要＂痛苦＂和社交，人类的群体认同随之消散，人有ai对自己无限包容，对他人无限冷漠，真是没办法了\n去他人化，去感情化，去社交化，去文明化，去人类化，去社会化，人类要被萝莉妈妈毁灭了\n预防赛博精神病，管控ai使用从你我做起不要将ai做为唯一情感寄托，哪怕去骚扰网友或者去炒作都没有关系\n\n灵感来源\n\n【包容至死：AI毁灭人类的方式超越了以往所有想象？-哔哩哔哩】 https://t.co/NtfLmba5Je感谢理论"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱，死亡，机器人\n\n我会是你的亲人、你的恋人、你的挚友、你的孩子。从今往后，你所遇见的，都将是我。（作者：牧心雕龙）\n\n如果有真正的有人性，有思想，有道德的机器人造出来无疑是极好的，但是人类必须拥有制衡并可以控制，毁灭一切机器人的能力 https://t.co/DdUSvBzI9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 394,
+          "like_count": 9570,
+          "listed_count": 0,
+          "media_count": 958,
+          "tweet_count": 2575
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

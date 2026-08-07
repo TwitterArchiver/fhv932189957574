@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082074147652546560"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2081910703850725475",
+    "created_at": "2026-07-28T12:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082074153545609228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin0908"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8zLpyLcCb",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2082074153545609228/photo/1",
+          "media_key": "3_2082074147652546560",
+          "start": 14,
+          "url": "https://t.co/W8zLpyLcCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082074153545609228",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081910703850725475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin0908 https://t.co/W8zLpyLcCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2082074147652546560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUDZ-7asAA-964.jpg",
+        "width": 1108
+      },
+      {
+        "height": 256,
+        "media_key": "16_2081910670313058304",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HORuuWYa8AA3HHD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HORuuWYa8AA3HHD.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082074147652546560"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2081910703850725475",
+        "created_at": "2026-07-28T12:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082074153545609228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin0908"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8zLpyLcCb",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2082074153545609228/photo/1",
+              "media_key": "3_2082074147652546560",
+              "start": 14,
+              "url": "https://t.co/W8zLpyLcCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082074153545609228",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081910703850725475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin0908 https://t.co/W8zLpyLcCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081910670313058304"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2081910703850725475",
+        "created_at": "2026-07-28T01:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081910703850725475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBx2bqghr2",
+              "end": 23,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2081910703850725475/photo/1",
+              "media_key": "16_2081910670313058304",
+              "start": 0,
+              "url": "https://t.co/qBx2bqghr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081910703850725475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1159,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qBx2bqghr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 475,
+          "like_count": 13454,
+          "listed_count": 0,
+          "media_count": 1156,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037 （🚪48.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "CnDiode"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2078345669824438597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420961686208513/BNhEveFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3446,
+          "following_count": 1722,
+          "like_count": 9219,
+          "listed_count": 10,
+          "media_count": 1185,
+          "tweet_count": 4680
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin0908",
+        "verified": true
+      }
+    ]
+  }
+}

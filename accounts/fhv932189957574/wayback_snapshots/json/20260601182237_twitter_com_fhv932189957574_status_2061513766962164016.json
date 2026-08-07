@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2061302376028598683",
+    "created_at": "2026-06-01T18:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061513766962164016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1856689219764203520",
+          "start": 0,
+          "username": "cmrn_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061513766962164016",
+    "in_reply_to_user_id": "1856689219764203520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061302376028598683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmrn_v 小学还是没必要接触x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061302369321877504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs3lWoaAAAjmzX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2061302376028598683",
+        "created_at": "2026-06-01T18:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061513766962164016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1856689219764203520",
+              "start": 0,
+              "username": "cmrn_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061513766962164016",
+        "in_reply_to_user_id": "1856689219764203520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061302376028598683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmrn_v 小学还是没必要接触x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061302369321877504"
+          ]
+        },
+        "author_id": "1856689219764203520",
+        "conversation_id": "2061302376028598683",
+        "created_at": "2026-06-01T04:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061302376028598683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ppRnoc3kw",
+              "end": 51,
+              "expanded_url": "https://x.com/cmrn_v/status/2061302376028598683/photo/1",
+              "media_key": "3_2061302369321877504",
+              "start": 28,
+              "url": "https://t.co/0ppRnoc3kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061302376028598683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 125844,
+          "like_count": 104,
+          "quote_count": 3,
+          "reply_count": 177,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "儿子上小学刚知道 vpn 是什么\n\n下这些软件够用了吗 https://t.co/0ppRnoc3kw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 110,
+          "like_count": 4815,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 1166
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T13:23:08.000Z",
+        "description": "06 大二                        \n认知｜搞钱｜增长                       \n合作｜进社群➕v：engengeng_123",
+        "id": "1856689219764203520",
+        "name": "Cameron 卡卡",
+        "pinned_tweet_id": "2052676305410490529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856964711750774784/J_TxoPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 268,
+          "like_count": 4690,
+          "listed_count": 9,
+          "media_count": 289,
+          "tweet_count": 3791
+        },
+        "username": "cmrn_v",
+        "verified": true
+      }
+    ]
+  }
+}

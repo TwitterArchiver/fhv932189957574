@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077823435988775360",
+    "created_at": "2026-07-17T17:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078171714123710715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1343656481342808069",
+          "start": 0,
+          "username": "shadszy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078171714123710715",
+    "in_reply_to_user_id": "1343656481342808069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077823435988775360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadszy 耳朵，骨头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077823435988775360",
+        "created_at": "2026-07-17T17:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078171714123710715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1343656481342808069",
+              "start": 0,
+              "username": "shadszy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078171714123710715",
+        "in_reply_to_user_id": "1343656481342808069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077823435988775360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadszy 耳朵，骨头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343656481342808069",
+        "conversation_id": "2077823435988775360",
+        "created_at": "2026-07-16T18:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077823435988775360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jamo94z/status…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/jamo94z/status/2076710700081184926",
+              "start": 124,
+              "url": "https://t.co/ywLOdpLkC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077823435988775360",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1220,
+          "impression_count": 4855867,
+          "like_count": 68451,
+          "quote_count": 252,
+          "reply_count": 1839,
+          "retweet_count": 2965
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076710700081184926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cite moi une seule partie du corps de la femme que les hommes n’ont pas encore sexualisé et je t’envoie 500€ dans la foulée https://t.co/ywLOdpLkC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078098147067457857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 470,
+          "like_count": 11621,
+          "listed_count": 0,
+          "media_count": 1069,
+          "tweet_count": 2976
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-28T20:34:14.000Z",
+        "description": "insta: ariana_arst",
+        "id": "1343656481342808069",
+        "name": "𝒂𝒓𝒊𝒂𝒏𝒂 ❦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977321968304025600/dyPrbbKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 169,
+          "like_count": 43226,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 4460
+        },
+        "url": "",
+        "username": "shadszy",
+        "verified": false
+      }
+    ]
+  }
+}

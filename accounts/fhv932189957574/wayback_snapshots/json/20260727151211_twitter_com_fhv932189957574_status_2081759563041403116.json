@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2081759563041403116",
+    "created_at": "2026-07-27T15:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081759563041403116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tamaki_jpn/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tamaki_jpn/status/2081584251506753742",
+          "start": 6,
+          "url": "https://t.co/1B9vxGOPqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081759563041403116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081584251506753742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诡异又好笑 https://t.co/1B9vxGOPqh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24811,
+        "height": 1674,
+        "media_key": "13_2081584175086448640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081584175086448640/img/_b2TwOiYt7RB50lh.jpg",
+        "public_metrics": {
+          "view_count": 196441
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081584175086448640/vid/avc1/720x1030/pEDwXYbbpRLiw3Bb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081584175086448640/vid/avc1/480x686/CpSqSG4w_ldo1Lai.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081584175086448640/vid/avc1/1170x1674/Cy1k-VAraHYGCt9Y.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081584175086448640/vid/avc1/320x456/KaP2iizTaN6W_UOa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081584175086448640/pl/zkRZo3nB4kx-wORc.m3u8?v=cfc"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2081759563041403116",
+        "created_at": "2026-07-27T15:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081759563041403116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tamaki_jpn/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tamaki_jpn/status/2081584251506753742",
+              "start": 6,
+              "url": "https://t.co/1B9vxGOPqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081759563041403116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081584251506753742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诡异又好笑 https://t.co/1B9vxGOPqh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081584175086448640"
+          ]
+        },
+        "author_id": "1856034357787713536",
+        "conversation_id": "2081584251506753742",
+        "created_at": "2026-07-27T03:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081584251506753742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cPVL0K6T1",
+              "end": 32,
+              "expanded_url": "https://x.com/Tamaki_JPN/status/2081584251506753742/video/1",
+              "media_key": "13_2081584175086448640",
+              "start": 9,
+              "url": "https://t.co/6cPVL0K6T1"
+            },
+            {
+              "display_url": "x.com/5nrvfuuua07185…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/5nrvfuuua071850/status/2081240485700755601",
+              "start": 33,
+              "url": "https://t.co/cToXwMZOgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081584251506753742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2087,
+          "impression_count": 827761,
+          "like_count": 9725,
+          "quote_count": 158,
+          "reply_count": 34,
+          "retweet_count": 1906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081240485700755601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狂おしいほど好き https://t.co/6cPVL0K6T1 https://t.co/cToXwMZOgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 475,
+          "like_count": 13299,
+          "listed_count": 0,
+          "media_count": 1151,
+          "tweet_count": 3242
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T18:01:39.000Z",
+        "description": "切り抜き動画を作っています。ご要望等はDMまで🙇‍♂️ https://t.co/qa8V0YHqpN https://t.co/GhXn3QYn2K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tamaki_jpn?si…",
+                "end": 51,
+                "expanded_url": "https://youtube.com/@tamaki_jpn?si=ulG4z_Y3CtRbpDqQ",
+                "start": 28,
+                "url": "https://t.co/qa8V0YHqpN"
+              },
+              {
+                "display_url": "tiktok.com/@kishida_funcl…",
+                "end": 75,
+                "expanded_url": "https://www.tiktok.com/@kishida_funclub?_t=ZS-8xqB4HgZLzG&_r=SDGs",
+                "start": 52,
+                "url": "https://t.co/GhXn3QYn2K"
+              }
+            ]
+          }
+        },
+        "id": "1856034357787713536",
+        "name": "瀧尾華たまきの七磁鳳稜報@Discord推進教会",
+        "pinned_tweet_id": "2071548569127964699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071240014583734272/v4yMqJ-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 2703,
+          "like_count": 29601,
+          "listed_count": 12,
+          "media_count": 1949,
+          "tweet_count": 31210
+        },
+        "url": "",
+        "username": "Tamaki_JPN",
+        "verified": true
+      }
+    ]
+  }
+}

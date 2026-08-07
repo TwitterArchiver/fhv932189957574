@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072377346217435136"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071927369653485756",
+    "created_at": "2026-07-01T17:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072377354358575189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1631551312952442880",
+          "start": 0,
+          "username": "Love_Deepspace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7iWyRD9F1",
+          "end": 41,
+          "expanded_url": "https://x.com/fhv932189957574/status/2072377354358575189/photo/1",
+          "media_key": "3_2072377346217435136",
+          "start": 18,
+          "url": "https://t.co/o7iWyRD9F1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072377354358575189",
+    "in_reply_to_user_id": "1631551312952442880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071927369653485756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_Deepspace 绷 https://t.co/o7iWyRD9F1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1653,
+        "media_key": "3_2072377346217435136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKQN2nbYAAfSJr.jpg",
+        "width": 1242
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2071926655094800384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD2ULWWwAA5mIT.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072377346217435136"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071927369653485756",
+        "created_at": "2026-07-01T17:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072377354358575189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1631551312952442880",
+              "start": 0,
+              "username": "Love_Deepspace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7iWyRD9F1",
+              "end": 41,
+              "expanded_url": "https://x.com/fhv932189957574/status/2072377354358575189/photo/1",
+              "media_key": "3_2072377346217435136",
+              "start": 18,
+              "url": "https://t.co/o7iWyRD9F1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072377354358575189",
+        "in_reply_to_user_id": "1631551312952442880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071927369653485756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_Deepspace 绷 https://t.co/o7iWyRD9F1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071926655094800384"
+          ]
+        },
+        "author_id": "1631551312952442880",
+        "conversation_id": "2071927369653485756",
+        "created_at": "2026-06-30T12:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071927369653485756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsjNbKyTsB",
+              "end": 298,
+              "expanded_url": "https://x.com/Love_Deepspace/status/2071927369653485756/photo/1",
+              "media_key": "3_2071926655094800384",
+              "start": 275,
+              "url": "https://t.co/PsjNbKyTsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071927369653485756",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4577,
+                "start": 4559,
+                "tag": "LADSValkoCanceled"
+              }
+            ]
+          },
+          "text": "A Letter to All Players\n\nDear Miss Hunters,\n\nWe sincerely apologize for reaching out once again. Over the past several days, our team has been closely following your conversations and feedback across all platforms. For the issues that have surfaced since the announcement of Version 6.0—and the frustration these have caused our community—we want to clearly state: we are sorry.\n\nAs we've expressed before, our vision for Love and Deepspace has always been to build a world that grows alongside you—one that offers a richer, deeper sense of companionship over time.\n\nAs various issues have arisen in recent days, we have moved quickly to make the necessary adjustments. After reflecting on recent events, we recognize that we moved forward with the introduction of Valko before we were truly ready. In doing so, we let down the players who have supported us from the start, and we also fell short of delivering the experience that players anticipating Valko deserved. After extensive internal discussions, we have decided to make the following changes:\n\n1. We have decided to cancel both the launch and any further development of the new love interest. We also commit that no additional love interests will be introduced in future content plans.\n\n2. All other in-game systems and features originally scheduled for Version 6.0—including Home 2.0 and AR Photobooth—as well as the limited-time Selectable 5-Star Memory Rate-Up Event, will proceed as planned. The outfits, photo poses and scenes, and the Nighthush Box (the second-anniversary 4-Star Memory Selection Crate) originally planned as rewards for the Hunt in Linkon event will instead be sent to all players for free via in-game mail after the version update.\n\n3. Going forward, the entire team will focus on further developing the stories and long-term companionship experiences of our five existing love interests, while ensuring a stable pace of Main Story production and updates. Rafayel's new Solar-Slot Memories and Companion will be revealed in July. Farspace Colonel Caleb and Onychinus Leader Sylus will also return in their Main Story branches in September and November, respectively. By participating in the relevant events, players will be able to obtain the corresponding 5-Star Main Story Branch Memories for free. We will continue to devote all our care and effort to bringing you richer stories and game experiences.\n\n4. Beginning today and continuing for 30 days, players who log in each day will receive one Deepspace Wish via in-game mail. Each mail will remain claimable for three days, for a total of 30 Deepspace Wishes. We hope this can offer some compensation for the disappointment and disruption caused by these adjustments.\n\nTo our community: once again, we apologize. Because of our actions, the joy you should have found in Linkon City became a source of distress, and the feelings you hold most dear were hurt. We are deeply sorry for the hurt and disappointment we have caused.\n\nLove and Deepspace has always been about sharing love with you and protecting the love we all hold dear. That purpose has never wavered. Every step forward taken by the love interests and Linkon City—from its beginnings to where it stands today—has been shaped by your feedback, your passion, and your trust. It is your presence, care, and companionship that give this world its meaning, and us the strength and direction to move forward.\n\nOver the past two and a half years, we've shared moments of joy and gratitude, as well as challenges and difficult times. Through every late night devoted to making this world better, it has been the moments you've shared in Linkon City—and the love and passion behind them—that have kept us going. We hope to continue walking this road with you, building a world where love can take root, grow, and bloom.\n\nGoing forward, we will work harder, listen more carefully, and do our utmost to honor the trust you have placed in us. We will stay focused on delivering the experience you deserve—one filled with love where every moment in Linkon City can once again become a joyful and treasured memory.\n\nLinkon City will always be here for you.\n\nThank you—for your trust, your honest feedback and encouragement, and for being with us every step of the way. Your companionship has helped light the path ahead, and your faith in us has given meaning to every effort we make. Thank you for your love throughout this journey. It gives us the courage to keep moving forward. We hope to repay that love with even more and even better content in the days to come.\n\n#LADSValkoCanceled"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10725,
+          "impression_count": 22789208,
+          "like_count": 30045,
+          "quote_count": 32171,
+          "reply_count": 35383,
+          "retweet_count": 6115
+        },
+        "reply_settings": "everyone",
+        "text": "A Letter to All Players\n\nDear Miss Hunters,\n\nWe sincerely apologize for reaching out once again. Over the past several days, our team has been closely following your conversations and feedback across all platforms. For the issues that have surfaced since the announcement of https://t.co/PsjNbKyTsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8888,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 2295
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-03T07:05:37.000Z",
+        "description": "#LoveandDeepspace | Immersive 3D Interactive Game\n■Download\nhttps://t.co/TM26looDcS\n■YT\nhttps://t.co/eCoaIhZ19P\n■DC\nhttps://t.co/wxHYOC08jB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "LoveandDeepspace"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/Deepspace",
+                "end": 83,
+                "expanded_url": "http://bit.ly/Deepspace",
+                "start": 60,
+                "url": "https://t.co/TM26looDcS"
+              },
+              {
+                "display_url": "bit.ly/49r3qnx",
+                "end": 111,
+                "expanded_url": "http://bit.ly/49r3qnx",
+                "start": 88,
+                "url": "https://t.co/eCoaIhZ19P"
+              },
+              {
+                "display_url": "bit.ly/3QLJCno",
+                "end": 139,
+                "expanded_url": "https://bit.ly/3QLJCno",
+                "start": 116,
+                "url": "https://t.co/wxHYOC08jB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "loveanddeepspace.infoldgames.com/en-EN/home",
+                "end": 23,
+                "expanded_url": "https://loveanddeepspace.infoldgames.com/en-EN/home",
+                "start": 0,
+                "url": "https://t.co/A2cbAgyzcu"
+              }
+            ]
+          }
+        },
+        "id": "1631551312952442880",
+        "location": "Linkon City",
+        "name": "Love and Deepspace",
+        "pinned_tweet_id": "2065993078880743817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757262005764034560/iV5kxCmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663236,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 339,
+          "media_count": 1980,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/A2cbAgyzcu",
+        "username": "Love_Deepspace",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071223714843107537",
+    "created_at": "2026-06-28T15:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071259444764418507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814195840908759040",
+          "start": 0,
+          "username": "Prince_of_web3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071259444764418507",
+    "in_reply_to_user_id": "1814195840908759040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071223714843107537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prince_of_web3 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071223708300066816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL52_SeXwAAdDKU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071223714843107537",
+        "created_at": "2026-06-28T15:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071259444764418507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814195840908759040",
+              "start": 0,
+              "username": "Prince_of_web3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071259444764418507",
+        "in_reply_to_user_id": "1814195840908759040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071223714843107537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prince_of_web3 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071223708300066816"
+          ]
+        },
+        "author_id": "1814195840908759040",
+        "conversation_id": "2071223714843107537",
+        "created_at": "2026-06-28T13:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071223714843107537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cw7iS6ONDd",
+              "end": 84,
+              "expanded_url": "https://x.com/Prince_of_web3/status/2071223714843107537/photo/1",
+              "media_key": "3_2071223708300066816",
+              "start": 61,
+              "url": "https://t.co/Cw7iS6ONDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071223714843107537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6561,
+          "like_count": 265,
+          "quote_count": 1,
+          "reply_count": 444,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "NO account should be under 6K! say hello 👋 and WE follow YOU https://t.co/Cw7iS6ONDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 306,
+          "like_count": 8727,
+          "listed_count": 0,
+          "media_count": 846,
+          "tweet_count": 2209
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T07:09:51.000Z",
+        "description": "𝙎𝙤𝙘𝙞𝙖𝙡 𝙢𝙚𝙙𝙞𝙖 𝙜𝙧𝙤𝙬𝙩𝙝 𝙚𝙭𝙥𝙚𝙧𝙩 |\n𝙂𝙪𝙞𝙙𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙤𝙧𝙨 & 𝙥𝙧𝙚𝙢𝙞𝙪𝙢+ 𝙖𝙘𝙘𝙤𝙪𝙣𝙩𝙨 | 𝘿𝙈 𝙛𝙤𝙧 𝙥𝙖𝙞𝙙 𝙥𝙧𝙤𝙢𝙤𝙩𝙞𝙤𝙣 follow my back up account @itzprincecrypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "itzprincecrypto"
+              }
+            ]
+          }
+        },
+        "id": "1814195840908759040",
+        "name": "𝙊𝙓_𝙋𝙧𝙞𝙣𝙘𝙚",
+        "pinned_tweet_id": "2031627019704746066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005907644414898176/1UM-40uF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43696,
+          "following_count": 7592,
+          "like_count": 151217,
+          "listed_count": 91,
+          "media_count": 2431,
+          "tweet_count": 65092
+        },
+        "url": "",
+        "username": "Prince_of_web3",
+        "verified": true
+      }
+    ]
+  }
+}

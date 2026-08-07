@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067116996454658048",
+        "3_2067116996429479936"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067064691969630377",
+    "created_at": "2026-06-17T05:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067117066528940269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ra7HsYgNki",
+          "end": 180,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067117066528940269/video/1",
+          "media_key": "13_2067116996454658048",
+          "start": 157,
+          "url": "https://t.co/Ra7HsYgNki"
+        },
+        {
+          "display_url": "pic.x.com/Ra7HsYgNki",
+          "end": 180,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067117066528940269/video/1",
+          "media_key": "3_2067116996429479936",
+          "start": 157,
+          "url": "https://t.co/Ra7HsYgNki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067117066528940269",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "闹麻了，依旧爱猫人士，查理不用有智慧就能成为公民了，到时候本来吃狗肉防止饿死是紧急避险，但你现在吃的是公民，绷不住了，还没把人类当人看，先让动保把动物当公民，依旧反人类这一块，不是，还是没理解宠物凭什么有同等公民待遇，到时候动保就跟免费卫生巾一样得寸进尺，皮豆那些不愿意把宠物说成非人类室友的人，动物为何能有公民权利，流民没有公民身份，宠物比流民高等吗，恐怖伪人分子竟敢伪装成搞艺术的人类，我给你妈打死，你不是人类你有什么资格在这说话，宠物更没有人的情感，人的人性，基础常识等，兽性远大于乖巧一面\n仿生人足够历害，记忆，情感，常识，不恐怖谷等等，都可以给部分公民权利，你妈宠物是什么东西\n我看这个牢中终于干了一件好事赶紧给这李畜抓起来吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067064691969630377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 闹麻了，依旧爱猫人士，查理不用有智慧就能成为公民了，到时候本来吃狗肉防止饿死是紧急避险，但你现在吃的是公民，绷不住了，还没把人类当人看，先让动保把动物当公民，依旧反人类这一块，不是，还是没理解宠物凭什么有同等公民待遇，到时候动保就跟免费卫生巾一样得寸进尺，皮豆那些不愿意把宠物说成 https://t.co/Ra7HsYgNki"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33227,
+        "height": 720,
+        "media_key": "13_2067116996454658048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067116996454658048/img/uUju1CLjtdrrgQ9W.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067116996454658048/vid/avc1/480x270/Z-XyqDhibeajr4Ao.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067116996454658048/vid/avc1/640x360/Oom-uG3xsXhuOc14.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067116996454658048/vid/avc1/1280x720/TezbRWf6gxgxSmGz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067116996454658048/pl/kIieStrSkjr2YKFH.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2067116996429479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_f9MlaAAApIqF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066856434927583232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7y-hWWwAAlWks.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2066856491852693504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7zB1aXAAACcpj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2066856499347877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7zCRVWcAAhuuK.jpg",
+        "width": 2688
+      },
+      {
+        "height": 2688,
+        "media_key": "3_2066856511842775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7zC_4XcAArQAA.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067116996454658048",
+            "3_2067116996429479936"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067064691969630377",
+        "created_at": "2026-06-17T05:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067117066528940269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra7HsYgNki",
+              "end": 180,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067117066528940269/video/1",
+              "media_key": "13_2067116996454658048",
+              "start": 157,
+              "url": "https://t.co/Ra7HsYgNki"
+            },
+            {
+              "display_url": "pic.x.com/Ra7HsYgNki",
+              "end": 180,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067117066528940269/video/1",
+              "media_key": "3_2067116996429479936",
+              "start": 157,
+              "url": "https://t.co/Ra7HsYgNki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067117066528940269",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "闹麻了，依旧爱猫人士，查理不用有智慧就能成为公民了，到时候本来吃狗肉防止饿死是紧急避险，但你现在吃的是公民，绷不住了，还没把人类当人看，先让动保把动物当公民，依旧反人类这一块，不是，还是没理解宠物凭什么有同等公民待遇，到时候动保就跟免费卫生巾一样得寸进尺，皮豆那些不愿意把宠物说成非人类室友的人，动物为何能有公民权利，流民没有公民身份，宠物比流民高等吗，恐怖伪人分子竟敢伪装成搞艺术的人类，我给你妈打死，你不是人类你有什么资格在这说话，宠物更没有人的情感，人的人性，基础常识等，兽性远大于乖巧一面\n仿生人足够历害，记忆，情感，常识，不恐怖谷等等，都可以给部分公民权利，你妈宠物是什么东西\n我看这个牢中终于干了一件好事赶紧给这李畜抓起来吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067064691969630377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 闹麻了，依旧爱猫人士，查理不用有智慧就能成为公民了，到时候本来吃狗肉防止饿死是紧急避险，但你现在吃的是公民，绷不住了，还没把人类当人看，先让动保把动物当公民，依旧反人类这一块，不是，还是没理解宠物凭什么有同等公民待遇，到时候动保就跟免费卫生巾一样得寸进尺，皮豆那些不愿意把宠物说成 https://t.co/Ra7HsYgNki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066856434927583232",
+            "3_2066856491852693504",
+            "3_2066856499347877888",
+            "3_2066856511842775040"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2067064691969630377",
+        "created_at": "2026-06-17T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067064691969630377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIgeXIek8l",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067064691969630377/photo/1",
+              "media_key": "3_2066856434927583232",
+              "start": 148,
+              "url": "https://t.co/vIgeXIek8l"
+            },
+            {
+              "display_url": "pic.x.com/vIgeXIek8l",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067064691969630377/photo/1",
+              "media_key": "3_2066856491852693504",
+              "start": 148,
+              "url": "https://t.co/vIgeXIek8l"
+            },
+            {
+              "display_url": "pic.x.com/vIgeXIek8l",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067064691969630377/photo/1",
+              "media_key": "3_2066856499347877888",
+              "start": 148,
+              "url": "https://t.co/vIgeXIek8l"
+            },
+            {
+              "display_url": "pic.x.com/vIgeXIek8l",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067064691969630377/photo/1",
+              "media_key": "3_2066856511842775040",
+              "start": 148,
+              "url": "https://t.co/vIgeXIek8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067064691969630377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 96337,
+          "like_count": 471,
+          "quote_count": 12,
+          "reply_count": 108,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "6月16日，央美毕业展上，出现了“公投” 互动艺术装置。\n\n“ 在未来档案中，你是否同意将宠物一词废除，使其统一改称为非人类室友并赋予同等公民待遇？”\n\n几天后，整面墙已经被密密麻麻的红黑色手掌贴纸完全填满，甚至溢出了白墙边缘。\n​双方观点交锋激烈，最终的视觉效果几乎形成了对半平手的饱和状态。 https://t.co/vIgeXIek8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 174,
+          "like_count": 6688,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 1616
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236848,
+          "following_count": 1070,
+          "like_count": 9708,
+          "listed_count": 8794,
+          "media_count": 48739,
+          "tweet_count": 55901
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

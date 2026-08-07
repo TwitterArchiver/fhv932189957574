@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066252211320139777",
+        "3_2066252211324346368",
+        "3_2066252211328577536"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065957967355371999",
+    "created_at": "2026-06-14T20:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066252222321832039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688717083583078400",
+          "start": 0,
+          "username": "KKTALKK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OruIh7yHNA",
+          "end": 32,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+          "media_key": "3_2066252211320139777",
+          "start": 9,
+          "url": "https://t.co/OruIh7yHNA"
+        },
+        {
+          "display_url": "pic.x.com/OruIh7yHNA",
+          "end": 32,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+          "media_key": "3_2066252211324346368",
+          "start": 9,
+          "url": "https://t.co/OruIh7yHNA"
+        },
+        {
+          "display_url": "pic.x.com/OruIh7yHNA",
+          "end": 32,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+          "media_key": "3_2066252211328577536",
+          "start": 9,
+          "url": "https://t.co/OruIh7yHNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066252222321832039",
+    "in_reply_to_user_id": "1688717083583078400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065957967355371999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKTALKK https://t.co/OruIh7yHNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066252211320139777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzNcFAaMAEvyja.jpg",
+        "width": 854
+      },
+      {
+        "height": 772,
+        "media_key": "3_2066252211324346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzNcFBaYAAC3qu.jpg",
+        "width": 770
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066252211328577536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzNcFCa8AA89qQ.jpg",
+        "width": 799
+      },
+      {
+        "height": 1298,
+        "media_key": "3_2065957961302953985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvB0eRaUAEJAxh.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066252211320139777",
+            "3_2066252211324346368",
+            "3_2066252211328577536"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065957967355371999",
+        "created_at": "2026-06-14T20:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066252222321832039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688717083583078400",
+              "start": 0,
+              "username": "KKTALKK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OruIh7yHNA",
+              "end": 32,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+              "media_key": "3_2066252211320139777",
+              "start": 9,
+              "url": "https://t.co/OruIh7yHNA"
+            },
+            {
+              "display_url": "pic.x.com/OruIh7yHNA",
+              "end": 32,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+              "media_key": "3_2066252211324346368",
+              "start": 9,
+              "url": "https://t.co/OruIh7yHNA"
+            },
+            {
+              "display_url": "pic.x.com/OruIh7yHNA",
+              "end": 32,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066252222321832039/photo/1",
+              "media_key": "3_2066252211328577536",
+              "start": 9,
+              "url": "https://t.co/OruIh7yHNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066252222321832039",
+        "in_reply_to_user_id": "1688717083583078400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065957967355371999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKTALKK https://t.co/OruIh7yHNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065957961302953985"
+          ]
+        },
+        "author_id": "1688717083583078400",
+        "conversation_id": "2065957967355371999",
+        "created_at": "2026-06-14T00:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065957967355371999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDbgo5q7It",
+              "end": 45,
+              "expanded_url": "https://x.com/KKTALKK/status/2065957967355371999/photo/1",
+              "media_key": "3_2065957961302953985",
+              "start": 22,
+              "url": "https://t.co/JDbgo5q7It"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065957967355371999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人 \n\n立刻马上 \n\n发一张奇怪的照片 https://t.co/JDbgo5q7It"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 175,
+          "like_count": 6518,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 1574
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T01:02:25.000Z",
+        "description": "Web3 实操记录｜交易所活动/空投/积分/港美券商羊毛 只分享自己实测过的低成本玩法｜不构成投资建议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KKTALKK",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KKTALKK",
+                "start": 0,
+                "url": "https://t.co/JpvTzl3GMu"
+              }
+            ]
+          }
+        },
+        "id": "1688717083583078400",
+        "name": "D.C",
+        "pinned_tweet_id": "2065044376028692928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905297880954675200/CO9OTaY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3965,
+          "following_count": 3620,
+          "like_count": 6783,
+          "listed_count": 14,
+          "media_count": 2268,
+          "tweet_count": 12102
+        },
+        "url": "https://t.co/JpvTzl3GMu",
+        "username": "KKTALKK",
+        "verified": true
+      }
+    ]
+  }
+}

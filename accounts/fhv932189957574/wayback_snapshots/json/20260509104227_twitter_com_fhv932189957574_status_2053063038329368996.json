@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2052707426315727342",
+    "created_at": "2026-05-09T10:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053063038329368996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1230167188188753920",
+          "start": 0,
+          "username": "Vu1pbux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053063038329368996",
+    "in_reply_to_user_id": "1230167188188753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052707426315727342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vu1pbux 什么味道😋，是串还是？少打了个华吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2052707426315727342",
+        "created_at": "2026-05-09T10:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053063038329368996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1230167188188753920",
+              "start": 0,
+              "username": "Vu1pbux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053063038329368996",
+        "in_reply_to_user_id": "1230167188188753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052707426315727342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vu1pbux 什么味道😋，是串还是？少打了个华吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1230167188188753920",
+        "conversation_id": "2052707426315727342",
+        "created_at": "2026-05-08T11:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052707426315727342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052707426315727342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2228,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三角初是个善良的好孩子，能一次性交很多朋友，一路走来很不容易，吃过很多打击吧…早年她家庭条件并不好，为了喂家里的牛每天上山背筐草；读书也没有天赋，每次考试都被很多人超。最后她发掘了自己歌唱的天赋进入舞台，她真心热爱这份工作，满身都是敬业的味道；她也非常贴心，演出前总会在准备间备茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute一定要联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 319
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-19T16:28:19.000Z",
+        "description": "💛💙\n会的\n纯初压抑的黄色废料账号，很多低俗发言",
+        "id": "1230167188188753920",
+        "name": "我要你收养我",
+        "pinned_tweet_id": "2033717421509578879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038952936659947520/rm8H-Tk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 343,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 419
+        },
+        "username": "Vu1pbux",
+        "verified": false
+      }
+    ]
+  }
+}

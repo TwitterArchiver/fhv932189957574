@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2051283414758633646",
+    "created_at": "2026-05-04T16:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051331016829387238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500830648038133760",
+          "start": 0,
+          "username": "KisBaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051331016829387238",
+    "in_reply_to_user_id": "1500830648038133760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051283414758633646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KisBaka_ 豪吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2051283404549677056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHefY2XWYAAwG2j.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2051283414758633646",
+        "created_at": "2026-05-04T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051331016829387238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500830648038133760",
+              "start": 0,
+              "username": "KisBaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051331016829387238",
+        "in_reply_to_user_id": "1500830648038133760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051283414758633646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisBaka_ 豪吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051283404549677056"
+          ]
+        },
+        "author_id": "1500830648038133760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051283414758633646",
+        "created_at": "2026-05-04T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051283414758633646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llmSwSOehT",
+              "end": 26,
+              "expanded_url": "https://x.com/KisBaka_/status/2051283414758633646/photo/1",
+              "media_key": "3_2051283404549677056",
+              "start": 3,
+              "url": "https://t.co/llmSwSOehT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051283414758633646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃！ https://t.co/llmSwSOehT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 22,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 198
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T13:48:18.000Z",
+        "description": "可不可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaka16555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaka16555",
+                "start": 0,
+                "url": "https://t.co/Aupl0FTWnC"
+              }
+            ]
+          }
+        },
+        "id": "1500830648038133760",
+        "location": "Miss u",
+        "name": "wakaka",
+        "pinned_tweet_id": "2028836636763607265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023408861089091584/3RtY3XHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 3,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/Aupl0FTWnC",
+        "username": "KisBaka_",
+        "verified": false
+      }
+    ]
+  }
+}

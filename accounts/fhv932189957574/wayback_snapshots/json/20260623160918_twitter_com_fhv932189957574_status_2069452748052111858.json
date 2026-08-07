@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2069217119833907367",
+    "created_at": "2026-06-23T16:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069452748052111858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865995824775462912",
+          "start": 0,
+          "username": "king1818888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069452748052111858",
+    "in_reply_to_user_id": "1865995824775462912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069217119833907367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@king1818888 实际上正确教育和鼓励孩子的父母是伟大的父母，而不是生后虐待或不养的孩子的父母"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2069217119833907367",
+        "created_at": "2026-06-23T16:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069452748052111858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865995824775462912",
+              "start": 0,
+              "username": "king1818888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069452748052111858",
+        "in_reply_to_user_id": "1865995824775462912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069217119833907367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king1818888 实际上正确教育和鼓励孩子的父母是伟大的父母，而不是生后虐待或不养的孩子的父母"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865995824775462912",
+        "conversation_id": "2069217119833907367",
+        "created_at": "2026-06-23T00:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069217119833907367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069217119833907367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 23709,
+          "like_count": 443,
+          "quote_count": 5,
+          "reply_count": 67,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "一事无成的男女做了一次爱就变成了伟大的父母，穷了一辈子的老祖宗死了之后就能保佑你升官发财\n\n这合理吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 217,
+          "like_count": 7764,
+          "listed_count": 0,
+          "media_count": 734,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T05:44:17.000Z",
+        "description": "AI Engineer in Melbourne\n🤖 AI工具实战玩家 & X内容创作者\n🏠 澳洲房产管理总价值超过千万，买房投资套路全见过\n📈 资产配置与理财分享，普通人30岁前财富增长路径\n💬 微信合作咨询：mengangjing（请注明来意）",
+        "id": "1865995824775462912",
+        "location": "Melbourne, Victoria",
+        "name": "Kimberly",
+        "pinned_tweet_id": "2062477275313160267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050829855701487616/cMQeXTZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4710,
+          "following_count": 512,
+          "like_count": 24765,
+          "listed_count": 25,
+          "media_count": 429,
+          "tweet_count": 13384
+        },
+        "url": "",
+        "username": "king1818888",
+        "verified": true
+      }
+    ]
+  }
+}

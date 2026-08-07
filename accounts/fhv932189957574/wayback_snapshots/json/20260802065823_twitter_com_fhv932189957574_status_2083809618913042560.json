@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083604031814193152"
+      ],
+      "media_source_tweet_id": [
+        "2083604349935407582"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Spider-Man",
+          "id": "1012672762442182657",
+          "name": "Spider-Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spider-Man",
+          "id": "1012672762442182657",
+          "name": "Spider-Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2083809618913042560",
+    "created_at": "2026-08-02T06:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083809618913042560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1059466638234271744",
+          "start": 3,
+          "username": "yaoguangarmpits"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1aUnP2rtK",
+          "end": 99,
+          "expanded_url": "https://x.com/yaoguangarmpits/status/2083604349935407582/photo/1",
+          "media_key": "3_2083604031814193152",
+          "start": 76,
+          "url": "https://t.co/I1aUnP2rtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083809618913042560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083604349935407582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaoguangarmpits: guys spiderman's real identity might be oblivionis idk https://t.co/I1aUnP2rtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2083604031814193152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpy09jbUAAiOOm.png",
+        "width": 759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083604031814193152"
+          ]
+        },
+        "author_id": "1059466638234271744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2083604349935407582",
+        "created_at": "2026-08-01T17:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083604349935407582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1aUnP2rtK",
+              "end": 78,
+              "expanded_url": "https://x.com/yaoguangarmpits/status/2083604349935407582/photo/1",
+              "media_key": "3_2083604031814193152",
+              "start": 55,
+              "url": "https://t.co/I1aUnP2rtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083604349935407582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 18511,
+          "like_count": 1321,
+          "quote_count": 21,
+          "reply_count": 7,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "guys spiderman's real identity might be oblivionis idk https://t.co/I1aUnP2rtK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083604031814193152"
+          ],
+          "media_source_tweet_id": [
+            "2083604349935407582"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2083809618913042560",
+        "created_at": "2026-08-02T06:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083809618913042560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1059466638234271744",
+              "start": 3,
+              "username": "yaoguangarmpits"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1aUnP2rtK",
+              "end": 99,
+              "expanded_url": "https://x.com/yaoguangarmpits/status/2083604349935407582/photo/1",
+              "media_key": "3_2083604031814193152",
+              "start": 76,
+              "url": "https://t.co/I1aUnP2rtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083809618913042560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083604349935407582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaoguangarmpits: guys spiderman's real identity might be oblivionis idk https://t.co/I1aUnP2rtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 482,
+          "like_count": 14268,
+          "listed_count": 0,
+          "media_count": 1181,
+          "tweet_count": 3373
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-05T15:25:05.000Z",
+        "description": "🔞\n(inconsistent + lazy artist )\nMultifandom, shipper\nany prns\nENG/TH (bad at both)\n\nマクテイ, 🌈🐱 🌸🦚  🔄\n\nDNI: algnx, sunguang \n800831873 asia\nmy vocab suckass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kana22.straw.page",
+                "end": 23,
+                "expanded_url": "https://kana22.straw.page",
+                "start": 0,
+                "url": "https://t.co/w9x3rC166Y"
+              }
+            ]
+          }
+        },
+        "id": "1059466638234271744",
+        "location": "Anon Bangkok",
+        "name": "yao guang sweaty armpits​ (kana)",
+        "pinned_tweet_id": "2024898728679932059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080721252793417730/EmNxYOZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 2061,
+          "like_count": 39617,
+          "listed_count": 16,
+          "media_count": 3256,
+          "tweet_count": 40436
+        },
+        "url": "https://t.co/w9x3rC166Y",
+        "username": "yaoguangarmpits",
+        "verified": false
+      }
+    ]
+  }
+}

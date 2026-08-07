@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074455396647936033",
+    "created_at": "2026-07-08T02:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074681471370154273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365613446058893313",
+          "start": 0,
+          "username": "kayjikayji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074681471370154273",
+    "in_reply_to_user_id": "1365613446058893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074455396647936033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kayjikayji 可恶的福瑞集团"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10263,
+        "height": 852,
+        "media_key": "7_2074455380520841217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074455380520841217/pu/img/mx0qDaTaaR6_vnKj.jpg",
+        "public_metrics": {
+          "view_count": 682177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/vid/avc1/320x568/9LXdzurqAJwpTN89.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/vid/avc1/480x852/z3Y4Ezs1VoLNgOUz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/pl/auuLcWvYErsThvn5.m3u8?tag=12&v=9f8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074455396647936033",
+        "created_at": "2026-07-08T02:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074681471370154273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365613446058893313",
+              "start": 0,
+              "username": "kayjikayji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074681471370154273",
+        "in_reply_to_user_id": "1365613446058893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074455396647936033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kayjikayji 可恶的福瑞集团"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074455380520841217"
+          ]
+        },
+        "author_id": "1365613446058893313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2074455396647936033",
+        "created_at": "2026-07-07T11:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074455396647936033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnO2W9Rjl9",
+              "end": 32,
+              "expanded_url": "https://x.com/kayjikayji/status/2074455396647936033/video/1",
+              "media_key": "7_2074455380520841217",
+              "start": 9,
+              "url": "https://t.co/RnO2W9Rjl9"
+            },
+            {
+              "display_url": "x.com/kayjikayji/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/kayjikayji/status/2074453743148450266",
+              "start": 33,
+              "url": "https://t.co/OEGJPEDmqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074455396647936033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23011,
+          "impression_count": 2506275,
+          "like_count": 94357,
+          "quote_count": 670,
+          "reply_count": 489,
+          "retweet_count": 11807
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074453743148450266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Found it https://t.co/RnO2W9Rjl9 https://t.co/OEGJPEDmqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 408,
+          "like_count": 9610,
+          "listed_count": 0,
+          "media_count": 960,
+          "tweet_count": 2585
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-27T10:43:32.000Z",
+        "description": "🇩🇪 | 18+! | 19 (unc) | gay |  kitty cat | compsci student",
+        "id": "1365613446058893313",
+        "location": "BaWü",
+        "name": "Kayji 🍍",
+        "pinned_tweet_id": "2069393330786488641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072584456917966848/lEy09cvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 338,
+          "like_count": 9299,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3878
+        },
+        "url": "",
+        "username": "kayjikayji",
+        "verified": false
+      }
+    ]
+  }
+}

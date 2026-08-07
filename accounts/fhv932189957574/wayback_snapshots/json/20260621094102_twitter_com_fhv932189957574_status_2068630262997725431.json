@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2068405085034688983",
+    "created_at": "2026-06-21T09:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068630262997725431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917896377411198976",
+          "start": 0,
+          "username": "m_12126695"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        },
+        {
+          "end": 31,
+          "id": "1330568718561153025",
+          "start": 18,
+          "username": "UserRIVAL116"
+        },
+        {
+          "end": 56,
+          "id": "1720665183188922368",
+          "start": 51,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068630262997725431",
+    "in_reply_to_user_id": "1917896377411198976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068625047908917617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m_12126695 @grok @UserRIVAL116 中国身份证未满18岁认证影响账号功能吗@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2068405085034688983",
+        "created_at": "2026-06-21T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068630262997725431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917896377411198976",
+              "start": 0,
+              "username": "m_12126695"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            },
+            {
+              "end": 31,
+              "id": "1330568718561153025",
+              "start": 18,
+              "username": "UserRIVAL116"
+            },
+            {
+              "end": 56,
+              "id": "1720665183188922368",
+              "start": 51,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068630262997725431",
+        "in_reply_to_user_id": "1917896377411198976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068625047908917617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m_12126695 @grok @UserRIVAL116 中国身份证未满18岁认证影响账号功能吗@grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917896377411198976",
+        "conversation_id": "2068405085034688983",
+        "created_at": "2026-06-21T09:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068625047908917617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1330568718561153025",
+              "start": 6,
+              "username": "UserRIVAL116"
+            },
+            {
+              "end": 44,
+              "id": "1720665183188922368",
+              "start": 39,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625047908917617",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068405264886194589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @UserRIVAL116 中国身份证未满18岁认证影响账号功能吗@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 218,
+          "like_count": 7399,
+          "listed_count": 0,
+          "media_count": 691,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T10:58:43.000Z",
+        "description": "",
+        "id": "1917896377411198976",
+        "name": "骂我是若智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917897386325946369/8WLrVMZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "m_12126695",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819176,
+          "following_count": 5,
+          "like_count": 108,
+          "listed_count": 7047,
+          "media_count": 9071372,
+          "tweet_count": 129492538
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-22T17:48:20.000Z",
+        "description": "web3/ Crypto / 增长 / 互动最快之人\n\n商业合作咨询/请私信 蟹蟹 (｡ì _ í｡)",
+        "id": "1330568718561153025",
+        "name": "RIVAL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041052409401581568/0uMtVZ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 4150,
+          "like_count": 15999,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 4922
+        },
+        "url": "",
+        "username": "UserRIVAL116",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072681770449797582",
+    "created_at": "2026-07-03T05:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072912464816312513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924715920766992391",
+          "start": 0,
+          "username": "CastellaB81740"
+        },
+        {
+          "end": 25,
+          "id": "2427586855",
+          "start": 16,
+          "username": "iUsuaria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/suikachans/sta…",
+          "end": 49,
+          "expanded_url": "https://x.com/suikachans/status/2072829718903259377?s=46",
+          "start": 26,
+          "url": "https://t.co/YiFfORd5J3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072912464816312513",
+    "in_reply_to_user_id": "1924715920766992391",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072829718903259377",
+        "type": "quoted"
+      },
+      {
+        "id": "2072755648844935363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CastellaB81740 @iUsuaria https://t.co/YiFfORd5J3\n？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9030,
+        "height": 1280,
+        "media_key": "13_2072829655502274560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072829655502274560/img/mswhc4BEISdTRWtv.jpg",
+        "public_metrics": {
+          "view_count": 24409
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072829655502274560/vid/avc1/320x568/ImQGUhT19dM9r8XM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072829655502274560/vid/avc1/480x852/8rBSZjv0jOWxf4I2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072829655502274560/vid/avc1/720x1280/OlaMbcTBlLcjB7zT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072829655502274560/pl/IJi36CuNSrQKOrL3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072681770449797582",
+        "created_at": "2026-07-03T05:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072912464816312513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924715920766992391",
+              "start": 0,
+              "username": "CastellaB81740"
+            },
+            {
+              "end": 25,
+              "id": "2427586855",
+              "start": 16,
+              "username": "iUsuaria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/suikachans/sta…",
+              "end": 49,
+              "expanded_url": "https://x.com/suikachans/status/2072829718903259377?s=46",
+              "start": 26,
+              "url": "https://t.co/YiFfORd5J3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072912464816312513",
+        "in_reply_to_user_id": "1924715920766992391",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072829718903259377",
+            "type": "quoted"
+          },
+          {
+            "id": "2072755648844935363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CastellaB81740 @iUsuaria https://t.co/YiFfORd5J3\n？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072829655502274560"
+          ]
+        },
+        "author_id": "1331156498525786112",
+        "conversation_id": "2072829718903259377",
+        "created_at": "2026-07-02T23:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072829718903259377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4giquvKLV",
+              "end": 35,
+              "expanded_url": "https://x.com/suikachans/status/2072829718903259377/video/1",
+              "media_key": "13_2072829655502274560",
+              "start": 12,
+              "url": "https://t.co/E4giquvKLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072829718903259377",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1164,
+          "impression_count": 51712,
+          "like_count": 4859,
+          "quote_count": 125,
+          "reply_count": 26,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "I’m shaking https://t.co/E4giquvKLV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924715920766992391",
+        "conversation_id": "2072681770449797582",
+        "created_at": "2026-07-02T18:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072755648844935363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2427586855",
+              "start": 0,
+              "username": "iUsuaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072755648844935363",
+        "in_reply_to_user_id": "2427586855",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 902,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072681770449797582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iUsuaria En efecto. Ahora muchas mujeres posan en poca ropa, hacen contenido mediocre, hacen polémica en redes para tener vistas. Es una pena que mujeres inteligentes fueran sacrificadas. Ellas estarían avergonzadas de ver en lo que nos hemos transformado, y como si lucha fue en vano"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 314,
+          "like_count": 9069,
+          "listed_count": 0,
+          "media_count": 894,
+          "tweet_count": 2389
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T06:37:12.000Z",
+        "description": "",
+        "id": "1924715920766992391",
+        "name": "Castella Blog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924716018888241152/8xyv6UWR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "CastellaB81740",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T17:05:04.000Z",
+        "description": "",
+        "id": "2427586855",
+        "location": "Publicidad: DM 📩",
+        "name": "‏ًً",
+        "pinned_tweet_id": "2072681770449797582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963904575204732928/CqRzHnMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52971,
+          "following_count": 86,
+          "like_count": 565201,
+          "listed_count": 1082,
+          "media_count": 19,
+          "tweet_count": 32896
+        },
+        "url": "",
+        "username": "iUsuaria",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-24T08:43:48.000Z",
+        "description": "Sylus Trash 🐦‍⬛ 30 MDNI 🔞",
+        "id": "1331156498525786112",
+        "name": "𝒔𝒖𝒊𝒌𝒂♡",
+        "pinned_tweet_id": "2072829718903259377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028572041545461760/3XcM7XzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 408,
+          "like_count": 8227,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 3340
+        },
+        "url": "",
+        "username": "suikachans",
+        "verified": false
+      }
+    ]
+  }
+}

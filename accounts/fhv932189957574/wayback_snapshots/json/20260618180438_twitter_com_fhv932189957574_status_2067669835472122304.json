@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067669829499428864"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067628048711885214",
+    "created_at": "2026-06-18T18:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067669835472122304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yRhSE8YaY8",
+          "end": 42,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067669835472122304/photo/1",
+          "media_key": "3_2067669829499428864",
+          "start": 19,
+          "url": "https://t.co/yRhSE8YaY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067669835472122304",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067628048711885214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 不对😡 https://t.co/yRhSE8YaY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 235,
+        "media_key": "3_2067669829499428864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHWwUQbIAASQO_.jpg",
+        "width": 431
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2067628039291482112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGwvzmbMAAuvdM.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067669829499428864"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067628048711885214",
+        "created_at": "2026-06-18T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067669835472122304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRhSE8YaY8",
+              "end": 42,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067669835472122304/photo/1",
+              "media_key": "3_2067669829499428864",
+              "start": 19,
+              "url": "https://t.co/yRhSE8YaY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067669835472122304",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067628048711885214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 不对😡 https://t.co/yRhSE8YaY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067628039291482112"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2067628048711885214",
+        "created_at": "2026-06-18T15:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067628048711885214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWyQZPGr1M",
+              "end": 23,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2067628048711885214/photo/1",
+              "media_key": "3_2067628039291482112",
+              "start": 0,
+              "url": "https://t.co/jWyQZPGr1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067628048711885214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jWyQZPGr1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 211,
+          "like_count": 6944,
+          "listed_count": 1,
+          "media_count": 620,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 1872,
+          "like_count": 6767,
+          "listed_count": 6,
+          "media_count": 728,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

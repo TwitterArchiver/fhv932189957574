@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2083529349920440737",
+    "created_at": "2026-08-01T12:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083529349920440737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadedwater/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/fadedwater/status/2083516633193320584",
+          "start": 3,
+          "url": "https://t.co/XBOrSKo779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083529349920440737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083516633193320584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神了 https://t.co/XBOrSKo779"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2083529349920440737",
+        "created_at": "2026-08-01T12:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083529349920440737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadedwater/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/fadedwater/status/2083516633193320584",
+              "start": 3,
+              "url": "https://t.co/XBOrSKo779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083529349920440737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083516633193320584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了 https://t.co/XBOrSKo779"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822323748596502528",
+        "conversation_id": "2083461903834296530",
+        "created_at": "2026-08-01T11:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083516633193320584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083516633193320584",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083461903834296530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 电脑变成升值器了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 477,
+          "like_count": 14157,
+          "listed_count": 0,
+          "media_count": 1176,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T17:28:31.000Z",
+        "description": "暂时目标：活的过瘾\nCarpe diem.",
+        "id": "1822323748596502528",
+        "name": "Fadedwater",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929211508577402880/Ezf6bmJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 219,
+          "like_count": 18308,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "fadedwater",
+        "verified": false
+      }
+    ]
+  }
+}

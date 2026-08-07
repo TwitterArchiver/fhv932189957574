@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072382645741474070",
+    "created_at": "2026-07-01T18:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072382645741474070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pinkcrispss/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pinkcrispss/status/2072012294863962385",
+          "start": 4,
+          "url": "https://t.co/jpEUtkREeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072382645741474070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072012294863962385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的😄 https://t.co/jpEUtkREeR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14400,
+        "height": 1920,
+        "media_key": "13_2072012233253752832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072012233253752832/img/9ApBVTIF0p-smv-j.jpg",
+        "public_metrics": {
+          "view_count": 83316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072012233253752832/vid/avc1/1080x1920/ZwK-sQjO8z6peZg1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072012233253752832/pl/NkNzPKviYIRSIycP.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072012233253752832/vid/avc1/320x568/XvE-7mDxCctZm2Ul.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072012233253752832/vid/avc1/720x1280/AdY618n1Qtd_YEII.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072012233253752832/vid/avc1/480x852/g7Afo2Zh9tyVlSIN.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072382645741474070",
+        "created_at": "2026-07-01T18:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072382645741474070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkcrispss/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pinkcrispss/status/2072012294863962385",
+              "start": 4,
+              "url": "https://t.co/jpEUtkREeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072382645741474070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072012294863962385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的😄 https://t.co/jpEUtkREeR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072012233253752832"
+          ]
+        },
+        "author_id": "1869912388558041088",
+        "conversation_id": "2072012294863962385",
+        "created_at": "2026-06-30T17:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072012294863962385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uaU2lRQYSr",
+              "end": 101,
+              "expanded_url": "https://x.com/pinkcrispss/status/2072012294863962385/video/1",
+              "media_key": "13_2072012233253752832",
+              "start": 78,
+              "url": "https://t.co/uaU2lRQYSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072012294863962385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1171,
+          "impression_count": 162641,
+          "like_count": 22551,
+          "quote_count": 83,
+          "reply_count": 98,
+          "retweet_count": 4018
+        },
+        "reply_settings": "everyone",
+        "text": "Valko does not deserve this treatment at all, alot of CN girles loved him too https://t.co/uaU2lRQYSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 2311
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T01:07:21.000Z",
+        "description": "love and deepspace - all LI lover | 28+ | i follow JP dub/trope | 🐾BRING VALKO BACK🐾 | check highlights for battle tips/protocores | header art by @mrssylvs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 147,
+                "username": "mrssylvs"
+              }
+            ]
+          }
+        },
+        "id": "1869912388558041088",
+        "location": "❄️ Mrs. Li ❄️",
+        "name": "𝒔𝒖𝒛𝒖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025576834478567424/mHgPaG7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10454,
+          "following_count": 510,
+          "like_count": 60568,
+          "listed_count": 23,
+          "media_count": 3685,
+          "tweet_count": 14887
+        },
+        "url": "",
+        "username": "pinkcrispss",
+        "verified": false
+      }
+    ]
+  }
+}

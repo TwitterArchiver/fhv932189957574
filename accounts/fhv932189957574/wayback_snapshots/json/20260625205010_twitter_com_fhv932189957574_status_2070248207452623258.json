@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070248207452623258",
+    "created_at": "2026-06-25T20:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T21:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070248207452623258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/egonuboskovic/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/egonuboskovic/status/2070042268652999002",
+          "start": 17,
+          "url": "https://t.co/HNczDEx8yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070248207452623258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070042268652999002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我己抵达推特最深处\n我现在很想笑 https://t.co/HNczDEx8yc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115500,
+        "height": 1280,
+        "media_key": "13_2070040839443947520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070040839443947520/img/vCr96L-J8gWFJzxE.jpg",
+        "public_metrics": {
+          "view_count": 600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070040839443947520/vid/avc1/320x640/udzz8p6b40IxKVW2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070040839443947520/vid/avc1/480x960/ctyZSXlGbacPM14q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070040839443947520/vid/avc1/640x1280/r-GIJPRbmDo-0H9b.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070040839443947520/pl/NcRC4boGom4RLMUu.m3u8?tag=14&v=860"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070248207452623258",
+        "created_at": "2026-06-25T20:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T21:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070248207452623258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/egonuboskovic/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/egonuboskovic/status/2070042268652999002",
+              "start": 17,
+              "url": "https://t.co/HNczDEx8yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070248207452623258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070042268652999002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我己抵达推特最深处\n我现在很想笑 https://t.co/HNczDEx8yc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070040839443947520"
+          ]
+        },
+        "author_id": "1264131297619804160",
+        "conversation_id": "2070042268652999002",
+        "created_at": "2026-06-25T07:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070042268652999002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FjCFMZroO",
+              "end": 115,
+              "expanded_url": "https://x.com/EgonuBoskovic/status/2070042268652999002/video/1",
+              "media_key": "13_2070040839443947520",
+              "start": 92,
+              "url": "https://t.co/8FjCFMZroO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070042268652999002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1641,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "母凭子贵❌\n子贵母死✔️\n你不要以为你十月怀胎又含辛茹苦地把儿子养大你跟儿子就是一家人了，在男人看来你不过是个叛徒、贰臣贼子，所以在男人家里你顶多只能喝口汤，永远别指望可以分一块肉。 https://t.co/8FjCFMZroO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 220,
+          "like_count": 8269,
+          "listed_count": 0,
+          "media_count": 785,
+          "tweet_count": 2027
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-23T09:49:31.000Z",
+        "description": "性别女，爱好打拳，坦克，剪鸡手，6B4T，易block人，勿关注。可以不追星，但不可以停止为郑爽发声。反代孕不反男的非蠢即坏",
+        "id": "1264131297619804160",
+        "name": "谢绝娣",
+        "pinned_tweet_id": "1527248958720180225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538515298902753280/p8QpZcZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 107,
+          "like_count": 85899,
+          "listed_count": 27,
+          "media_count": 7491,
+          "tweet_count": 49635
+        },
+        "url": "",
+        "username": "EgonuBoskovic",
+        "verified": false
+      }
+    ]
+  }
+}

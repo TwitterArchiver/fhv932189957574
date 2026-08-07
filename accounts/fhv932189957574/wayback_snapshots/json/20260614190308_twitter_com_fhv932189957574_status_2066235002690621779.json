@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2066086953913844217",
+    "created_at": "2026-06-14T19:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066235002690621779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066235002690621779",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066225890108100710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 得糖尿病了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2066086953913844217",
+        "created_at": "2026-06-14T19:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066235002690621779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066235002690621779",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066225890108100710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 得糖尿病了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927018923649564674",
+        "conversation_id": "2066086953913844217",
+        "created_at": "2026-06-14T18:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066225890108100710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066225890108100710",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066086953913844217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 一路上的甜甜甜甜只有自己知道😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 175,
+          "like_count": 6459,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 1548
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像一枚捏\n如果看到哪位宝宝关注我我都会回关的\n想去死想去死想去死\n很缺爱的一个入，很希望有个依靠，但想起自己那丑陋的皮囊还是算了吧\n梦想就是下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘发好看的白丝黑丝和cos服给推友们看豪堪的喵\n希望两年后会倒在自己的血泊中无人在意",
+        "id": "1927018923649564674",
+        "location": "躺上去肯定会舒服的地方",
+        "name": "缺爱哥布林想要重生为建模优美男娘",
+        "pinned_tweet_id": "2063468670790291840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062963140418310144/9zuI0VwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 163,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 744
+        },
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

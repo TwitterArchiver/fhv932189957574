@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2068009106389270765",
+    "created_at": "2026-06-19T19:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068058959236501803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068058959236501803",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068009106389270765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan 我去要回国了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 165905,
+        "height": 872,
+        "media_key": "13_2068008848817025024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068008848817025024/img/n9TAXZ6PYMitAzn_.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068008848817025024/vid/avc1/1918x872/MXCJyt4H2ESkzgkc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068008848817025024/pl/dXrlPQUHLgpcwA8x.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068008848817025024/vid/avc1/1582x720/c1IDINHTlYqo-fkI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068008848817025024/vid/avc1/592x270/RBlkFCOfF39c6jO7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068008848817025024/vid/avc1/790x360/m55DStLevMqbiQzZ.mp4"
+          }
+        ],
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2068009106389270765",
+        "created_at": "2026-06-19T19:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068058959236501803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068058959236501803",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068009106389270765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan 我去要回国了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068008848817025024"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2068009106389270765",
+        "created_at": "2026-06-19T16:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068009106389270765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeA2tdOEOf",
+              "end": 33,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2068009106389270765/video/1",
+              "media_key": "13_2068008848817025024",
+              "start": 10,
+              "url": "https://t.co/GeA2tdOEOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068009106389270765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回国前最后一条推特 https://t.co/GeA2tdOEOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 212,
+          "like_count": 7242,
+          "listed_count": 1,
+          "media_count": 666,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，有对象，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2065348984466813399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 221,
+          "like_count": 6614,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071318480264237056",
+        "16_2071318480251752449"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070714778675454018",
+    "created_at": "2026-06-28T19:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071318526766588166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhkPOG8b77",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2071318526766588166/photo/1",
+          "media_key": "3_2071318480264237056",
+          "start": 17,
+          "url": "https://t.co/GhkPOG8b77"
+        },
+        {
+          "display_url": "pic.x.com/GhkPOG8b77",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2071318526766588166/photo/1",
+          "media_key": "16_2071318480251752449",
+          "start": 17,
+          "url": "https://t.co/GhkPOG8b77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071318526766588166",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070714778675454018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 绷住 https://t.co/GhkPOG8b77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2071318480264237056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7NLvjaEAAadg1.jpg",
+        "width": 1016
+      },
+      {
+        "height": 326,
+        "media_key": "16_2071318480251752449",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL7NLvgbkAEWynH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL7NLvgbkAEWynH.mp4"
+          }
+        ],
+        "width": 300
+      },
+      {
+        "duration_ms": 200664,
+        "height": 540,
+        "media_key": "7_2070714728465457152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070714728465457152/pu/img/YCG2WksUZf4JiEbz.jpg",
+        "public_metrics": {
+          "view_count": 50276
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070714728465457152/pu/vid/avc1/360x270/fgHlno6fYjPC7jAv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070714728465457152/pu/vid/avc1/480x360/F9bo_V347XEwVJSd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070714728465457152/pu/vid/avc1/720x540/WFDoLHWGJ_gazsik.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070714728465457152/pu/pl/JOIj6x_tgAyDcLSb.m3u8?v=0e6"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071318480264237056",
+            "16_2071318480251752449"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070714778675454018",
+        "created_at": "2026-06-28T19:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071318526766588166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhkPOG8b77",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2071318526766588166/photo/1",
+              "media_key": "3_2071318480264237056",
+              "start": 17,
+              "url": "https://t.co/GhkPOG8b77"
+            },
+            {
+              "display_url": "pic.x.com/GhkPOG8b77",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2071318526766588166/photo/1",
+              "media_key": "16_2071318480251752449",
+              "start": 17,
+              "url": "https://t.co/GhkPOG8b77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071318526766588166",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070714778675454018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 绷住 https://t.co/GhkPOG8b77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070714728465457152"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "conversation_id": "2070714778675454018",
+        "created_at": "2026-06-27T03:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070714778675454018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8b5obFnge",
+              "end": 84,
+              "expanded_url": "https://x.com/Appraiser008/status/2070714778675454018/video/1",
+              "media_key": "7_2070714728465457152",
+              "start": 61,
+              "url": "https://t.co/L8b5obFnge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070714778675454018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 13291,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "追的人多很值得骄傲吗？你看足球场上，20多个人追着一个脏球跑，你真的以为他们是喜欢那个脏球吗？你错了，他们只是想社进去。 https://t.co/L8b5obFnge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 310,
+          "like_count": 8760,
+          "listed_count": 0,
+          "media_count": 853,
+          "tweet_count": 2221
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "纵有千古，横有八荒；\n前途似海，来日方长。",
+        "id": "1378164402101182469",
+        "location": "Hong Kong",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "2069637046088696170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922143712928530432/znfFyshI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179075,
+          "following_count": 7657,
+          "like_count": 115231,
+          "listed_count": 404,
+          "media_count": 17766,
+          "tweet_count": 67837
+        },
+        "url": "",
+        "username": "Appraiser008",
+        "verified": true
+      }
+    ]
+  }
+}

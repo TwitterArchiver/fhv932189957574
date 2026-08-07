@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071035854177566720"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070885095838466116",
+    "created_at": "2026-06-28T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071035861509230986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1618486174854811650",
+          "start": 0,
+          "username": "gosari542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDBqtBVrSN",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2071035861509230986/photo/1",
+          "media_key": "3_2071035854177566720",
+          "start": 13,
+          "url": "https://t.co/oDBqtBVrSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071035861509230986",
+    "in_reply_to_user_id": "1618486174854811650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070885095838466116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gosari542 😋 https://t.co/oDBqtBVrSN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2071035854177566720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3MIvVaAAAB0im.jpg",
+        "width": 1132
+      },
+      {
+        "duration_ms": 19750,
+        "height": 2560,
+        "media_key": "13_2070885021129506816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070885021129506816/img/MW-3iw3fdgFpRShG.jpg",
+        "public_metrics": {
+          "view_count": 52305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070885021129506816/vid/avc1/320x568/BmWA9-X1B6OdXZpR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070885021129506816/vid/avc1/720x1280/6dq6yaQ4GnRMk2g-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070885021129506816/vid/avc1/1440x2560/a6RF6GWwieVlhdC2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070885021129506816/pl/NJa69g32w73hBZXR.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070885021129506816/vid/avc1/480x852/1PG1s4n3CYPlcV9X.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071035854177566720"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070885095838466116",
+        "created_at": "2026-06-28T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071035861509230986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618486174854811650",
+              "start": 0,
+              "username": "gosari542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDBqtBVrSN",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2071035861509230986/photo/1",
+              "media_key": "3_2071035854177566720",
+              "start": 13,
+              "url": "https://t.co/oDBqtBVrSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071035861509230986",
+        "in_reply_to_user_id": "1618486174854811650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070885095838466116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gosari542 😋 https://t.co/oDBqtBVrSN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070885021129506816"
+          ]
+        },
+        "author_id": "1618486174854811650",
+        "conversation_id": "2070885095838466116",
+        "created_at": "2026-06-27T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070885095838466116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "chisa"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "千咲"
+            },
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "wutheringwaves"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "wuwa"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "mmd"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "鳴潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiEvdDoCwR",
+              "end": 85,
+              "expanded_url": "https://x.com/gosari542/status/2070885095838466116/video/1",
+              "media_key": "13_2070885021129506816",
+              "start": 62,
+              "url": "https://t.co/ZiEvdDoCwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070885095838466116",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1344,
+          "impression_count": 123522,
+          "like_count": 10117,
+          "quote_count": 36,
+          "reply_count": 75,
+          "retweet_count": 1054
+        },
+        "reply_settings": "everyone",
+        "text": "Chisa Montagem Miau #chisa #千咲 #wutheringwaves #wuwa #mmd #鳴潮 https://t.co/ZiEvdDoCwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 291,
+          "like_count": 8575,
+          "listed_count": 0,
+          "media_count": 830,
+          "tweet_count": 2146
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T05:49:21.000Z",
+        "description": "https://t.co/5loxUXeKyf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gosari542/fea…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@gosari542/featured",
+                "start": 0,
+                "url": "https://t.co/5loxUXeKyf"
+              }
+            ]
+          }
+        },
+        "id": "1618486174854811650",
+        "name": "gosari ごさり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618486230303531010/iDVXrxx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104232,
+          "following_count": 14,
+          "like_count": 196,
+          "listed_count": 161,
+          "media_count": 2368,
+          "tweet_count": 3953
+        },
+        "url": "",
+        "username": "gosari542",
+        "verified": false
+      }
+    ]
+  }
+}

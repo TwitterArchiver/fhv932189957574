@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060068066760036819",
+    "created_at": "2026-05-28T19:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060088432840589438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807065209657532416",
+          "start": 0,
+          "username": "cdwdsa"
+        },
+        {
+          "end": 24,
+          "id": "1852895432269234176",
+          "start": 8,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060088432840589438",
+    "in_reply_to_user_id": "1807065209657532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060068066760036819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdwdsa @432Ifantrygroup 不要😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060068044723068928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbU-NLaIAAWgYL.jpg",
+        "width": 922
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060068056811044864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbU-6NaAAA6cpy.jpg",
+        "width": 460
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060068045062852608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbU-Oca0AAyxhG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060068066760036819",
+        "created_at": "2026-05-28T19:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060088432840589438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807065209657532416",
+              "start": 0,
+              "username": "cdwdsa"
+            },
+            {
+              "end": 24,
+              "id": "1852895432269234176",
+              "start": 8,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060088432840589438",
+        "in_reply_to_user_id": "1807065209657532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060068066760036819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdwdsa @432Ifantrygroup 不要😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060068044723068928",
+            "3_2060068056811044864",
+            "3_2060068045062852608"
+          ]
+        },
+        "author_id": "1807065209657532416",
+        "conversation_id": "2060068066760036819",
+        "created_at": "2026-05-28T18:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060068066760036819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5SvYIBSN1",
+              "end": 122,
+              "expanded_url": "https://x.com/cdwdsa/status/2060068066760036819/photo/1",
+              "media_key": "3_2060068044723068928",
+              "start": 99,
+              "url": "https://t.co/f5SvYIBSN1"
+            },
+            {
+              "display_url": "pic.x.com/f5SvYIBSN1",
+              "end": 122,
+              "expanded_url": "https://x.com/cdwdsa/status/2060068066760036819/photo/1",
+              "media_key": "3_2060068056811044864",
+              "start": 99,
+              "url": "https://t.co/f5SvYIBSN1"
+            },
+            {
+              "display_url": "pic.x.com/f5SvYIBSN1",
+              "end": 122,
+              "expanded_url": "https://x.com/cdwdsa/status/2060068066760036819/photo/1",
+              "media_key": "3_2060068045062852608",
+              "start": 99,
+              "url": "https://t.co/f5SvYIBSN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060068066760036819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 241,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对不起老己，你的号开局太难太苦没有新手礼包也没有等级礼包还会随着时间推移给我➕debuff，我受不了了让你受苦了二十年，重生卷轴我买好了为了不影响学校跟家人毕业咱们就换号重新开一把，再忍忍很快了。 https://t.co/f5SvYIBSN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 98,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 1045
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:55:03.000Z",
+        "description": "06/172/60kg/hrt241007/",
+        "id": "1807065209657532416",
+        "location": "我活在影子里，光都是别人的",
+        "name": "活着好累🍥 🏳‍⚧",
+        "pinned_tweet_id": "2060068066760036819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880235339450839042/BeLhSKkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1208,
+          "like_count": 1990,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 542
+        },
+        "username": "cdwdsa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 3959,
+          "like_count": 40128,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 11153
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

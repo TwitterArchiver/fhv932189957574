@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2073974809567044055",
+    "created_at": "2026-07-07T02:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323407915909310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1764521966315409408",
+          "start": 0,
+          "username": "qiuge518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323407915909310",
+    "in_reply_to_user_id": "1764521966315409408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073974809567044055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuge518 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17089,
+        "height": 1918,
+        "media_key": "7_2073974745343963136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073974745343963136/pu/img/baMUSdu0ccjFwPPP.jpg",
+        "public_metrics": {
+          "view_count": 3411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073974745343963136/pu/vid/avc1/862x1918/h6ygKbZNzyPwj9bZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073974745343963136/pu/vid/avc1/720x1602/7F7D3VsB0xC0avqo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073974745343963136/pu/vid/avc1/480x1068/0suEZ1QpngbyJ9bB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073974745343963136/pu/pl/ZuXQMavfsGDkwDg5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073974745343963136/pu/vid/avc1/320x712/r4l4jV6iw2jQG44H.mp4"
+          }
+        ],
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2073974809567044055",
+        "created_at": "2026-07-07T02:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323407915909310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764521966315409408",
+              "start": 0,
+              "username": "qiuge518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323407915909310",
+        "in_reply_to_user_id": "1764521966315409408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073974809567044055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuge518 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073974745343963136"
+          ]
+        },
+        "author_id": "1764521966315409408",
+        "conversation_id": "2073974809567044055",
+        "created_at": "2026-07-06T03:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073974809567044055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "蓝v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0R3q2GEs50",
+              "end": 90,
+              "expanded_url": "https://x.com/qiuge518/status/2073974809567044055/video/1",
+              "media_key": "7_2073974745343963136",
+              "start": 67,
+              "url": "https://t.co/0R3q2GEs50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073974809567044055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11395,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 271,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天增加了97位关注者，我基本上都回关了，真诚做到有关必回。\n\n今天继续 #蓝v互关 #蓝v  ，刷到我还没互关的兄弟姐们点个关注。 https://t.co/0R3q2GEs50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 326,
+          "like_count": 9464,
+          "listed_count": 0,
+          "media_count": 942,
+          "tweet_count": 2512
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-04T05:23:28.000Z",
+        "description": "交流TG群: https://t.co/VBXgALUOmc\n@42space 中文区大使，预测就用:https://t.co/qW6EvrCsRp\n\n所有推文不做投资建议\n@fore_gate 华语大使 \n玩预测就来ForeGate：👉https://t.co/FERxLd5CU1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "42space"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "fore_gate"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gTyunFY",
+                "end": 30,
+                "expanded_url": "https://t.me/+gTyunFY",
+                "start": 7,
+                "url": "https://t.co/VBXgALUOmc"
+              },
+              {
+                "display_url": "42.space/join/8Rsndvwb",
+                "end": 74,
+                "expanded_url": "https://42.space/join/8Rsndvwb",
+                "start": 51,
+                "url": "https://t.co/qW6EvrCsRp"
+              },
+              {
+                "display_url": "go.foregate.com/3a8qpY2",
+                "end": 142,
+                "expanded_url": "https://go.foregate.com/3a8qpY2",
+                "start": 119,
+                "url": "https://t.co/FERxLd5CU1"
+              }
+            ]
+          }
+        },
+        "id": "1764521966315409408",
+        "name": "高傲的海燕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049704252524888064/8LNs1lOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6828,
+          "following_count": 3557,
+          "like_count": 93745,
+          "listed_count": 23,
+          "media_count": 824,
+          "tweet_count": 68012
+        },
+        "url": "",
+        "username": "qiuge518",
+        "verified": true
+      }
+    ]
+  }
+}

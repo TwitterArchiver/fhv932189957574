@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2068027147034198080",
+    "created_at": "2026-06-25T17:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070199387071070287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974403032155586560",
+          "start": 0,
+          "username": "Snssmasiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070199387071070287",
+    "in_reply_to_user_id": "1974403032155586560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "That’s because you want to treat people like slaves. Marriage is inherently beautiful, yet you’ve turned it into something foul; you treat men as mere tools, using the continuation of the bloodline to hold them hostage, and you even pollute the internet and AI to cover up the fact that you’re nothing but a bunch of grifters cashing in on emotions."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068027147034198080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snssmasiss That’s because you want to treat people like slaves. Marriage is inherently beautiful, yet you’ve turned it into something foul; you treat men as mere tools, using the continuation of the bloodline to hold them hostage, and you even pollute the internet and AI to cover up the"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14573,
+        "height": 438,
+        "media_key": "13_2068027030340304896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068027030340304896/img/8qMAZmNDkU3kfhAG.jpg",
+        "public_metrics": {
+          "view_count": 3486362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068027030340304896/vid/avc1/542x270/iZzd8xGv9OuRe2w8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068027030340304896/vid/avc1/882x438/3swiZzu2PLeZMtW4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068027030340304896/pl/lnDXvXck_1L_FwKs.m3u8?v=246"
+          }
+        ],
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2068027147034198080",
+        "created_at": "2026-06-25T17:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070199387071070287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974403032155586560",
+              "start": 0,
+              "username": "Snssmasiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070199387071070287",
+        "in_reply_to_user_id": "1974403032155586560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "That’s because you want to treat people like slaves. Marriage is inherently beautiful, yet you’ve turned it into something foul; you treat men as mere tools, using the continuation of the bloodline to hold them hostage, and you even pollute the internet and AI to cover up the fact that you’re nothing but a bunch of grifters cashing in on emotions."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068027147034198080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snssmasiss That’s because you want to treat people like slaves. Marriage is inherently beautiful, yet you’ve turned it into something foul; you treat men as mere tools, using the continuation of the bloodline to hold them hostage, and you even pollute the internet and AI to cover up the"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068027030340304896"
+          ]
+        },
+        "author_id": "1974403032155586560",
+        "conversation_id": "2068027147034198080",
+        "created_at": "2026-06-19T17:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068027147034198080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SROMgQ2Kru",
+              "end": 139,
+              "expanded_url": "https://x.com/Snssmasiss/status/2068027147034198080/video/1",
+              "media_key": "13_2068027030340304896",
+              "start": 116,
+              "url": "https://t.co/SROMgQ2Kru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068027147034198080",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7914,
+          "impression_count": 8536965,
+          "like_count": 167312,
+          "quote_count": 815,
+          "reply_count": 729,
+          "retweet_count": 17706
+        },
+        "reply_settings": "everyone",
+        "text": "Il y a quelqu’un qui a dit que le mariage donne même la possibilité aux hommes les plus pauvres d’avoir une esclave https://t.co/SROMgQ2Kru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 219,
+          "like_count": 8216,
+          "listed_count": 0,
+          "media_count": 780,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T09:16:01.000Z",
+        "description": "astrophysicienne 🪽",
+        "id": "1974403032155586560",
+        "name": "Snuss",
+        "pinned_tweet_id": "2002365213216047591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048913238612705280/gI_yl5ET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 862,
+          "like_count": 18572,
+          "listed_count": 11,
+          "media_count": 1118,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "Snssmasiss",
+        "verified": false
+      }
+    ]
+  }
+}

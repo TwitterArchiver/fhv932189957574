@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071943079133839838",
+    "created_at": "2026-07-01T17:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072378384739635313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072378384739635313",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071943079133839838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 太假了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18729,
+        "height": 1056,
+        "media_key": "13_2071942744801480704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071942744801480704/img/0ZGzBfv0YJgGw7pM.jpg",
+        "public_metrics": {
+          "view_count": 449485
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071942744801480704/vid/avc1/320x468/ylU4DKHsAadTVrwV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071942744801480704/vid/avc1/480x704/iaXrCWmvnCH-a0VB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071942744801480704/vid/avc1/720x1056/SZOJKF3c4mS_SlxW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071942744801480704/pl/hwdrrjrragAOslLR.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 874,
+        "media_key": "3_2071942763768111105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEE901W4AEQQrf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 756,
+        "media_key": "3_2071943052768256000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEFOpcXIAAoTIC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071943079133839838",
+        "created_at": "2026-07-01T17:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072378384739635313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072378384739635313",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071943079133839838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 太假了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071942744801480704",
+            "3_2071942763768111105",
+            "3_2071943052768256000"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2071943079133839838",
+        "created_at": "2026-06-30T13:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071943079133839838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zR0Qrlo7r",
+              "end": 114,
+              "expanded_url": "https://x.com/_FORAB/status/2071943079133839838/video/1",
+              "media_key": "13_2071942744801480704",
+              "start": 91,
+              "url": "https://t.co/5zR0Qrlo7r"
+            },
+            {
+              "display_url": "pic.x.com/5zR0Qrlo7r",
+              "end": 114,
+              "expanded_url": "https://x.com/_FORAB/status/2071943079133839838/video/1",
+              "media_key": "3_2071942763768111105",
+              "start": 91,
+              "url": "https://t.co/5zR0Qrlo7r"
+            },
+            {
+              "display_url": "pic.x.com/5zR0Qrlo7r",
+              "end": 114,
+              "expanded_url": "https://x.com/_FORAB/status/2071943079133839838/video/1",
+              "media_key": "3_2071943052768256000",
+              "start": 91,
+              "url": "https://t.co/5zR0Qrlo7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071943079133839838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 904107,
+          "like_count": 1181,
+          "quote_count": 54,
+          "reply_count": 713,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "赛博朋克成现实了。中国机器人公司优必选，今天发布了 50 余款仿生机器人，含男女不同外观和身材，身高在 1.6 到 1.85 米之间。\n\n预售价 11.98 万元起，仅限成人购买。 https://t.co/5zR0Qrlo7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8892,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 2298
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129991,
+          "following_count": 636,
+          "like_count": 10352,
+          "listed_count": 2024,
+          "media_count": 3892,
+          "tweet_count": 15311
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

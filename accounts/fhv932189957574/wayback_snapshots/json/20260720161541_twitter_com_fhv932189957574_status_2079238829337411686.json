@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2079238829337411686",
+    "created_at": "2026-07-20T16:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079238829337411686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shyyyy123456/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/shyyyy123456/status/2079155754406482068",
+          "start": 2,
+          "url": "https://t.co/Z1jQAvvfOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079238829337411686",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079155754406482068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/Z1jQAvvfOW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2079238829337411686",
+        "created_at": "2026-07-20T16:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079238829337411686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shyyyy123456/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shyyyy123456/status/2079155754406482068",
+              "start": 2,
+              "url": "https://t.co/Z1jQAvvfOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079238829337411686",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079155754406482068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/Z1jQAvvfOW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930994061575700480",
+        "conversation_id": "2079110281490542761",
+        "created_at": "2026-07-20T10:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079155754406482068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079155754406482068",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079110281490542761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp 我当初就是被这种文案哄着去当狗知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 466,
+          "like_count": 12177,
+          "listed_count": 0,
+          "media_count": 1083,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-06T14:24:08.000Z",
+        "description": "欢迎185宽肩窄腰16cm+的薄肌帅哥",
+        "id": "1930994061575700480",
+        "name": "shy.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931209173527855104/c32a59CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 52,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "shyyyy123456",
+        "verified": false
+      }
+    ]
+  }
+}

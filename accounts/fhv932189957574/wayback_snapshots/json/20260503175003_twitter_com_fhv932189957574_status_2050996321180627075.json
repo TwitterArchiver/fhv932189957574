@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050996310598373376"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2050926055217836284",
+    "created_at": "2026-05-03T17:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050996321180627075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890983073216659456",
+          "start": 0,
+          "username": "caonimapixianan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/31GwYXw8Bo",
+          "end": 71,
+          "expanded_url": "https://x.com/fhv932189957574/status/2050996321180627075/photo/1",
+          "media_key": "3_2050996310598373376",
+          "start": 48,
+          "url": "https://t.co/31GwYXw8Bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050996321180627075",
+    "in_reply_to_user_id": "1890983073216659456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050926055217836284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caonimapixianan 求求不要死，活着就是活着，死了不会比现状更好了死亡不是好事啊 https://t.co/31GwYXw8Bo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_2050996310598373376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaaRyDaUAAL9W-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050996310598373376"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2050926055217836284",
+        "created_at": "2026-05-03T17:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050996321180627075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890983073216659456",
+              "start": 0,
+              "username": "caonimapixianan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31GwYXw8Bo",
+              "end": 71,
+              "expanded_url": "https://x.com/fhv932189957574/status/2050996321180627075/photo/1",
+              "media_key": "3_2050996310598373376",
+              "start": 48,
+              "url": "https://t.co/31GwYXw8Bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050996321180627075",
+        "in_reply_to_user_id": "1890983073216659456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050926055217836284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caonimapixianan 求求不要死，活着就是活着，死了不会比现状更好了死亡不是好事啊 https://t.co/31GwYXw8Bo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890983073216659456",
+        "conversation_id": "2050926055217836284",
+        "created_at": "2026-05-03T13:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050926055217836284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050926055217836284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1553,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是好想死呀有没有无痛的死亡方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 77
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T04:34:40.000Z",
+        "description": "@duoaizijiyidian日常号有露脸 仅熟人关注 @jieyinzjys520爸爸。发情的时候是疯子别管。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "duoaizijiyidian"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "jieyinzjys520"
+              }
+            ]
+          }
+        },
+        "id": "1890983073216659456",
+        "location": "防走丢wx288 日常生活wx888😌过滤真心想认识我的人",
+        "name": "爆浆奶黄糕（私信骚扰直接拉黑。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000555650179624961/_FMolslv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7889,
+          "following_count": 787,
+          "like_count": 24718,
+          "listed_count": 9,
+          "media_count": 459,
+          "tweet_count": 5301
+        },
+        "username": "caonimapixianan",
+        "verified": false
+      }
+    ]
+  }
+}

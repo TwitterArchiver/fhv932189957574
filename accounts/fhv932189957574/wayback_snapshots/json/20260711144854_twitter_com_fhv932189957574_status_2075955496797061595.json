@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2075806842475995321",
+    "created_at": "2026-07-11T14:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075955496797061595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690356626434453504",
+          "start": 0,
+          "username": "DavidzhuLife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075955496797061595",
+    "in_reply_to_user_id": "1690356626434453504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075806842475995321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidzhuLife 老虎有虎鞭虎骨可以用，老虎能吃人被敬畏，养猪的人看得起猪，大粪文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2075806842475995321",
+        "created_at": "2026-07-11T14:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075955496797061595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690356626434453504",
+              "start": 0,
+              "username": "DavidzhuLife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075955496797061595",
+        "in_reply_to_user_id": "1690356626434453504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075806842475995321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidzhuLife 老虎有虎鞭虎骨可以用，老虎能吃人被敬畏，养猪的人看得起猪，大粪文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690356626434453504",
+        "conversation_id": "2075806842475995321",
+        "created_at": "2026-07-11T04:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075806842475995321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075806842475995321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 25050,
+          "like_count": 353,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "令人反思的两句话： \n\n老虎没有为人类做任何贡献，却赢得了人们的敬畏。\n\n而猪的一生都是为了给人类做贡献 ，却根本没有一个人看得起它。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 408,
+          "like_count": 10171,
+          "listed_count": 0,
+          "media_count": 1001,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T13:36:50.000Z",
+        "description": "审美洁癖患者，我对内容有近乎苛刻的审美标准。人生信条：对得起自己，对得起观众。",
+        "id": "1690356626434453504",
+        "name": "Davidzhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005847877160165376/khiGaYlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12690,
+          "following_count": 2360,
+          "like_count": 27227,
+          "listed_count": 37,
+          "media_count": 91,
+          "tweet_count": 10319
+        },
+        "url": "",
+        "username": "DavidzhuLife",
+        "verified": true
+      }
+    ]
+  }
+}

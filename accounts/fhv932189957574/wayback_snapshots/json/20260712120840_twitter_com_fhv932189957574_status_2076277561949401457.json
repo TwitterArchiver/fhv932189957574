@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076258254305554432",
+    "created_at": "2026-07-12T12:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076277561949401457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797882215747158016",
+          "start": 0,
+          "username": "carpediemx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076277561949401457",
+    "in_reply_to_user_id": "1797882215747158016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076258254305554432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carpediemx01 2🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4070,
+        "height": 1280,
+        "media_key": "13_2076258064580456448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076258064580456448/img/n5I5qdpzPuzvUdVR.jpg",
+        "public_metrics": {
+          "view_count": 150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064580456448/vid/avc1/320x568/Ulvydy-isZCBDJ8F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064580456448/vid/avc1/480x852/1M9EnPp_m9yobhK-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064580456448/vid/avc1/720x1280/ojuTfKj_INslwKz0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076258064580456448/pl/yeSj5a9FAg1YIXtX.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2076258064622374912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBZtZPbUAAbBec.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 6033,
+        "height": 1278,
+        "media_key": "13_2076258064618164224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076258064618164224/img/kg9KWP_JHmjqZ0B0.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064618164224/vid/avc1/320x568/PmkUNaj0iaFEZo4e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064618164224/vid/avc1/480x852/NXQeLuUzQ4TopRLb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076258064618164224/vid/avc1/720x1278/gDJnXCLPcY0yx306.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076258064618164224/pl/WZMRNBP3te8I_jp2.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2076258064559394816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBZtZAaUAASzjW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076258254305554432",
+        "created_at": "2026-07-12T12:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076277561949401457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797882215747158016",
+              "start": 0,
+              "username": "carpediemx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076277561949401457",
+        "in_reply_to_user_id": "1797882215747158016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076258254305554432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carpediemx01 2🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076258064580456448",
+            "3_2076258064622374912",
+            "13_2076258064618164224",
+            "3_2076258064559394816"
+          ]
+        },
+        "author_id": "1797882215747158016",
+        "conversation_id": "2076258254305554432",
+        "created_at": "2026-07-12T10:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076258254305554432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRiCoGj9BV",
+              "end": 44,
+              "expanded_url": "https://x.com/carpediemx01/status/2076258254305554432/video/1",
+              "media_key": "13_2076258064580456448",
+              "start": 21,
+              "url": "https://t.co/KRiCoGj9BV"
+            },
+            {
+              "display_url": "pic.x.com/KRiCoGj9BV",
+              "end": 44,
+              "expanded_url": "https://x.com/carpediemx01/status/2076258254305554432/video/1",
+              "media_key": "3_2076258064622374912",
+              "start": 21,
+              "url": "https://t.co/KRiCoGj9BV"
+            },
+            {
+              "display_url": "pic.x.com/KRiCoGj9BV",
+              "end": 44,
+              "expanded_url": "https://x.com/carpediemx01/status/2076258254305554432/video/1",
+              "media_key": "13_2076258064618164224",
+              "start": 21,
+              "url": "https://t.co/KRiCoGj9BV"
+            },
+            {
+              "display_url": "pic.x.com/KRiCoGj9BV",
+              "end": 44,
+              "expanded_url": "https://x.com/carpediemx01/status/2076258254305554432/video/1",
+              "media_key": "3_2076258064559394816",
+              "start": 21,
+              "url": "https://t.co/KRiCoGj9BV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076258254305554432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝子们帮我选一下婚宴厅吧🥺 \n1还是2呀 https://t.co/KRiCoGj9BV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 409,
+          "like_count": 10363,
+          "listed_count": 0,
+          "media_count": 1020,
+          "tweet_count": 2747
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T06:45:17.000Z",
+        "description": "",
+        "id": "1797882215747158016",
+        "name": "银杏微白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069788122909401088/UthAUuQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9531,
+          "following_count": 56,
+          "like_count": 2608,
+          "listed_count": 34,
+          "media_count": 558,
+          "tweet_count": 4727
+        },
+        "url": "",
+        "username": "carpediemx01",
+        "verified": false
+      }
+    ]
+  }
+}

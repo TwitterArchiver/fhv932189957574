@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072330173442093240",
+    "created_at": "2026-07-02T04:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072541858715365875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "773782231764594688",
+          "start": 0,
+          "username": "ByteStix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072541858715365875",
+    "in_reply_to_user_id": "773782231764594688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072330173442093240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ByteStix 一定要绷住😄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2072329142830284802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJkYDAWwAIkIpz.png",
+        "width": 535
+      },
+      {
+        "height": 210,
+        "media_key": "3_2072329153508945920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJkYqyWMAA7s80.png",
+        "width": 1363
+      },
+      {
+        "height": 1845,
+        "media_key": "3_2072329367502344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJklH-WUAA3BAg.jpg",
+        "width": 2013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072330173442093240",
+        "created_at": "2026-07-02T04:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072541858715365875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "773782231764594688",
+              "start": 0,
+              "username": "ByteStix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072541858715365875",
+        "in_reply_to_user_id": "773782231764594688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072330173442093240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByteStix 一定要绷住😄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072329142830284802",
+            "3_2072329153508945920",
+            "3_2072329367502344192"
+          ]
+        },
+        "author_id": "773782231764594688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2072330173442093240",
+        "created_at": "2026-07-01T14:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072330173442093240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhFXAap5jC",
+              "end": 294,
+              "expanded_url": "https://x.com/ByteStix/status/2072330173442093240/photo/1",
+              "media_key": "3_2072329142830284802",
+              "start": 271,
+              "url": "https://t.co/KhFXAap5jC"
+            },
+            {
+              "display_url": "pic.x.com/KhFXAap5jC",
+              "end": 294,
+              "expanded_url": "https://x.com/ByteStix/status/2072330173442093240/photo/1",
+              "media_key": "3_2072329153508945920",
+              "start": 271,
+              "url": "https://t.co/KhFXAap5jC"
+            },
+            {
+              "display_url": "pic.x.com/KhFXAap5jC",
+              "end": 294,
+              "expanded_url": "https://x.com/ByteStix/status/2072330173442093240/photo/1",
+              "media_key": "3_2072329367502344192",
+              "start": 271,
+              "url": "https://t.co/KhFXAap5jC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072330173442093240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING NEWS: Love and Deepspace hits catastrophic new low in terms of reception Globally!\n\nIt dropped from 4.4* to 2.2* overnight, and now has over 100,000 negative reviews from players as of 10AM, July 1st, 2026. This is the worst the game has been received since its inception. \n\nGlobal players have begun to review bomb the game, leaving MILLIONS of negative reviews everywhere. \n\nInfold and Papergames have, after their public address, went even further and absolutely NUKED every instance of Valko from their Youtube channel. No trailers, no livestreams, no YT shorts, nothing.\n\nNaturally, this has upset even more players, as they're trying to sweep any and every instance of his existence under the rug, almost like he never existed.\n\nThis is TRAGIC. Completely disrespectful to their players, to their developers that invested YEARS of their time into creating him. What a waste.\n\nTo think: A lot of this could've been avoided if they'd just released a roadmap of some sort in advance."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 137166,
+          "like_count": 7805,
+          "quote_count": 122,
+          "reply_count": 170,
+          "retweet_count": 1709
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING NEWS: Love and Deepspace hits catastrophic new low in terms of reception Globally!\n\nIt dropped from 4.4* to 2.2* overnight, and now has over 100,000 negative reviews from players as of 10AM, July 1st, 2026. This is the worst the game has been received since its https://t.co/KhFXAap5jC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 314,
+          "like_count": 8985,
+          "listed_count": 0,
+          "media_count": 877,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-08T07:17:15.000Z",
+        "description": "Master baiter. King of degenerates. Youtuber (Stix /Married to Gaming) https://t.co/1nNqRWUBRj and Twitch Partner https://t.co/HCIPuOmXf0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mygachahub.com",
+                "end": 94,
+                "expanded_url": "http://mygachahub.com",
+                "start": 71,
+                "url": "https://t.co/1nNqRWUBRj"
+              },
+              {
+                "display_url": "twitch.tv/StixAndMrsStix",
+                "end": 137,
+                "expanded_url": "http://twitch.tv/StixAndMrsStix",
+                "start": 114,
+                "url": "https://t.co/HCIPuOmXf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/stixxy",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/stixxy",
+                "start": 0,
+                "url": "https://t.co/TBPuy3LTG1"
+              }
+            ]
+          }
+        },
+        "id": "773782231764594688",
+        "location": "on the toilet making \"content\"",
+        "name": "Stix",
+        "pinned_tweet_id": "2007561711210115451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594075169103872/s10FbK72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33155,
+          "following_count": 632,
+          "like_count": 19210,
+          "listed_count": 67,
+          "media_count": 6796,
+          "tweet_count": 28906
+        },
+        "url": "https://t.co/TBPuy3LTG1",
+        "username": "ByteStix",
+        "verified": true
+      }
+    ]
+  }
+}

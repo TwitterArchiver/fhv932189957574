@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076423176658313285",
+    "created_at": "2026-07-13T04:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076528467517346059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1223760582139994114",
+          "start": 0,
+          "username": "wffd94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076528467517346059",
+    "in_reply_to_user_id": "1223760582139994114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076423176658313285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wffd94 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076423176658313285",
+        "created_at": "2026-07-13T04:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076528467517346059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1223760582139994114",
+              "start": 0,
+              "username": "wffd94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076528467517346059",
+        "in_reply_to_user_id": "1223760582139994114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076423176658313285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wffd94 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223760582139994114",
+        "conversation_id": "2076423176658313285",
+        "created_at": "2026-07-12T21:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076423176658313285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076423176658313285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2122,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉500M曝光量好难·········\n永不取关：\n蓝V互关最快的方式，是去看别人的蓝V互关帖，而不是只发帖等人来。  顺着他们的关注列表一个个点。  那里才是真正正在互关、正在起号的人。  主动一点，涨粉会快很多。 \n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 400,
+          "like_count": 10641,
+          "listed_count": 0,
+          "media_count": 1033,
+          "tweet_count": 2800
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T00:10:46.000Z",
+        "description": "Follow me before I get famous.\"",
+        "id": "1223760582139994114",
+        "location": "日本",
+        "name": "Flight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073176509305831424/Z65FO_oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 803,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "wffd94",
+        "verified": true
+      }
+    ]
+  }
+}

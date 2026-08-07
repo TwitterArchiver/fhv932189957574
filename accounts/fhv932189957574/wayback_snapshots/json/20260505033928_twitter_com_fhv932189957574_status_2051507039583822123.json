@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2051409335507689848",
+    "created_at": "2026-05-05T03:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051507039583822123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948450129092247553",
+          "start": 0,
+          "username": "isolations83641"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051507039583822123",
+    "in_reply_to_user_id": "1948450129092247553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051409335507689848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isolations83641 不要死啊难处会过去的，人生会有一些美好的东西在后面等你，让人觉得前面不白活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2051409335507689848",
+        "created_at": "2026-05-05T03:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051507039583822123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948450129092247553",
+              "start": 0,
+              "username": "isolations83641"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051507039583822123",
+        "in_reply_to_user_id": "1948450129092247553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051409335507689848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isolations83641 不要死啊难处会过去的，人生会有一些美好的东西在后面等你，让人觉得前面不白活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948450129092247553",
+        "conversation_id": "2051409335507689848",
+        "created_at": "2026-05-04T21:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051409335507689848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051409335507689848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死啊 我想在17岁生日自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 236
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T18:28:25.000Z",
+        "description": "我喜欢温柔的。人还有手好看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/death24435",
+                "end": 23,
+                "expanded_url": "https://ngl.link/death24435",
+                "start": 0,
+                "url": "https://t.co/WWLLi1lEFC"
+              }
+            ]
+          }
+        },
+        "id": "1948450129092247553",
+        "location": "可以多找我聊天。匿名信箱➡️",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2041634845517033664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050520797652078592/ufh-tjyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 39,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/WWLLi1lEFC",
+        "username": "isolations83641",
+        "verified": false
+      }
+    ]
+  }
+}

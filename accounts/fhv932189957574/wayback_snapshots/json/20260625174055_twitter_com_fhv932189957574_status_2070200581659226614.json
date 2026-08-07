@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070200537749020672",
+        "3_2070200537753223168"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069989962263765142",
+    "created_at": "2026-06-25T17:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070200581659226614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978896549267513344",
+          "start": 0,
+          "username": "_Aemeath_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PN2JzQCUAh",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070200581659226614/photo/1",
+          "media_key": "3_2070200537749020672",
+          "start": 11,
+          "url": "https://t.co/PN2JzQCUAh"
+        },
+        {
+          "display_url": "pic.x.com/PN2JzQCUAh",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070200581659226614/photo/1",
+          "media_key": "3_2070200537753223168",
+          "start": 11,
+          "url": "https://t.co/PN2JzQCUAh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070200581659226614",
+    "in_reply_to_user_id": "1978896549267513344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069989962263765142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Aemeath_ https://t.co/PN2JzQCUAh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2070200537749020672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrUa7JaYAAg2KJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 320,
+        "media_key": "3_2070200537753223168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrUa7KagAAacm3.jpg",
+        "width": 320
+      },
+      {
+        "duration_ms": 17137,
+        "height": 1280,
+        "media_key": "7_2069827196869308416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069827196869308416/pu/img/MwTd3NcEAAvvtBms.jpg",
+        "public_metrics": {
+          "view_count": 15060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069827196869308416/pu/vid/avc1/320x568/GWBdJjiprDSs1McA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069827196869308416/pu/vid/avc1/480x852/QG8InTe7e81S1JJn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069827196869308416/pu/vid/avc1/720x1280/Sh82uPysGGgIZCsr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069827196869308416/pu/pl/PH1usx6erHWY_Jmf.m3u8?v=a9b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070200537749020672",
+            "3_2070200537753223168"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069989962263765142",
+        "created_at": "2026-06-25T17:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070200581659226614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978896549267513344",
+              "start": 0,
+              "username": "_Aemeath_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN2JzQCUAh",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070200581659226614/photo/1",
+              "media_key": "3_2070200537749020672",
+              "start": 11,
+              "url": "https://t.co/PN2JzQCUAh"
+            },
+            {
+              "display_url": "pic.x.com/PN2JzQCUAh",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070200581659226614/photo/1",
+              "media_key": "3_2070200537753223168",
+              "start": 11,
+              "url": "https://t.co/PN2JzQCUAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070200581659226614",
+        "in_reply_to_user_id": "1978896549267513344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069989962263765142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Aemeath_ https://t.co/PN2JzQCUAh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069827196869308416"
+          ],
+          "media_source_tweet_id": [
+            "2069827345653932427"
+          ]
+        },
+        "author_id": "1978896549267513344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069989962263765142",
+        "created_at": "2026-06-25T03:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069989962263765142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mF2MAimiqX",
+              "end": 63,
+              "expanded_url": "https://x.com/ioswallpaperx/status/2069827345653932427/video/1",
+              "media_key": "7_2069827196869308416",
+              "start": 40,
+              "url": "https://t.co/mF2MAimiqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069989962263765142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 5985,
+          "like_count": 156,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Name someone who has more Aura than her https://t.co/mF2MAimiqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 219,
+          "like_count": 8219,
+          "listed_count": 0,
+          "media_count": 781,
+          "tweet_count": 2018
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-16T18:51:30.000Z",
+        "description": "An account for #WutheringWaves content\n\n #Aemeath #Denia #Chisa Main",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 15,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "Aemeath"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "Denia"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "Chisa"
+              }
+            ]
+          }
+        },
+        "id": "1978896549267513344",
+        "location": "Earth",
+        "name": "Pink Hair Nanami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056914905954136064/kHT9hU-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 410,
+          "like_count": 9589,
+          "listed_count": 3,
+          "media_count": 1974,
+          "tweet_count": 4954
+        },
+        "url": "",
+        "username": "_Aemeath_",
+        "verified": true
+      }
+    ]
+  }
+}

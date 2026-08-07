@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067983031902801920"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067912344827822244",
+    "created_at": "2026-06-19T14:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067983079470411828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975879009595736064",
+          "start": 0,
+          "username": "ChisaTimely"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5KZRdqWB9u",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067983079470411828/photo/1",
+          "media_key": "16_2067983031902801920",
+          "start": 13,
+          "url": "https://t.co/5KZRdqWB9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067983079470411828",
+    "in_reply_to_user_id": "1975879009595736064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067912344827822244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisaTimely https://t.co/5KZRdqWB9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2067983031902801920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLLznGIaEAA2MIQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLLznGIaEAA2MIQ.mp4"
+          }
+        ],
+        "width": 240
+      },
+      {
+        "height": 373,
+        "media_key": "3_2067912190062145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKzLjtasAAOeYi.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067983031902801920"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067912344827822244",
+        "created_at": "2026-06-19T14:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067983079470411828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975879009595736064",
+              "start": 0,
+              "username": "ChisaTimely"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KZRdqWB9u",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067983079470411828/photo/1",
+              "media_key": "16_2067983031902801920",
+              "start": 13,
+              "url": "https://t.co/5KZRdqWB9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983079470411828",
+        "in_reply_to_user_id": "1975879009595736064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067912344827822244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisaTimely https://t.co/5KZRdqWB9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067912190062145536"
+          ]
+        },
+        "author_id": "1975879009595736064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          }
+        ],
+        "conversation_id": "2067912344827822244",
+        "created_at": "2026-06-19T10:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067912344827822244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElW6rMHt4I",
+              "end": 72,
+              "expanded_url": "https://x.com/ChisaTimely/status/2067912344827822244/photo/1",
+              "media_key": "3_2067912190062145536",
+              "start": 49,
+              "url": "https://t.co/ElW6rMHt4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067912344827822244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 321,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Chisa just eateing her Pocky sticks back there 🤣 https://t.co/ElW6rMHt4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 210,
+          "like_count": 7158,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-08T11:00:50.000Z",
+        "description": "⋆｡°✩ #鸣潮 ⋆⭒˚.⋆ | Timely account for Chisa from #wutheringwaves ⋆˚☆˖° Follow me for more Chisa content ✧˖°.\nChisa Main  (. ❛ ᴗ ❛.)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "鸣潮"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "tag": "wutheringwaves"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisatimely.straw.page",
+                "end": 23,
+                "expanded_url": "https://chisatimely.straw.page",
+                "start": 0,
+                "url": "https://t.co/q36WqAFPGJ"
+              }
+            ]
+          }
+        },
+        "id": "1975879009595736064",
+        "location": "Ashinohara",
+        "name": "Timely Chisa ✂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040552824334131200/E-Zelvcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 211,
+          "like_count": 1236,
+          "listed_count": 5,
+          "media_count": 467,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/q36WqAFPGJ",
+        "username": "ChisaTimely",
+        "verified": true
+      }
+    ]
+  }
+}

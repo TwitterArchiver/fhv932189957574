@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075965625865056257",
+        "3_2075965625978245120",
+        "3_2075965625764343808",
+        "3_2075965625818849280"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2075965871420563955",
+    "created_at": "2026-07-11T15:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075965871420563955"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "时代少年团"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "白鹿"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "白男"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "恋与深空"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "刘耀文"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "马嘉祺"
+        },
+        {
+          "end": 101,
+          "start": 84,
+          "tag": "loveanddeepspace"
+        },
+        {
+          "end": 112,
+          "start": 102,
+          "tag": "LiuYaowen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eVpZTsHe2Y",
+          "end": 136,
+          "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+          "media_key": "13_2075965625865056257",
+          "start": 113,
+          "url": "https://t.co/eVpZTsHe2Y"
+        },
+        {
+          "display_url": "pic.x.com/eVpZTsHe2Y",
+          "end": 136,
+          "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+          "media_key": "3_2075965625978245120",
+          "start": 113,
+          "url": "https://t.co/eVpZTsHe2Y"
+        },
+        {
+          "display_url": "pic.x.com/eVpZTsHe2Y",
+          "end": 136,
+          "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+          "media_key": "3_2075965625764343808",
+          "start": 113,
+          "url": "https://t.co/eVpZTsHe2Y"
+        },
+        {
+          "display_url": "pic.x.com/eVpZTsHe2Y",
+          "end": 136,
+          "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+          "media_key": "3_2075965625818849280",
+          "start": 113,
+          "url": "https://t.co/eVpZTsHe2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075965871420563955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈，又看到乐子了，这次是跑路吧兄弟白鹿的乐子，哈哈哈，我要把时代少年团，恋与深空，白鹿P一块，哈哈哈\n#时代少年团 #白鹿 #白男 #恋与深空 #刘耀文 #马嘉祺 #loveanddeepspace #LiuYaowen https://t.co/eVpZTsHe2Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 133550,
+        "height": 1920,
+        "media_key": "13_2075965625865056257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075965625865056257/img/ofJy2cxm6K6UBUnI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075965625865056257/vid/avc1/480x1036/XTTZYMMOIMu6V0TC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075965625865056257/vid/avc1/720x1556/laZv2USkU36L-iSS.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075965625865056257/vid/avc1/320x690/rhwu7U2qhfo1IRRA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075965625865056257/pl/mHgKnfKlITM0dTZ1.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075965625865056257/vid/avc1/888x1920/hWt4JyMxN5kP0JQc.mp4"
+          }
+        ],
+        "width": 888
+      },
+      {
+        "height": 709,
+        "media_key": "3_2075965625978245120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PvOZa0AAiUSQ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 945,
+        "media_key": "3_2075965625764343808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PvNma8AANs9X.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2075965625818849280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9PvNzaoAA8Dd2.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075965625865056257",
+            "3_2075965625978245120",
+            "3_2075965625764343808",
+            "3_2075965625818849280"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2075965871420563955",
+        "created_at": "2026-07-11T15:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075965871420563955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "时代少年团"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "白鹿"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "白男"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "刘耀文"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "马嘉祺"
+            },
+            {
+              "end": 101,
+              "start": 84,
+              "tag": "loveanddeepspace"
+            },
+            {
+              "end": 112,
+              "start": 102,
+              "tag": "LiuYaowen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVpZTsHe2Y",
+              "end": 136,
+              "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+              "media_key": "13_2075965625865056257",
+              "start": 113,
+              "url": "https://t.co/eVpZTsHe2Y"
+            },
+            {
+              "display_url": "pic.x.com/eVpZTsHe2Y",
+              "end": 136,
+              "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+              "media_key": "3_2075965625978245120",
+              "start": 113,
+              "url": "https://t.co/eVpZTsHe2Y"
+            },
+            {
+              "display_url": "pic.x.com/eVpZTsHe2Y",
+              "end": 136,
+              "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+              "media_key": "3_2075965625764343808",
+              "start": 113,
+              "url": "https://t.co/eVpZTsHe2Y"
+            },
+            {
+              "display_url": "pic.x.com/eVpZTsHe2Y",
+              "end": 136,
+              "expanded_url": "https://x.com/fhv932189957574/status/2075965871420563955/video/1",
+              "media_key": "3_2075965625818849280",
+              "start": 113,
+              "url": "https://t.co/eVpZTsHe2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075965871420563955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈，又看到乐子了，这次是跑路吧兄弟白鹿的乐子，哈哈哈，我要把时代少年团，恋与深空，白鹿P一块，哈哈哈\n#时代少年团 #白鹿 #白男 #恋与深空 #刘耀文 #马嘉祺 #loveanddeepspace #LiuYaowen https://t.co/eVpZTsHe2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 408,
+          "like_count": 10186,
+          "listed_count": 0,
+          "media_count": 1002,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

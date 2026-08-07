@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083538640689328128"
+      ],
+      "media_source_tweet_id": [
+        "2083538643310809528"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2083810566540550167",
+    "created_at": "2026-08-02T07:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083810566540550167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "716665416202854400",
+          "start": 3,
+          "username": "nyankorooow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bvfi3egtd4",
+          "end": 52,
+          "expanded_url": "https://x.com/nyankorooow/status/2083538643310809528/photo/1",
+          "media_key": "3_2083538640689328128",
+          "start": 29,
+          "url": "https://t.co/Bvfi3egtd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083810566540550167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538643310809528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyankorooow: 本日の警備、異常なし。 https://t.co/Bvfi3egtd4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2083538640689328128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo3WsoWcAAeTfr.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083538640689328128"
+          ]
+        },
+        "author_id": "716665416202854400",
+        "conversation_id": "2083538643310809528",
+        "created_at": "2026-08-01T13:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083538643310809528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bvfi3egtd4",
+              "end": 35,
+              "expanded_url": "https://x.com/nyankorooow/status/2083538643310809528/photo/1",
+              "media_key": "3_2083538640689328128",
+              "start": 12,
+              "url": "https://t.co/Bvfi3egtd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083538643310809528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 347584,
+          "like_count": 33840,
+          "quote_count": 73,
+          "reply_count": 113,
+          "retweet_count": 3304
+        },
+        "reply_settings": "everyone",
+        "text": "本日の警備、異常なし。 https://t.co/Bvfi3egtd4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083538640689328128"
+          ],
+          "media_source_tweet_id": [
+            "2083538643310809528"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2083810566540550167",
+        "created_at": "2026-08-02T07:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083810566540550167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "716665416202854400",
+              "start": 3,
+              "username": "nyankorooow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bvfi3egtd4",
+              "end": 52,
+              "expanded_url": "https://x.com/nyankorooow/status/2083538643310809528/photo/1",
+              "media_key": "3_2083538640689328128",
+              "start": 29,
+              "url": "https://t.co/Bvfi3egtd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083810566540550167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538643310809528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyankorooow: 本日の警備、異常なし。 https://t.co/Bvfi3egtd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 482,
+          "like_count": 14272,
+          "listed_count": 0,
+          "media_count": 1181,
+          "tweet_count": 3374
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-03T16:35:25.000Z",
+        "description": "癒やしの瞬間と猫あるあるを毎日お届け\nInstagramでも猫画像を投稿中👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nyankorooow/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nyankorooow/",
+                "start": 0,
+                "url": "https://t.co/3d2zzN3DUs"
+              }
+            ]
+          }
+        },
+        "id": "716665416202854400",
+        "name": "にゃん太郎｜猫画像｜Funny Cats",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079935927254994944/n9u3uG9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20975,
+          "following_count": 1,
+          "like_count": 21,
+          "listed_count": 240,
+          "media_count": 7348,
+          "tweet_count": 7525
+        },
+        "url": "https://t.co/3d2zzN3DUs",
+        "username": "nyankorooow",
+        "verified": true
+      }
+    ]
+  }
+}

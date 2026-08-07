@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065748151634690048"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2065101933921349880",
+    "created_at": "2026-06-13T10:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065748158731481188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780478202298744833",
+          "start": 0,
+          "username": "ardour33485"
+        },
+        {
+          "end": 27,
+          "id": "1384325091610169345",
+          "start": 13,
+          "username": "gaibababababa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i18n2Yfsqz",
+          "end": 56,
+          "expanded_url": "https://x.com/fhv932189957574/status/2065748158731481188/photo/1",
+          "media_key": "3_2065748151634690048",
+          "start": 33,
+          "url": "https://t.co/i18n2Yfsqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065748158731481188",
+    "in_reply_to_user_id": "1780478202298744833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065308338817007754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ardour33485 @gaibababababa 轻松绷住 https://t.co/i18n2Yfsqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2065748151634690048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsC_8WbAAAbJWV.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065748151634690048"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2065101933921349880",
+        "created_at": "2026-06-13T10:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065748158731481188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780478202298744833",
+              "start": 0,
+              "username": "ardour33485"
+            },
+            {
+              "end": 27,
+              "id": "1384325091610169345",
+              "start": 13,
+              "username": "gaibababababa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i18n2Yfsqz",
+              "end": 56,
+              "expanded_url": "https://x.com/fhv932189957574/status/2065748158731481188/photo/1",
+              "media_key": "3_2065748151634690048",
+              "start": 33,
+              "url": "https://t.co/i18n2Yfsqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065748158731481188",
+        "in_reply_to_user_id": "1780478202298744833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065308338817007754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ardour33485 @gaibababababa 轻松绷住 https://t.co/i18n2Yfsqz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780478202298744833",
+        "conversation_id": "2065101933921349880",
+        "created_at": "2026-06-12T05:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065308338817007754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1384325091610169345",
+              "start": 0,
+              "username": "gaibababababa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065308338817007754",
+        "in_reply_to_user_id": "1384325091610169345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 13711,
+          "like_count": 686,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065101933921349880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaibababababa 俩人正做呢，女生说咱们搞点写字羞辱play吧，然后男生突然没了动静，女生疑惑的一转头，发现男生突然换上了一身古装手里还攥着一只沾满了墨水的毛笔，脑袋上画了个月亮，一边哇呀呀呀的喊着一边在她身上写上了一个大大的囚字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 174,
+          "like_count": 6202,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 1492
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-17T06:07:45.000Z",
+        "description": "我要一片昏暗的晚霞",
+        "id": "1780478202298744833",
+        "location": "American Canyon, CA",
+        "name": "ARDOUR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823745876541526017/PiWVwIAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 88,
+          "like_count": 5395,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 467
+        },
+        "username": "ardour33485",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T01:56:43.000Z",
+        "description": "性幻想分享/日常生活吐槽/不在国内所以不约/私信可以骚扰就给我滚✋",
+        "id": "1384325091610169345",
+        "name": "Dye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917228407752155136/mr5ne55R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 71,
+          "like_count": 11,
+          "listed_count": 7,
+          "media_count": 6,
+          "tweet_count": 297
+        },
+        "username": "gaibababababa",
+        "verified": false
+      }
+    ]
+  }
+}

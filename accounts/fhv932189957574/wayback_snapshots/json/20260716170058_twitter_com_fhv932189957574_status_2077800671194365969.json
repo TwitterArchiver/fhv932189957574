@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077703793601610090",
+    "created_at": "2026-07-16T17:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077800671194365969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936921370",
+          "start": 0,
+          "username": "nanjomaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077800671194365969",
+    "in_reply_to_user_id": "1936921370",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077703793601610090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanjomaya 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3569,
+        "media_key": "3_2077703787163299840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV8lhZaMAA2Zvo.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077703793601610090",
+        "created_at": "2026-07-16T17:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077800671194365969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936921370",
+              "start": 0,
+              "username": "nanjomaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077800671194365969",
+        "in_reply_to_user_id": "1936921370",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077703793601610090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanjomaya 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077703787163299840"
+          ]
+        },
+        "author_id": "1936921370",
+        "conversation_id": "2077703793601610090",
+        "created_at": "2026-07-16T10:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077703793601610090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHqP8d922z",
+              "end": 30,
+              "expanded_url": "https://x.com/nanjomaya/status/2077703793601610090/photo/1",
+              "media_key": "3_2077703787163299840",
+              "start": 7,
+              "url": "https://t.co/oHqP8d922z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077703793601610090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 37164,
+          "like_count": 4576,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "キャストリス https://t.co/oHqP8d922z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 469,
+          "like_count": 11273,
+          "listed_count": 0,
+          "media_count": 1057,
+          "tweet_count": 2918
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-05T08:22:12.000Z",
+        "description": "🪬JP🇯🇵Illustrator https://t.co/jV00p328XZ\n🪬 Mail：nanjoomaya♦︎https://t.co/OqG4MxRmml(♦︎→@)\n🪬 Skeb：https://t.co/gMdt5YLOp4\n🪬 No reuploading\n🪬 No AI training",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fori.io/mariarose",
+                "end": 40,
+                "expanded_url": "https://fori.io/mariarose",
+                "start": 17,
+                "url": "https://t.co/jV00p328XZ"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 83,
+                "expanded_url": "http://gmail.com",
+                "start": 60,
+                "url": "https://t.co/OqG4MxRmml"
+              },
+              {
+                "display_url": "skeb.jp/@mravwx",
+                "end": 120,
+                "expanded_url": "https://skeb.jp/@mravwx",
+                "start": 97,
+                "url": "https://t.co/gMdt5YLOp4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanjo-maya.carrd.co",
+                "end": 23,
+                "expanded_url": "https://nanjo-maya.carrd.co",
+                "start": 0,
+                "url": "https://t.co/mmDztiyJ5k"
+              }
+            ]
+          }
+        },
+        "id": "1936921370",
+        "location": "Japan",
+        "name": "南条まや",
+        "pinned_tweet_id": "2023055221187039716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885037656603844608/Wz9pDBwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87936,
+          "following_count": 164,
+          "like_count": 18182,
+          "listed_count": 538,
+          "media_count": 465,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/mmDztiyJ5k",
+        "username": "nanjomaya",
+        "verified": true
+      }
+    ]
+  }
+}

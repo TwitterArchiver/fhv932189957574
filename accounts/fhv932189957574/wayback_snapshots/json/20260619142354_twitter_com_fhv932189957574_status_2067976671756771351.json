@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067976661661085696"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067976671756771351",
+    "created_at": "2026-06-19T14:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067976671756771351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1GulA5zfRy",
+          "end": 27,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067976671756771351/photo/1",
+          "media_key": "3_2067976661661085696",
+          "start": 4,
+          "url": "https://t.co/1GulA5zfRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067976671756771351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友↓ https://t.co/1GulA5zfRy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 528,
+        "media_key": "3_2067976661661085696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLt0TIbcAAfwJp.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067976661661085696"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067976671756771351",
+        "created_at": "2026-06-19T14:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067976671756771351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GulA5zfRy",
+              "end": 27,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067976671756771351/photo/1",
+              "media_key": "3_2067976661661085696",
+              "start": 4,
+              "url": "https://t.co/1GulA5zfRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976671756771351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友↓ https://t.co/1GulA5zfRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 210,
+          "like_count": 7142,
+          "listed_count": 1,
+          "media_count": 646,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

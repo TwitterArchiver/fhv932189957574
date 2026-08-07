@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066526344603979776"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2063951021874065602",
+    "created_at": "2026-06-15T14:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066526461134299625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594934407432847360",
+          "start": 0,
+          "username": "YLDLZN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ow6dWqhSfY",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066526461134299625/video/1",
+          "media_key": "13_2066526344603979776",
+          "start": 16,
+          "url": "https://t.co/ow6dWqhSfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066526461134299625",
+    "in_reply_to_user_id": "1594934407432847360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063951021874065602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLDLZN 或许可以看一下 https://t.co/ow6dWqhSfY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33180,
+        "height": 720,
+        "media_key": "13_2066526344603979776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066526344603979776/img/X-KS9ajzLvpLRn4a.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066526344603979776/vid/avc1/480x270/VXc2GQGVOa9_O92y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066526344603979776/vid/avc1/640x360/laUu--OMqGOlkMkU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066526344603979776/vid/avc1/1280x720/DGFOsstr8Lp4797g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066526344603979776/pl/MJAQ1ay4GDMJtxYd.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1394,
+        "media_key": "3_2063950997970624512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSgf1PaIAAj4tu.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066526344603979776"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2063951021874065602",
+        "created_at": "2026-06-15T14:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066526461134299625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594934407432847360",
+              "start": 0,
+              "username": "YLDLZN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ow6dWqhSfY",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066526461134299625/video/1",
+              "media_key": "13_2066526344603979776",
+              "start": 16,
+              "url": "https://t.co/ow6dWqhSfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066526461134299625",
+        "in_reply_to_user_id": "1594934407432847360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063951021874065602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLDLZN 或许可以看一下 https://t.co/ow6dWqhSfY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063950997970624512"
+          ]
+        },
+        "author_id": "1594934407432847360",
+        "conversation_id": "2063951021874065602",
+        "created_at": "2026-06-08T11:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063951021874065602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnpqUuCIdn",
+              "end": 119,
+              "expanded_url": "https://x.com/YLDLZN/status/2063951021874065602/photo/1",
+              "media_key": "3_2063950997970624512",
+              "start": 96,
+              "url": "https://t.co/hnpqUuCIdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063951021874065602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 722968,
+          "like_count": 1102,
+          "quote_count": 22,
+          "reply_count": 933,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "这不就是典型的嘉豪么……\n高考这么重要的事，估计还没上考场就满脑子想着“提高性同意年龄到18岁”。提前交卷出来豪一下，这辈子有了。\n什么高中生满脑子性同意啊？\n尤其是这学校还是以复读生出名。 https://t.co/hnpqUuCIdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 174,
+          "like_count": 6573,
+          "listed_count": 1,
+          "media_count": 565,
+          "tweet_count": 1593
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T06:02:57.000Z",
+        "description": "皇汉｜反女权｜gender equality｜반페미｜アンチフェミ｜антифем｜日月之行，若出其中；星汉灿烂，若出其里",
+        "id": "1594934407432847360",
+        "location": "暴风城",
+        "name": "伊利丹",
+        "pinned_tweet_id": "2061349950571827654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007655851574865922/pJHUnFSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9152,
+          "following_count": 544,
+          "like_count": 28,
+          "listed_count": 14,
+          "media_count": 1123,
+          "tweet_count": 1814
+        },
+        "username": "YLDLZN",
+        "verified": true
+      }
+    ]
+  }
+}

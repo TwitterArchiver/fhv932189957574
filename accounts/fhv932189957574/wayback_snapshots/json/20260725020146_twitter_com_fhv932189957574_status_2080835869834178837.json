@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2080686113715597512",
+    "created_at": "2026-07-25T02:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080835869834178837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "726576102970265600",
+          "start": 0,
+          "username": "770chief"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080835869834178837",
+    "in_reply_to_user_id": "726576102970265600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080686113715597512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@770chief 怎么跟烧烤架一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51530,
+        "height": 568,
+        "media_key": "13_2080686078974173184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080686078974173184/img/kMOFe2klaPqCnUDr.jpg",
+        "public_metrics": {
+          "view_count": 162278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080686078974173184/vid/avc1/320x568/v8XoS1h9eMXLTBw1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080686078974173184/pl/-qgsNjW2nzYQBsXN.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2080686113715597512",
+        "created_at": "2026-07-25T02:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080835869834178837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "726576102970265600",
+              "start": 0,
+              "username": "770chief"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080835869834178837",
+        "in_reply_to_user_id": "726576102970265600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080686113715597512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@770chief 怎么跟烧烤架一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080686078974173184"
+          ]
+        },
+        "author_id": "726576102970265600",
+        "conversation_id": "2080686113715597512",
+        "created_at": "2026-07-24T16:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080686113715597512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "劇場版ちいかわで1番感動したシーン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dbDvgCFe1",
+              "end": 42,
+              "expanded_url": "https://x.com/770chief/status/2080686113715597512/video/1",
+              "media_key": "13_2080686078974173184",
+              "start": 19,
+              "url": "https://t.co/7dbDvgCFe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686113715597512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1055,
+          "impression_count": 448138,
+          "like_count": 7335,
+          "quote_count": 136,
+          "reply_count": 54,
+          "retweet_count": 1507
+        },
+        "reply_settings": "everyone",
+        "text": "#劇場版ちいかわで1番感動したシーン https://t.co/7dbDvgCFe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 475,
+          "like_count": 12996,
+          "listed_count": 0,
+          "media_count": 1134,
+          "tweet_count": 3197
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-01T00:56:56.000Z",
+        "description": "💖七尾奈留先生大好き✨美少女ゲーム💘天鳳8段🦅¥$🐐꒰՞o̴̶̷̤ᾥo̴̶̷̤՞꒱🧸プリティーシリーズ💞金髪ですわ口調お嬢様🎀TOUGH💜🩷❤️🧡💛💚🩵💙マイキャラ愛🫶🫰タメ口・愚弄歓迎︎🤍︎🕊",
+        "id": "726576102970265600",
+        "location": "百合の間💐",
+        "name": "かちょう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290378057664978944/fl3amQpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 868,
+          "like_count": 42073,
+          "listed_count": 20,
+          "media_count": 7059,
+          "tweet_count": 17870
+        },
+        "url": "",
+        "username": "770chief",
+        "verified": false
+      }
+    ]
+  }
+}

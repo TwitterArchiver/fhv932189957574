@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074136074096607280",
+    "created_at": "2026-07-07T03:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074331005012574575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1590243007995215872",
+          "start": 0,
+          "username": "XueShengWanBi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074331005012574575",
+    "in_reply_to_user_id": "1590243007995215872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074136074096607280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XueShengWanBi hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074136074096607280",
+        "created_at": "2026-07-07T03:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074331005012574575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1590243007995215872",
+              "start": 0,
+              "username": "XueShengWanBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074331005012574575",
+        "in_reply_to_user_id": "1590243007995215872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074136074096607280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XueShengWanBi hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590243007995215872",
+        "conversation_id": "2074136074096607280",
+        "created_at": "2026-07-06T14:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074136074096607280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074136074096607280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2461,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关的热度悄然回归。细想之下，其实谁都不必端着，褪去官方外壳，我们皆是凡人。既然都在江湖漂，偶尔抱团，并不丢人。 #蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 335,
+          "like_count": 9471,
+          "listed_count": 0,
+          "media_count": 943,
+          "tweet_count": 2515
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-09T07:21:09.000Z",
+        "description": "资深域名投资人，比特币生态布道者，QQ群：11117000，FomoWell邀请注册：https://t.co/UjOuW5WnwK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fomowell.app/?r=082414E2",
+                "end": 66,
+                "expanded_url": "https://fomowell.app/?r=082414E2",
+                "start": 43,
+                "url": "https://t.co/UjOuW5WnwK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fomowell.app/?r=082414E2",
+                "end": 23,
+                "expanded_url": "https://fomowell.app/?r=082414E2",
+                "start": 0,
+                "url": "https://t.co/UjOuW5WnwK"
+              }
+            ]
+          }
+        },
+        "id": "1590243007995215872",
+        "location": "QQ群：11117000",
+        "name": "学生玩币",
+        "pinned_tweet_id": "2040053002451788020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960353624166703104/rAeuhgFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 4590,
+          "like_count": 578,
+          "listed_count": 13,
+          "media_count": 82,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/UjOuW5WnwK",
+        "username": "XueShengWanBi",
+        "verified": true
+      }
+    ]
+  }
+}

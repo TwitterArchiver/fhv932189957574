@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076231841959567360"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2075778048884928738",
+    "created_at": "2026-07-12T09:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076231846413938783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986856540251537408",
+          "start": 0,
+          "username": "mzx_ruhua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BLdvC9tXhI",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2076231846413938783/photo/1",
+          "media_key": "3_2076231841959567360",
+          "start": 13,
+          "url": "https://t.co/BLdvC9tXhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076231846413938783",
+    "in_reply_to_user_id": "1986856540251537408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075778048884928738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzx_ruhua 乐 https://t.co/BLdvC9tXhI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2076231841959567360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBB3CNa4AAVDuH.jpg",
+        "width": 536
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2075778040974438400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6lIVzWcAAXzgd.jpg",
+        "width": 472
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2075778041725235200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6lIYmWsAAPdRO.jpg",
+        "width": 890
+      },
+      {
+        "height": 590,
+        "media_key": "3_2075778041742024704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6lIYqW4AAC9BB.jpg",
+        "width": 761
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2075778041679110144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6lIYbW4AAdEKY.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076231841959567360"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2075778048884928738",
+        "created_at": "2026-07-12T09:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076231846413938783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986856540251537408",
+              "start": 0,
+              "username": "mzx_ruhua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLdvC9tXhI",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2076231846413938783/photo/1",
+              "media_key": "3_2076231841959567360",
+              "start": 13,
+              "url": "https://t.co/BLdvC9tXhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076231846413938783",
+        "in_reply_to_user_id": "1986856540251537408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075778048884928738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzx_ruhua 乐 https://t.co/BLdvC9tXhI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075778040974438400",
+            "3_2075778041725235200",
+            "3_2075778041742024704",
+            "3_2075778041679110144"
+          ]
+        },
+        "author_id": "1986856540251537408",
+        "conversation_id": "2075778048884928738",
+        "created_at": "2026-07-11T03:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075778048884928738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnauDGtrkP",
+              "end": 164,
+              "expanded_url": "https://x.com/mzx_ruhua/status/2075778048884928738/photo/1",
+              "media_key": "3_2075778040974438400",
+              "start": 141,
+              "url": "https://t.co/vnauDGtrkP"
+            },
+            {
+              "display_url": "pic.x.com/vnauDGtrkP",
+              "end": 164,
+              "expanded_url": "https://x.com/mzx_ruhua/status/2075778048884928738/photo/1",
+              "media_key": "3_2075778041725235200",
+              "start": 141,
+              "url": "https://t.co/vnauDGtrkP"
+            },
+            {
+              "display_url": "pic.x.com/vnauDGtrkP",
+              "end": 164,
+              "expanded_url": "https://x.com/mzx_ruhua/status/2075778048884928738/photo/1",
+              "media_key": "3_2075778041742024704",
+              "start": 141,
+              "url": "https://t.co/vnauDGtrkP"
+            },
+            {
+              "display_url": "pic.x.com/vnauDGtrkP",
+              "end": 164,
+              "expanded_url": "https://x.com/mzx_ruhua/status/2075778048884928738/photo/1",
+              "media_key": "3_2075778041679110144",
+              "start": 141,
+              "url": "https://t.co/vnauDGtrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075778048884928738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 9064,
+          "like_count": 289,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你永远也成为不了一个真正的支黑，你没有脚踩底层的勇气，你没有蔑视生命的决绝，你没有对苦难视而不见的冷血，你没有颠倒黑白的威能，你没有给共产党屠杀恶行舔屎擦屁股的脸皮，你有的只是对支那人的怜悯，对变革的希望，圣母心，与普世价值，你把支那人也当人，正因此你永远也成为不了一个真正的支黑 https://t.co/vnauDGtrkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 408,
+          "like_count": 10256,
+          "listed_count": 0,
+          "media_count": 1010,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T18:01:44.000Z",
+        "description": "支那这种粪坑洼地，不净化怎么能行？\n粪红、妄左、蝗汉进来自动死妈\n大大方方往里进：@YangtzeRonin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "YangtzeRonin"
+              }
+            ]
+          }
+        },
+        "id": "1986856540251537408",
+        "location": "支那净化区中央广播电视台",
+        "name": "喵主席爱吃蛋炒饭",
+        "pinned_tweet_id": "2068616518481424858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051099817661673472/Y5Aun_Pt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 869,
+          "like_count": 2816,
+          "listed_count": 13,
+          "media_count": 751,
+          "tweet_count": 5984
+        },
+        "url": "",
+        "username": "mzx_ruhua",
+        "verified": false
+      }
+    ]
+  }
+}

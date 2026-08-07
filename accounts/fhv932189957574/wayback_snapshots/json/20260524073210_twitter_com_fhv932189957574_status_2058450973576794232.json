@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058450959437824000"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058147622746243360",
+    "created_at": "2026-05-24T07:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058450973576794232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zA2cczl96",
+          "end": 38,
+          "expanded_url": "https://x.com/fhv932189957574/status/2058450973576794232/photo/1",
+          "media_key": "3_2058450959437824000",
+          "start": 15,
+          "url": "https://t.co/6zA2cczl96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058450973576794232",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058147622746243360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 二对 https://t.co/6zA2cczl96"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2058450959437824000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEWPdDagAA5WX3.jpg",
+        "width": 380
+      },
+      {
+        "height": 719,
+        "media_key": "3_2058147606765916161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJACWASaUAEBfIB.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058450959437824000"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058147622746243360",
+        "created_at": "2026-05-24T07:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058450973576794232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zA2cczl96",
+              "end": 38,
+              "expanded_url": "https://x.com/fhv932189957574/status/2058450973576794232/photo/1",
+              "media_key": "3_2058450959437824000",
+              "start": 15,
+              "url": "https://t.co/6zA2cczl96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058450973576794232",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058147622746243360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 二对 https://t.co/6zA2cczl96"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058147606765916161"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2058147622746243360",
+        "created_at": "2026-05-23T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058147622746243360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccKf6hIoRv",
+              "end": 32,
+              "expanded_url": "https://x.com/__fanqie__/status/2058147622746243360/photo/1",
+              "media_key": "3_2058147606765916161",
+              "start": 9,
+              "url": "https://t.co/ccKf6hIoRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058147622746243360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3276,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哪个是你在幻想？ https://t.co/ccKf6hIoRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜别特么问了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 81,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 953
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发小头梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2054493321616375888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7411,
+          "following_count": 2975,
+          "like_count": 1560,
+          "listed_count": 14,
+          "media_count": 1437,
+          "tweet_count": 9638
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

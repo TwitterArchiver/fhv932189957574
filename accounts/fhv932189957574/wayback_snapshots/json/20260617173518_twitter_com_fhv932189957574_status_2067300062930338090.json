@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067300062930338090",
+    "created_at": "2026-06-17T17:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067300062930338090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hzhbng424050/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hzhbng424050/status/2067212703333245170",
+          "start": 9,
+          "url": "https://t.co/YRq57cuVMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067300062930338090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067212703333245170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天617了我草 https://t.co/YRq57cuVMy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067300062930338090",
+        "created_at": "2026-06-17T17:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067300062930338090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hzhbng424050/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hzhbng424050/status/2067212703333245170",
+              "start": 9,
+              "url": "https://t.co/YRq57cuVMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067300062930338090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067212703333245170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天617了我草 https://t.co/YRq57cuVMy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799443469557215232",
+        "conversation_id": "2067212703333245170",
+        "created_at": "2026-06-17T11:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067212703333245170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067212703333245170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天618感觉是历年最冷清一届\n\n全程毫无水花\n\n反正今年我个人啥也没买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 208,
+          "like_count": 6751,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 1638
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T14:09:09.000Z",
+        "description": "土木工程 ｜恒大8年土建工程师离职，现自由职业工作室折腾｜来X 日常生活见闻分享、偶尔暴论（废话），点赞评论都会回。",
+        "id": "1799443469557215232",
+        "name": "斌斌",
+        "pinned_tweet_id": "2066736247444517285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065971144398913536/JX13EKvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1146,
+          "like_count": 6315,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1798
+        },
+        "username": "hzhbng424050",
+        "verified": true
+      }
+    ]
+  }
+}

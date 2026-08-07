@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072727706610069504"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072510272754065598",
+    "created_at": "2026-07-02T17:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072727712033329522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkuNQM7yMf",
+          "end": 49,
+          "expanded_url": "https://x.com/fhv932189957574/status/2072727712033329522/photo/1",
+          "media_key": "3_2072727706610069504",
+          "start": 26,
+          "url": "https://t.co/dkuNQM7yMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072727712033329522",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072510272754065598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama 其实大家都不是大格调女孩 https://t.co/dkuNQM7yMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2072727706610069504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPO3gyacAAv7Vw.jpg",
+        "width": 457
+      },
+      {
+        "height": 600,
+        "media_key": "3_2072510267385405440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMJG4jbYAA3DKw.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072727706610069504"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072510272754065598",
+        "created_at": "2026-07-02T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072727712033329522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkuNQM7yMf",
+              "end": 49,
+              "expanded_url": "https://x.com/fhv932189957574/status/2072727712033329522/photo/1",
+              "media_key": "3_2072727706610069504",
+              "start": 26,
+              "url": "https://t.co/dkuNQM7yMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072727712033329522",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072510272754065598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 其实大家都不是大格调女孩 https://t.co/dkuNQM7yMf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072510267385405440"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2072510272754065598",
+        "created_at": "2026-07-02T02:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072510272754065598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwtQBLiGSi",
+              "end": 57,
+              "expanded_url": "https://x.com/hasaki_sama/status/2072510272754065598/photo/1",
+              "media_key": "3_2072510267385405440",
+              "start": 34,
+              "url": "https://t.co/YwtQBLiGSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072510272754065598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1035,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果大家都是扶她的话……\n那是不是就没有性别对立了？(我在说什么） https://t.co/YwtQBLiGSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 314,
+          "like_count": 9035,
+          "listed_count": 0,
+          "media_count": 886,
+          "tweet_count": 2361
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+/友跨🍥/键政🆖\n目前正励志成为一名合格的Developer！\nhttps://t.co/VDLGVdRk4Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 134,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 111,
+                "url": "https://t.co/VDLGVdRk4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hasaki0612-lab.github.io",
+                "end": 23,
+                "expanded_url": "https://hasaki0612-lab.github.io/",
+                "start": 0,
+                "url": "https://t.co/nNs1GIHKk5"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065503629424095233/2n7J0sWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 317,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/nNs1GIHKk5",
+        "username": "hasaki_sama",
+        "verified": false
+      }
+    ]
+  }
+}

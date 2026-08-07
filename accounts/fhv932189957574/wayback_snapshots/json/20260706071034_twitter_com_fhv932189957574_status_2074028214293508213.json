@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074028209046507520"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2073965615191388422",
+    "created_at": "2026-07-06T07:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074028214293508213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/49RIp6OCYP",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2074028214293508213/photo/1",
+          "media_key": "3_2074028209046507520",
+          "start": 13,
+          "url": "https://t.co/49RIp6OCYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074028214293508213",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073965615191388422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 依旧 https://t.co/49RIp6OCYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2074028209046507520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhtqt5bUAAlcE_.jpg",
+        "width": 536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073965612490244097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg0vHjbQAELnq3.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073965611328368640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg0vDOacAAhqqY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074028209046507520"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2073965615191388422",
+        "created_at": "2026-07-06T07:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074028214293508213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49RIp6OCYP",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2074028214293508213/photo/1",
+              "media_key": "3_2074028209046507520",
+              "start": 13,
+              "url": "https://t.co/49RIp6OCYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074028214293508213",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073965615191388422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 依旧 https://t.co/49RIp6OCYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073965612490244097",
+            "3_2073965611328368640"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073965615191388422",
+        "created_at": "2026-07-06T03:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073965615191388422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbGTkhlZZS",
+              "end": 68,
+              "expanded_url": "https://x.com/show5560/status/2073965615191388422/photo/1",
+              "media_key": "3_2073965612490244097",
+              "start": 45,
+              "url": "https://t.co/UbGTkhlZZS"
+            },
+            {
+              "display_url": "pic.x.com/UbGTkhlZZS",
+              "end": 68,
+              "expanded_url": "https://x.com/show5560/status/2073965615191388422/photo/1",
+              "media_key": "3_2073965611328368640",
+              "start": 45,
+              "url": "https://t.co/UbGTkhlZZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073965615191388422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3377,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢互联网让我见到了人类的多样性，真的有点恶心了😰\nps:给你们把红色部分的打码了qwq https://t.co/UbGTkhlZZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 317,
+          "like_count": 9312,
+          "listed_count": 0,
+          "media_count": 932,
+          "tweet_count": 2476
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 1730,
+          "like_count": 30322,
+          "listed_count": 11,
+          "media_count": 2055,
+          "tweet_count": 9553
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

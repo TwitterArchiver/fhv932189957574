@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2055532079966834813",
+    "created_at": "2026-06-09T16:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064378718454452405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064378718454452405",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055532079966834813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 看不懂😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2055532066352066560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa3hg9W8AAx-O4.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2055532066339426304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa3hg6WEAAdyGB.jpg",
+        "width": 1086
+      },
+      {
+        "height": 812,
+        "media_key": "3_2055532066347872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa3hg8W8AAwuTc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2055532079966834813",
+        "created_at": "2026-06-09T16:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064378718454452405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064378718454452405",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055532079966834813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 看不懂😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055532066352066560",
+            "3_2055532066339426304",
+            "3_2055532066347872256"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "conversation_id": "2055532079966834813",
+        "created_at": "2026-05-16T06:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055532079966834813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrjYaiJn8G",
+              "end": 110,
+              "expanded_url": "https://x.com/EntropyF73/status/2055532079966834813/photo/1",
+              "media_key": "3_2055532066352066560",
+              "start": 87,
+              "url": "https://t.co/NrjYaiJn8G"
+            },
+            {
+              "display_url": "pic.x.com/NrjYaiJn8G",
+              "end": 110,
+              "expanded_url": "https://x.com/EntropyF73/status/2055532079966834813/photo/1",
+              "media_key": "3_2055532066339426304",
+              "start": 87,
+              "url": "https://t.co/NrjYaiJn8G"
+            },
+            {
+              "display_url": "pic.x.com/NrjYaiJn8G",
+              "end": 110,
+              "expanded_url": "https://x.com/EntropyF73/status/2055532079966834813/photo/1",
+              "media_key": "3_2055532066347872256",
+              "start": 87,
+              "url": "https://t.co/NrjYaiJn8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055532079966834813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3841,
+          "like_count": 21,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚搜罗到的无性恋表格🖤🩶🤍💜\n可能因为无性恋谱系比较复杂所以觉得这个表概括得还是有点bias（比较难啦\np3的光谱是教心的朋友发我的，这个我比较认可一些\n各位需要的自取～ https://t.co/NrjYaiJn8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2064045648304103475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 122,
+          "like_count": 5576,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 1352
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1221,
+          "like_count": 31477,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

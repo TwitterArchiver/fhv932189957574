@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2065998914231366062",
+    "created_at": "2026-06-14T20:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066253200437776479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066253200437776479",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065998914231366062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 他妈怎么不继续说那暴论了，一群互关的整天发那伪人文案然后伪人回答相互蹭流量，真是污染"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2065998914231366062",
+        "created_at": "2026-06-14T20:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066253200437776479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066253200437776479",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065998914231366062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 他妈怎么不继续说那暴论了，一群互关的整天发那伪人文案然后伪人回答相互蹭流量，真是污染"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949316104144457729",
+        "conversation_id": "2065998914231366062",
+        "created_at": "2026-06-14T03:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065998914231366062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065998914231366062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29369,
+          "like_count": 186,
+          "quote_count": 1,
+          "reply_count": 288,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讲个事实\n\n推特上的人\n\n80% 都是脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 175,
+          "like_count": 6519,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 1575
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/people/46-84-5…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/people/46-84-5-95",
+                "start": 0,
+                "url": "https://t.co/tEYK0T3zeJ"
+              }
+            ]
+          }
+        },
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2055249092750746040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17236,
+          "following_count": 2725,
+          "like_count": 14164,
+          "listed_count": 55,
+          "media_count": 245,
+          "tweet_count": 13627
+        },
+        "url": "https://t.co/tEYK0T3zeJ",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

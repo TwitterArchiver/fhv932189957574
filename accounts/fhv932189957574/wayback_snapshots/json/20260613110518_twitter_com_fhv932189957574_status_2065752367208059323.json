@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2065749279650546067",
+    "created_at": "2026-06-13T11:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065752367208059323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734906028087721984",
+          "start": 0,
+          "username": "shantianliang08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065752367208059323",
+    "in_reply_to_user_id": "1734906028087721984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065749279650546067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shantianliang08 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2065749273229066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsEBOnXAAA-GUj.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2065749279650546067",
+        "created_at": "2026-06-13T11:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065752367208059323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734906028087721984",
+              "start": 0,
+              "username": "shantianliang08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065752367208059323",
+        "in_reply_to_user_id": "1734906028087721984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065749279650546067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shantianliang08 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065749273229066240"
+          ]
+        },
+        "author_id": "1734906028087721984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065749279650546067",
+        "created_at": "2026-06-13T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065749279650546067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/nCvAfztTZP"
+            },
+            {
+              "display_url": "pic.x.com/tj3aj51mTi",
+              "end": 64,
+              "expanded_url": "https://x.com/shantianliang08/status/2065749279650546067/photo/1",
+              "media_key": "3_2065749273229066240",
+              "start": 41,
+              "url": "https://t.co/tj3aj51mTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065749279650546067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 39,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/nCvAfztTZP https://t.co/tj3aj51mTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 174,
+          "like_count": 6208,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 1495
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-13T12:00:15.000Z",
+        "description": "/无政治立场/喜欢日常📷/友🏳️‍🌈🏳️‍⚧️\n请勿在我帖子下发表关于政治言论\n优先群体：大学生/职校生/08同龄人\n前身：山田凉official（@shantian1944）\nsteam好友代码：1527038776\n2008.9.19+互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "shantian1944"
+              }
+            ]
+          }
+        },
+        "id": "1734906028087721984",
+        "location": "hello pig god",
+        "name": "新汕田凉official（每年底淡推）",
+        "pinned_tweet_id": "2063678689397940505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063140065166168064/mBj5IakM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 142,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "username": "shantianliang08",
+        "verified": false
+      }
+    ]
+  }
+}

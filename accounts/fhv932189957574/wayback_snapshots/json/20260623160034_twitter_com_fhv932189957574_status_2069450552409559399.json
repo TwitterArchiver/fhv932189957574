@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069450547627954176"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069430800156905559",
+    "created_at": "2026-06-23T16:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069450552409559399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCQ9qaejsh",
+          "end": 46,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069450552409559399/photo/1",
+          "media_key": "3_2069450547627954176",
+          "start": 23,
+          "url": "https://t.co/vCQ9qaejsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069450552409559399",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069430800156905559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 美在哪，隔着在哪 https://t.co/vCQ9qaejsh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2069450547627954176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgqTwOaEAAKzqx.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 18375,
+        "height": 1696,
+        "media_key": "13_2069430735472377856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069430735472377856/img/zBpXkTcpJ8vU13Ca.jpg",
+        "public_metrics": {
+          "view_count": 482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069430735472377856/vid/avc1/720x1412/vFoW_d0iKFdfKSve.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069430735472377856/vid/avc1/864x1696/YgEKg_-8zh7j5ABb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069430735472377856/vid/avc1/480x942/tiTcdJSvzGnhmbuT.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069430735472377856/vid/avc1/320x628/XLVGMAnqbs80zmeT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069430735472377856/pl/IiNWq2VaycgMYoeu.m3u8"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069450547627954176"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069430800156905559",
+        "created_at": "2026-06-23T16:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069450552409559399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCQ9qaejsh",
+              "end": 46,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069450552409559399/photo/1",
+              "media_key": "3_2069450547627954176",
+              "start": 23,
+              "url": "https://t.co/vCQ9qaejsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069450552409559399",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069430800156905559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 美在哪，隔着在哪 https://t.co/vCQ9qaejsh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069430735472377856"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2069430800156905559",
+        "created_at": "2026-06-23T14:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069430800156905559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDKZ6pDtTO",
+              "end": 54,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2069430800156905559/video/1",
+              "media_key": "13_2069430735472377856",
+              "start": 31,
+              "url": "https://t.co/aDKZ6pDtTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069430800156905559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【接投稿】海南海口龙湖天街，一名长发顾客用试用品指甲油涂脚。 https://t.co/aDKZ6pDtTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 217,
+          "like_count": 7760,
+          "listed_count": 0,
+          "media_count": 734,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10609,
+          "following_count": 904,
+          "like_count": 1388,
+          "listed_count": 44,
+          "media_count": 2443,
+          "tweet_count": 5072
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

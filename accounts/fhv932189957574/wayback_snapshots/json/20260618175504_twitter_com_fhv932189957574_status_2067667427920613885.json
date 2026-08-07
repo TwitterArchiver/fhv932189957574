@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067667421935374336"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067333330618470698",
+    "created_at": "2026-06-18T17:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067667427920613885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1532790843085570050",
+          "start": 0,
+          "username": "SabriAmca1453"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HYIY1bNcHO",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067667427920613885/photo/1",
+          "media_key": "3_2067667421935374336",
+          "start": 17,
+          "url": "https://t.co/HYIY1bNcHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067667427920613885",
+    "in_reply_to_user_id": "1532790843085570050",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067333330618470698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SabriAmca1453 ？ https://t.co/HYIY1bNcHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_2067667421935374336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHUkLYbEAA1pqT.jpg",
+        "width": 192
+      },
+      {
+        "duration_ms": 28080,
+        "height": 1080,
+        "media_key": "7_2067333297865195520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067333297865195520/pu/img/3Tr3jSiEfyAcA4GR.jpg",
+        "public_metrics": {
+          "view_count": 5662112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067333297865195520/pu/vid/avc1/1280x720/EuaOPfH5P7xz4jq9.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067333297865195520/pu/vid/avc1/480x270/1Pu3Z84J-uDFrJm8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067333297865195520/pu/vid/avc1/1920x1080/gIz-3j3zNCx52NqS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067333297865195520/pu/pl/GR2aheRP7t9Rgm3r.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067333297865195520/pu/vid/avc1/640x360/PWGE5mKxPlFZ75Gd.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067667421935374336"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067333330618470698",
+        "created_at": "2026-06-18T17:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067667427920613885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1532790843085570050",
+              "start": 0,
+              "username": "SabriAmca1453"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYIY1bNcHO",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067667427920613885/photo/1",
+              "media_key": "3_2067667421935374336",
+              "start": 17,
+              "url": "https://t.co/HYIY1bNcHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067667427920613885",
+        "in_reply_to_user_id": "1532790843085570050",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067333330618470698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SabriAmca1453 ？ https://t.co/HYIY1bNcHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067333297865195520"
+          ]
+        },
+        "author_id": "1532790843085570050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Nebraska",
+              "id": "1004449860026753024",
+              "name": "Nebraska"
+            }
+          }
+        ],
+        "conversation_id": "2067333330618470698",
+        "created_at": "2026-06-17T19:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067333330618470698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LLjoAx1f7",
+              "end": 169,
+              "expanded_url": "https://x.com/SabriAmca1453/status/2067333330618470698/video/1",
+              "media_key": "7_2067333297865195520",
+              "start": 146,
+              "url": "https://t.co/2LLjoAx1f7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067333330618470698",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1190,
+          "impression_count": 12947313,
+          "like_count": 6286,
+          "quote_count": 409,
+          "reply_count": 683,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "🟥 ABD'nin nebraska eyaletinde \n61 yaşındaki bir kadın, eşcinsel oğlunun baba olabilmesi için taşıyıcı anne olarak kendi torununu dünyaya getirdi. https://t.co/2LLjoAx1f7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 211,
+          "like_count": 6937,
+          "listed_count": 1,
+          "media_count": 619,
+          "tweet_count": 1696
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T18:27:01.000Z",
+        "description": "Türkiye ve dünya güncel haberler haber şirketi\n\nFan community Parody Account",
+        "id": "1532790843085570050",
+        "location": "Reisin yanı",
+        "name": "Sabri Amca",
+        "pinned_tweet_id": "2027858296099770516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532792216816689153/ucfUaCxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81270,
+          "following_count": 12454,
+          "like_count": 54836,
+          "listed_count": 63,
+          "media_count": 5502,
+          "tweet_count": 36266
+        },
+        "username": "SabriAmca1453",
+        "verified": true
+      }
+    ]
+  }
+}

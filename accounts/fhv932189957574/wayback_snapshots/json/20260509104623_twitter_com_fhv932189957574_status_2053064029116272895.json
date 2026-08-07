@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053064023592271872"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2052697684268720518",
+    "created_at": "2026-05-09T10:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053064029116272895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912997465860808704",
+          "start": 0,
+          "username": "ANON_TOKYO_168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQG61PHTt3",
+          "end": 61,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053064029116272895/photo/1",
+          "media_key": "3_2053064023592271872",
+          "start": 38,
+          "url": "https://t.co/EQG61PHTt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053064029116272895",
+    "in_reply_to_user_id": "1912997465860808704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052697684268720518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANON_TOKYO_168 睦\n好看好看\n可爱可爱\n好看好看\n可爱可爱 https://t.co/EQG61PHTt3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2053064023592271872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3y2hNaAAAMAn-.jpg",
+        "width": 512
+      },
+      {
+        "height": 960,
+        "media_key": "3_2052697679986302978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHylqg7aIAI0h7V.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053064023592271872"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2052697684268720518",
+        "created_at": "2026-05-09T10:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053064029116272895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912997465860808704",
+              "start": 0,
+              "username": "ANON_TOKYO_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQG61PHTt3",
+              "end": 61,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053064029116272895/photo/1",
+              "media_key": "3_2053064023592271872",
+              "start": 38,
+              "url": "https://t.co/EQG61PHTt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053064029116272895",
+        "in_reply_to_user_id": "1912997465860808704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052697684268720518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANON_TOKYO_168 睦\n好看好看\n可爱可爱\n好看好看\n可爱可爱 https://t.co/EQG61PHTt3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052697679986302978"
+          ]
+        },
+        "author_id": "1912997465860808704",
+        "conversation_id": "2052697684268720518",
+        "created_at": "2026-05-08T10:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052697684268720518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgUsv9COuu",
+              "end": 34,
+              "expanded_url": "https://x.com/ANON_TOKYO_168/status/2052697684268720518/photo/1",
+              "media_key": "3_2052697679986302978",
+              "start": 11,
+              "url": "https://t.co/NgUsv9COuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052697684268720518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1147,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "しごおわしました‼️ https://t.co/NgUsv9COuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute一定要联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 321
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T22:32:02.000Z",
+        "description": "07 ♀┃リズムゲーを嗜みます\n #彩春マル秘情報┃JOJI民🥕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "彩春マル秘情報"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@anon_tokyo_16…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@anon_tokyo_168?si=NMCuqHVDHAmWflYW",
+                "start": 0,
+                "url": "https://t.co/omhuLIlZcX"
+              }
+            ]
+          }
+        },
+        "id": "1912997465860808704",
+        "name": "彩春*🥕",
+        "pinned_tweet_id": "1998327924030947480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049966464984403968/Pgztzxox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 1234,
+          "like_count": 13064,
+          "listed_count": 9,
+          "media_count": 1560,
+          "tweet_count": 13678
+        },
+        "url": "https://t.co/omhuLIlZcX",
+        "username": "ANON_TOKYO_168",
+        "verified": true
+      }
+    ]
+  }
+}

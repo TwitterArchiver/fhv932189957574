@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067529337230999552",
+        "3_2067529337243586561"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067443742769131852",
+    "created_at": "2026-06-18T08:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067529373159420274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426081907586998276",
+          "start": 0,
+          "username": "bunchosan_dayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/shbI6otSwp",
+          "end": 41,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067529373159420274/photo/1",
+          "media_key": "3_2067529337230999552",
+          "start": 18,
+          "url": "https://t.co/shbI6otSwp"
+        },
+        {
+          "display_url": "pic.x.com/shbI6otSwp",
+          "end": 41,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067529373159420274/photo/1",
+          "media_key": "3_2067529337243586561",
+          "start": 18,
+          "url": "https://t.co/shbI6otSwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067529373159420274",
+    "in_reply_to_user_id": "1426081907586998276",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067443742769131852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bunchosan_dayo 🤤 https://t.co/shbI6otSwp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2067529337230999552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFW-lxaQAAgU-L.jpg",
+        "width": 600
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067529337243586561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFW-l0aUAEqcte.jpg",
+        "width": 1024
+      },
+      {
+        "height": 621,
+        "media_key": "3_2067443154178195456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEImE4awAAQHQa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067529337230999552",
+            "3_2067529337243586561"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067443742769131852",
+        "created_at": "2026-06-18T08:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067529373159420274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426081907586998276",
+              "start": 0,
+              "username": "bunchosan_dayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shbI6otSwp",
+              "end": 41,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067529373159420274/photo/1",
+              "media_key": "3_2067529337230999552",
+              "start": 18,
+              "url": "https://t.co/shbI6otSwp"
+            },
+            {
+              "display_url": "pic.x.com/shbI6otSwp",
+              "end": 41,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067529373159420274/photo/1",
+              "media_key": "3_2067529337243586561",
+              "start": 18,
+              "url": "https://t.co/shbI6otSwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067529373159420274",
+        "in_reply_to_user_id": "1426081907586998276",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067443742769131852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bunchosan_dayo 🤤 https://t.co/shbI6otSwp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067443154178195456"
+          ]
+        },
+        "author_id": "1426081907586998276",
+        "conversation_id": "2067443742769131852",
+        "created_at": "2026-06-18T03:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067443742769131852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfWbpeqHCX",
+              "end": 41,
+              "expanded_url": "https://x.com/bunchosan_dayo/status/2067443742769131852/photo/1",
+              "media_key": "3_2067443154178195456",
+              "start": 18,
+              "url": "https://t.co/lfWbpeqHCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067443742769131852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1585,
+          "impression_count": 382581,
+          "like_count": 8246,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "この画像の初出がずっと気になってる https://t.co/lfWbpeqHCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 211,
+          "like_count": 6777,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 1654
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T07:23:44.000Z",
+        "description": "絵を描いたりゲームしたり、気ままに遊んで生きる健啖な学生愛鳥家の雑多垢🕊️\nイラストはハイライトにまとめてるよ～🎨\n誰でもタメ呼び大歓迎！\n| 今は #鳴潮 #NTE にお熱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 75,
+                "tag": "鳴潮"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "NTE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/85641461",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/85641461",
+                "start": 0,
+                "url": "https://t.co/5UFurMldRO"
+              }
+            ]
+          }
+        },
+        "id": "1426081907586998276",
+        "location": "ココミント味",
+        "name": "文鳥🕊️",
+        "pinned_tweet_id": "1925894905517236651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963804062077603840/2gIWdJUy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 1158,
+          "like_count": 127869,
+          "listed_count": 15,
+          "media_count": 2819,
+          "tweet_count": 26407
+        },
+        "url": "https://t.co/5UFurMldRO",
+        "username": "bunchosan_dayo",
+        "verified": true
+      }
+    ]
+  }
+}

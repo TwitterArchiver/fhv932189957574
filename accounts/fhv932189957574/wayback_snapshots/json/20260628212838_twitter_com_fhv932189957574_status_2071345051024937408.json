@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071345046218326016"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071271138982842453",
+    "created_at": "2026-06-28T21:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071345051024937408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1841988608825466880",
+          "start": 0,
+          "username": "america"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/esQNw1nN1d",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2071345051024937408/photo/1",
+          "media_key": "3_2071345046218326016",
+          "start": 14,
+          "url": "https://t.co/esQNw1nN1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071345051024937408",
+    "in_reply_to_user_id": "1841988608825466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071271138982842453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@america 生日快乐 https://t.co/esQNw1nN1d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2071345046218326016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7lWFcbwAAa9mm.jpg",
+        "width": 600
+      },
+      {
+        "height": 1001,
+        "media_key": "3_2071271135166029824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6iH5UXYAAsZIr.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071345046218326016"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071271138982842453",
+        "created_at": "2026-06-28T21:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071345051024937408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1841988608825466880",
+              "start": 0,
+              "username": "america"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/esQNw1nN1d",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2071345051024937408/photo/1",
+              "media_key": "3_2071345046218326016",
+              "start": 14,
+              "url": "https://t.co/esQNw1nN1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071345051024937408",
+        "in_reply_to_user_id": "1841988608825466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071271138982842453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@america 生日快乐 https://t.co/esQNw1nN1d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071271135166029824"
+          ]
+        },
+        "author_id": "1841988608825466880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2071271138982842453",
+        "created_at": "2026-06-28T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071271138982842453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuBBse2OU4",
+              "end": 52,
+              "expanded_url": "https://x.com/america/status/2071271138982842453/photo/1",
+              "media_key": "3_2071271135166029824",
+              "start": 29,
+              "url": "https://t.co/TuBBse2OU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071271138982842453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 271184,
+          "like_count": 21402,
+          "quote_count": 222,
+          "reply_count": 1365,
+          "retweet_count": 2339
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday, Elon Musk 🇺🇸 https://t.co/TuBBse2OU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 310,
+          "like_count": 8778,
+          "listed_count": 0,
+          "media_count": 855,
+          "tweet_count": 2232
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T23:48:27.000Z",
+        "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ElonMusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theamericapac.org",
+                "end": 23,
+                "expanded_url": "https://theamericapac.org",
+                "start": 0,
+                "url": "https://t.co/PdGFm7qcgm"
+              }
+            ]
+          }
+        },
+        "id": "1841988608825466880",
+        "location": "USA",
+        "name": "America",
+        "pinned_tweet_id": "2012218370058252341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842003465448398848/U3EZmdUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205593,
+          "following_count": 1,
+          "like_count": 919,
+          "listed_count": 2206,
+          "media_count": 2546,
+          "tweet_count": 4110
+        },
+        "url": "https://t.co/PdGFm7qcgm",
+        "username": "america",
+        "verified": true
+      }
+    ]
+  }
+}

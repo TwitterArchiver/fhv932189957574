@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076916759454760963",
+    "created_at": "2026-07-14T11:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076985944742518990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1627216318926827521",
+          "start": 0,
+          "username": "kingzw888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076985944742518990",
+    "in_reply_to_user_id": "1627216318926827521",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076916759454760963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingzw888 hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076916759454760963",
+        "created_at": "2026-07-14T11:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076985944742518990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1627216318926827521",
+              "start": 0,
+              "username": "kingzw888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076985944742518990",
+        "in_reply_to_user_id": "1627216318926827521",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076916759454760963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingzw888 hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627216318926827521",
+        "conversation_id": "2076916759454760963",
+        "created_at": "2026-07-14T06:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076916759454760963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/nikitabier/status/2076747704248758617",
+              "start": 60,
+              "url": "https://t.co/vT05nZNO4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076916759454760963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076747704248758617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝V互关\n\n支持这个调整！让真正有连接的人重新被彼此看见\n\n互关权重提升，感觉X又要找回以前那种社区氛围了\n#蓝V互关 https://t.co/vT05nZNO4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 401,
+          "like_count": 10775,
+          "listed_count": 0,
+          "media_count": 1037,
+          "tweet_count": 2831
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T07:59:48.000Z",
+        "description": "04年一个臭炒币的专注Al & Crypto ｜ All In @SeismicSys |不做任何投资建议 #Binance #OKX 合作DM TG:kingzw7788 TG交流群⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "Binance"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "OKX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "SeismicSys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+QHwzil621ck4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+QHwzil621ck4NTk1",
+                "start": 0,
+                "url": "https://t.co/JjEUfKL9uH"
+              }
+            ]
+          }
+        },
+        "id": "1627216318926827521",
+        "location": "新加坡",
+        "name": "king |买美股上币安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064863905692950528/EzBEJ4Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 1970,
+          "like_count": 39575,
+          "listed_count": 28,
+          "media_count": 1631,
+          "tweet_count": 43895
+        },
+        "url": "https://t.co/JjEUfKL9uH",
+        "username": "kingzw888",
+        "verified": true
+      }
+    ]
+  }
+}

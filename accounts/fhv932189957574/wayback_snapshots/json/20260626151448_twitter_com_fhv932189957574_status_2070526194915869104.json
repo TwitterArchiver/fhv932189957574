@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070526056482885632"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070459337311703188",
+    "created_at": "2026-06-26T15:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070526194915869104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJ2kqVHUMm",
+          "end": 46,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070526194915869104/video/1",
+          "media_key": "13_2070526056482885632",
+          "start": 23,
+          "url": "https://t.co/aJ2kqVHUMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070526194915869104",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070459337311703188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 搞完，搞完\n哇你好勇敢😋 https://t.co/aJ2kqVHUMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33180,
+        "height": 1280,
+        "media_key": "13_2070526056482885632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070526056482885632/img/7RJV5mrhsdn5Se8E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070526056482885632/vid/avc1/320x568/5I_qksewnHZ4G20r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070526056482885632/vid/avc1/480x852/_1qbutyTCEW3kq7X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070526056482885632/vid/avc1/720x1280/5UyY7frLye1abktx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070526056482885632/pl/uP9E9Adu9vRo6hll.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 790,
+        "media_key": "3_2070459326402293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu_yaAacAAJUzT.jpg",
+        "width": 561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070526056482885632"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070459337311703188",
+        "created_at": "2026-06-26T15:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070526194915869104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJ2kqVHUMm",
+              "end": 46,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070526194915869104/video/1",
+              "media_key": "13_2070526056482885632",
+              "start": 23,
+              "url": "https://t.co/aJ2kqVHUMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526194915869104",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070459337311703188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 搞完，搞完\n哇你好勇敢😋 https://t.co/aJ2kqVHUMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070459326402293760"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2070459337311703188",
+        "created_at": "2026-06-26T10:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070459337311703188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3WVVL9E8X",
+              "end": 23,
+              "expanded_url": "https://x.com/14ManGo1/status/2070459337311703188/photo/1",
+              "media_key": "3_2070459326402293760",
+              "start": 0,
+              "url": "https://t.co/g3WVVL9E8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070459337311703188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4344,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g3WVVL9E8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 221,
+          "like_count": 8292,
+          "listed_count": 0,
+          "media_count": 789,
+          "tweet_count": 2034
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38216,
+          "following_count": 181,
+          "like_count": 598,
+          "listed_count": 121,
+          "media_count": 244,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

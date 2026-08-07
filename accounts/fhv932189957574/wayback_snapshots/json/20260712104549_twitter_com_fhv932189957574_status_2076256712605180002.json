@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076256707156819968"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076253018677490033",
+    "created_at": "2026-07-12T10:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076256712605180002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "0xJoveXu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zyEH1ogSyP",
+          "end": 33,
+          "expanded_url": "https://x.com/fhv932189957574/status/2076256712605180002/photo/1",
+          "media_key": "3_2076256707156819968",
+          "start": 10,
+          "url": "https://t.co/zyEH1ogSyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076256712605180002",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076253018677490033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xJoveXu https://t.co/zyEH1ogSyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2076256707156819968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBYeYSawAALyaJ.jpg",
+        "width": 620
+      },
+      {
+        "height": 1137,
+        "media_key": "3_2076253012843233280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBVHV5bAAAuDpw.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076256707156819968"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076253018677490033",
+        "created_at": "2026-07-12T10:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076256712605180002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zyEH1ogSyP",
+              "end": 33,
+              "expanded_url": "https://x.com/fhv932189957574/status/2076256712605180002/photo/1",
+              "media_key": "3_2076256707156819968",
+              "start": 10,
+              "url": "https://t.co/zyEH1ogSyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076256712605180002",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076253018677490033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu https://t.co/zyEH1ogSyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076253012843233280"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "conversation_id": "2076253018677490033",
+        "created_at": "2026-07-12T10:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076253018677490033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yr658ZWDY",
+              "end": 35,
+              "expanded_url": "https://x.com/0xJoveXu/status/2076253018677490033/photo/1",
+              "media_key": "3_2076253012843233280",
+              "start": 12,
+              "url": "https://t.co/6yr658ZWDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076253018677490033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社恐的你，选择坐哪里？ https://t.co/6yr658ZWDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 408,
+          "like_count": 10327,
+          "listed_count": 0,
+          "media_count": 1012,
+          "tweet_count": 2734
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 23,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 0,
+                "url": "https://t.co/FZJIW2uXIU"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2075861753586696687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26824,
+          "following_count": 7779,
+          "like_count": 41702,
+          "listed_count": 80,
+          "media_count": 1402,
+          "tweet_count": 38451
+        },
+        "url": "https://t.co/FZJIW2uXIU",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

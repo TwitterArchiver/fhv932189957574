@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074060130526900224"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074036181860581450",
+    "created_at": "2026-07-06T09:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074060204342415446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "917534084313735168",
+          "start": 0,
+          "username": "lingchuanqian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhhU9dVq7X",
+          "end": 38,
+          "expanded_url": "https://x.com/fhv932189957574/status/2074060204342415446/video/1",
+          "media_key": "13_2074060130526900224",
+          "start": 15,
+          "url": "https://t.co/JhhU9dVq7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074060204342415446",
+    "in_reply_to_user_id": "917534084313735168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074036181860581450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingchuanqian https://t.co/JhhU9dVq7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13280,
+        "height": 1024,
+        "media_key": "13_2074060130526900224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074060130526900224/img/GWhzJLd-uTb0GUGk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074060130526900224/vid/avc1/320x568/TDr-CBqhBZyzCx3j.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074060130526900224/vid/avc1/480x852/6dV1s0TX0C8LUF8E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074060130526900224/vid/avc1/576x1024/HLTWQOkyO_NxNd7f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074060130526900224/pl/Oe_rRNH-MiAZ5PTC.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074060130526900224"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074036181860581450",
+        "created_at": "2026-07-06T09:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074060204342415446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "917534084313735168",
+              "start": 0,
+              "username": "lingchuanqian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhhU9dVq7X",
+              "end": 38,
+              "expanded_url": "https://x.com/fhv932189957574/status/2074060204342415446/video/1",
+              "media_key": "13_2074060130526900224",
+              "start": 15,
+              "url": "https://t.co/JhhU9dVq7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074060204342415446",
+        "in_reply_to_user_id": "917534084313735168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074036181860581450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingchuanqian https://t.co/JhhU9dVq7X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917534084313735168",
+        "conversation_id": "2074036181860581450",
+        "created_at": "2026-07-06T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074036181860581450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074036181860581450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3681,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美图秀秀ai欺负我  x机器人大军欺负我  群友还要把我帖子搬到群里嘲笑我\n\n我还活个几把 跳了😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 319,
+          "like_count": 9335,
+          "listed_count": 0,
+          "media_count": 937,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-09T23:35:47.000Z",
+        "description": "这里是茜茜哦 不是福利姬 不卖图包 不卖原味  不聊骚 不接推广 不接广告 不会指使任何粉丝进行引战或者赚钱行为 如果发现请立刻告诉我  随缘发图（目前只在X偶尔B站其他均为盗图） 能让大家觉得可爱就很满足了哦 转载请私聊经过我允许 不约线下哦",
+        "id": "917534084313735168",
+        "name": "玲川茜",
+        "pinned_tweet_id": "1923562653794041931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913471292780797952/wIvLvzFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110616,
+          "following_count": 63,
+          "like_count": 2469,
+          "listed_count": 417,
+          "media_count": 631,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "lingchuanqian",
+        "verified": false
+      }
+    ]
+  }
+}

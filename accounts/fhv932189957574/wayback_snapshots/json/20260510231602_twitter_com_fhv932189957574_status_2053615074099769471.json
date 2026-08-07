@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2053363502866440507",
+    "created_at": "2026-05-10T23:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T00:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053615074099769471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589428630933082113",
+          "start": 0,
+          "username": "meitingting10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053615074099769471",
+    "in_reply_to_user_id": "1589428630933082113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053363502866440507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meitingting10 不是烙锅哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49342,
+        "height": 1280,
+        "media_key": "7_2053363435547820034",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053363435547820034/pu/img/3Z9qrwuRIeGbfTNg.jpg",
+        "public_metrics": {
+          "view_count": 6975
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053363435547820034/pu/vid/avc1/320x568/_yc_OEcPhAEH1qas.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053363435547820034/pu/vid/avc1/480x852/JCQs7TBmL3udWj5G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053363435547820034/pu/vid/avc1/720x1280/1XyP-IP86i6_I8Og.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053363435547820034/pu/pl/3Iu_Rhu7HqNI9j7M.m3u8?v=4bf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2053363502866440507",
+        "created_at": "2026-05-10T23:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053615074099769471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589428630933082113",
+              "start": 0,
+              "username": "meitingting10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053615074099769471",
+        "in_reply_to_user_id": "1589428630933082113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053363502866440507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meitingting10 不是烙锅哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053363435547820034"
+          ]
+        },
+        "author_id": "1589428630933082113",
+        "conversation_id": "2053363502866440507",
+        "created_at": "2026-05-10T06:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053363502866440507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayI3Oa0udz",
+              "end": 118,
+              "expanded_url": "https://x.com/meitingting10/status/2053363502866440507/video/1",
+              "media_key": "7_2053363435547820034",
+              "start": 95,
+              "url": "https://t.co/ayI3Oa0udz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053363502866440507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12952,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "贵州人夏天的饭桌上，没有这道菜我可不答应，拿肉都不换😎\n구이저우 (贵州) 사람들의 여름 밥상에는 이 음식이 없으면 나는 승낙하지 않을 것이다. 고기를 가지고도 바꾸지 않는다😎 https://t.co/ayI3Oa0udz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不健不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 432
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T01:25:11.000Z",
+        "description": "民以食为天，食在中国最美。 Love food, share food！",
+        "id": "1589428630933082113",
+        "location": "Morgan Hill, CA",
+        "name": "食在中国",
+        "pinned_tweet_id": "2051674679258271779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843090023664541696/okjMIf3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73724,
+          "following_count": 5744,
+          "like_count": 15253,
+          "listed_count": 59,
+          "media_count": 2220,
+          "tweet_count": 13088
+        },
+        "username": "meitingting10",
+        "verified": true
+      }
+    ]
+  }
+}

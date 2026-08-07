@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060083318763188417",
+    "created_at": "2026-05-29T05:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060231375316570503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920601980638052352",
+          "start": 0,
+          "username": "anindanet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060231375316570503",
+    "in_reply_to_user_id": "1920601980638052352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060083318763188417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anindanet 🎈🎈🎈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15605,
+        "height": 1280,
+        "media_key": "7_2060083254862970880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060083254862970880/pu/img/TeGF1az364bJGsah.jpg",
+        "public_metrics": {
+          "view_count": 11880
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060083254862970880/pu/vid/avc1/320x568/niL3OUQoYUT75MqC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060083254862970880/pu/vid/avc1/480x852/soBJSmmHSuf9KfF6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060083254862970880/pu/vid/avc1/720x1280/mwETgo2uIr7OynA2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060083254862970880/pu/pl/GG7ZVikBsp9rnJ1o.m3u8?v=a27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060083318763188417",
+        "created_at": "2026-05-29T05:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060231375316570503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920601980638052352",
+              "start": 0,
+              "username": "anindanet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060231375316570503",
+        "in_reply_to_user_id": "1920601980638052352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060083318763188417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anindanet 🎈🎈🎈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060083254862970880"
+          ]
+        },
+        "author_id": "1920601980638052352",
+        "conversation_id": "2060083318763188417",
+        "created_at": "2026-05-28T19:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060083318763188417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vp0onTtguw",
+              "end": 224,
+              "expanded_url": "https://x.com/anindanet/status/2060083318763188417/video/1",
+              "media_key": "7_2060083254862970880",
+              "start": 201,
+              "url": "https://t.co/Vp0onTtguw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060083318763188417",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 25702,
+          "like_count": 1747,
+          "quote_count": 3,
+          "reply_count": 279,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Kanserle mücadele eden minik kardeşim Hümeyra'nın isteği: \n\n\"3 yıldır kanserle mücadele ediyorum ve ikinci kez beyin sapı tümörü ameliyatı oldum. \n\nMorale ihtiyacım var yorumlara 🎈🎈🎈 bırakır mısınız?\" https://t.co/Vp0onTtguw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 99,
+          "like_count": 4018,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 1053
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T22:09:51.000Z",
+        "description": "⚡️Anlık gelişmeler ve sosyal medyanın gündemine oturan popüler paylaşımlar için takipte kalınız. | İletişim için DM.",
+        "id": "1920601980638052352",
+        "name": "Anında",
+        "pinned_tweet_id": "2059965052451451286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035486270646878208/glqQqbvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147094,
+          "following_count": 36,
+          "like_count": 7810,
+          "listed_count": 56,
+          "media_count": 5155,
+          "tweet_count": 6045
+        },
+        "username": "anindanet",
+        "verified": true
+      }
+    ]
+  }
+}

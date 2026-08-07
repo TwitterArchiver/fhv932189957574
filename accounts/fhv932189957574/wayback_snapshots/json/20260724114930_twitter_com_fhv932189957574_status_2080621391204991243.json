@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080621386461261824"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2080303474294792520",
+    "created_at": "2026-07-24T11:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080621391204991243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QzY35jiw8a",
+          "end": 38,
+          "expanded_url": "https://x.com/fhv932189957574/status/2080621391204991243/photo/1",
+          "media_key": "3_2080621386461261824",
+          "start": 15,
+          "url": "https://t.co/QzY35jiw8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080621391204991243",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080303474294792520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 https://t.co/QzY35jiw8a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2080621386461261824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_aIJwasAAXyhb.jpg",
+        "width": 960
+      },
+      {
+        "height": 1058,
+        "media_key": "3_2080303467101642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN64-z2bYAAHwq8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080621386461261824"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2080303474294792520",
+        "created_at": "2026-07-24T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080621391204991243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzY35jiw8a",
+              "end": 38,
+              "expanded_url": "https://x.com/fhv932189957574/status/2080621391204991243/photo/1",
+              "media_key": "3_2080621386461261824",
+              "start": 15,
+              "url": "https://t.co/QzY35jiw8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080621391204991243",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080303474294792520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 https://t.co/QzY35jiw8a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080303467101642752"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2080303474294792520",
+        "created_at": "2026-07-23T14:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080303474294792520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KSuZNPhKn",
+              "end": 29,
+              "expanded_url": "https://x.com/Goldwater8964/status/2080303474294792520/photo/1",
+              "media_key": "3_2080303467101642752",
+              "start": 6,
+              "url": "https://t.co/8KSuZNPhKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080303474294792520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 702,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/8KSuZNPhKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 475,
+          "like_count": 12876,
+          "listed_count": 0,
+          "media_count": 1129,
+          "tweet_count": 3181
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 1055,
+          "like_count": 8664,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

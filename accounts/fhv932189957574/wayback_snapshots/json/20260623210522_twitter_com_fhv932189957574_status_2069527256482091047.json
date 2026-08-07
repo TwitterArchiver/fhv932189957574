@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069527239319023616",
+        "3_2069527239314882561",
+        "3_2069527239327449088",
+        "3_2069527239314800640"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069524710686396750",
+    "created_at": "2026-06-23T21:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069527256482091047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8YH745di5",
+          "end": 28,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+          "media_key": "3_2069527239319023616",
+          "start": 5,
+          "url": "https://t.co/b8YH745di5"
+        },
+        {
+          "display_url": "pic.x.com/b8YH745di5",
+          "end": 28,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+          "media_key": "3_2069527239314882561",
+          "start": 5,
+          "url": "https://t.co/b8YH745di5"
+        },
+        {
+          "display_url": "pic.x.com/b8YH745di5",
+          "end": 28,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+          "media_key": "3_2069527239327449088",
+          "start": 5,
+          "url": "https://t.co/b8YH745di5"
+        },
+        {
+          "display_url": "pic.x.com/b8YH745di5",
+          "end": 28,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+          "media_key": "3_2069527239314800640",
+          "start": 5,
+          "url": "https://t.co/b8YH745di5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069527256482091047",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069524710686396750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "图1图2 https://t.co/b8YH745di5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2069527239319023616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwDzCa8AAwMf-.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2069527239314882561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwDzBbwAEXQNO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 493,
+        "media_key": "3_2069527239327449088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwDzEbgAAVwaV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2069527239314800640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwDzBagAAc1Cn.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069527239319023616",
+            "3_2069527239314882561",
+            "3_2069527239327449088",
+            "3_2069527239314800640"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069524710686396750",
+        "created_at": "2026-06-23T21:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069527256482091047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8YH745di5",
+              "end": 28,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+              "media_key": "3_2069527239319023616",
+              "start": 5,
+              "url": "https://t.co/b8YH745di5"
+            },
+            {
+              "display_url": "pic.x.com/b8YH745di5",
+              "end": 28,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+              "media_key": "3_2069527239314882561",
+              "start": 5,
+              "url": "https://t.co/b8YH745di5"
+            },
+            {
+              "display_url": "pic.x.com/b8YH745di5",
+              "end": 28,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+              "media_key": "3_2069527239327449088",
+              "start": 5,
+              "url": "https://t.co/b8YH745di5"
+            },
+            {
+              "display_url": "pic.x.com/b8YH745di5",
+              "end": 28,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069527256482091047/photo/1",
+              "media_key": "3_2069527239314800640",
+              "start": 5,
+              "url": "https://t.co/b8YH745di5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069527256482091047",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069524710686396750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "图1图2 https://t.co/b8YH745di5"
+      },
+      {
+        "article": {
+          "title": "我翻译了一下"
+        },
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2069524710686396750",
+        "created_at": "2026-06-23T20:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069524710686396750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2069…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2069523212007071744",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2069523212007071744",
+              "url": "https://t.co/hdjn7bZOL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069524710686396750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hdjn7bZOL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 218,
+          "like_count": 7868,
+          "listed_count": 0,
+          "media_count": 744,
+          "tweet_count": 1950
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

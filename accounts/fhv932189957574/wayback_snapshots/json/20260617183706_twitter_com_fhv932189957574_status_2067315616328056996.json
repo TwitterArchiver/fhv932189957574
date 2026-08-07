@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067315593783717889",
+        "3_2067315594047942656",
+        "3_2067315593745993728",
+        "3_2067315593754329089"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067315616328056996",
+    "created_at": "2026-06-17T18:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067315616328056996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJyEkTWMVM",
+          "end": 118,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+          "media_key": "3_2067315593783717889",
+          "start": 95,
+          "url": "https://t.co/XJyEkTWMVM"
+        },
+        {
+          "display_url": "pic.x.com/XJyEkTWMVM",
+          "end": 118,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+          "media_key": "3_2067315594047942656",
+          "start": 95,
+          "url": "https://t.co/XJyEkTWMVM"
+        },
+        {
+          "display_url": "pic.x.com/XJyEkTWMVM",
+          "end": 118,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+          "media_key": "3_2067315593745993728",
+          "start": 95,
+          "url": "https://t.co/XJyEkTWMVM"
+        },
+        {
+          "display_url": "pic.x.com/XJyEkTWMVM",
+          "end": 118,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+          "media_key": "3_2067315593754329089",
+          "start": 95,
+          "url": "https://t.co/XJyEkTWMVM"
+        },
+        {
+          "display_url": "x.com/fhv93218995757…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/fhv932189957574/status/2067315160558215208",
+          "start": 119,
+          "url": "https://t.co/C1urGpYdSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067315616328056996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一些厨具：第一，切菜刀，主要有几种菜刀如锋利度和厚度一般的削皮水果刀，有刀身锋利轻盈，刀面较窄厚度偏薄的文刀，有刀面宽大刀身厚重，重量大的剁刀，以及各项数据平衡的万能型刀，适合轻中度使用，\n新手建议买水果刀加万能刀，先从水果刀切黄瓜开始，把黄瓜拿在手上，用流水冲洗干净，再把黄瓜放在菜板上切，切的时候低头弯腰并且站稳，左手按着黄瓜并且不再移动，手尽量离远点握刀的右手，但是尺度要把控好不要让自己难受，由于握的是水果刀可以参考图1，可以多看看身边人和厨艺视频是如何握刀，将水果刀放在黄瓜偏右端的上方，刀面垂直菜板，刀锋正对黄瓜，不偏不倚不快不慢的切下去就行了，多切几根黄瓜练练手感"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067315160558215208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一些厨具：第一，切菜刀，主要有几种菜刀如锋利度和厚度一般的削皮水果刀，有刀身锋利轻盈，刀面较窄厚度偏薄的文刀，有刀面宽大刀身厚重，重量大的剁刀，以及各项数据平衡的万能型刀，适合轻中度使用， https://t.co/XJyEkTWMVM https://t.co/C1urGpYdSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2067315593783717889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCUlFYasAEDRn4.jpg",
+        "width": 736
+      },
+      {
+        "height": 1647,
+        "media_key": "3_2067315594047942656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCUlGXacAAeZOU.jpg",
+        "width": 1242
+      },
+      {
+        "height": 300,
+        "media_key": "3_2067315593745993728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCUlFPbEAArrtV.jpg",
+        "width": 168
+      },
+      {
+        "height": 455,
+        "media_key": "3_2067315593754329089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCUlFRaQAEcJnZ.jpg",
+        "width": 682
+      },
+      {
+        "height": 360,
+        "media_key": "3_2067315153872486400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCULelaAAAhPd-.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067315593783717889",
+            "3_2067315594047942656",
+            "3_2067315593745993728",
+            "3_2067315593754329089"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067315616328056996",
+        "created_at": "2026-06-17T18:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067315616328056996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJyEkTWMVM",
+              "end": 118,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+              "media_key": "3_2067315593783717889",
+              "start": 95,
+              "url": "https://t.co/XJyEkTWMVM"
+            },
+            {
+              "display_url": "pic.x.com/XJyEkTWMVM",
+              "end": 118,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+              "media_key": "3_2067315594047942656",
+              "start": 95,
+              "url": "https://t.co/XJyEkTWMVM"
+            },
+            {
+              "display_url": "pic.x.com/XJyEkTWMVM",
+              "end": 118,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+              "media_key": "3_2067315593745993728",
+              "start": 95,
+              "url": "https://t.co/XJyEkTWMVM"
+            },
+            {
+              "display_url": "pic.x.com/XJyEkTWMVM",
+              "end": 118,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067315616328056996/photo/1",
+              "media_key": "3_2067315593754329089",
+              "start": 95,
+              "url": "https://t.co/XJyEkTWMVM"
+            },
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2067315160558215208",
+              "start": 119,
+              "url": "https://t.co/C1urGpYdSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067315616328056996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一些厨具：第一，切菜刀，主要有几种菜刀如锋利度和厚度一般的削皮水果刀，有刀身锋利轻盈，刀面较窄厚度偏薄的文刀，有刀面宽大刀身厚重，重量大的剁刀，以及各项数据平衡的万能型刀，适合轻中度使用，\n新手建议买水果刀加万能刀，先从水果刀切黄瓜开始，把黄瓜拿在手上，用流水冲洗干净，再把黄瓜放在菜板上切，切的时候低头弯腰并且站稳，左手按着黄瓜并且不再移动，手尽量离远点握刀的右手，但是尺度要把控好不要让自己难受，由于握的是水果刀可以参考图1，可以多看看身边人和厨艺视频是如何握刀，将水果刀放在黄瓜偏右端的上方，刀面垂直菜板，刀锋正对黄瓜，不偏不倚不快不慢的切下去就行了，多切几根黄瓜练练手感"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067315160558215208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一些厨具：第一，切菜刀，主要有几种菜刀如锋利度和厚度一般的削皮水果刀，有刀身锋利轻盈，刀面较窄厚度偏薄的文刀，有刀面宽大刀身厚重，重量大的剁刀，以及各项数据平衡的万能型刀，适合轻中度使用， https://t.co/XJyEkTWMVM https://t.co/C1urGpYdSg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067315153872486400"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067315160558215208",
+        "created_at": "2026-06-17T18:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067315160558215208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIvbpH2wZj",
+              "end": 135,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067315160558215208/photo/1",
+              "media_key": "3_2067315153872486400",
+              "start": 112,
+              "url": "https://t.co/cIvbpH2wZj"
+            },
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2067314373811736928",
+              "start": 136,
+              "url": "https://t.co/y90x3vFOW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067315160558215208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做饭的场地\n做饭肯定需要一个场地来做饭，但是不用着急觉得家里没有条件做饭\n一、保持干净干爽卫生（😭）\n二、厨具和厨房用品摆放整齐，防止要用时找不到，\n三、室内有油烟时开窗通风，开抽油烟机等，\n四、注意安全，自身的安全最重要\n做饭只需要但也是最基础：一个平整平稳的平台，最好站着时方便切菜和备菜\n一个有水龙头有排水口的地方，你可以在这里冼菜洗碗\n一个通了煤气的煤气灶，或者卡式炉和电磁炉（室内不建议也不能开启卡式炉）卡式炉和电磁炉也需要平整干净的平面"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067314373811736928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做饭的场地\n做饭肯定需要一个场地来做饭，但是不用着急觉得家里没有条件做饭\n一、保持干净干爽卫生（😭）\n二、厨具和厨房用品摆放整齐，防止要用时找不到，\n三、室内有油烟时开窗通风，开抽油烟机等，\n四、注意安全，自身的安全最重要 https://t.co/cIvbpH2wZj https://t.co/y90x3vFOW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 207,
+          "like_count": 6756,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

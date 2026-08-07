@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077946216500101266",
+    "created_at": "2026-07-17T10:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078069606351294558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624749259596890112",
+          "start": 0,
+          "username": "Cute57520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078069606351294558",
+    "in_reply_to_user_id": "1624749259596890112",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077946216500101266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cute57520 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077946216500101266",
+        "created_at": "2026-07-17T10:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078069606351294558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624749259596890112",
+              "start": 0,
+              "username": "Cute57520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078069606351294558",
+        "in_reply_to_user_id": "1624749259596890112",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077946216500101266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cute57520 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624749259596890112",
+        "conversation_id": "2077946216500101266",
+        "created_at": "2026-07-17T02:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077946216500101266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077946216500101266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1163,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想尿人头上，并非羞辱的那种\n而是等你睡着了悄悄尿你头上\n我想知道被尿的人会有什么反应\n（生气？ 茫然？ 不知所措）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 470,
+          "like_count": 11457,
+          "listed_count": 0,
+          "media_count": 1065,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-12T12:36:34.000Z",
+        "description": "Brat/ESFP/胖次博主/顶级甜妹，情绪稳定，最好是喜欢长期相处的。等好心人投喂小猫。三角洲常驻娱乐陪玩，也接部门33和跑刀。瓦，王者，cs，单机等也可。\n有🚪 @cute575520此号是涩涩版猫猫大王，防走丢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "cute575520"
+              }
+            ]
+          }
+        },
+        "id": "1624749259596890112",
+        "location": "三角洲",
+        "name": "五七和猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624749370821468162/J-3HXk5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16065,
+          "following_count": 171,
+          "like_count": 4141,
+          "listed_count": 19,
+          "media_count": 884,
+          "tweet_count": 4692
+        },
+        "url": "",
+        "username": "Cute57520",
+        "verified": true
+      }
+    ]
+  }
+}

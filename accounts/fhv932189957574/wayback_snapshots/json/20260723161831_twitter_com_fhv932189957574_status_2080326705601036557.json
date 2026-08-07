@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2080326704468549632"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2080324773603893356",
+    "created_at": "2026-07-23T16:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080326705601036557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080326705601036557",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080324773603893356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是啊，是什么"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-07-30T16:18:31.000Z",
+        "id": "2080326704468549632",
+        "options": [
+          {
+            "label": "生理性",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "心理上",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "互相不分彼此，两人恨不得血肉生生世世融合",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "圣人之爱，爱着爱",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2080326704468549632"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2080324773603893356",
+        "created_at": "2026-07-23T16:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080326705601036557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080326705601036557",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080324773603893356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊，是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2080324772492431360"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2080324773603893356",
+        "created_at": "2026-07-23T16:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080324773603893356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080324773603893356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道一个问题：纯爱是什么，是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 473,
+          "like_count": 12722,
+          "listed_count": 0,
+          "media_count": 1114,
+          "tweet_count": 3157
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074165734582694079",
+    "created_at": "2026-07-07T02:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323162746298654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068836081726816257",
+          "start": 0,
+          "username": "MaeveMagewood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323162746298654",
+    "in_reply_to_user_id": "2068836081726816257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165734582694079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaeveMagewood 看这么多帖子，没有男性抱怨这件事，反而只有女权在自我高潮，拿一个男性抱怨的帖子给我看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074165732271689728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqvn1XkAAY1-1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 746,
+        "media_key": "3_2074165731986460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqvmxXUAAAOlo.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074165734582694079",
+        "created_at": "2026-07-07T02:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323162746298654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068836081726816257",
+              "start": 0,
+              "username": "MaeveMagewood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323162746298654",
+        "in_reply_to_user_id": "2068836081726816257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165734582694079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaeveMagewood 看这么多帖子，没有男性抱怨这件事，反而只有女权在自我高潮，拿一个男性抱怨的帖子给我看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165732271689728",
+            "3_2074165731986460672"
+          ]
+        },
+        "author_id": "2068836081726816257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045629806",
+              "name": "Captain America: The First Avenger"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2074165734582694079",
+        "created_at": "2026-07-06T16:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165734582694079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQ9KIKRzcr",
+              "end": 191,
+              "expanded_url": "https://x.com/MaeveMagewood/status/2074165734582694079/photo/1",
+              "media_key": "3_2074165732271689728",
+              "start": 168,
+              "url": "https://t.co/BQ9KIKRzcr"
+            },
+            {
+              "display_url": "pic.x.com/BQ9KIKRzcr",
+              "end": 191,
+              "expanded_url": "https://x.com/MaeveMagewood/status/2074165734582694079/photo/1",
+              "media_key": "3_2074165731986460672",
+              "start": 168,
+              "url": "https://t.co/BQ9KIKRzcr"
+            },
+            {
+              "display_url": "x.com/CultureCrave/s…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/CultureCrave/status/2073159923878506926",
+              "start": 192,
+              "url": "https://t.co/D414xkVl7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165734582694079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 29039,
+          "like_count": 2467,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073159923878506926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"Nobody panics when female characters are overly sexualized in games... But when they start to do the same to a male characters, well then everyone loses their minds!\" https://t.co/BQ9KIKRzcr https://t.co/D414xkVl7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 325,
+          "like_count": 9459,
+          "listed_count": 0,
+          "media_count": 942,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T23:21:18.000Z",
+        "description": "•Artist 🎨 \n•graphic designer 🖥 \n•photography 📸 \n\nTrying to build up a fallowing.\nso check back or fallow for daily posts! 🧙‍♀️",
+        "id": "2068836081726816257",
+        "name": "Maeve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068837045728927745/Bp3z-C6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 89,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "MaeveMagewood",
+        "verified": true
+      }
+    ]
+  }
+}

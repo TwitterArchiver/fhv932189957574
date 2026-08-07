@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2078691657189597679",
+    "created_at": "2026-07-20T05:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079082615303545273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452287269017112582",
+          "start": 0,
+          "username": "SLOTH303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079082615303545273",
+    "in_reply_to_user_id": "1452287269017112582",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078691657189597679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLOTH303 🤤Very beautiful"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10005,
+        "height": 720,
+        "media_key": "13_2078691636499140608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078691636499140608/img/E3OwTdPfhn_kKFoj.jpg",
+        "public_metrics": {
+          "view_count": 9617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078691636499140608/vid/avc1/480x270/9AIOGcxt3IgHrkww.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078691636499140608/vid/avc1/640x360/id_-M0eP9VEpNcAm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078691636499140608/vid/avc1/1280x720/1QUoqVNH1xf9JG3M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078691636499140608/pl/AoaYmaKbttSBoTC4.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2078691657189597679",
+        "created_at": "2026-07-20T05:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079082615303545273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452287269017112582",
+              "start": 0,
+              "username": "SLOTH303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079082615303545273",
+        "in_reply_to_user_id": "1452287269017112582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078691657189597679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLOTH303 🤤Very beautiful"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078691636499140608"
+          ]
+        },
+        "author_id": "1452287269017112582",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2078691657189597679",
+        "created_at": "2026-07-19T04:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078691657189597679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 44,
+              "start": 29,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "フレナ"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "Firefly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/82gOrNjP9y",
+              "end": 82,
+              "expanded_url": "https://x.com/SLOTH303/status/2078691657189597679/video/1",
+              "media_key": "13_2078691636499140608",
+              "start": 59,
+              "url": "https://t.co/82gOrNjP9y"
+            },
+            {
+              "display_url": "x.com/SLOTH303/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/SLOTH303/status/2078621488069193833",
+              "start": 83,
+              "url": "https://t.co/kNuzmS7Knm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078691657189597679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 36009,
+          "like_count": 2134,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078621488069193833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "フレナ / Firefly 🦋🍹🐚\n\n#崩壊スターレイル #HonkaiStarRail #フレナ #Firefly https://t.co/82gOrNjP9y https://t.co/kNuzmS7Knm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 467,
+          "like_count": 12102,
+          "listed_count": 0,
+          "media_count": 1081,
+          "tweet_count": 3038
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-24T14:56:16.000Z",
+        "description": "AI Illustrator & Music \nLoves gacha games and anime.\nPosting daily AI art and thoughts.\nFollow if interested 🫶\nSub: @Aska41Al",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "Aska41Al"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aska_twt?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aska_twt?igsh=cTFvNGJ5Y2ppOG4=",
+                "start": 0,
+                "url": "https://t.co/V5c6i1tWaX"
+              }
+            ]
+          }
+        },
+        "id": "1452287269017112582",
+        "location": "No Dm🔕",
+        "name": "アスカAska😺",
+        "pinned_tweet_id": "2079054519162552361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601331067424768/ZE0pILY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50964,
+          "following_count": 30279,
+          "like_count": 6546,
+          "listed_count": 137,
+          "media_count": 2172,
+          "tweet_count": 10477
+        },
+        "url": "https://t.co/V5c6i1tWaX",
+        "username": "SLOTH303",
+        "verified": true
+      }
+    ]
+  }
+}

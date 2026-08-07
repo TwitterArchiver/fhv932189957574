@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060970627738345472"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060927430223941909",
+    "created_at": "2026-05-31T06:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060970633333465120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1323216034396999681",
+          "start": 0,
+          "username": "ZZSSNNi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/875e38uzyA",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2060970633333465120/photo/1",
+          "media_key": "3_2060970627738345472",
+          "start": 13,
+          "url": "https://t.co/875e38uzyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060970633333465120",
+    "in_reply_to_user_id": "1323216034396999681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060927430223941909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZSSNNi 不行了 https://t.co/875e38uzyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2060970627738345472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoJ3c7boAAYsvv.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 10977,
+        "height": 1280,
+        "media_key": "13_2060927357733773312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060927357733773312/img/wwfkosVHZRJFuxSM.jpg",
+        "public_metrics": {
+          "view_count": 119339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060927357733773312/vid/avc1/320x568/xkcvi6jaAdy1Bxeq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060927357733773312/vid/avc1/480x852/TmcvoB-KbKyrDlCl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060927357733773312/vid/avc1/720x1280/E6tBSn4eupudp6Sr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060927357733773312/pl/D-grGqzBVd41KSwq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060970627738345472"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060927430223941909",
+        "created_at": "2026-05-31T06:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060970633333465120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1323216034396999681",
+              "start": 0,
+              "username": "ZZSSNNi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/875e38uzyA",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2060970633333465120/photo/1",
+              "media_key": "3_2060970627738345472",
+              "start": 13,
+              "url": "https://t.co/875e38uzyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060970633333465120",
+        "in_reply_to_user_id": "1323216034396999681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060927430223941909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZSSNNi 不行了 https://t.co/875e38uzyA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060927357733773312"
+          ]
+        },
+        "author_id": "1323216034396999681",
+        "conversation_id": "2060927430223941909",
+        "created_at": "2026-05-31T03:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060927430223941909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykY8ngGKIu",
+              "end": 100,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2060927430223941909/video/1",
+              "media_key": "13_2060927357733773312",
+              "start": 77,
+              "url": "https://t.co/ykY8ngGKIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060927430223941909",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 308297,
+          "like_count": 3013,
+          "quote_count": 134,
+          "reply_count": 43,
+          "retweet_count": 841
+        },
+        "reply_settings": "everyone",
+        "text": "아잌ㅋㅋㅋㅋ미친ㅋㅋㅋㅋㅋ\n동물병원에서 고양이가 너무 얌전해서 의사가 집사한테 도대체 애기를 어케 키우면 이렇게 얌전하게 크냐고 물어봤더니 https://t.co/ykY8ngGKIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 104,
+          "like_count": 4513,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1114
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T10:51:10.000Z",
+        "description": "역마살 버섯팔이피플🍄‍🟫중국에서 자영업(백수)🦢제태크 초보📈3n살 한국인여성🇰🇷\n좋아하는거 위주로 아무거나 올립니다\n유튭: https://t.co/iavVtNg9et",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mogoomogoo0508",
+                "end": 92,
+                "expanded_url": "https://youtube.com/@mogoomogoo0508",
+                "start": 69,
+                "url": "https://t.co/iavVtNg9et"
+              }
+            ]
+          }
+        },
+        "id": "1323216034396999681",
+        "location": "중국 어딘가",
+        "name": "모구모구🍄",
+        "pinned_tweet_id": "2060927430223941909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642158239705092096/toqgIa3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5652,
+          "following_count": 1232,
+          "like_count": 48607,
+          "listed_count": 25,
+          "media_count": 4684,
+          "tweet_count": 14265
+        },
+        "username": "ZZSSNNi",
+        "verified": true
+      }
+    ]
+  }
+}

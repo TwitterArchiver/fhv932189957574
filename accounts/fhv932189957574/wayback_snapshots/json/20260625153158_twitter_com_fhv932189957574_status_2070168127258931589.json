@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070168122393538560"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2069914949510676628",
+    "created_at": "2026-06-25T15:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070168127258931589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682912923851841536",
+          "start": 0,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ClFOduxlB9",
+          "end": 43,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070168127258931589/photo/1",
+          "media_key": "3_2070168122393538560",
+          "start": 20,
+          "url": "https://t.co/ClFOduxlB9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070168127258931589",
+    "in_reply_to_user_id": "1682912923851841536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069915272727957970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chan19890604t04 神了 https://t.co/ClFOduxlB9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2070168122393538560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq28GiasAAQJOX.jpg",
+        "width": 934
+      },
+      {
+        "height": 1375,
+        "media_key": "3_2069915266293862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnQ98KakAAZTxL.jpg",
+        "width": 1201
+      },
+      {
+        "height": 1731,
+        "media_key": "3_2069915266243588096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnQ97-bcAAFXTi.jpg",
+        "width": 1201
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069915266256097280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnQ98BaUAA8LAf.jpg",
+        "width": 1192
+      },
+      {
+        "height": 1595,
+        "media_key": "3_2069915266314891264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnQ98PbcAAm2EW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070168122393538560"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2069914949510676628",
+        "created_at": "2026-06-25T15:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070168127258931589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682912923851841536",
+              "start": 0,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClFOduxlB9",
+              "end": 43,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070168127258931589/photo/1",
+              "media_key": "3_2070168122393538560",
+              "start": 20,
+              "url": "https://t.co/ClFOduxlB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070168127258931589",
+        "in_reply_to_user_id": "1682912923851841536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069915272727957970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chan19890604t04 神了 https://t.co/ClFOduxlB9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069915266293862400",
+            "3_2069915266243588096",
+            "3_2069915266256097280",
+            "3_2069915266314891264"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069914949510676628",
+        "created_at": "2026-06-24T22:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069915272727957970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrxvJFcTfB",
+              "end": 23,
+              "expanded_url": "https://x.com/chan19890604t04/status/2069915272727957970/photo/1",
+              "media_key": "3_2069915266293862400",
+              "start": 0,
+              "url": "https://t.co/VrxvJFcTfB"
+            },
+            {
+              "display_url": "pic.x.com/VrxvJFcTfB",
+              "end": 23,
+              "expanded_url": "https://x.com/chan19890604t04/status/2069915272727957970/photo/1",
+              "media_key": "3_2069915266243588096",
+              "start": 0,
+              "url": "https://t.co/VrxvJFcTfB"
+            },
+            {
+              "display_url": "pic.x.com/VrxvJFcTfB",
+              "end": 23,
+              "expanded_url": "https://x.com/chan19890604t04/status/2069915272727957970/photo/1",
+              "media_key": "3_2069915266256097280",
+              "start": 0,
+              "url": "https://t.co/VrxvJFcTfB"
+            },
+            {
+              "display_url": "pic.x.com/VrxvJFcTfB",
+              "end": 23,
+              "expanded_url": "https://x.com/chan19890604t04/status/2069915272727957970/photo/1",
+              "media_key": "3_2069915266314891264",
+              "start": 0,
+              "url": "https://t.co/VrxvJFcTfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069915272727957970",
+        "in_reply_to_user_id": "1682912923851841536",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2910,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069915178096021823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VrxvJFcTfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 219,
+          "like_count": 8181,
+          "listed_count": 0,
+          "media_count": 775,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "2043861225516499293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3774,
+          "following_count": 1800,
+          "like_count": 75403,
+          "listed_count": 21,
+          "media_count": 14791,
+          "tweet_count": 35483
+        },
+        "url": "",
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

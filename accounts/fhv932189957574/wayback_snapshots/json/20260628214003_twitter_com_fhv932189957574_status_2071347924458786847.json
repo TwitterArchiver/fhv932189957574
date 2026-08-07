@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071347916825108480"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070804795632259219",
+    "created_at": "2026-06-28T21:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071347924458786847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "38717507",
+          "start": 0,
+          "username": "abmarkman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FBAVotX8mK",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2071347924458786847/photo/1",
+          "media_key": "3_2071347916825108480",
+          "start": 11,
+          "url": "https://t.co/FBAVotX8mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071347924458786847",
+    "in_reply_to_user_id": "38717507",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070804795632259219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abmarkman https://t.co/FBAVotX8mK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071347916825108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7n9LSbIAAdsgf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 945,
+        "media_key": "3_2070804786429960192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz5-05WIAABZBH.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071347916825108480"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070804795632259219",
+        "created_at": "2026-06-28T21:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071347924458786847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "38717507",
+              "start": 0,
+              "username": "abmarkman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBAVotX8mK",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2071347924458786847/photo/1",
+              "media_key": "3_2071347916825108480",
+              "start": 11,
+              "url": "https://t.co/FBAVotX8mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071347924458786847",
+        "in_reply_to_user_id": "38717507",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070804795632259219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abmarkman https://t.co/FBAVotX8mK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070804786429960192"
+          ]
+        },
+        "author_id": "38717507",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2070804795632259219",
+        "created_at": "2026-06-27T09:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070804795632259219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZao6UDhdL",
+              "end": 204,
+              "expanded_url": "https://x.com/abmarkman/status/2070804795632259219/photo/1",
+              "media_key": "3_2070804786429960192",
+              "start": 181,
+              "url": "https://t.co/oZao6UDhdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070804795632259219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 144582,
+          "like_count": 6326,
+          "quote_count": 116,
+          "reply_count": 1680,
+          "retweet_count": 1451
+        },
+        "reply_settings": "everyone",
+        "text": "Happy 54th Birthday, Elon! 🎉🚀\nFrom that curious kid to the guy launching rockets and Teslas, you’re still inspiring us all. Keep exploring!\nExplore 54! ⚡🛰️ Hope it’s an epic one! 🎂 https://t.co/oZao6UDhdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 311,
+          "like_count": 8791,
+          "listed_count": 0,
+          "media_count": 861,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-08T18:35:59.000Z",
+        "description": "",
+        "id": "38717507",
+        "location": "Austin, TX",
+        "name": "Elon musk news page",
+        "pinned_tweet_id": "1142462762544762880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049257175491682304/oZA_Zsb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33043,
+          "following_count": 1935,
+          "like_count": 17700,
+          "listed_count": 629,
+          "media_count": 1103,
+          "tweet_count": 14498
+        },
+        "url": "",
+        "username": "abmarkman",
+        "verified": false
+      }
+    ]
+  }
+}

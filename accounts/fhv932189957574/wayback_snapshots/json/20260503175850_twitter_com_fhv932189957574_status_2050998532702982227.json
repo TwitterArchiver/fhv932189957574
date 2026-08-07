@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2050983451449524529",
+    "created_at": "2026-05-03T17:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050998532702982227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019401624079462406",
+          "start": 0,
+          "username": "gdswweeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050998532702982227",
+    "in_reply_to_user_id": "2019401624079462406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050983451449524529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdswweeeee 👍那很需要爱和自由了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2050983451449524529",
+        "created_at": "2026-05-03T17:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050998532702982227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019401624079462406",
+              "start": 0,
+              "username": "gdswweeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050998532702982227",
+        "in_reply_to_user_id": "2019401624079462406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050983451449524529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdswweeeee 👍那很需要爱和自由了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019401624079462406",
+        "conversation_id": "2050983451449524529",
+        "created_at": "2026-05-03T16:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050983451449524529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050983451449524529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌高冷我讨厌不回消息的我讨厌没有礼貌的我讨厌命令我的我讨厌贬低我的我讨厌强迫我要做什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 84
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T13:24:19.000Z",
+        "description": "78岁离婚 天王星人 带两娃 皮下男 不是真人\n不约 不加 不看 不露 不线下 不互看\n没门 不要逼我回覆讯息\n@ciiichbaaymmmch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "ciiichbaaymmmch"
+              }
+            ]
+          }
+        },
+        "id": "2019401624079462406",
+        "name": "en",
+        "pinned_tweet_id": "2041750801987858460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035912058555002880/cw1rhnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 30,
+          "like_count": 3539,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 319
+        },
+        "username": "gdswweeeee",
+        "verified": false
+      }
+    ]
+  }
+}

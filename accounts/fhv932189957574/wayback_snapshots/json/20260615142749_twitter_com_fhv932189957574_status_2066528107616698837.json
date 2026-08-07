@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066528020421369857"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2064195535666286927",
+    "created_at": "2026-06-15T14:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066528107616698837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048952312186429440",
+          "start": 0,
+          "username": "Stl1ws4Wkd82233"
+        },
+        {
+          "end": 32,
+          "id": "2006136491819556864",
+          "start": 17,
+          "username": "NanChuang53622"
+        },
+        {
+          "end": 40,
+          "id": "1580767946179194882",
+          "start": 33,
+          "username": "kfk_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiVg29qra9",
+          "end": 67,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066528107616698837/video/1",
+          "media_key": "13_2066528020421369857",
+          "start": 44,
+          "url": "https://t.co/CiVg29qra9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066528107616698837",
+    "in_reply_to_user_id": "2048952312186429440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064396474067394958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stl1ws4Wkd82233 @NanChuang53622 @kfk_ai 我去 https://t.co/CiVg29qra9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33180,
+        "height": 720,
+        "media_key": "13_2066528020421369857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066528020421369857/img/-jFBDWNZfG3mRuUN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528020421369857/vid/avc1/480x270/12qPQcH95xLiy69b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528020421369857/vid/avc1/640x360/1VRqdR9hgE5KLyHs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528020421369857/vid/avc1/1280x720/FVpkKnh_Gxr_f2td.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066528020421369857/pl/KndMOaDeL52E1Cze.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066528020421369857"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2064195535666286927",
+        "created_at": "2026-06-15T14:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528107616698837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048952312186429440",
+              "start": 0,
+              "username": "Stl1ws4Wkd82233"
+            },
+            {
+              "end": 32,
+              "id": "2006136491819556864",
+              "start": 17,
+              "username": "NanChuang53622"
+            },
+            {
+              "end": 40,
+              "id": "1580767946179194882",
+              "start": 33,
+              "username": "kfk_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiVg29qra9",
+              "end": 67,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066528107616698837/video/1",
+              "media_key": "13_2066528020421369857",
+              "start": 44,
+              "url": "https://t.co/CiVg29qra9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066528107616698837",
+        "in_reply_to_user_id": "2048952312186429440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064396474067394958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stl1ws4Wkd82233 @NanChuang53622 @kfk_ai 我去 https://t.co/CiVg29qra9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048952312186429440",
+        "conversation_id": "2064195535666286927",
+        "created_at": "2026-06-09T17:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064396474067394958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2006136491819556864",
+              "start": 0,
+              "username": "NanChuang53622"
+            },
+            {
+              "end": 23,
+              "id": "1580767946179194882",
+              "start": 16,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064396474067394958",
+        "in_reply_to_user_id": "2006136491819556864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064334038849249380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanChuang53622 @kfk_ai 你猜之前为什么要把性同意年龄从16调到14？就是因为现在早熟的太多了，小学生基本上都懂了，而强奸罪的起判年龄和性同意年龄是直接挂钩的，真要把性同意年龄调到18岁就意味着强奸罪也得改成18岁起判，你觉得会不会乱不乱套？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 174,
+          "like_count": 6573,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 1597
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T02:28:14.000Z",
+        "description": "",
+        "id": "2048952312186429440",
+        "name": "韩枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062920421255811072/zc39bH9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "Stl1ws4Wkd82233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T22:53:15.000Z",
+        "description": "",
+        "id": "2006136491819556864",
+        "name": "男友非说痔疮是媚肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006136662061940736/6BowzXy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 32,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 134
+        },
+        "username": "NanChuang53622",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "AI builder | Polymarket trader | CS bg | Lush\nScience · Technology · Society\n多学习多思考 祝你渐入佳境\n你所有的成长来源于你的思考",
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065869468929282048/R96WO3vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8992,
+          "following_count": 388,
+          "like_count": 11599,
+          "listed_count": 41,
+          "media_count": 357,
+          "tweet_count": 5454
+        },
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

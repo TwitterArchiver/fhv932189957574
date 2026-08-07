@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2074311167032643837",
+    "created_at": "2026-07-07T01:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074311167032643837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crypto_royal_c…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/crypto_royal_co/status/2074217460870639968",
+          "start": 5,
+          "url": "https://t.co/zXe7ko8XX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074311167032643837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074217460870639968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真没招了 https://t.co/zXe7ko8XX1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2074217453350223872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkZyL3bAAASVdG.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074311167032643837",
+        "created_at": "2026-07-07T01:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074311167032643837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crypto_royal_c…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/crypto_royal_co/status/2074217460870639968",
+              "start": 5,
+              "url": "https://t.co/zXe7ko8XX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074311167032643837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074217460870639968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真没招了 https://t.co/zXe7ko8XX1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074217453350223872"
+          ]
+        },
+        "author_id": "1784822437219336192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074217460870639968",
+        "created_at": "2026-07-06T19:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074217460870639968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNHMmmq74G",
+              "end": 298,
+              "expanded_url": "https://x.com/Crypto_Royal_Co/status/2074217460870639968/photo/1",
+              "media_key": "3_2074217453350223872",
+              "start": 275,
+              "url": "https://t.co/ZNHMmmq74G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074217460870639968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 767,
+                "start": 758,
+                "tag": "XPremium"
+              },
+              {
+                "end": 777,
+                "start": 768,
+                "tag": "StaySafe"
+              },
+              {
+                "end": 786,
+                "start": 778,
+                "tag": "NoScams"
+              },
+              {
+                "end": 806,
+                "start": 788,
+                "tag": "CRYPTOROYALCOMMUN"
+              }
+            ]
+          },
+          "text": "⚠️ WARNING: The Viral \"Free X Premium\" Method Can Permanently Suspend Your Account\nA trending trick claims you can get X Premium (Blue Tick) + Super Grok for free using a Germany VPN and fake bank details.\nHere’s the truth:\nIt abuses the Gift Subscription feature.\nUses fake German IBAN/SEPA bank information to make the payment appear successful.\nSince bank transfers take a few days to settle, X temporarily activates Premium.\nBut then:\n❌ The payment eventually fails\n❌ X detects the fraudulent activity\n❌ Both the gifting and receiving accounts get permanently suspended\nThis is not a “free Premium” hack.\nIt’s financial fraud.\nDon’t risk your main account, your reputation, and years of hard work for a temporary blue tick.\nStay safe. Don’t fall for it.\n#XPremium #StaySafe #NoScams \n#CRYPTOROYALCOMMUN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1570,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ WARNING: The Viral \"Free X Premium\" Method Can Permanently Suspend Your Account\nA trending trick claims you can get X Premium (Blue Tick) + Super Grok for free using a Germany VPN and fake bank details.\nHere’s the truth:\nIt abuses the Gift Subscription feature.\nUses fake https://t.co/ZNHMmmq74G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2072428298450374922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 323,
+          "like_count": 9388,
+          "listed_count": 0,
+          "media_count": 939,
+          "tweet_count": 2497
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-29T05:50:23.000Z",
+        "description": "🚀 Web3 Growth | Crypto News\n📈 X / Telegram Promotion • Marketing\n🎙️ AMA • KOL • Partnerships\n🤝 Open for Collaborations\n📩 DM: https://t.co/aUyVviKXDw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Arthur_Brandon",
+                "end": 148,
+                "expanded_url": "https://t.me/Arthur_Brandon",
+                "start": 125,
+                "url": "https://t.co/aUyVviKXDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Crypto_Royal_N…",
+                "end": 23,
+                "expanded_url": "https://t.me/Crypto_Royal_News",
+                "start": 0,
+                "url": "https://t.co/uJxa1t4QFG"
+              }
+            ]
+          }
+        },
+        "id": "1784822437219336192",
+        "location": "Advertising & Marketing Agency",
+        "name": "CRYPTO ROYAL COMMUNITY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929603394819547136/mW8-yDVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17599,
+          "following_count": 2422,
+          "like_count": 493,
+          "listed_count": 4,
+          "media_count": 472,
+          "tweet_count": 1261
+        },
+        "url": "https://t.co/uJxa1t4QFG",
+        "username": "Crypto_Royal_Co",
+        "verified": true
+      }
+    ]
+  }
+}

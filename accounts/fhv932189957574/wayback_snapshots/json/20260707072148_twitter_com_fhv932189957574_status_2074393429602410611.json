@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074297348033761417",
+    "created_at": "2026-07-07T07:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074393429602410611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4910249667",
+          "start": 0,
+          "username": "Kingsholz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074393429602410611",
+    "in_reply_to_user_id": "4910249667",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074297348033761417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kingsholz hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_2073192246329925633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMV1XSGW4AE8XHd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074297348033761417",
+        "created_at": "2026-07-07T07:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074393429602410611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4910249667",
+              "start": 0,
+              "username": "Kingsholz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074393429602410611",
+        "in_reply_to_user_id": "4910249667",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074297348033761417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kingsholz hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073192246329925633"
+          ]
+        },
+        "author_id": "4910249667",
+        "conversation_id": "2074297348033761417",
+        "created_at": "2026-07-07T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074297348033761417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1hB4Osb74",
+              "end": 63,
+              "expanded_url": "https://x.com/Kingsholz/status/2074297348033761417/photo/1",
+              "media_key": "3_2073192246329925633",
+              "start": 40,
+              "url": "https://t.co/w1hB4Osb74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074297348033761417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17201,
+          "like_count": 357,
+          "quote_count": 5,
+          "reply_count": 693,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "Say hi and gain 720 mutual under here ✅ https://t.co/w1hB4Osb74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 344,
+          "like_count": 9512,
+          "listed_count": 0,
+          "media_count": 950,
+          "tweet_count": 2544
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-14T20:26:19.000Z",
+        "description": "King of Space🎙️|| Growth & Visibility King 👑 || 📈Crypto & Forex 💹😂 Memes | 💡 for Promo Email 👉🏽 kingsholzcommentary@gmail.com",
+        "id": "4910249667",
+        "name": "King Sholz 👑",
+        "pinned_tweet_id": "2074107779782991909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058619423628341249/4CUP12Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355367,
+          "following_count": 5381,
+          "like_count": 24739,
+          "listed_count": 131,
+          "media_count": 2708,
+          "tweet_count": 18903
+        },
+        "url": "",
+        "username": "Kingsholz",
+        "verified": true
+      }
+    ]
+  }
+}

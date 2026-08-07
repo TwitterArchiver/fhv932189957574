@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070979465384177664"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070726486445920302",
+    "created_at": "2026-06-27T21:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T22:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070979470396395553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573939488564604928",
+          "start": 0,
+          "username": "Really59763582"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WzbrJ7RY13",
+          "end": 96,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070979470396395553/photo/1",
+          "media_key": "3_2070979465384177664",
+          "start": 73,
+          "url": "https://t.co/WzbrJ7RY13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070979470396395553",
+    "in_reply_to_user_id": "1573939488564604928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070726486445920302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Really59763582 sb玩意，爱谈不谈，觉得low不分手，是没人看得上你这根鸡八，还是趁别人眼瞎当提款机，sb玩意真是凭空出生的东西 https://t.co/WzbrJ7RY13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2070979465384177664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2Y2etaMAAumwy.jpg",
+        "width": 384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070726474517348352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyyweSagAAZeyu.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070979465384177664"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070726486445920302",
+        "created_at": "2026-06-27T21:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070979470396395553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573939488564604928",
+              "start": 0,
+              "username": "Really59763582"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WzbrJ7RY13",
+              "end": 96,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070979470396395553/photo/1",
+              "media_key": "3_2070979465384177664",
+              "start": 73,
+              "url": "https://t.co/WzbrJ7RY13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070979470396395553",
+        "in_reply_to_user_id": "1573939488564604928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070726486445920302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Really59763582 sb玩意，爱谈不谈，觉得low不分手，是没人看得上你这根鸡八，还是趁别人眼瞎当提款机，sb玩意真是凭空出生的东西 https://t.co/WzbrJ7RY13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070726474517348352"
+          ]
+        },
+        "author_id": "1573939488564604928",
+        "conversation_id": "2070726486445920302",
+        "created_at": "2026-06-27T04:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070726486445920302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDnl9dbjGP",
+              "end": 145,
+              "expanded_url": "https://x.com/Really59763582/status/2070726486445920302/photo/1",
+              "media_key": "3_2070726474517348352",
+              "start": 122,
+              "url": "https://t.co/WDnl9dbjGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070726486445920302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 167554,
+          "like_count": 888,
+          "quote_count": 13,
+          "reply_count": 431,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "刷到这个我真的有点受不了\n因为我自己就是服务业，我不谈恋爱也是这个原因，我没什么大出息。但是如果对方心里瞧不起还要和我在一起就很难评。我朋友的对象就是本科，然后看不起她拿五千多的工资，她做法甜的，嫌弃她学历低，但是又对她很好，这样根本就不快乐 https://t.co/WDnl9dbjGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 291,
+          "like_count": 8533,
+          "listed_count": 0,
+          "media_count": 820,
+          "tweet_count": 2125
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/不线下不约/ 匿名：https://t.co/Hz6mCp3WqJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/really597635821",
+                "end": 38,
+                "expanded_url": "https://ngl.link/really597635821",
+                "start": 15,
+                "url": "https://t.co/Hz6mCp3WqJ"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "name": "芋泥麻薯蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017653933800644608/o5GAj2yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20687,
+          "following_count": 180,
+          "like_count": 4277,
+          "listed_count": 42,
+          "media_count": 177,
+          "tweet_count": 2927
+        },
+        "url": "",
+        "username": "Really59763582",
+        "verified": false
+      }
+    ]
+  }
+}

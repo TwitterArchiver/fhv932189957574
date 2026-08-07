@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060340762659995696",
+    "created_at": "2026-05-30T04:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060576392820253125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685159016081862656",
+          "start": 0,
+          "username": "unnun1612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576392820253125",
+    "in_reply_to_user_id": "1685159016081862656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340762659995696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unnun1612 希望你能平安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060340762659995696",
+        "created_at": "2026-05-30T04:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060576392820253125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685159016081862656",
+              "start": 0,
+              "username": "unnun1612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576392820253125",
+        "in_reply_to_user_id": "1685159016081862656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340762659995696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unnun1612 希望你能平安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685159016081862656",
+        "conversation_id": "2060340762659995696",
+        "created_at": "2026-05-29T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340762659995696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340762659995696",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2532,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "죄송합니다. 계정을 삭제할지도 몰라요.\n그리고 죽을지도 몰라요.\n너무 우울해서 죽고 싶어서 견딜 수가 없어요.\n만약 지우지 않으면 내일부터도 잘 지내줬으면 좋겠어요."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 103,
+          "like_count": 4223,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1080
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T05:23:26.000Z",
+        "description": "07 카라멜의 방목 ￤ \n️🩵 @hana0_61 @Uxxxxin 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "hana0_61"
+              },
+              {
+                "end": 35,
+                "start": 27,
+                "username": "Uxxxxin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/unnun1612/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/unnun1612/",
+                "start": 0,
+                "url": "https://t.co/FVR3tCBIzm"
+              }
+            ]
+          }
+        },
+        "id": "1685159016081862656",
+        "location": "ㅎㅎㅎㅎㅎ",
+        "name": "딸기(ㅌㅊㅅ",
+        "pinned_tweet_id": "2060340762659995696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048204802820390912/59ybmlvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 158,
+          "like_count": 7771,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/FVR3tCBIzm",
+        "username": "unnun1612",
+        "verified": false
+      }
+    ]
+  }
+}

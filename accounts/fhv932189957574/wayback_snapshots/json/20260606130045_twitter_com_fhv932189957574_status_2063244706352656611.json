@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2063131884138254648",
+    "created_at": "2026-06-06T13:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063244706352656611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "0xJoveXu"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063244706352656611",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063131884138254648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xJoveXu @grok 我😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2063131872360853505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG3gcja8AEbcN5.jpg",
+        "width": 376
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2063131872335736832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG3gcdbsAAbBRN.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2063131884138254648",
+        "created_at": "2026-06-06T13:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063244706352656611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063244706352656611",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063131884138254648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu @grok 我😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063131872360853505",
+            "3_2063131872335736832"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "conversation_id": "2063131884138254648",
+        "created_at": "2026-06-06T05:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063131884138254648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1720665183188922368",
+              "start": 90,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3AKDfFJ1j",
+              "end": 122,
+              "expanded_url": "https://x.com/0xJoveXu/status/2063131884138254648/photo/1",
+              "media_key": "3_2063131872360853505",
+              "start": 99,
+              "url": "https://t.co/i3AKDfFJ1j"
+            },
+            {
+              "display_url": "pic.x.com/i3AKDfFJ1j",
+              "end": 122,
+              "expanded_url": "https://x.com/0xJoveXu/status/2063131884138254648/photo/1",
+              "media_key": "3_2063131872335736832",
+              "start": 99,
+              "url": "https://t.co/i3AKDfFJ1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063131884138254648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 15065,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 114,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "想突破两万的粉丝，给大家送和抽几条 IP\n\n这一条 IP 给大家公开使用，直接扫码导入节点\n\n如果需要独自使用的，转发点赞评论这条推文，抽 10 个朋友单独赠送\n\n24 H过后由 @grok 开奖 https://t.co/i3AKDfFJ1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 5085,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 1203
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "正在探索Crypto、AI｜TG：JoveXu",
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议.DYOR",
+        "name": "Jove. 💚 💧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500747449999360/hQYLmLWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18934,
+          "following_count": 7411,
+          "like_count": 37159,
+          "listed_count": 59,
+          "media_count": 992,
+          "tweet_count": 34608
+        },
+        "username": "0xJoveXu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8792391,
+          "following_count": 5,
+          "like_count": 101,
+          "listed_count": 6943,
+          "media_count": 9015669,
+          "tweet_count": 128171945
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

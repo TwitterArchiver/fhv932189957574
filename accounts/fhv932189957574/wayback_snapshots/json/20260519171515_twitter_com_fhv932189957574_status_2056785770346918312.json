@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2056782673444802823",
+    "created_at": "2026-05-19T17:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056785770346918312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554298614406492161",
+          "start": 0,
+          "username": "ruiccai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aic_bky/status…",
+          "end": 32,
+          "expanded_url": "https://x.com/aic_bky/status/2056758482250965457?s=46",
+          "start": 9,
+          "url": "https://t.co/r6njss0M0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056785770346918312",
+    "in_reply_to_user_id": "1554298614406492161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056758482250965457",
+        "type": "quoted"
+      },
+      {
+        "id": "2056783404386189629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiccai https://t.co/r6njss0M0I😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2056782673444802823",
+        "created_at": "2026-05-19T17:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056785770346918312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554298614406492161",
+              "start": 0,
+              "username": "ruiccai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aic_bky/status…",
+              "end": 32,
+              "expanded_url": "https://x.com/aic_bky/status/2056758482250965457?s=46",
+              "start": 9,
+              "url": "https://t.co/r6njss0M0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056785770346918312",
+        "in_reply_to_user_id": "1554298614406492161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056758482250965457",
+            "type": "quoted"
+          },
+          {
+            "id": "2056783404386189629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiccai https://t.co/r6njss0M0I😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054226432860327936",
+        "conversation_id": "2056758482250965457",
+        "created_at": "2026-05-19T15:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056758482250965457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056758482250965457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在网上认妈妈是一种什么心理啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554298614406492161",
+        "conversation_id": "2056782673444802823",
+        "created_at": "2026-05-19T17:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056783404386189629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056783404386189629",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056782673444802823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜别特么问了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 76,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 813
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:51:03.000Z",
+        "description": "",
+        "id": "1554298614406492161",
+        "name": "roy cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894762066738872320/locW_Q9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 101,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "ruiccai",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/发帖暂时不太多/喜欢我请私信  我喜欢聊天/重要的人@KuaiWo34671",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "2054226432860327936",
+        "location": "门67/167/267纯绿无区别",
+        "name": "AIC",
+        "pinned_tweet_id": "2054597954993025484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 9,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "Aic_BKY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065726028170096642"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2065313893615034635",
+    "created_at": "2026-06-13T09:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065726033240977759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1569193302712545280",
+          "start": 0,
+          "username": "shijin999999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWXZx1IUkY",
+          "end": 51,
+          "expanded_url": "https://x.com/fhv932189957574/status/2065726033240977759/photo/1",
+          "media_key": "3_2065726028170096642",
+          "start": 28,
+          "url": "https://t.co/hWXZx1IUkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065726033240977759",
+    "in_reply_to_user_id": "1569193302712545280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065435942316630124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijin999999 设置→你的账号 →账号信息 https://t.co/hWXZx1IUkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 189,
+        "media_key": "3_2065726028170096642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKru4MBbcAIDjFw.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065726028170096642"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2065313893615034635",
+        "created_at": "2026-06-13T09:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065726033240977759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569193302712545280",
+              "start": 0,
+              "username": "shijin999999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWXZx1IUkY",
+              "end": 51,
+              "expanded_url": "https://x.com/fhv932189957574/status/2065726033240977759/photo/1",
+              "media_key": "3_2065726028170096642",
+              "start": 28,
+              "url": "https://t.co/hWXZx1IUkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726033240977759",
+        "in_reply_to_user_id": "1569193302712545280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065435942316630124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijin999999 设置→你的账号 →账号信息 https://t.co/hWXZx1IUkY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569193302712545280",
+        "conversation_id": "2065313893615034635",
+        "created_at": "2026-06-12T14:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065435942316630124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435942316630124",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065313893615034635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 你这个粉丝帐号是怎么弄的啊?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 173,
+          "like_count": 6145,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 1477
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-12T05:17:04.000Z",
+        "description": "AI|AI|AI|还是AI\n每天一个马上能用的 AI 技巧 | Claude / Codex / GPT 重度使用者 | 只说实测过的，不行的直说不行\nbyted | 为了开ai成了u卡收集者 | 互关战士",
+        "id": "1569193302712545280",
+        "location": "hangzhou",
+        "name": "shi jin",
+        "pinned_tweet_id": "2065396427367555508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055090639327707136/v--ON0ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 731,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 302
+        },
+        "username": "shijin999999",
+        "verified": true
+      }
+    ]
+  }
+}

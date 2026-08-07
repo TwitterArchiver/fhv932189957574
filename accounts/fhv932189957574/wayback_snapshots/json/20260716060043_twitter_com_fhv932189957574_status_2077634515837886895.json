@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077412472991211650",
+    "created_at": "2026-07-16T06:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077634515837886895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042977978267951104",
+          "start": 0,
+          "username": "NoraX2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077634515837886895",
+    "in_reply_to_user_id": "2042977978267951104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077412472991211650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoraX2026 给sb们找这么多借口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077412472991211650",
+        "created_at": "2026-07-16T06:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077634515837886895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042977978267951104",
+              "start": 0,
+              "username": "NoraX2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634515837886895",
+        "in_reply_to_user_id": "2042977978267951104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412472991211650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoraX2026 给sb们找这么多借口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042977978267951104",
+        "conversation_id": "2077412472991211650",
+        "created_at": "2026-07-15T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077412472991211650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077412472991211650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 81974,
+          "like_count": 609,
+          "quote_count": 12,
+          "reply_count": 58,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "看到个有趣的说法。说是ADHD其实是远古猎人基因，基因里面有很多属于尼安德特人的成分。\n搜一下遗传特点，真的震惊了。\n抑郁症倾向➕容易过敏体质➕皮肤屏障容易受损➕昼夜节律混乱➕容易体感失调。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 468,
+          "like_count": 11158,
+          "listed_count": 0,
+          "media_count": 1051,
+          "tweet_count": 2898
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n👩HerName成员\n💰搞钱｜AI｜信息差｜写段子\n商务合作v：jasmine704792 （备明来意）\nEmail：3885826362@qq.com",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415173804806144/IqEHzmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12632,
+          "following_count": 206,
+          "like_count": 11257,
+          "listed_count": 39,
+          "media_count": 788,
+          "tweet_count": 7244
+        },
+        "url": "",
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

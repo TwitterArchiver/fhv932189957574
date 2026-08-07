@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066243846544232448"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2066228898225168416",
+    "created_at": "2026-06-14T19:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066243852466544844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrUC1HliMn",
+          "end": 47,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066243852466544844/photo/1",
+          "media_key": "3_2066243846544232448",
+          "start": 24,
+          "url": "https://t.co/jrUC1HliMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066243852466544844",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066228898225168416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 怎么唱得这么难听😡 https://t.co/jrUC1HliMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2066243846544232448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzF1LybEAAcHAo.jpg",
+        "width": 554
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2066227530345168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy2_dNbQAAmyLb.jpg",
+        "width": 1041
+      },
+      {
+        "height": 1847,
+        "media_key": "3_2066227715527884800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy3KPEbQAAWJqE.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066243846544232448"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2066228898225168416",
+        "created_at": "2026-06-14T19:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066243852466544844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrUC1HliMn",
+              "end": 47,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066243852466544844/photo/1",
+              "media_key": "3_2066243846544232448",
+              "start": 24,
+              "url": "https://t.co/jrUC1HliMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066243852466544844",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066228898225168416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 怎么唱得这么难听😡 https://t.co/jrUC1HliMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066227530345168896",
+            "3_2066227715527884800"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066228898225168416",
+        "created_at": "2026-06-14T18:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066228898225168416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3q30kQBxf",
+              "end": 160,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2066228898225168416/photo/1",
+              "media_key": "3_2066227530345168896",
+              "start": 137,
+              "url": "https://t.co/b3q30kQBxf"
+            },
+            {
+              "display_url": "pic.x.com/b3q30kQBxf",
+              "end": 160,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2066228898225168416/photo/1",
+              "media_key": "3_2066227715527884800",
+              "start": 137,
+              "url": "https://t.co/b3q30kQBxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066228898225168416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰老师，我还记得你😣一句一句把我拉出迷雾里🥶张雪峰老师，我还记得你😘那些年少的愁，你替我扛起😍粉笔灰落在肩上，像雪一样安静你笑着说前途远，别先把自己看清😟多少个深夜回家，我还在翻那页纸🧐你说过的每句话都在我心里记起🥸后来风吹过来，我也学会了😐不躲不退，往自己的山坡走🤠 https://t.co/b3q30kQBxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 175,
+          "like_count": 6489,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 1562
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书哦。新对政治思想史 英美道德学 德国法学感兴趣。凝聚态物理研究生。想做一个功利主义的幸福者。一元论爱欲观。我来推特就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2062599294486729145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 175,
+          "like_count": 18560,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

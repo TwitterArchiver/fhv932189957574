@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076066745446514791",
+    "created_at": "2026-07-12T12:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076287048907100305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705630684117610498",
+          "start": 0,
+          "username": "LemonTreeandSea"
+        },
+        {
+          "end": 32,
+          "id": "1750569273947312128",
+          "start": 17,
+          "username": "tangangqinmao4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076287048907100305",
+    "in_reply_to_user_id": "1705630684117610498",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076066745446514791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonTreeandSea @tangangqinmao4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076066745446514791",
+        "created_at": "2026-07-12T12:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076287048907100305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705630684117610498",
+              "start": 0,
+              "username": "LemonTreeandSea"
+            },
+            {
+              "end": 32,
+              "id": "1750569273947312128",
+              "start": 17,
+              "username": "tangangqinmao4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076287048907100305",
+        "in_reply_to_user_id": "1705630684117610498",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076066745446514791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonTreeandSea @tangangqinmao4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705630684117610498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2076066745446514791",
+        "created_at": "2026-07-11T22:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076066745446514791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076066745446514791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平上台之前\n\n中国人在网上批评一下政府，不仅没有事，甚至还有当地电视台前来报道，讨论他们批评的那些缺点\n\n而习近平上台之后\n\n有一个人在微信里骂了一句习包子，然后被判刑两年\n\n习近平这种独裁者早就应该去坐牢了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 72320,
+          "like_count": 708,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "习近平上台之前\n\n中国人在网上批评一下政府，不仅没有事，甚至还有当地电视台前来报道，讨论他们批评的那些缺点\n\n而习近平上台之后\n\n有一个人在微信里骂了一句习包子，然后被判刑两年\n\n习近平这种独裁者早就应该去坐牢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 409,
+          "like_count": 10433,
+          "listed_count": 0,
+          "media_count": 1025,
+          "tweet_count": 2764
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "2070832450620572159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 1062,
+          "like_count": 32883,
+          "listed_count": 32,
+          "media_count": 594,
+          "tweet_count": 16133
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T17:20:14.000Z",
+        "description": "点进我主页别急哭",
+        "id": "1750569273947312128",
+        "name": "弹钢琴还在弹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066154696797204480/RJe6Vm6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 5,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "tangangqinmao4",
+        "verified": false
+      }
+    ]
+  }
+}

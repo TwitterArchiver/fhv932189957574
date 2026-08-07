@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076958968992456812",
+    "created_at": "2026-07-14T11:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076986815765193128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1698674397031301120",
+          "start": 0,
+          "username": "khe42779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076986815765193128",
+    "in_reply_to_user_id": "1698674397031301120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076958968992456812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khe42779 hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076958968992456812",
+        "created_at": "2026-07-14T11:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076986815765193128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1698674397031301120",
+              "start": 0,
+              "username": "khe42779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076986815765193128",
+        "in_reply_to_user_id": "1698674397031301120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076958968992456812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khe42779 hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698674397031301120",
+        "conversation_id": "2076958968992456812",
+        "created_at": "2026-07-14T09:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076958968992456812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "蓝v互助"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076958968992456812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互动最快的方式，不是只发帖。  还有在蓝V互关帖，顺着楼一个一个点。  那里都是正在互关、正在起号的人。  然后日常互赞互评一起互动串门，这样都会好起来。  主动一点，涨粉涨曝光会快很多，加油哦，看好你。  #蓝v互助 下方留言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 401,
+          "like_count": 10782,
+          "listed_count": 0,
+          "media_count": 1037,
+          "tweet_count": 2833
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-04T12:37:41.000Z",
+        "description": "大家好",
+        "id": "1698674397031301120",
+        "name": "下雨看世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766512244622278658/ZOL1a8xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1134,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "khe42779",
+        "verified": true
+      }
+    ]
+  }
+}

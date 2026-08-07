@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069676430749806592"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2069615987171959074",
+    "created_at": "2026-06-24T06:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069676436441768128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NblJ2aXMDj",
+          "end": 42,
+          "expanded_url": "https://x.com/fhv932189957574/status/2069676436441768128/photo/1",
+          "media_key": "3_2069676430749806592",
+          "start": 19,
+          "url": "https://t.co/NblJ2aXMDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069676436441768128",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069615987171959074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 不，QQ没了 https://t.co/NblJ2aXMDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2069676430749806592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLj3v4bXMAA77cK.jpg",
+        "width": 778
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069615972785307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjAww9XwAAu2lI.jpg",
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069676430749806592"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2069615987171959074",
+        "created_at": "2026-06-24T06:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069676436441768128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NblJ2aXMDj",
+              "end": 42,
+              "expanded_url": "https://x.com/fhv932189957574/status/2069676436441768128/photo/1",
+              "media_key": "3_2069676430749806592",
+              "start": 19,
+              "url": "https://t.co/NblJ2aXMDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069676436441768128",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069615987171959074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 不，QQ没了 https://t.co/NblJ2aXMDj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069615972785307648"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069615987171959074",
+        "created_at": "2026-06-24T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069615987171959074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66MlrkjsO7",
+              "end": 42,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2069615987171959074/photo/1",
+              "media_key": "3_2069615972785307648",
+              "start": 19,
+              "url": "https://t.co/66MlrkjsO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069615987171959074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卸载成功🚬\n孩子很坚强，一声都没哭。 https://t.co/66MlrkjsO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 218,
+          "like_count": 7915,
+          "listed_count": 0,
+          "media_count": 747,
+          "tweet_count": 1953
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 96,
+          "like_count": 7468,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2372
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

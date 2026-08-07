@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082469484217176064",
+        "3_2082469484217200640"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2082469504505008412",
+    "created_at": "2026-07-29T14:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082469504505008412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KzqcNZdVl",
+          "end": 29,
+          "expanded_url": "https://x.com/fhv932189957574/status/2082469504505008412/photo/1",
+          "media_key": "3_2082469484217176064",
+          "start": 6,
+          "url": "https://t.co/1KzqcNZdVl"
+        },
+        {
+          "display_url": "pic.x.com/1KzqcNZdVl",
+          "end": 29,
+          "expanded_url": "https://x.com/fhv932189957574/status/2082469504505008412/photo/1",
+          "media_key": "3_2082469484217200640",
+          "start": 6,
+          "url": "https://t.co/1KzqcNZdVl"
+        },
+        {
+          "display_url": "x.com/wkb623wonderfu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/wkb623wonderful/status/2082303653915083040",
+          "start": 30,
+          "url": "https://t.co/opaUzP3vJs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082469504505008412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082303653915083040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "战国由乃？ https://t.co/1KzqcNZdVl https://t.co/opaUzP3vJs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2082469484217176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZq9mZbEAAJsbV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1684,
+        "media_key": "3_2082469484217200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZq9mZbcAAFgfm.jpg",
+        "width": 1170
+      },
+      {
+        "height": 768,
+        "media_key": "3_2082303649364275200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXUIvbbcAA9Jdk.jpg",
+        "width": 1364
+      },
+      {
+        "height": 768,
+        "media_key": "3_2082303649351630849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXUIvYagAEUfpJ.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082469484217176064",
+            "3_2082469484217200640"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082469504505008412",
+        "created_at": "2026-07-29T14:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469504505008412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KzqcNZdVl",
+              "end": 29,
+              "expanded_url": "https://x.com/fhv932189957574/status/2082469504505008412/photo/1",
+              "media_key": "3_2082469484217176064",
+              "start": 6,
+              "url": "https://t.co/1KzqcNZdVl"
+            },
+            {
+              "display_url": "pic.x.com/1KzqcNZdVl",
+              "end": 29,
+              "expanded_url": "https://x.com/fhv932189957574/status/2082469504505008412/photo/1",
+              "media_key": "3_2082469484217200640",
+              "start": 6,
+              "url": "https://t.co/1KzqcNZdVl"
+            },
+            {
+              "display_url": "x.com/wkb623wonderfu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/wkb623wonderful/status/2082303653915083040",
+              "start": 30,
+              "url": "https://t.co/opaUzP3vJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469504505008412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303653915083040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "战国由乃？ https://t.co/1KzqcNZdVl https://t.co/opaUzP3vJs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082303649364275200",
+            "3_2082303649351630849"
+          ]
+        },
+        "author_id": "1874334613403033602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2082303653915083040",
+        "created_at": "2026-07-29T03:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082303653915083040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xb25PHvpwV",
+              "end": 135,
+              "expanded_url": "https://x.com/WKB623Wonderful/status/2082303653915083040/photo/1",
+              "media_key": "3_2082303649364275200",
+              "start": 112,
+              "url": "https://t.co/Xb25PHvpwV"
+            },
+            {
+              "display_url": "pic.x.com/Xb25PHvpwV",
+              "end": 135,
+              "expanded_url": "https://x.com/WKB623Wonderful/status/2082303653915083040/photo/1",
+              "media_key": "3_2082303649351630849",
+              "start": 112,
+              "url": "https://t.co/Xb25PHvpwV"
+            },
+            {
+              "display_url": "x.com/wkb623wonderfu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/wkb623wonderful/status/2079404133371740376",
+              "start": 136,
+              "url": "https://t.co/lT4gf0pDTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082303653915083040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 30568,
+          "like_count": 484,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079404133371740376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "のののののののの！ののちゃんたーいむ！\nみんな大好きののちゃんのお出ましだぞー！\n今回は国王こと、ののちゃんのコスプレをしたよ！みんなをお手当て🎵\n\n←モーティスVer.                 →睦ちゃんVer. https://t.co/Xb25PHvpwV https://t.co/lT4gf0pDTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 474,
+          "like_count": 13652,
+          "listed_count": 0,
+          "media_count": 1160,
+          "tweet_count": 3293
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T06:00:23.000Z",
+        "description": "祥（さき）...私、気づいた。オタクは人生だって。 モ「このアカウントは非公式のなりきりアカウントだよ。公式とは全く関係ないからね。ちなみに私は同担も他担も大歓迎だよ」ﾑｯ「推し活...楽しくないって思ったこと...一度もない」",
+        "id": "1874334613403033602",
+        "location": "月ノ森女子学園",
+        "name": "オタクに目覚めた若葉睦",
+        "pinned_tweet_id": "1906552565464174632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008587907481907200/qvMO2J1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 783,
+          "like_count": 22998,
+          "listed_count": 4,
+          "media_count": 6019,
+          "tweet_count": 11576
+        },
+        "url": "",
+        "username": "WKB623Wonderful",
+        "verified": false
+      }
+    ]
+  }
+}

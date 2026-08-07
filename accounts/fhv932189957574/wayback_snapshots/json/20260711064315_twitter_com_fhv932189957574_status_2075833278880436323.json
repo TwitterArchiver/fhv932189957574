@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075833270391250944"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2075833278880436323",
+    "created_at": "2026-07-11T06:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075833278880436323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oRRBx9cpev",
+          "end": 31,
+          "expanded_url": "https://x.com/fhv932189957574/status/2075833278880436323/photo/1",
+          "media_key": "3_2075833270391250944",
+          "start": 8,
+          "url": "https://t.co/oRRBx9cpev"
+        },
+        {
+          "display_url": "x.com/luo88761462/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/luo88761462/status/2040809199215710264",
+          "start": 32,
+          "url": "https://t.co/BOc5uUp0VK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075833278880436323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040809199215710264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝色举手小女孩 https://t.co/oRRBx9cpev https://t.co/BOc5uUp0VK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_2075833270391250944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7XXHaboAAPuzC.jpg",
+        "width": 960
+      },
+      {
+        "height": 324,
+        "media_key": "3_2040809181931012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJpI2dagAAsuzM.jpg",
+        "width": 324
+      },
+      {
+        "height": 1868,
+        "media_key": "3_2040809185198399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJpJCoa4AAMYrP.jpg",
+        "width": 1260
+      },
+      {
+        "height": 766,
+        "media_key": "3_2040809185139707904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJpJCabUAAq-wl.jpg",
+        "width": 1224
+      },
+      {
+        "height": 828,
+        "media_key": "3_2040809183793340416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJpI9ZbYAAVVDp.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075833270391250944"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2075833278880436323",
+        "created_at": "2026-07-11T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075833278880436323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRRBx9cpev",
+              "end": 31,
+              "expanded_url": "https://x.com/fhv932189957574/status/2075833278880436323/photo/1",
+              "media_key": "3_2075833270391250944",
+              "start": 8,
+              "url": "https://t.co/oRRBx9cpev"
+            },
+            {
+              "display_url": "x.com/luo88761462/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/luo88761462/status/2040809199215710264",
+              "start": 32,
+              "url": "https://t.co/BOc5uUp0VK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075833278880436323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040809199215710264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝色举手小女孩 https://t.co/oRRBx9cpev https://t.co/BOc5uUp0VK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040809181931012096",
+            "3_2040809185198399488",
+            "3_2040809185139707904",
+            "3_2040809183793340416"
+          ]
+        },
+        "author_id": "1530688815181856768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040809199215710264",
+        "created_at": "2026-04-05T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040809199215710264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "爱苗TV"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "爱苗TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AadyAm4Pp0",
+              "end": 70,
+              "expanded_url": "https://x.com/luo88761462/status/2040809199215710264/photo/1",
+              "media_key": "3_2040809181931012096",
+              "start": 47,
+              "url": "https://t.co/AadyAm4Pp0"
+            },
+            {
+              "display_url": "pic.x.com/AadyAm4Pp0",
+              "end": 70,
+              "expanded_url": "https://x.com/luo88761462/status/2040809199215710264/photo/1",
+              "media_key": "3_2040809185198399488",
+              "start": 47,
+              "url": "https://t.co/AadyAm4Pp0"
+            },
+            {
+              "display_url": "pic.x.com/AadyAm4Pp0",
+              "end": 70,
+              "expanded_url": "https://x.com/luo88761462/status/2040809199215710264/photo/1",
+              "media_key": "3_2040809185139707904",
+              "start": 47,
+              "url": "https://t.co/AadyAm4Pp0"
+            },
+            {
+              "display_url": "pic.x.com/AadyAm4Pp0",
+              "end": 70,
+              "expanded_url": "https://x.com/luo88761462/status/2040809199215710264/photo/1",
+              "media_key": "3_2040809183793340416",
+              "start": 47,
+              "url": "https://t.co/AadyAm4Pp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040809199215710264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4631,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#爱苗TV\n蓝色、举手的少女\n青（あお）、手を挙げる美少女（びしょうじょ） 💦💦💦#爱苗TV https://t.co/AadyAm4Pp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 408,
+          "like_count": 10082,
+          "listed_count": 0,
+          "media_count": 999,
+          "tweet_count": 2689
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T23:13:57.000Z",
+        "description": "我是爱猫人士😘\n同时也是“爱”猫人士🥵🥰\n\n————————————我是反日的中国人，但只是那种反对日本帝国主义军国主义、侵略行径以及煽动种族歧视仇恨😡\n我不是那种逢日必反，我支持中日友好🇨🇳🇯🇵\n不会因为历史原因而无端辱骂讨厌全日本民众，当然可以不聊政治，可以和我聊游戏聊动漫，也能和平相处做朋友🥰",
+        "id": "1530688815181856768",
+        "location": "广东仁",
+        "name": "popo cat",
+        "pinned_tweet_id": "1952651217416663070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632888848626638848/xDTqOIQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 584,
+          "like_count": 10832,
+          "listed_count": 21,
+          "media_count": 1688,
+          "tweet_count": 9719
+        },
+        "url": "",
+        "username": "luo88761462",
+        "verified": true
+      }
+    ]
+  }
+}

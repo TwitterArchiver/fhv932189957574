@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060399348731531655",
+    "created_at": "2026-05-29T18:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060435082683589012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2836827767",
+          "start": 0,
+          "username": "sponsmac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060435082683589012",
+    "in_reply_to_user_id": "2836827767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060399348731531655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sponsmac 早日康复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2060399346793717761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgCShkWIAE7wes.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060399348731531655",
+        "created_at": "2026-05-29T18:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060435082683589012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2836827767",
+              "start": 0,
+              "username": "sponsmac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060435082683589012",
+        "in_reply_to_user_id": "2836827767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060399348731531655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sponsmac 早日康复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060399346793717761"
+          ]
+        },
+        "author_id": "2836827767",
+        "conversation_id": "2060399348731531655",
+        "created_at": "2026-05-29T16:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060399348731531655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6DwyggEfQ",
+              "end": 77,
+              "expanded_url": "https://x.com/sponsmac/status/2060399348731531655/photo/1",
+              "media_key": "3_2060399346793717761",
+              "start": 54,
+              "url": "https://t.co/S6DwyggEfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060399348731531655",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24757,
+          "like_count": 2534,
+          "quote_count": 5,
+          "reply_count": 303,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Kanser hastasıyım banada geçmiş olsun söylermisiniz 🥹 https://t.co/S6DwyggEfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 102,
+          "like_count": 4187,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1076
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-19T04:24:56.000Z",
+        "description": "",
+        "id": "2836827767",
+        "name": "Ece",
+        "pinned_tweet_id": "2060399348731531655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058663219892207618/KFiF0H-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5710,
+          "following_count": 4786,
+          "like_count": 35766,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2138
+        },
+        "username": "sponsmac",
+        "verified": true
+      }
+    ]
+  }
+}

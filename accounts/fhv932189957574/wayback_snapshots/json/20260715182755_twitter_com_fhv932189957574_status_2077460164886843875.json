@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2077299532447309898",
+    "created_at": "2026-07-15T18:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077460164886843875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978552724481536000",
+          "start": 0,
+          "username": "koi_koi_x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077460164886843875",
+    "in_reply_to_user_id": "1978552724481536000",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077299532447309898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koi_koi_x3 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2077299532447309898",
+        "created_at": "2026-07-15T18:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077460164886843875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978552724481536000",
+              "start": 0,
+              "username": "koi_koi_x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077460164886843875",
+        "in_reply_to_user_id": "1978552724481536000",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077299532447309898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koi_koi_x3 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978552724481536000",
+        "conversation_id": "2077299532447309898",
+        "created_at": "2026-07-15T07:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077299532447309898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077299532447309898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 168614,
+          "like_count": 3624,
+          "quote_count": 89,
+          "reply_count": 11,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人＝セックスしたくなる\nセックスしたくなる＝好きな人\nセックスしたくなる＝性欲\n性欲＝好きな人\n好きな人＝恋愛\n恋愛＝性欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 467,
+          "like_count": 11062,
+          "listed_count": 0,
+          "media_count": 1049,
+          "tweet_count": 2887
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-15T20:05:19.000Z",
+        "description": "全日制 / 高一 /愛しの親友 @FuNK3tu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "FuNK3tu"
+              }
+            ]
+          }
+        },
+        "id": "1978552724481536000",
+        "location": "251愛してるよ♡♡",
+        "name": "恋毒†❤︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994281440436244480/tdZaoP5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 282,
+          "like_count": 8612,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 1857
+        },
+        "url": "",
+        "username": "koi_koi_x3",
+        "verified": false
+      }
+    ]
+  }
+}

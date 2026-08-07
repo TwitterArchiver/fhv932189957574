@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076258553648845136",
+    "created_at": "2026-07-12T12:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076276954068812204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1910362428321521664",
+          "start": 0,
+          "username": "mioyuki_21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076276954068812204",
+    "in_reply_to_user_id": "1910362428321521664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076258553648845136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mioyuki_21 我要跳了😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076258553648845136].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076258553648845136",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076258553648845136"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076258553648845136",
+        "created_at": "2026-07-12T12:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076276954068812204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910362428321521664",
+              "start": 0,
+              "username": "mioyuki_21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076276954068812204",
+        "in_reply_to_user_id": "1910362428321521664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076258553648845136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mioyuki_21 我要跳了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 409,
+          "like_count": 10362,
+          "listed_count": 0,
+          "media_count": 1019,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-10T16:01:23.000Z",
+        "description": "爱 & 情绪 & 音乐┋\n我一定会好起来的┋\n⚠️警告，包含大量负面信息⚠️┋\n另一个时间线的默然，似乎发生过了一些奇怪的事情┋\n大号@moran_neko┋\n宝宝❤️@Evievmmm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "moran_neko"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "Evievmmm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe",
+                "start": 0,
+                "url": "https://t.co/UI1zBBEFU8"
+              }
+            ]
+          }
+        },
+        "id": "1910362428321521664",
+        "location": "西三环排涝管廊S-Y0-21",
+        "name": "澪澪澪的冬天ଳ",
+        "pinned_tweet_id": "2057630392132493450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058390263710765056/aDpyUM02_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 96,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/UI1zBBEFU8",
+        "username": "mioyuki_21",
+        "verified": false
+      }
+    ]
+  }
+}

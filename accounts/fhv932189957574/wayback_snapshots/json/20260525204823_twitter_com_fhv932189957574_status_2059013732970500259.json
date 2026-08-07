@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2058693471024922744",
+    "created_at": "2026-05-25T20:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059013732970500259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688373477013688320",
+          "start": 0,
+          "username": "nuan776655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059013732970500259",
+    "in_reply_to_user_id": "1688373477013688320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058693471024922744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuan776655 5，6，7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2058693458580393984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHyywwa0AABove.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2058693471024922744",
+        "created_at": "2026-05-25T20:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059013732970500259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688373477013688320",
+              "start": 0,
+              "username": "nuan776655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059013732970500259",
+        "in_reply_to_user_id": "1688373477013688320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058693471024922744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuan776655 5，6，7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058693458580393984"
+          ]
+        },
+        "author_id": "1688373477013688320",
+        "conversation_id": "2058693471024922744",
+        "created_at": "2026-05-24T23:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058693471024922744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYttiQYKrh",
+              "end": 55,
+              "expanded_url": "https://x.com/nuan776655/status/2058693471024922744/photo/1",
+              "media_key": "3_2058693458580393984",
+              "start": 32,
+              "url": "https://t.co/LYttiQYKrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058693471024922744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4613,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "中国🇨🇳十大5A景区排名，如果选三个升6A景区你会选择哪几个？ https://t.co/LYttiQYKrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜别特么问了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 87,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 989
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T02:16:29.000Z",
+        "description": "喜欢旅游 喜欢美景 喜欢美食\n欢迎大家互相关注 互fo100％回关",
+        "id": "1688373477013688320",
+        "name": "暖秋互fo",
+        "pinned_tweet_id": "2056536585110438098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688375102356754432/sjwuu7aD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30449,
+          "following_count": 21021,
+          "like_count": 254326,
+          "listed_count": 67,
+          "media_count": 7969,
+          "tweet_count": 19150
+        },
+        "username": "nuan776655",
+        "verified": false
+      }
+    ]
+  }
+}

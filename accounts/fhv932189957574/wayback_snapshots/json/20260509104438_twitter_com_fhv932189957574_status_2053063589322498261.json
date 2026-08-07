@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053063581638492160",
+        "3_2053063581588197376",
+        "3_2053063581604950016"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052525274940780630",
+    "created_at": "2026-05-09T10:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053063589322498261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028027034556088320",
+          "start": 0,
+          "username": "nocule00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SN2bd3BXYL",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+          "media_key": "3_2053063581638492160",
+          "start": 16,
+          "url": "https://t.co/SN2bd3BXYL"
+        },
+        {
+          "display_url": "pic.x.com/SN2bd3BXYL",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+          "media_key": "3_2053063581588197376",
+          "start": 16,
+          "url": "https://t.co/SN2bd3BXYL"
+        },
+        {
+          "display_url": "pic.x.com/SN2bd3BXYL",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+          "media_key": "3_2053063581604950016",
+          "start": 16,
+          "url": "https://t.co/SN2bd3BXYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053063589322498261",
+    "in_reply_to_user_id": "2028027034556088320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052525274940780630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nocule00 伪人这一块 https://t.co/SN2bd3BXYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2053063581638492160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ycyzagAAJM6K.jpg",
+        "width": 1500
+      },
+      {
+        "height": 976,
+        "media_key": "3_2053063581588197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ycynbEAAve2I.jpg",
+        "width": 1170
+      },
+      {
+        "height": 226,
+        "media_key": "3_2053063581604950016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ycyrasAAtF2N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053063581638492160",
+            "3_2053063581588197376",
+            "3_2053063581604950016"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052525274940780630",
+        "created_at": "2026-05-09T10:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053063589322498261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028027034556088320",
+              "start": 0,
+              "username": "nocule00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN2bd3BXYL",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+              "media_key": "3_2053063581638492160",
+              "start": 16,
+              "url": "https://t.co/SN2bd3BXYL"
+            },
+            {
+              "display_url": "pic.x.com/SN2bd3BXYL",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+              "media_key": "3_2053063581588197376",
+              "start": 16,
+              "url": "https://t.co/SN2bd3BXYL"
+            },
+            {
+              "display_url": "pic.x.com/SN2bd3BXYL",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053063589322498261/photo/1",
+              "media_key": "3_2053063581604950016",
+              "start": 16,
+              "url": "https://t.co/SN2bd3BXYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053063589322498261",
+        "in_reply_to_user_id": "2028027034556088320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052525274940780630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocule00 伪人这一块 https://t.co/SN2bd3BXYL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028027034556088320",
+        "conversation_id": "2052525274940780630",
+        "created_at": "2026-05-07T23:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052525274940780630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052525274940780630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 140174,
+          "like_count": 1425,
+          "quote_count": 20,
+          "reply_count": 406,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真的好讨厌时代少年团 里面每一个人都讨厌 一群傻福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute一定要联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 320
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 27,
+          "like_count": 1317,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2894
+        },
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

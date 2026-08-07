@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2078864452733337653",
+    "created_at": "2026-07-19T15:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078864452733337653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/77rxmb/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/77rxmb/status/2078455883999404208",
+          "start": 3,
+          "url": "https://t.co/Mp0P0ivdd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078864452733337653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455883999404208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪 https://t.co/Mp0P0ivdd4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2078864452733337653",
+        "created_at": "2026-07-19T15:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078864452733337653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/77rxmb/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/77rxmb/status/2078455883999404208",
+              "start": 3,
+              "url": "https://t.co/Mp0P0ivdd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078864452733337653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455883999404208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪 https://t.co/Mp0P0ivdd4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913397698490957824",
+        "conversation_id": "2078455883999404208",
+        "created_at": "2026-07-18T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455883999404208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455883999404208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 69992,
+          "like_count": 1876,
+          "quote_count": 30,
+          "reply_count": 212,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 466,
+          "like_count": 12024,
+          "listed_count": 0,
+          "media_count": 1079,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T01:02:23.000Z",
+        "description": "x",
+        "id": "1913397698490957824",
+        "location": "中国",
+        "name": "7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075225046457757696/fKg3IzQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 2,
+          "like_count": 513,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "77rxmb",
+        "verified": false
+      }
+    ]
+  }
+}

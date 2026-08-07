@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405259614053036032",
+          "name": "Dating sims"
+        }
+      }
+    ],
+    "conversation_id": "2072382480242680132",
+    "created_at": "2026-07-01T18:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072382480242680132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oofietv/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/oofietv/status/2072355254599860670",
+          "start": 2,
+          "url": "https://t.co/zJeHbGapin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072382480242680132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072355254599860670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃 https://t.co/zJeHbGapin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2072382480242680132",
+        "created_at": "2026-07-01T18:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072382480242680132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oofietv/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/oofietv/status/2072355254599860670",
+              "start": 2,
+              "url": "https://t.co/zJeHbGapin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072382480242680132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072355254599860670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃 https://t.co/zJeHbGapin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223285910453792768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2072355254599860670",
+        "created_at": "2026-07-01T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072355254599860670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uncaged_kitten…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/uncaged_kitten/status/2072152963083129114",
+              "start": 277,
+              "url": "https://t.co/j7bV1KTNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072355254599860670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’m just so disappointed rn. We thought we only lost Valko but we could potentially be losing ALL Chinese Otome games now… \n\nWho tf thought that reporting lads to the Chinese govt for “romanticizing women in danger” would result in anything good? They 100% want the end result for lads and other women focused games to be completely eradicated. This is why we don’t talk about taboo media or make a big deal out of it so it doesn’t get seen by the govt and we can keep it in our media. Fuck this “women’s safety” group who reported it (prob the same group who reported Snowbreak) they single handedly made things WORSE for women by doing this. Now there will be no more women focused games in china. They are not heroes for reporting games to the govt, they are cowards and a stain on the female community."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 6612,
+          "like_count": 311,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072152963083129114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’m just so disappointed rn. We thought we only lost Valko but we could potentially be losing ALL Chinese Otome games now… \n\nWho tf thought that reporting lads to the Chinese govt for “romanticizing women in danger” would result in anything good? They 100% want the end result https://t.co/j7bV1KTNNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-31T16:44:44.000Z",
+        "description": "Cosplayer | Gacha Gamer | Cocoon of Lore | 30✨ https://t.co/iRA8fUy3Ad 💚 https://t.co/9dzkeyG4DU ~ Business Email: OofieTV@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "TWITCH.TV/OOFIETV",
+                "end": 70,
+                "expanded_url": "http://TWITCH.TV/OOFIETV",
+                "start": 47,
+                "url": "https://t.co/iRA8fUy3Ad"
+              },
+              {
+                "display_url": "Kick.com/OofieTV",
+                "end": 96,
+                "expanded_url": "http://Kick.com/OofieTV",
+                "start": 73,
+                "url": "https://t.co/9dzkeyG4DU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "OofieTV.com",
+                "end": 23,
+                "expanded_url": "http://OofieTV.com",
+                "start": 0,
+                "url": "https://t.co/e8O6o7PFcf"
+              }
+            ]
+          }
+        },
+        "id": "1223285910453792768",
+        "name": "OOFIE ૮꒰ ˶• ༝ •˶꒱ა ♡",
+        "pinned_tweet_id": "1830983856830197923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943847644708646913/bI8LyHkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16404,
+          "following_count": 1082,
+          "like_count": 40904,
+          "listed_count": 29,
+          "media_count": 5827,
+          "tweet_count": 17372
+        },
+        "url": "https://t.co/e8O6o7PFcf",
+        "username": "OofieTV",
+        "verified": true
+      }
+    ]
+  }
+}

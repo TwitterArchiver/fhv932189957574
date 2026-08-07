@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074705033862496321",
+    "created_at": "2026-07-08T07:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074754263923003880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546393156874166272",
+          "start": 0,
+          "username": "WW_JP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074754263923003880",
+    "in_reply_to_user_id": "1546393156874166272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074705033862496321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WW_JP_Official 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132330,
+        "height": 1920,
+        "media_key": "13_2074478231307362304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074478231307362304/img/KRZPyzJGJ9O8RdjT.jpg",
+        "public_metrics": {
+          "view_count": 21138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/vid/avc1/1080x1080/wmZQHBXZMY9NYFRK.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/vid/avc1/1920x1920/0gxqAuBMSUeAsto4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/pl/PQfFkX9TOJlIoSac.m3u8?v=8a7"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/vid/avc1/540x540/wN0NndwjrJeh1phU.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/vid/avc1/720x720/dBi-LEVRvmCist7d.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074478231307362304/vid/avc1/320x320/OaR0_UAY1_h9kRGP.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074705033862496321",
+        "created_at": "2026-07-08T07:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074754263923003880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546393156874166272",
+              "start": 0,
+              "username": "WW_JP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074754263923003880",
+        "in_reply_to_user_id": "1546393156874166272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074705033862496321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WW_JP_Official 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074478231307362304"
+          ]
+        },
+        "author_id": "1546393156874166272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2074705033862496321",
+        "created_at": "2026-07-08T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074705033862496321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "秧秧玄翎"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "石川由依"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "秧秧玄翎"
+            },
+            {
+              "end": 164,
+              "start": 155,
+              "tag": "ヤンヤンゲンレイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 109,
+              "id": "1546393156874166272",
+              "start": 94,
+              "username": "WW_JP_Official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9tlBFWHP6",
+              "end": 188,
+              "expanded_url": "https://x.com/WW_JP_Official/status/2074705033862496321/video/1",
+              "media_key": "13_2074478231307362304",
+              "start": 165,
+              "url": "https://t.co/F9tlBFWHP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074705033862496321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 156573,
+          "like_count": 4659,
+          "quote_count": 42,
+          "reply_count": 55,
+          "retweet_count": 5139
+        },
+        "reply_settings": "everyone",
+        "text": "【声優メッセージ公開記念キャンペーン】\n\n#秧秧玄翎 役 #石川由依\n「行きましょう。風の吹くほうへ、一緒に。」\n\n抽選で2名様に石川由依さんの直筆サイン入り色紙を🎁\n\n【応募方法】\n1.@WW_JP_Officialをフォロー\n2.本投稿をリポスト\n\n〆切：2026年7月14日（火）\n\n#鳴潮\n#秧秧玄翎\n#ヤンヤンゲンレイ https://t.co/F9tlBFWHP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 410,
+          "like_count": 9669,
+          "listed_count": 0,
+          "media_count": 969,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T07:17:24.000Z",
+        "description": "新作オープンワールドARPG『#鳴潮』（メイチョウ）が\nマルチプラットフォームにて全世界同時リリースされました！\n\n今すぐダウンロード▼\nhttps://t.co/TS67Z6nFM0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "鳴潮"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wuwa.kurogames-global.com/jp",
+                "end": 92,
+                "expanded_url": "https://wuwa.kurogames-global.com/jp",
+                "start": 69,
+                "url": "https://t.co/TS67Z6nFM0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCGc93…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCGc93NguHRwzv1Rw9MyIcxQ",
+                "start": 0,
+                "url": "https://t.co/QAIpqV4Ey5"
+              }
+            ]
+          }
+        },
+        "id": "1546393156874166272",
+        "name": "鳴潮 (Wuthering Waves) 公式",
+        "pinned_tweet_id": "2074689933479145645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070478986493435904/IHzGu3Gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734765,
+          "following_count": 13,
+          "like_count": 536,
+          "listed_count": 2128,
+          "media_count": 2627,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/QAIpqV4Ey5",
+        "username": "WW_JP_Official",
+        "verified": true
+      }
+    ]
+  }
+}

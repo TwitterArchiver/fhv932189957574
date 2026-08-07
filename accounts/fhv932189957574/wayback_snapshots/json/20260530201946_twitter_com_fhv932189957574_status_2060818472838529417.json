@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060818465548886016"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2060583520657956956",
+    "created_at": "2026-05-30T20:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060818472838529417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1064503701660942337",
+          "start": 0,
+          "username": "video_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lg4tMRoRUi",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2060818472838529417/photo/1",
+          "media_key": "3_2060818465548886016",
+          "start": 13,
+          "url": "https://t.co/lg4tMRoRUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060818472838529417",
+    "in_reply_to_user_id": "1064503701660942337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060583520657956956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@video_00 天哪 https://t.co/lg4tMRoRUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2060818465548886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl_ecmbYAA-6nR.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 49914,
+        "height": 1080,
+        "media_key": "13_2060583450071994372",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060583450071994372/img/lto4khpLixMh8zrq.jpg",
+        "public_metrics": {
+          "view_count": 50779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060583450071994372/vid/avc1/1080x1080/RuiCYpTwHdBO3rKk.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060583450071994372/vid/avc1/720x720/-dNEINFIv0gSCOKM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060583450071994372/pl/LV_YNrJjh7tq9gpt.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060583450071994372/vid/avc1/320x320/aNCPq7IG6LIf-czA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060583450071994372/vid/avc1/540x540/MTgDUw8Yfg81soW1.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060818465548886016"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2060583520657956956",
+        "created_at": "2026-05-30T20:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060818472838529417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1064503701660942337",
+              "start": 0,
+              "username": "video_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lg4tMRoRUi",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2060818472838529417/photo/1",
+              "media_key": "3_2060818465548886016",
+              "start": 13,
+              "url": "https://t.co/lg4tMRoRUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060818472838529417",
+        "in_reply_to_user_id": "1064503701660942337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583520657956956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@video_00 天哪 https://t.co/lg4tMRoRUi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060583450071994372"
+          ]
+        },
+        "author_id": "1064503701660942337",
+        "conversation_id": "2060583520657956956",
+        "created_at": "2026-05-30T04:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060583520657956956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCubKqpX0w",
+              "end": 185,
+              "expanded_url": "https://x.com/video_00/status/2060583520657956956/video/1",
+              "media_key": "13_2060583450071994372",
+              "start": 162,
+              "url": "https://t.co/QCubKqpX0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583520657956956",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 99088,
+          "like_count": 4153,
+          "quote_count": 12,
+          "reply_count": 102,
+          "retweet_count": 592
+        },
+        "reply_settings": "everyone",
+        "text": "💢 \"بادرة أنسانية جميلة\" \n\nبعد آن أصيب هذا الكلب بالشلل تم رميه بالشارع \n\nالرجل بالفيديو وجده بطريقة وتبناه وقام بصنع كرسياً متحركاً له ، شاهد فرحة الكلب وسعادته. https://t.co/QCubKqpX0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 103,
+          "like_count": 4397,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 1099
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-19T13:00:34.000Z",
+        "description": "أترجم وأنقل غرائب الأخبار والأحداث العالمية بأختصار 🌍 Sometimes I relay global events and news from reliable sources",
+        "id": "1064503701660942337",
+        "location": "Riyadh",
+        "name": "Radio",
+        "pinned_tweet_id": "2057009561060409688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048355025492029440/k9x1NJmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16067,
+          "following_count": 111,
+          "like_count": 85700,
+          "listed_count": 43,
+          "media_count": 18770,
+          "tweet_count": 54145
+        },
+        "username": "video_00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2071263460898357500",
+    "created_at": "2026-06-28T21:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071345889403351378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "38717507",
+          "start": 0,
+          "username": "abmarkman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071345889403351378",
+    "in_reply_to_user_id": "38717507",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071263460898357500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abmarkman nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2071263435514392577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6bHt4XMAEHDZH.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2071263460898357500",
+        "created_at": "2026-06-28T21:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071345889403351378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "38717507",
+              "start": 0,
+              "username": "abmarkman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071345889403351378",
+        "in_reply_to_user_id": "38717507",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071263460898357500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abmarkman nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071263435514392577"
+          ]
+        },
+        "author_id": "38717507",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2071263460898357500",
+        "created_at": "2026-06-28T16:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071263460898357500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyyk4oiQpF",
+              "end": 196,
+              "expanded_url": "https://x.com/abmarkman/status/2071263460898357500/photo/1",
+              "media_key": "3_2071263435514392577",
+              "start": 173,
+              "url": "https://t.co/lyyk4oiQpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071263460898357500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 31552,
+          "like_count": 1334,
+          "quote_count": 27,
+          "reply_count": 763,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🎂 Happy Birthday, Elon Musk! 🚀❤️\n\nOn his birthday, describe Elon Musk in ONE word only. 👇\n\n❤️ What's the first word that comes to your mind?\n\nNo sentences—just ONE word! 🎉 https://t.co/lyyk4oiQpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 310,
+          "like_count": 8778,
+          "listed_count": 0,
+          "media_count": 857,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-08T18:35:59.000Z",
+        "description": "",
+        "id": "38717507",
+        "location": "Austin, TX",
+        "name": "Elon musk news page",
+        "pinned_tweet_id": "1142462762544762880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049257175491682304/oZA_Zsb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33037,
+          "following_count": 1935,
+          "like_count": 17700,
+          "listed_count": 629,
+          "media_count": 1103,
+          "tweet_count": 14498
+        },
+        "url": "",
+        "username": "abmarkman",
+        "verified": false
+      }
+    ]
+  }
+}

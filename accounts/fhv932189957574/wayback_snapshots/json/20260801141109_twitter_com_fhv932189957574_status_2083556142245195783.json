@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2083556142245195783",
+    "created_at": "2026-08-01T14:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083556142245195783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417988112249020417",
+          "start": 3,
+          "username": "Mr02779723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083556142245195783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083461161786413099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mr02779723: これビオラの新手の拷問らしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2083556142245195783",
+        "created_at": "2026-08-01T14:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083556142245195783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417988112249020417",
+              "start": 3,
+              "username": "Mr02779723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083556142245195783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083461161786413099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mr02779723: これビオラの新手の拷問らしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417988112249020417",
+        "conversation_id": "2083461161786413099",
+        "created_at": "2026-08-01T07:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083461161786413099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nnkw7750/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nnkw7750/status/2083330364383367232",
+              "start": 15,
+              "url": "https://t.co/XUJkYh2Lu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083461161786413099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083330364383367232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これビオラの新手の拷問らしい https://t.co/XUJkYh2Lu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 477,
+          "like_count": 14172,
+          "listed_count": 0,
+          "media_count": 1176,
+          "tweet_count": 3355
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-21T23:29:47.000Z",
+        "description": "ムジカからバンドリ始めました！！お手柔らかに⋯。暇な時プラモとか作ってます✈️🛩️\n推し→みんな好きだけど特に/ﾎﾟﾃｯ⋯紗夜さん/つぐ/おたえ/沙綾/広町/ふーすけ/ロック/愛音ちゃん!!!\n無言フォロー大歓迎⭕️",
+        "id": "1417988112249020417",
+        "name": "Mr,ちょびひげ",
+        "pinned_tweet_id": "2040585458091217274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990022122778005504/5Bu6NauA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 5325,
+          "like_count": 140181,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 5627
+        },
+        "url": "",
+        "username": "Mr02779723",
+        "verified": false
+      }
+    ]
+  }
+}

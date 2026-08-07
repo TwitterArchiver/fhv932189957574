@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064281206292938752"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2064177463081705789",
+    "created_at": "2026-06-09T09:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064281212236259711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952560012422709248",
+          "start": 0,
+          "username": "whitemoww"
+        },
+        {
+          "end": 20,
+          "id": "1844296703282925568",
+          "start": 11,
+          "username": "0xJoveXu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3rCPqIULmE",
+          "end": 47,
+          "expanded_url": "https://x.com/fhv932189957574/status/2064281212236259711/photo/1",
+          "media_key": "3_2064281206292938752",
+          "start": 24,
+          "url": "https://t.co/3rCPqIULmE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064281212236259711",
+    "in_reply_to_user_id": "1952560012422709248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064177463081705789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitemoww @0xJoveXu 神了 https://t.co/3rCPqIULmE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2064281206292938752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXM0fGbAAAMv2m.jpg",
+        "width": 405
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064177446803685376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVuc44bQAADinH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064281206292938752"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2064177463081705789",
+        "created_at": "2026-06-09T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064281212236259711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952560012422709248",
+              "start": 0,
+              "username": "whitemoww"
+            },
+            {
+              "end": 20,
+              "id": "1844296703282925568",
+              "start": 11,
+              "username": "0xJoveXu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rCPqIULmE",
+              "end": 47,
+              "expanded_url": "https://x.com/fhv932189957574/status/2064281212236259711/photo/1",
+              "media_key": "3_2064281206292938752",
+              "start": 24,
+              "url": "https://t.co/3rCPqIULmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064281212236259711",
+        "in_reply_to_user_id": "1952560012422709248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064177463081705789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitemoww @0xJoveXu 神了 https://t.co/3rCPqIULmE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064177446803685376"
+          ]
+        },
+        "author_id": "1952560012422709248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2064177463081705789",
+        "created_at": "2026-06-09T02:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064177463081705789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1844296703282925568",
+              "start": 78,
+              "username": "0xJoveXu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdKZHw0QM3",
+              "end": 111,
+              "expanded_url": "https://x.com/whitemoww/status/2064177463081705789/photo/1",
+              "media_key": "3_2064177446803685376",
+              "start": 88,
+              "url": "https://t.co/vdKZHw0QM3"
+            },
+            {
+              "display_url": "x.com/0xjovexu/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/0xjovexu/status/2055630670056374313",
+              "start": 112,
+              "url": "https://t.co/WsQyaqnp0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064177463081705789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 557,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055630670056374313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拖延症犯了，拖了几天，终于在今天折腾了一会搞定了！全程就花20父母买了一堆小白卡，感谢博主分享！下一步去搞appleid&amp;注册gpt和claude @0xJoveXu https://t.co/vdKZHw0QM3 https://t.co/WsQyaqnp0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 130,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 107,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2064045648304103475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 122,
+          "like_count": 5446,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1311
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T02:39:28.000Z",
+        "description": "",
+        "id": "1952560012422709248",
+        "name": "White",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952560055964033024/aL0IkFeE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 49,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "whitemoww",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "正在探索Crypto、AI｜TG：JoveXu",
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议.DYOR",
+        "name": "Jove. 💚 💧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500747449999360/hQYLmLWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19676,
+          "following_count": 7462,
+          "like_count": 37417,
+          "listed_count": 59,
+          "media_count": 1006,
+          "tweet_count": 34797
+        },
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

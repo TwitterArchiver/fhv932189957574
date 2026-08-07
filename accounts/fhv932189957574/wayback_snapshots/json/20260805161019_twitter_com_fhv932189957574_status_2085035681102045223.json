@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2085035681102045223",
+    "created_at": "2026-08-05T16:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085035681102045223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963740883272298496",
+          "start": 3,
+          "username": "ido_please"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085035681102045223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084708262696599797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ido_please: 你就做你的大女主好了呀，反正我呢，是那种离开老公身边一分钟就会死的娇妻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2085035681102045223",
+        "created_at": "2026-08-05T16:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085035681102045223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963740883272298496",
+              "start": 3,
+              "username": "ido_please"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085035681102045223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084708262696599797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ido_please: 你就做你的大女主好了呀，反正我呢，是那种离开老公身边一分钟就会死的娇妻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963740883272298496",
+        "conversation_id": "2084708262696599797",
+        "created_at": "2026-08-04T18:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084708262696599797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084708262696599797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 37997,
+          "like_count": 304,
+          "quote_count": 6,
+          "reply_count": 176,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "你就做你的大女主好了呀，反正我呢，是那种离开老公身边一分钟就会死的娇妻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14622,
+          "listed_count": 0,
+          "media_count": 1192,
+          "tweet_count": 3418
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T23:08:13.000Z",
+        "description": "一个顺直女，讲话很难听",
+        "id": "1963740883272298496",
+        "name": "电次的妈妈",
+        "pinned_tweet_id": "2083272218700857725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084925109887029248/jB7J4hJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 5,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "ido_please",
+        "verified": false
+      }
+    ]
+  }
+}

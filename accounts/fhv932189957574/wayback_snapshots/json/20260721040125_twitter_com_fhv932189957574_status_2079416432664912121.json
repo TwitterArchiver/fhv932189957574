@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2079262039373951474",
+    "created_at": "2026-07-21T04:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079416432664912121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477492453313847297",
+          "start": 0,
+          "username": "CHICKENFINGRRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079416432664912121",
+    "in_reply_to_user_id": "1477492453313847297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079262039373951474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHICKENFINGRRS 福瑞集团这招太狠了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10270,
+        "height": 640,
+        "media_key": "13_2079262013209935872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079262013209935872/img/PgBzWyTyQAnFw0bn.jpg",
+        "public_metrics": {
+          "view_count": 121592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262013209935872/vid/avc1/320x568/PPDT9NKJYDx3R4vy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262013209935872/vid/avc1/360x640/kM-IUg2KysO_UUoR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079262013209935872/pl/NvZohmEy-LgfT30r.m3u8?v=749"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2079262039373951474",
+        "created_at": "2026-07-21T04:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079416432664912121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477492453313847297",
+              "start": 0,
+              "username": "CHICKENFINGRRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079416432664912121",
+        "in_reply_to_user_id": "1477492453313847297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079262039373951474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHICKENFINGRRS 福瑞集团这招太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079262013209935872"
+          ]
+        },
+        "author_id": "1477492453313847297",
+        "conversation_id": "2079262039373951474",
+        "created_at": "2026-07-20T17:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079262039373951474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zb3fTIgThf",
+              "end": 198,
+              "expanded_url": "https://x.com/CHICKENFINGRRS/status/2079262039373951474/video/1",
+              "media_key": "13_2079262013209935872",
+              "start": 175,
+              "url": "https://t.co/zb3fTIgThf"
+            },
+            {
+              "display_url": "x.com/dexiedeerfox/s…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/dexiedeerfox/status/2078469239665721575",
+              "start": 199,
+              "url": "https://t.co/2zukv2d6AD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079262039373951474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1751,
+          "impression_count": 305256,
+          "like_count": 5209,
+          "quote_count": 17,
+          "reply_count": 41,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078469239665721575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Just found the most whimsical and quintessential embodiment of what the furry community exists for\n\nIt's like a kids show for adults, I love it so much they seem so wonderful https://t.co/zb3fTIgThf https://t.co/2zukv2d6AD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 473,
+          "like_count": 12209,
+          "listed_count": 0,
+          "media_count": 1083,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-02T04:10:35.000Z",
+        "description": "an oasis of love and friendship\n\nplease i need moots",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "funnybrob.straw.page",
+                "end": 23,
+                "expanded_url": "https://funnybrob.straw.page",
+                "start": 0,
+                "url": "https://t.co/IryHmv9UV4"
+              }
+            ]
+          }
+        },
+        "id": "1477492453313847297",
+        "location": "geekbar candy mountain",
+        "name": "dogscuzz",
+        "pinned_tweet_id": "1964176460333109667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038151955776700416/yZE0Dwxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 239,
+          "like_count": 35267,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/IryHmv9UV4",
+        "username": "CHICKENFINGRRS",
+        "verified": false
+      }
+    ]
+  }
+}

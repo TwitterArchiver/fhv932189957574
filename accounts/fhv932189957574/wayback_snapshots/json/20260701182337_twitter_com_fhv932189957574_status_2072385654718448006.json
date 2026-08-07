@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2072385654718448006",
+    "created_at": "2026-07-01T18:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072385654718448006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bertoldensen21…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/bertoldensen21/status/2072048784289534122",
+          "start": 3,
+          "url": "https://t.co/ywfiZk2KLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072385654718448006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072048784289534122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神了 https://t.co/ywfiZk2KLH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2072385654718448006",
+        "created_at": "2026-07-01T18:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072385654718448006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bertoldensen21…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/bertoldensen21/status/2072048784289534122",
+              "start": 3,
+              "url": "https://t.co/ywfiZk2KLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072385654718448006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072048784289534122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了 https://t.co/ywfiZk2KLH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2344871202",
+        "conversation_id": "2071965403925159981",
+        "created_at": "2026-06-30T20:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072048784289534122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90397226",
+              "start": 0,
+              "username": "windtrack_QH"
+            },
+            {
+              "end": 27,
+              "id": "90397226",
+              "start": 14,
+              "username": "windtrack_QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072048784289534122",
+        "in_reply_to_user_id": "90397226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5114,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071965403925159981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windtrack_QH @windtrack_QH \nthey always did that.\n\nthey said to me that i'm chinese, but i'm not. then they blocked me.\n\nnot only that, they said like \"you got brainwashed chinese propaganda\"\n\nwhat da hell"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2071091141857173842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 313,
+          "like_count": 8906,
+          "listed_count": 0,
+          "media_count": 875,
+          "tweet_count": 2318
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-15T09:47:45.000Z",
+        "description": "",
+        "id": "2344871202",
+        "name": "Watdistodat",
+        "pinned_tweet_id": "2023457448573759928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632804453337247750/nuoLS5aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 59,
+          "like_count": 9852,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 7111
+        },
+        "url": "",
+        "username": "BertoldenSen21",
+        "verified": false
+      }
+    ]
+  }
+}

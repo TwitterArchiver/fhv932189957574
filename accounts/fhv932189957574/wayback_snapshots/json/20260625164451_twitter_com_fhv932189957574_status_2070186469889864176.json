@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070186462260457473",
+        "3_2070186462252068869"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2069957438242181532",
+    "created_at": "2026-06-25T16:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070186469889864176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800880928417525760",
+          "start": 0,
+          "username": "Snow_flake43"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIQp0QaZc5",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070186469889864176/photo/1",
+          "media_key": "3_2070186462260457473",
+          "start": 16,
+          "url": "https://t.co/kIQp0QaZc5"
+        },
+        {
+          "display_url": "pic.x.com/kIQp0QaZc5",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070186469889864176/photo/1",
+          "media_key": "3_2070186462252068869",
+          "start": 16,
+          "url": "https://t.co/kIQp0QaZc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070186469889864176",
+    "in_reply_to_user_id": "1800880928417525760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069957438242181532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_flake43 ？ https://t.co/kIQp0QaZc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_2070186462260457473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrHnn3bcAENbGH.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2070186462252068869",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrHnn1bcAU2guN.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 10150,
+        "height": 1920,
+        "media_key": "13_2069957355924803584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069957355924803584/img/bmlibq0AoRd5VXi_.jpg",
+        "public_metrics": {
+          "view_count": 23768
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069957355924803584/pl/Zf8KD5bc23Vlv0TC.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069957355924803584/vid/avc1/320x568/gZCFbgdp-esyPjpT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069957355924803584/vid/avc1/720x1280/GSbxb4gfOZfMkm54.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069957355924803584/vid/avc1/480x852/0TnXMYNz99nqA3n7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069957355924803584/vid/avc1/1080x1920/9oBcnuTYQd_OeurK.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070186462260457473",
+            "3_2070186462252068869"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2069957438242181532",
+        "created_at": "2026-06-25T16:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070186469889864176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800880928417525760",
+              "start": 0,
+              "username": "Snow_flake43"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIQp0QaZc5",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070186469889864176/photo/1",
+              "media_key": "3_2070186462260457473",
+              "start": 16,
+              "url": "https://t.co/kIQp0QaZc5"
+            },
+            {
+              "display_url": "pic.x.com/kIQp0QaZc5",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070186469889864176/photo/1",
+              "media_key": "3_2070186462252068869",
+              "start": 16,
+              "url": "https://t.co/kIQp0QaZc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070186469889864176",
+        "in_reply_to_user_id": "1800880928417525760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069957438242181532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_flake43 ？ https://t.co/kIQp0QaZc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069957355924803584"
+          ]
+        },
+        "author_id": "1800880928417525760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "新共鳴者がまもなく解禁！\n配信を視聴して、星声などの豪華報酬をゲットしよう！\n\n『鳴潮』Ver.3.5 予告特別通信\n6月26日（金）20:00 配信開始\n19:30より「鳴潮予告特別通信~ちょこっとお茶会~」をお届けします。\n\n漂泊者の皆様、\n下記ポスト欄、または #めいちょう予告特別通信 を付けて感想を投稿してください。\n抽選で16名様に賞品をプレゼント!\n\n【賞品】\n・アマギフ5,000円分 × 10名様\n・Ver.3.5「秧秧・玄翎」限定グッズ × 5名様\n・PlayStation 5 デジタル・エディション × 1名様\n\n【参加方法】\n①本ページをポスト\n②#めいちょう予告特別通信 を付けて感想を投稿\n〆切：6/26（金）24:00\n\n『鳴潮』好評配信中!\nDL：https://wuwa.kurogames-global.com/4qdsnK4",
+              "id": "2067497614933635072",
+              "name": "Kudo live 202606"
+            }
+          }
+        ],
+        "conversation_id": "2069957438242181532",
+        "created_at": "2026-06-25T01:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069957438242181532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 10,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "phrolova"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "WuWaCollection"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "鳴潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voRR5NRN3K",
+              "end": 88,
+              "expanded_url": "https://x.com/Snow_flake43/status/2069957438242181532/video/1",
+              "media_key": "13_2069957355924803584",
+              "start": 65,
+              "url": "https://t.co/voRR5NRN3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069957438242181532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 48159,
+          "like_count": 1402,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "愛らしいヌーノ。\n\n#WutheringWaves #phrolova #WuWaCollection #AIイラスト \n#鳴潮 https://t.co/voRR5NRN3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 219,
+          "like_count": 8202,
+          "listed_count": 0,
+          "media_count": 778,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-12T13:21:17.000Z",
+        "description": "Daily source for Arknights & Endfield updates, news, memes, fanarts & more.\n\nAll content belongs to their respective creators.",
+        "id": "1800880928417525760",
+        "name": "Snowflake",
+        "pinned_tweet_id": "2062747065684537387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030378297000177664/q9QjpzZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7579,
+          "following_count": 1518,
+          "like_count": 2535,
+          "listed_count": 24,
+          "media_count": 1415,
+          "tweet_count": 4547
+        },
+        "url": "",
+        "username": "Snow_flake43",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057336749400154112"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2057299054636466642",
+    "created_at": "2026-05-21T05:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057336768673054886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 25,
+          "id": "1552137826913120256",
+          "start": 16,
+          "username": "BZaychlk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/khT5x1hvWl",
+          "end": 64,
+          "expanded_url": "https://x.com/fhv932189957574/status/2057336768673054886/photo/1",
+          "media_key": "3_2057336749400154112",
+          "start": 41,
+          "url": "https://t.co/khT5x1hvWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057336768673054886",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057301944109244775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen @BZaychlk 哦齁齁哦哦哦哦哦哦哦哦😋😋😋 https://t.co/khT5x1hvWl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_2057336749400154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0g35NaYAA0aUQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057336749400154112"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2057299054636466642",
+        "created_at": "2026-05-21T05:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057336768673054886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1552137826913120256",
+              "start": 16,
+              "username": "BZaychlk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khT5x1hvWl",
+              "end": 64,
+              "expanded_url": "https://x.com/fhv932189957574/status/2057336768673054886/photo/1",
+              "media_key": "3_2057336749400154112",
+              "start": 41,
+              "url": "https://t.co/khT5x1hvWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057336768673054886",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301944109244775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen @BZaychlk 哦齁齁哦哦哦哦哦哦哦哦😋😋😋 https://t.co/khT5x1hvWl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057299054636466642",
+        "created_at": "2026-05-21T03:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057301944109244775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057301944109244775",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301087741415690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BZaychlk 别、别问了……求求你……再这样问下去……環状線真的什么都、都写不出来了……齁噢噢噢噢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜别特么问了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 80,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 832
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 842,
+          "like_count": 21134,
+          "listed_count": 9,
+          "media_count": 1121,
+          "tweet_count": 6275
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "location": "Side 6 殖民卫星",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 493,
+          "like_count": 13758,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 4112
+        },
+        "username": "BZaychlk",
+        "verified": false
+      }
+    ]
+  }
+}

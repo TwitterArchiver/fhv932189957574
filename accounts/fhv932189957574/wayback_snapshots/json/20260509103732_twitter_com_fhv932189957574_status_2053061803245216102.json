@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2053061779530637312"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2052803838143602988",
+    "created_at": "2026-05-09T10:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053061803245216102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695143560876789761",
+          "start": 0,
+          "username": "Reminiscencewav"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKoJo6D8AL",
+          "end": 44,
+          "expanded_url": "https://x.com/fhv932189957574/status/2053061803245216102/photo/1",
+          "media_key": "16_2053061779530637312",
+          "start": 21,
+          "url": "https://t.co/jKoJo6D8AL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053061803245216102",
+    "in_reply_to_user_id": "1695143560876789761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052803838143602988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reminiscencewav 真好看 https://t.co/jKoJo6D8AL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2053061779530637312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH3wz5ba4AAOKnQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH3wz5ba4AAOKnQ.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2052803825594167296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0GNAIacAAEMPW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053061779530637312"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2052803838143602988",
+        "created_at": "2026-05-09T10:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053061803245216102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695143560876789761",
+              "start": 0,
+              "username": "Reminiscencewav"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKoJo6D8AL",
+              "end": 44,
+              "expanded_url": "https://x.com/fhv932189957574/status/2053061803245216102/photo/1",
+              "media_key": "16_2053061779530637312",
+              "start": 21,
+              "url": "https://t.co/jKoJo6D8AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053061803245216102",
+        "in_reply_to_user_id": "1695143560876789761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052803838143602988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reminiscencewav 真好看 https://t.co/jKoJo6D8AL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052803825594167296"
+          ]
+        },
+        "author_id": "1695143560876789761",
+        "conversation_id": "2052803838143602988",
+        "created_at": "2026-05-08T17:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052803838143602988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzpIOZex2w",
+              "end": 23,
+              "expanded_url": "https://x.com/Reminiscencewav/status/2052803838143602988/photo/1",
+              "media_key": "3_2052803825594167296",
+              "start": 0,
+              "url": "https://t.co/AzpIOZex2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052803838143602988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2536,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AzpIOZex2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute一定要联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 318
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T18:38:21.000Z",
+        "description": "玫瑰，纯粹的矛盾，乐为无人的睡梦，在众多眼睑下",
+        "id": "1695143560876789761",
+        "location": "🌹",
+        "name": "L'Alouette",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878111872777613312/SzeDcmAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 364,
+          "like_count": 1038,
+          "listed_count": 18,
+          "media_count": 122,
+          "tweet_count": 627
+        },
+        "username": "Reminiscencewav",
+        "verified": false
+      }
+    ]
+  }
+}

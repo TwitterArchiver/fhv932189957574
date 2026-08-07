@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060070374314803200"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059943346441974267",
+    "created_at": "2026-05-28T18:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060070382745407625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "817235421235023874",
+          "start": 0,
+          "username": "yukarendra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxCKOaL6A4",
+          "end": 50,
+          "expanded_url": "https://x.com/fhv932189957574/status/2060070382745407625/photo/1",
+          "media_key": "3_2060070374314803200",
+          "start": 27,
+          "url": "https://t.co/nxCKOaL6A4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060070382745407625",
+    "in_reply_to_user_id": "817235421235023874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059943346441974267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukarendra 这个非常好吃，虽然是零食😋🥰 https://t.co/nxCKOaL6A4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2060070374314803200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbXFzlXAAAMVK-.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060070374314803200"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059943346441974267",
+        "created_at": "2026-05-28T18:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060070382745407625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "817235421235023874",
+              "start": 0,
+              "username": "yukarendra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxCKOaL6A4",
+              "end": 50,
+              "expanded_url": "https://x.com/fhv932189957574/status/2060070382745407625/photo/1",
+              "media_key": "3_2060070374314803200",
+              "start": 27,
+              "url": "https://t.co/nxCKOaL6A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060070382745407625",
+        "in_reply_to_user_id": "817235421235023874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059943346441974267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukarendra 这个非常好吃，虽然是零食😋🥰 https://t.co/nxCKOaL6A4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "817235421235023874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059943346441974267",
+        "created_at": "2026-05-28T10:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059943346441974267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rei102rei/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Rei102rei/status/2059147325260628350",
+              "start": 50,
+              "url": "https://t.co/2Nuv7SBMzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943346441974267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 43078,
+          "like_count": 859,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059147325260628350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "すごーい！沢山の中国の人たちが美味しそうなご飯画像を上げてくれてる😆\nなんて優しい世界…日中友好🤝 https://t.co/2Nuv7SBMzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 96,
+          "like_count": 3770,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 1041
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-06T05:04:42.000Z",
+        "description": "インド映画と着物と猫と旅と平和を愛する🐾\nつちのこを連れてたまに旅します✈️\n映画Tシャツ帯で映画鑑賞が趣味🍿🎫🎥スッブラブ💚のクンタラ国民🦢\nインド🇮🇳香港🇭🇰台湾🇹🇼アジア旅もっと行きたい。",
+        "id": "817235421235023874",
+        "name": "ユカレンドラ（願えば叶う）",
+        "pinned_tweet_id": "1997518097629196533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1012712513824120832/S8Gr-Ltx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 510,
+          "like_count": 189816,
+          "listed_count": 18,
+          "media_count": 2235,
+          "tweet_count": 33473
+        },
+        "username": "yukarendra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050983218158116864"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2050917286903493081",
+    "created_at": "2026-05-03T16:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050983229067534758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1252387221849747456",
+          "start": 0,
+          "username": "akane3203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eIAEsRwzP1",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2050983229067534758/photo/1",
+          "media_key": "3_2050983218158116864",
+          "start": 17,
+          "url": "https://t.co/eIAEsRwzP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050983229067534758",
+    "in_reply_to_user_id": "1252387221849747456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050917286903493081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akane3203 是这个吗😋 https://t.co/eIAEsRwzP1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2050983218158116864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaOXs6aIAAsTml.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050983218158116864"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2050917286903493081",
+        "created_at": "2026-05-03T16:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050983229067534758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1252387221849747456",
+              "start": 0,
+              "username": "akane3203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIAEsRwzP1",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2050983229067534758/photo/1",
+              "media_key": "3_2050983218158116864",
+              "start": 17,
+              "url": "https://t.co/eIAEsRwzP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050983229067534758",
+        "in_reply_to_user_id": "1252387221849747456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050917286903493081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akane3203 是这个吗😋 https://t.co/eIAEsRwzP1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252387221849747456",
+        "conversation_id": "2050917286903493081",
+        "created_at": "2026-05-03T12:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050917286903493081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050917286903493081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放过我吧集逼们集屌们 生活不如意来网上随机找几个小女孩欺负发泄压力很爽是吗。如果你觉得欺负一个很笨拙 很心酸 很用力 很崩溃的活着的小茜 会让你觉得特别有成就感的话 那么请便吧 我无所谓了我 你们就尽情地虐待我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "",
+        "id": "2025951595020845056",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951754588987393/2MWMLMjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 49
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "如果你觉得欺负一个很笨拙 很心酸 很用力 很崩溃的活着的小茜 会让你觉得特别有成就感的话 那么 请排便",
+        "id": "1252387221849747456",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "2047440087923744914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 41,
+          "like_count": 363,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1705
+        },
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067488627760971777"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2067172431782170744",
+    "created_at": "2026-06-18T06:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067488632940925294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1351772369568768001",
+          "start": 0,
+          "username": "shoujokaisen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRV6KYnxPh",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2067488632940925294/photo/1",
+          "media_key": "3_2067488627760971777",
+          "start": 14,
+          "url": "https://t.co/gRV6KYnxPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067488632940925294",
+    "in_reply_to_user_id": "1351772369568768001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067172431782170744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoujokaisen https://t.co/gRV6KYnxPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2067488627760971777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEx8_LaQAEEhrq.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067171928453021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAR6qUaAAAbLWc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067488627760971777"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2067172431782170744",
+        "created_at": "2026-06-18T06:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067488632940925294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1351772369568768001",
+              "start": 0,
+              "username": "shoujokaisen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRV6KYnxPh",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2067488632940925294/photo/1",
+              "media_key": "3_2067488627760971777",
+              "start": 14,
+              "url": "https://t.co/gRV6KYnxPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067488632940925294",
+        "in_reply_to_user_id": "1351772369568768001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067172431782170744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoujokaisen https://t.co/gRV6KYnxPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067171928453021696"
+          ]
+        },
+        "author_id": "1351772369568768001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2067172431782170744",
+        "created_at": "2026-06-17T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067172431782170744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "少女廻戦"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "屈原"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "折原くるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TD3vGgnSvG",
+              "end": 128,
+              "expanded_url": "https://x.com/shoujokaisen/status/2067172431782170744/photo/1",
+              "media_key": "3_2067171928453021696",
+              "start": 105,
+              "url": "https://t.co/TD3vGgnSvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067172431782170744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19375,
+          "like_count": 66,
+          "quote_count": 18,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "少女廻戦に屈原が登場！中国最初の詩人と言える人物だ。詩人武将は少女廻戦の世界に多くいるので、ぜひ全員を集めてみよう！\n\nまた懐かしのクイズイベントも開催するので参加しよう！\n\n#少女廻戦 #屈原　#折原くるみ https://t.co/TD3vGgnSvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067317399343550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 208,
+          "like_count": 6771,
+          "listed_count": 1,
+          "media_count": 589,
+          "tweet_count": 1651
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-20T06:03:49.000Z",
+        "description": "放置RPGスマホゲーム「少女廻戦」の公式アカウントです。\n時空を超え、新世界を救うため、美少女たちを連れて、果てのない未来へ冒険に行きましょう！\n問い合わせ先：\nDiscord：https://t.co/NsB0PY72Qi\n公式サイト:https://t.co/mlqL1e2SMA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9cW4hQKuHN",
+                "end": 112,
+                "expanded_url": "http://discord.gg/9cW4hQKuHN",
+                "start": 89,
+                "url": "https://t.co/NsB0PY72Qi"
+              },
+              {
+                "display_url": "kog.onemt.com",
+                "end": 142,
+                "expanded_url": "http://kog.onemt.com",
+                "start": 119,
+                "url": "https://t.co/mlqL1e2SMA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kog.onemt.com",
+                "end": 23,
+                "expanded_url": "https://kog.onemt.com/",
+                "start": 0,
+                "url": "https://t.co/HGpjW3QtZC"
+              }
+            ]
+          }
+        },
+        "id": "1351772369568768001",
+        "location": "桃源郷",
+        "name": "【公式】少女廻戦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048691844738146304/szd4Aj0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35767,
+          "following_count": 3,
+          "like_count": 34,
+          "listed_count": 134,
+          "media_count": 1160,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/HGpjW3QtZC",
+        "username": "shoujokaisen",
+        "verified": false
+      }
+    ]
+  }
+}

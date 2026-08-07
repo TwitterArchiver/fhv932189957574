@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2062757788149846351",
+    "created_at": "2026-06-05T05:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062763246667645001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062763246667645001",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062757788149846351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xJoveXu 都要外区，不能国区，\n小火箭可以用共享ID下载，但是不能更新，也可以去闲鱼买充值卡，然后购买，更简单\nClash Mi免费，而且有机场链接，但是相比小火箭更加复杂，上限比小火箭高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2062757778603798529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBjRUtacAEHdhK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2062757778612183040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBjRUvaYAAyq50.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2062757788149846351",
+        "created_at": "2026-06-05T05:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062763246667645001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062763246667645001",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062757788149846351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 都要外区，不能国区，\n小火箭可以用共享ID下载，但是不能更新，也可以去闲鱼买充值卡，然后购买，更简单\nClash Mi免费，而且有机场链接，但是相比小火箭更加复杂，上限比小火箭高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062757778603798529",
+            "3_2062757778612183040"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2062757788149846351",
+        "created_at": "2026-06-05T04:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062757788149846351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDJ3qA4QbJ",
+              "end": 156,
+              "expanded_url": "https://x.com/0xJoveXu/status/2062757788149846351/photo/1",
+              "media_key": "3_2062757778603798529",
+              "start": 133,
+              "url": "https://t.co/KDJ3qA4QbJ"
+            },
+            {
+              "display_url": "pic.x.com/KDJ3qA4QbJ",
+              "end": 156,
+              "expanded_url": "https://x.com/0xJoveXu/status/2062757788149846351/photo/1",
+              "media_key": "3_2062757778612183040",
+              "start": 133,
+              "url": "https://t.co/KDJ3qA4QbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757788149846351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果手机想连接梯子必须用到工具\n\n一般大家都是推荐小火箭，但是很多人没有办法支付国外APP的软件费用。\n\n今天我找到了一款对标小火箭的APP叫 Clash Mi。\n\n也可以连接节点，关键还是免费使用，不需要再去找小火箭的苹果ID\n\n大家记得收藏，避免下次找不到了！ https://t.co/KDJ3qA4QbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 126,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 103,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 110,
+          "like_count": 5026,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 1196
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "正在探索Crypto、AI｜TG：JoveXu",
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议.DYOR",
+        "name": "Jove. 💚 💧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500747449999360/hQYLmLWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18640,
+          "following_count": 7378,
+          "like_count": 36911,
+          "listed_count": 58,
+          "media_count": 975,
+          "tweet_count": 34423
+        },
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

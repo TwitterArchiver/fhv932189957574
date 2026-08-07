@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066528119461466112"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2063944713221353904",
+    "created_at": "2026-06-15T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066528213564899338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3188575777",
+          "start": 0,
+          "username": "LIGHTSEEKER1984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4TkdARjoGy",
+          "end": 43,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066528213564899338/video/1",
+          "media_key": "13_2066528119461466112",
+          "start": 20,
+          "url": "https://t.co/4TkdARjoGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066528213564899338",
+    "in_reply_to_user_id": "3188575777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063944713221353904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIGHTSEEKER1984 看吧 https://t.co/4TkdARjoGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33180,
+        "height": 720,
+        "media_key": "13_2066528119461466112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066528119461466112/img/43W3PELomtZ_xiJL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528119461466112/vid/avc1/480x270/NP9n8gEGwaV6aguP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528119461466112/vid/avc1/640x360/CoEXknfxcSCr2DdC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066528119461466112/vid/avc1/1280x720/_CrTZBGHKmu8iaJX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066528119461466112/pl/59LQs5eCH_Dm4Wwc.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1325,
+        "media_key": "3_2063944698201505793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSaxIxaAAEeBb5.jpg",
+        "width": 640
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2063944698419679232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSaxJlbEAA1ZMB.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2533,
+        "media_key": "3_2063944699745112064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSaxOhbkAALXFH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066528119461466112"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2063944713221353904",
+        "created_at": "2026-06-15T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528213564899338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3188575777",
+              "start": 0,
+              "username": "LIGHTSEEKER1984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TkdARjoGy",
+              "end": 43,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066528213564899338/video/1",
+              "media_key": "13_2066528119461466112",
+              "start": 20,
+              "url": "https://t.co/4TkdARjoGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066528213564899338",
+        "in_reply_to_user_id": "3188575777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063944713221353904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIGHTSEEKER1984 看吧 https://t.co/4TkdARjoGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063944698201505793",
+            "3_2063944698419679232",
+            "3_2063944699745112064"
+          ]
+        },
+        "author_id": "3188575777",
+        "conversation_id": "2063944713221353904",
+        "created_at": "2026-06-08T11:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063944713221353904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQrYMReUPg",
+              "end": 168,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/2063944713221353904/photo/1",
+              "media_key": "3_2063944698201505793",
+              "start": 145,
+              "url": "https://t.co/wQrYMReUPg"
+            },
+            {
+              "display_url": "pic.x.com/wQrYMReUPg",
+              "end": 168,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/2063944713221353904/photo/1",
+              "media_key": "3_2063944698419679232",
+              "start": 145,
+              "url": "https://t.co/wQrYMReUPg"
+            },
+            {
+              "display_url": "pic.x.com/wQrYMReUPg",
+              "end": 168,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/2063944713221353904/photo/1",
+              "media_key": "3_2063944699745112064",
+              "start": 145,
+              "url": "https://t.co/wQrYMReUPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944713221353904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 132842,
+          "like_count": 388,
+          "quote_count": 1,
+          "reply_count": 141,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "谁说未成年女性就不会诬告和打拳了？还是利用高考，借题发挥的打拳\n国女在高考接受采访，说要把性同意年龄提高到18岁\n国女都能撤回性同意和诬告了，提高性同意的年龄的作用是？🤡\n就算国女提高到50岁也没问题💩\n那些滥交的，三通一达的国女，裤裆是自己掉的？见到洋人自动坐地排卵\n国女脑子被臭批夹了 https://t.co/wQrYMReUPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了病娇真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 174,
+          "like_count": 6573,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 1598
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-08T08:40:10.000Z",
+        "description": "Red Pill#\nMan lives matter#\nPsychoanalysis#\nStrategic Analysis#\n献忠学家",
+        "id": "3188575777",
+        "location": "Sydney, New South Wales",
+        "name": "The Gulag Bot",
+        "pinned_tweet_id": "1865223958758592677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856377797968834564/o3wfa5ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13006,
+          "following_count": 3291,
+          "like_count": 38130,
+          "listed_count": 50,
+          "media_count": 9934,
+          "tweet_count": 51116
+        },
+        "username": "LIGHTSEEKER1984",
+        "verified": true
+      }
+    ]
+  }
+}

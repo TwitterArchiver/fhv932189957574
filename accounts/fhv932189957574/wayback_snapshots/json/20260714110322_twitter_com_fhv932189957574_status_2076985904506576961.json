@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2076947613090501018",
+    "created_at": "2026-07-14T11:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076985904506576961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843183245808271360",
+          "start": 0,
+          "username": "xifancry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076985904506576961",
+    "in_reply_to_user_id": "1843183245808271360",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076947613090501018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xifancry hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2076947613090501018",
+        "created_at": "2026-07-14T11:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076985904506576961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843183245808271360",
+              "start": 0,
+              "username": "xifancry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076985904506576961",
+        "in_reply_to_user_id": "1843183245808271360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076947613090501018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xifancry hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843183245808271360",
+        "conversation_id": "2076947613090501018",
+        "created_at": "2026-07-14T08:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076947613090501018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 97,
+              "tag": "follow"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "互相关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/nikitabier/status/2076747704248758617",
+              "start": 118,
+              "url": "https://t.co/YKgqQXYaYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076947613090501018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2007,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076747704248758617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经好久不互关了，今天看到X团队负责人Nikita发的要提升互关的人推文的曝光度，之后我觉得再发一期蓝V互关，从今天开始关注我的人都会回关，你关注我我关注你，需要互关的人也可以在评论区留言。\n#follow #蓝V互关  #互相关注 https://t.co/YKgqQXYaYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "pinned_tweet_id": "2076495992246223089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 401,
+          "like_count": 10775,
+          "listed_count": 0,
+          "media_count": 1037,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T06:55:16.000Z",
+        "description": "爬山导致半月板受损浑身都是病、花呗借呗负债2w、没有彩礼钱娶媳妇。 WEEX全球大使",
+        "id": "1843183245808271360",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "夕凡的撸毛之路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947343260080607232/-huf5FB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66111,
+          "following_count": 51017,
+          "like_count": 36081,
+          "listed_count": 101,
+          "media_count": 1660,
+          "tweet_count": 2830
+        },
+        "url": "",
+        "username": "xifancry",
+        "verified": true
+      }
+    ]
+  }
+}

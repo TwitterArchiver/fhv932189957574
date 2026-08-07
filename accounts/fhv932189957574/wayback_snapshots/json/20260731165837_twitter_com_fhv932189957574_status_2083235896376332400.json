@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2083235896376332400",
+    "created_at": "2026-07-31T16:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083235896376332400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lordkarbiter90…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/lordkarbiter903/status/2083059092512542809",
+          "start": 2,
+          "url": "https://t.co/bROjmSENYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083235896376332400",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083059092512542809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/bROjmSENYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2083056023963901952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiAatObIAAfBhg.jpg",
+        "width": 1599
+      },
+      {
+        "height": 899,
+        "media_key": "3_2083056023930368000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiAatGbcAAFAWG.jpg",
+        "width": 1599
+      },
+      {
+        "height": 899,
+        "media_key": "3_2083056023947091968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiAatKaoAAoqyI.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2083235896376332400",
+        "created_at": "2026-07-31T16:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083235896376332400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lordkarbiter90…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/lordkarbiter903/status/2083059092512542809",
+              "start": 2,
+              "url": "https://t.co/bROjmSENYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083235896376332400",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083059092512542809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/bROjmSENYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083056023963901952",
+            "3_2083056023930368000",
+            "3_2083056023947091968"
+          ]
+        },
+        "author_id": "2054142584784924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2083059092512542809",
+        "created_at": "2026-07-31T05:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083059092512542809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XuACDF2D97",
+              "end": 295,
+              "expanded_url": "https://x.com/LordKArbiter903/status/2083059092512542809/photo/1",
+              "media_key": "3_2083056023963901952",
+              "start": 272,
+              "url": "https://t.co/XuACDF2D97"
+            },
+            {
+              "display_url": "pic.x.com/XuACDF2D97",
+              "end": 295,
+              "expanded_url": "https://x.com/LordKArbiter903/status/2083059092512542809/photo/1",
+              "media_key": "3_2083056023930368000",
+              "start": 272,
+              "url": "https://t.co/XuACDF2D97"
+            },
+            {
+              "display_url": "pic.x.com/XuACDF2D97",
+              "end": 295,
+              "expanded_url": "https://x.com/LordKArbiter903/status/2083059092512542809/photo/1",
+              "media_key": "3_2083056023947091968",
+              "start": 272,
+              "url": "https://t.co/XuACDF2D97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059092512542809",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Why do we have to move planets so quickly? I still want to spend more time with MyCASTORICE in Amphoreus, seeing her smile, her cuteness, and all the love I've given to CASTORICE 😭😭😭\n\nWhy doesn't Hoyo make a marriage feature so I can take Castorice anywhere without being limited to planets? Because I can't go without you, my love 🥰🥰💜💜💜\n\nBut even so,\n\"Love knows no distance,\nbecause the heart always knows where to go home.\nNo matter how far apart we are,\nthis feeling still meets in the same place amidst my longing.\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1488,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Why do we have to move planets so quickly? I still want to spend more time with MyCASTORICE in Amphoreus, seeing her smile, her cuteness, and all the love I've given to CASTORICE 😭😭😭\n\nWhy doesn't Hoyo make a marriage feature so I can take Castorice anywhere without being https://t.co/XuACDF2D97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 477,
+          "like_count": 14048,
+          "listed_count": 0,
+          "media_count": 1172,
+          "tweet_count": 3345
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T10:13:12.000Z",
+        "description": "I will be there for everyone, as we head toward our shared future, leaving the past behind",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/AnalystGaming",
+                "end": 23,
+                "expanded_url": "http://youtube.com/c/AnalystGaming",
+                "start": 0,
+                "url": "https://t.co/TeyCl0Zg8K"
+              }
+            ]
+          }
+        },
+        "id": "2054142584784924672",
+        "location": "Sky for roof, earth for bed",
+        "name": "Lord KArbiter",
+        "pinned_tweet_id": "2054152570348912817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075546467213905920/bAqaIi1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 117,
+          "like_count": 4489,
+          "listed_count": 4,
+          "media_count": 1034,
+          "tweet_count": 2290
+        },
+        "url": "https://t.co/TeyCl0Zg8K",
+        "username": "LordKArbiter903",
+        "verified": true
+      }
+    ]
+  }
+}

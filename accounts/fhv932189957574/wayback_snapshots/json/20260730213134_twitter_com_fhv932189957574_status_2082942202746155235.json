@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2082865562292494670",
+    "created_at": "2026-07-30T21:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082942202746155235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313516770683244548",
+          "start": 0,
+          "username": "gatekeqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082942202746155235",
+    "in_reply_to_user_id": "1313516770683244548",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082865562292494670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gatekeqt 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37696,
+        "height": 720,
+        "media_key": "13_2082865501395460097",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082865501395460097/img/693hzEekzxZn4YrI.jpg",
+        "public_metrics": {
+          "view_count": 6699
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082865501395460097/vid/avc1/480x270/-ObXqDsWy_V4HAT4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082865501395460097/vid/avc1/640x360/3W1xVH19JhAHRsBp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082865501395460097/vid/avc1/1280x720/IISRyUogqaPKlaCX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082865501395460097/pl/YBWf5U9vOt1JUgMq.m3u8?v=aff"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2082865562292494670",
+        "created_at": "2026-07-30T21:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082942202746155235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313516770683244548",
+              "start": 0,
+              "username": "gatekeqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082942202746155235",
+        "in_reply_to_user_id": "1313516770683244548",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082865562292494670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gatekeqt 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082865501395460097"
+          ]
+        },
+        "author_id": "1313516770683244548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2082865562292494670",
+        "created_at": "2026-07-30T16:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082865562292494670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKV9vcNWxO",
+              "end": 281,
+              "expanded_url": "https://x.com/gatekeqt/status/2082865562292494670/video/1",
+              "media_key": "13_2082865501395460097",
+              "start": 258,
+              "url": "https://t.co/TKV9vcNWxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082865562292494670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 11282,
+          "like_count": 826,
+          "quote_count": 23,
+          "reply_count": 11,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "this scene probably is the most heart aching one for me, being such a highly dedicated fan with notes piled all over your oshis maga, simply to be told by them that no one else has ever cared about their work compared to a person you’ve had bad history with https://t.co/TKV9vcNWxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 477,
+          "like_count": 13905,
+          "listed_count": 0,
+          "media_count": 1166,
+          "tweet_count": 3331
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T16:29:44.000Z",
+        "description": "multifandom | artist, editor, TL, gamer | 📢🐰🧸🍑🌾\n⠀⠀ ⠀⠀ t74 mizu4 ⠀ ♬ ⠀ t500 ena5 🎨🎀\n⠀⠀ ⠀⠀ ⠀⠀ ⠀.𖥔 ݁ ˖ ﹒@yonkolure ♡︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "yonkolure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gatekeqt.straw.page",
+                "end": 23,
+                "expanded_url": "https://gatekeqt.straw.page",
+                "start": 0,
+                "url": "https://t.co/ADvp7q7Rbc"
+              }
+            ]
+          }
+        },
+        "id": "1313516770683244548",
+        "location": "artstyle ib yarinn, server ⟶",
+        "name": "elys　𐂯　mama elysian",
+        "pinned_tweet_id": "1920628591777271950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078687176221450240/uJGzwzwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 575,
+          "like_count": 135297,
+          "listed_count": 13,
+          "media_count": 4122,
+          "tweet_count": 18637
+        },
+        "url": "https://t.co/ADvp7q7Rbc",
+        "username": "gatekeqt",
+        "verified": false
+      }
+    ]
+  }
+}

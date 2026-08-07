@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2074337696496161141",
+    "created_at": "2026-07-07T08:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074406880236228752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598329280458416128",
+          "start": 0,
+          "username": "gba6677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074406880236228752",
+    "in_reply_to_user_id": "1598329280458416128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074337696496161141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gba6677 hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2074337696496161141",
+        "created_at": "2026-07-07T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074406880236228752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598329280458416128",
+              "start": 0,
+              "username": "gba6677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074406880236228752",
+        "in_reply_to_user_id": "1598329280458416128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074337696496161141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gba6677 hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598329280458416128",
+        "conversation_id": "2074337696496161141",
+        "created_at": "2026-07-07T03:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074337696496161141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337696496161141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4059,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 144,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文蓝V互关，还是互关快，一天就涨粉几百，最快的不是只发帖等人来。    而是去看看看互动，再顺着他 们的关注  列表一个个点。    这才是好的方法，正在起号的人。  主动一点，涨粉会快很多。 #蓝V互关🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv （看乐子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 361,
+          "like_count": 9521,
+          "listed_count": 0,
+          "media_count": 953,
+          "tweet_count": 2555
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-01T14:52:58.000Z",
+        "description": "8年币圈老韭菜，熊市转型做号| 从0开始做自媒体 | 记录 0→1 的每一步 |日更中",
+        "id": "1598329280458416128",
+        "name": "从零开始做自媒体",
+        "pinned_tweet_id": "2073834722019733758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831877044289536/a5ty05f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 173,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "gba6677",
+        "verified": true
+      }
+    ]
+  }
+}

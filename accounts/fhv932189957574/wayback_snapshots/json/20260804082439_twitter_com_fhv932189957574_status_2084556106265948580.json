@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084348049904517120"
+      ],
+      "media_source_tweet_id": [
+        "2084348066161733724"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2084556106265948580",
+    "created_at": "2026-08-04T08:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084556106265948580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906552226086268928",
+          "start": 3,
+          "username": "AIslop_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3J7rEm9gHZ",
+          "end": 46,
+          "expanded_url": "https://x.com/AIslop_/status/2084348066161733724/video/1",
+          "media_key": "13_2084348049904517120",
+          "start": 23,
+          "url": "https://t.co/3J7rEm9gHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084556106265948580",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084348066161733724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AIslop_: all clean https://t.co/3J7rEm9gHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10123,
+        "height": 1280,
+        "media_key": "13_2084348049904517120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084348049904517120/img/L0ejMzifi5iLeEUg.jpg",
+        "public_metrics": {
+          "view_count": 20911
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084348049904517120/vid/avc1/320x568/M61KSNngga4l4Y9H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084348049904517120/vid/avc1/480x852/oyWKyEpImH9Fm9SQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084348049904517120/vid/avc1/720x1280/BB26kep10OqU7D3B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084348049904517120/pl/CLyqIq_FZs5tNaWz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084348049904517120"
+          ]
+        },
+        "author_id": "1906552226086268928",
+        "conversation_id": "2084348066161733724",
+        "created_at": "2026-08-03T18:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084348066161733724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J7rEm9gHZ",
+              "end": 33,
+              "expanded_url": "https://x.com/AIslop_/status/2084348066161733724/video/1",
+              "media_key": "13_2084348049904517120",
+              "start": 10,
+              "url": "https://t.co/3J7rEm9gHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084348066161733724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 53698,
+          "like_count": 597,
+          "quote_count": 27,
+          "reply_count": 29,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "all clean https://t.co/3J7rEm9gHZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084348049904517120"
+          ],
+          "media_source_tweet_id": [
+            "2084348066161733724"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2084556106265948580",
+        "created_at": "2026-08-04T08:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084556106265948580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906552226086268928",
+              "start": 3,
+              "username": "AIslop_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J7rEm9gHZ",
+              "end": 46,
+              "expanded_url": "https://x.com/AIslop_/status/2084348066161733724/video/1",
+              "media_key": "13_2084348049904517120",
+              "start": 23,
+              "url": "https://t.co/3J7rEm9gHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084556106265948580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084348066161733724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AIslop_: all clean https://t.co/3J7rEm9gHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14418,
+          "listed_count": 0,
+          "media_count": 1190,
+          "tweet_count": 3405
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T03:40:59.000Z",
+        "description": "$AiSlop CA: 2wzVMXhLypmP92mXNCq4fuFcd9TCC972AbMfuiH3pump",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "AiSlop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aislop.app",
+                "end": 23,
+                "expanded_url": "https://aislop.app/",
+                "start": 0,
+                "url": "https://t.co/1F2Vi45Khg"
+              }
+            ]
+          }
+        },
+        "id": "1906552226086268928",
+        "location": "$aislop",
+        "name": "AI Slop",
+        "pinned_tweet_id": "2014245581817004534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035459393660006400/09h1UgkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129716,
+          "following_count": 8,
+          "like_count": 2296,
+          "listed_count": 268,
+          "media_count": 2587,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/1F2Vi45Khg",
+        "username": "AIslop_",
+        "verified": true
+      }
+    ]
+  }
+}

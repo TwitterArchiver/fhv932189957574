@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2080448287446855802",
+    "created_at": "2026-07-24T10:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080596572845625392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1519096286053650433",
+          "start": 0,
+          "username": "yxriev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080596572845625392",
+    "in_reply_to_user_id": "1519096286053650433",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080448287446855802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxriev 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13900,
+        "height": 1280,
+        "media_key": "13_2080448243750600704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080448243750600704/img/6YdzCRwpCH0Vp-4m.jpg",
+        "public_metrics": {
+          "view_count": 2452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080448243750600704/vid/avc1/320x568/-jmBc7ixzTRoLXLG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080448243750600704/vid/avc1/480x852/mJ80S-ezDl18IpyD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080448243750600704/vid/avc1/720x1280/bONyVnoZamrkO3GZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080448243750600704/pl/9t0tzT_rhuKyPcEI.m3u8?v=d5d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2080448287446855802",
+        "created_at": "2026-07-24T10:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080596572845625392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1519096286053650433",
+              "start": 0,
+              "username": "yxriev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080596572845625392",
+        "in_reply_to_user_id": "1519096286053650433",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080448287446855802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxriev 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080448243750600704"
+          ]
+        },
+        "author_id": "1519096286053650433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2080448287446855802",
+        "created_at": "2026-07-24T00:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080448287446855802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 34,
+              "tag": "honkaistarrail"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "hsrcreators"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bS4tXEUK5b",
+              "end": 86,
+              "expanded_url": "https://x.com/yxriev/status/2080448287446855802/video/1",
+              "media_key": "13_2080448243750600704",
+              "start": 63,
+              "url": "https://t.co/bS4tXEUK5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080448287446855802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 5609,
+          "like_count": 370,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "death touch girlfriend castorice\n\n#honkaistarrail #hsrcreators https://t.co/bS4tXEUK5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 475,
+          "like_count": 12843,
+          "listed_count": 0,
+          "media_count": 1126,
+          "tweet_count": 3177
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-26T23:29:21.000Z",
+        "description": ".𖥔 ݁ serial pyonmaxxer. beware!!!!!!! 𐔌՞. .՞𐦯 \nofficial ak: endfield, nte, silver palace, hoyocreator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yxriev",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yxriev",
+                "start": 0,
+                "url": "https://t.co/8Ho4afMxVi"
+              }
+            ]
+          }
+        },
+        "id": "1519096286053650433",
+        "name": "𐔌՞. .՞𐦯 thorne",
+        "pinned_tweet_id": "2072378817524514907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032559575711289345/S8OFvArU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27419,
+          "following_count": 605,
+          "like_count": 6617,
+          "listed_count": 69,
+          "media_count": 336,
+          "tweet_count": 2635
+        },
+        "url": "https://t.co/8Ho4afMxVi",
+        "username": "yxriev",
+        "verified": true
+      }
+    ]
+  }
+}

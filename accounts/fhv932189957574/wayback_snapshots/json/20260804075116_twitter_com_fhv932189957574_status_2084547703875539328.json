@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084547698385117184"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2084480463025086627",
+    "created_at": "2026-08-04T07:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084547703875539328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874334613403033602",
+          "start": 0,
+          "username": "WKB623Wonderful"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1mrQJSCt6",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2084547703875539328/photo/1",
+          "media_key": "3_2084547698385117184",
+          "start": 17,
+          "url": "https://t.co/A1mrQJSCt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084547703875539328",
+    "in_reply_to_user_id": "1874334613403033602",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084480463025086627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WKB623Wonderful https://t.co/A1mrQJSCt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "3_2084547698385117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3NFleaYAAyqne.jpg",
+        "width": 424
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2084480458088476673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2P7r2bcAEfGry.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084547698385117184"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2084480463025086627",
+        "created_at": "2026-08-04T07:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084547703875539328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874334613403033602",
+              "start": 0,
+              "username": "WKB623Wonderful"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1mrQJSCt6",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2084547703875539328/photo/1",
+              "media_key": "3_2084547698385117184",
+              "start": 17,
+              "url": "https://t.co/A1mrQJSCt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084547703875539328",
+        "in_reply_to_user_id": "1874334613403033602",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084480463025086627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WKB623Wonderful https://t.co/A1mrQJSCt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084480458088476673"
+          ]
+        },
+        "author_id": "1874334613403033602",
+        "conversation_id": "2084480463025086627",
+        "created_at": "2026-08-04T03:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084480463025086627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4qXEd9fgd",
+              "end": 44,
+              "expanded_url": "https://x.com/WKB623Wonderful/status/2084480463025086627/photo/1",
+              "media_key": "3_2084480458088476673",
+              "start": 21,
+              "url": "https://t.co/L4qXEd9fgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084480463025086627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9266,
+          "like_count": 293,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "ここだけ見たら、すごい美少女なのに... https://t.co/L4qXEd9fgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 138,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 115,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14392,
+          "listed_count": 0,
+          "media_count": 1187,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T06:00:23.000Z",
+        "description": "祥（さき）...私、気づいた。オタクは人生だって。 モ「このアカウントは非公式のなりきりアカウントだよ。公式とは全く関係ないからね。ちなみに私は同担も他担も大歓迎だよ」ﾑｯ「推し活...楽しくないって思ったこと...一度もない」",
+        "id": "1874334613403033602",
+        "location": "月ノ森女子学園",
+        "name": "オタクに目覚めた若葉睦",
+        "pinned_tweet_id": "1906552565464174632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008587907481907200/qvMO2J1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 784,
+          "like_count": 23273,
+          "listed_count": 4,
+          "media_count": 6100,
+          "tweet_count": 11688
+        },
+        "url": "",
+        "username": "WKB623Wonderful",
+        "verified": false
+      }
+    ]
+  }
+}

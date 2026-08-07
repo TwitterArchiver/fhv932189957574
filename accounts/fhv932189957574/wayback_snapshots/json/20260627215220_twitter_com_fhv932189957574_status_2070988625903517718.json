@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070988620341911552"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2070753073501450646",
+    "created_at": "2026-06-27T21:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T22:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070988625903517718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3188575777",
+          "start": 0,
+          "username": "LIGHTSEEKER1984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NgFsf0nZZX",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2070988625903517718/photo/1",
+          "media_key": "3_2070988620341911552",
+          "start": 17,
+          "url": "https://t.co/NgFsf0nZZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070988625903517718",
+    "in_reply_to_user_id": "3188575777",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070753073501450646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIGHTSEEKER1984 https://t.co/NgFsf0nZZX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2070988620341911552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2hLXlbIAAmcwk.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1809,
+        "media_key": "3_2070753030904143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzK6Qia4AAU8ga.jpg",
+        "width": 874
+      },
+      {
+        "height": 2309,
+        "media_key": "3_2070753031889821696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzK6UNbIAAlULy.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070988620341911552"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2070753073501450646",
+        "created_at": "2026-06-27T21:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070988625903517718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3188575777",
+              "start": 0,
+              "username": "LIGHTSEEKER1984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgFsf0nZZX",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070988625903517718/photo/1",
+              "media_key": "3_2070988620341911552",
+              "start": 17,
+              "url": "https://t.co/NgFsf0nZZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070988625903517718",
+        "in_reply_to_user_id": "3188575777",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070753073501450646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIGHTSEEKER1984 https://t.co/NgFsf0nZZX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070753030904143872",
+            "3_2070753031889821696"
+          ]
+        },
+        "author_id": "3188575777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2070753073501450646",
+        "created_at": "2026-06-27T06:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070753073501450646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YB5v9HATnq",
+              "end": 144,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/2070753073501450646/photo/1",
+              "media_key": "3_2070753030904143872",
+              "start": 121,
+              "url": "https://t.co/YB5v9HATnq"
+            },
+            {
+              "display_url": "pic.x.com/YB5v9HATnq",
+              "end": 144,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/2070753073501450646/photo/1",
+              "media_key": "3_2070753031889821696",
+              "start": 121,
+              "url": "https://t.co/YB5v9HATnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070753073501450646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 34042,
+          "like_count": 371,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "恋与深空的coser见面会，还有日本爱豆的线下签售会，一群肥头大耳的波刚和猪刚鬣，按f1，坦克出击\n不敢想象夏天得有多臭，在这群巨物旁边，真的很有压力\n就这样一群歪瓜裂枣，却整天哄抬逼价，自我感觉良好，觉得男人配不上她们😅\n普信女真是闹麻了 https://t.co/YB5v9HATnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 291,
+          "like_count": 8542,
+          "listed_count": 0,
+          "media_count": 824,
+          "tweet_count": 2136
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-08T08:40:10.000Z",
+        "description": "Man lives matter#\nPsychoanalysis#\nStrategic Analysis#\n为男性自由和权益发声",
+        "id": "3188575777",
+        "location": "Sydney, New South Wales",
+        "name": "The Gulag Bot",
+        "pinned_tweet_id": "1865223958758592677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856377797968834564/o3wfa5ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13065,
+          "following_count": 3295,
+          "like_count": 38249,
+          "listed_count": 51,
+          "media_count": 10112,
+          "tweet_count": 51373
+        },
+        "url": "",
+        "username": "LIGHTSEEKER1984",
+        "verified": true
+      }
+    ]
+  }
+}

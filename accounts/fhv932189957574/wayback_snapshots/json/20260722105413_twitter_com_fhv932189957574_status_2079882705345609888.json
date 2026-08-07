@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2079823523401630035",
+    "created_at": "2026-07-22T10:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079882705345609888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure8964a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079882705345609888",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079823523401630035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure8964a 禁止吃肉是何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2079823523401630035",
+        "created_at": "2026-07-22T10:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079882705345609888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure8964a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079882705345609888",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079823523401630035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure8964a 禁止吃肉是何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2079823522239795200"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2079823523401630035",
+        "created_at": "2026-07-22T06:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079823523401630035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079823523401630035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1199,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "事实上动物保护有很多选项可供选择，不只是虐待有理和禁止吃肉两个选择。你们对这件事有什么看法？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜尽情欢笑｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 143,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 120,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 471,
+          "like_count": 12515,
+          "listed_count": 0,
+          "media_count": 1099,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt\n\n给劳保：自由意志与民主是社会主义不可缺少的成分，没有民主工人阶级就无法真正掌握劳动条件，而社会主义的目标是保障人的自由发展，因此lgbt的解放是全人类解放的一环。",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2079755586900762663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079851045505863680/ya2pGI-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 681,
+          "like_count": 7354,
+          "listed_count": 8,
+          "media_count": 632,
+          "tweet_count": 8397
+        },
+        "url": "",
+        "username": "shigure8964a",
+        "verified": false
+      }
+    ]
+  }
+}

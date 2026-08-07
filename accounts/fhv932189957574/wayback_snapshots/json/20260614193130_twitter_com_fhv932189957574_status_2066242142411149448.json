@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066242136283246592"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2066236552716640329",
+    "created_at": "2026-06-14T19:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066242142411149448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        },
+        {
+          "end": 27,
+          "id": "2053892249851998208",
+          "start": 16,
+          "username": "iiq1427276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0j02e0m5da",
+          "end": 54,
+          "expanded_url": "https://x.com/fhv932189957574/status/2066242142411149448/photo/1",
+          "media_key": "3_2066242136283246592",
+          "start": 31,
+          "url": "https://t.co/0j02e0m5da"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066242142411149448",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066236552716640329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan @iiq1427276 我去 https://t.co/0j02e0m5da"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 235,
+        "media_key": "3_2066242136283246592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzERokbcAAgpfM.jpg",
+        "width": 431
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066236547511500800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy_MUxaQAA-NxJ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066242136283246592"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2066236552716640329",
+        "created_at": "2026-06-14T19:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066242142411149448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            },
+            {
+              "end": 27,
+              "id": "2053892249851998208",
+              "start": 16,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0j02e0m5da",
+              "end": 54,
+              "expanded_url": "https://x.com/fhv932189957574/status/2066242142411149448/photo/1",
+              "media_key": "3_2066242136283246592",
+              "start": 31,
+              "url": "https://t.co/0j02e0m5da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066242142411149448",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066236552716640329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan @iiq1427276 我去 https://t.co/0j02e0m5da"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066236547511500800"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066236552716640329",
+        "created_at": "2026-06-14T19:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066236552716640329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053892249851998208",
+              "start": 7,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5z5KGA1uR",
+              "end": 42,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2066236552716640329/photo/1",
+              "media_key": "3_2066236547511500800",
+              "start": 19,
+              "url": "https://t.co/N5z5KGA1uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066236552716640329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但愿余生皆是你@iiq1427276 https://t.co/N5z5KGA1uR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜我草了真恐怖丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 175,
+          "like_count": 6481,
+          "listed_count": 1,
+          "media_count": 541,
+          "tweet_count": 1558
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，有对象，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2065348984466813399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 209,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 586
+        },
+        "username": "Texiuszhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "hi可以叫我夏美💟08|infp|双相|ADHD|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|我推 水上由岐 曾根美雪 祢豆子|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 135,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 112,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "name": "众生蒙太奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 95,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 457
+        },
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}
