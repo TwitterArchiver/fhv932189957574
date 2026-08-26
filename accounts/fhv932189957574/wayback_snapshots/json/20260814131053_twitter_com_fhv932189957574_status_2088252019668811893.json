@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087883639971573760"
+      ],
+      "media_source_tweet_id": [
+        "2087883866661122559"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088252019668811893",
+    "created_at": "2026-08-14T13:10:53.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088252019668811893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066032587383144448",
+          "start": 3,
+          "username": "ototusn0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NlPyagSNxh",
+          "end": 58,
+          "expanded_url": "https://x.com/ototusn0/status/2087883866661122559/video/1",
+          "media_key": "13_2087883639971573760",
+          "start": 35,
+          "url": "https://t.co/NlPyagSNxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088252019668811893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087883639971573760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087883866661122559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ototusn0: 美国人，日本人，中国人，三个人走在沙漠中 https://t.co/NlPyagSNxh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161657,
+        "height": 718,
+        "media_key": "13_2087883639971573760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087883639971573760/img/oemAxnpz_oMTm9Uc.jpg",
+        "public_metrics": {
+          "view_count": 58296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087883639971573760/vid/avc1/480x270/6BKCk1R-Y4Kr7RKC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087883639971573760/vid/avc1/640x360/Rx4olRtNHrPgNUee.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087883639971573760/vid/avc1/1280x718/1VQ6oL4WvVWVE1Jb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087883639971573760/pl/2_bLhmGD8aTXHr0g.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087883639971573760"
+          ]
+        },
+        "author_id": "2066032587383144448",
+        "conversation_id": "2087883866661122559",
+        "created_at": "2026-08-13T12:47:59.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087883866661122559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlPyagSNxh",
+              "end": 44,
+              "expanded_url": "https://x.com/ototusn0/status/2087883866661122559/video/1",
+              "media_key": "13_2087883639971573760",
+              "start": 21,
+              "url": "https://t.co/NlPyagSNxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087883866661122559",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087883639971573760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 101530,
+          "like_count": 1186,
+          "quote_count": 5,
+          "reply_count": 97,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "美国人，日本人，中国人，三个人走在沙漠中 https://t.co/NlPyagSNxh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087883639971573760"
+          ],
+          "media_source_tweet_id": [
+            "2087883866661122559"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088252019668811893",
+        "created_at": "2026-08-14T13:10:53.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088252019668811893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066032587383144448",
+              "start": 3,
+              "username": "ototusn0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlPyagSNxh",
+              "end": 58,
+              "expanded_url": "https://x.com/ototusn0/status/2087883866661122559/video/1",
+              "media_key": "13_2087883639971573760",
+              "start": 35,
+              "url": "https://t.co/NlPyagSNxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088252019668811893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087883639971573760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087883866661122559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ototusn0: 美国人，日本人，中国人，三个人走在沙漠中 https://t.co/NlPyagSNxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2088252019668811893",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 482,
+          "like_count": 15731,
+          "listed_count": 0,
+          "media_count": 1233,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T05:41:32.000Z",
+        "description": "亲自指挥，亲自部署😡😡😡😡\n（小号：@ej1flsxiJP）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "ej1flsxiJP"
+              }
+            ]
+          }
+        },
+        "id": "2066032587383144448",
+        "is_identity_verified": false,
+        "location": "京城十八大院",
+        "most_recent_tweet_id": "2088209841005396153",
+        "name": "小习没烦恼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066032587383144448/1784165466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082629137504825344/h1nlsoJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 345,
+          "like_count": 1773,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "ototusn0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

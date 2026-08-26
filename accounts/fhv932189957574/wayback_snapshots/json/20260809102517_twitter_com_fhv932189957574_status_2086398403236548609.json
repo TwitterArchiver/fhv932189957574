@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086353455799742679",
+    "created_at": "2026-08-09T10:25:17.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086398403236548609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046283772455485440",
+          "start": 0,
+          "username": "AubreyCamilleuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bigjusir/statu…",
+          "end": 40,
+          "expanded_url": "https://x.com/bigjusir/status/2086278794416144724?s=20",
+          "start": 17,
+          "url": "https://t.co/RwHxJvuldY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086398403236548609",
+    "in_reply_to_user_id": "2046283772455485440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086278794416144724",
+        "type": "quoted"
+      },
+      {
+        "id": "2086353455799742679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AubreyCamilleuu https://t.co/RwHxJvuldY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29689,
+        "height": 1920,
+        "media_key": "13_2086250269210292224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086250269210292224/img/1oCpfoMnH_emLWn-.jpg",
+        "public_metrics": {
+          "view_count": 258
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086250269210292224/vid/avc1/480x852/PoaKBfZq9Tf0gb6o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086250269210292224/vid/avc1/720x1280/HlIMTGciFlIWAvo0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086250269210292224/vid/avc1/1080x1920/PuXn6kYwPccMTvQg.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086250269210292224/vid/avc1/320x568/s8Gsho6V7ILC9EpT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086250269210292224/pl/0AQlwImhyqEtAWBF.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1986,
+        "media_key": "3_2086353449768394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQ3aJlbIAAACdL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086353455799742679",
+        "created_at": "2026-08-09T10:25:17.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086398403236548609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bigjusir/statu…",
+              "end": 40,
+              "expanded_url": "https://x.com/bigjusir/status/2086278794416144724?s=20",
+              "start": 17,
+              "url": "https://t.co/RwHxJvuldY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086398403236548609",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086278794416144724",
+            "type": "quoted"
+          },
+          {
+            "id": "2086353455799742679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu https://t.co/RwHxJvuldY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086250269210292224"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2086278794416144724",
+        "created_at": "2026-08-09T02:30:00.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086278794416144724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Realhoshinofuj…",
+              "end": 69,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2086183585267212673?s=20",
+              "start": 46,
+              "url": "https://t.co/t11Dyg3Zwv"
+            },
+            {
+              "display_url": "pic.x.com/9HpAMQ6pOl",
+              "end": 93,
+              "expanded_url": "https://x.com/bigjusir/status/2086278794416144724/video/1",
+              "media_key": "13_2086250269210292224",
+              "start": 70,
+              "url": "https://t.co/9HpAMQ6pOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086278794416144724",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086250269210292224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086183585267212673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那根本不是善良，因为善良是给不会随便伤害到你的人。\n\n自贱者人弃的道理，你还是好好想想吧。\nhttps://t.co/t11Dyg3Zwv https://t.co/9HpAMQ6pOl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086353449768394752"
+          ]
+        },
+        "author_id": "2046283772455485440",
+        "conversation_id": "2086353455799742679",
+        "created_at": "2026-08-09T07:26:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086353455799742679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fu6xrTchDv",
+              "end": 23,
+              "expanded_url": "https://x.com/AubreyCamilleuu/status/2086353455799742679/photo/1",
+              "media_key": "3_2086353449768394752",
+              "start": 0,
+              "url": "https://t.co/Fu6xrTchDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086353455799742679",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086353449768394752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fu6xrTchDv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086398403236548609",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 478,
+          "like_count": 15102,
+          "listed_count": 0,
+          "media_count": 1212,
+          "tweet_count": 3532
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "跨女宝宝们请跟我玩。",
+        "id": "2046283772455485440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086353455799742679",
+        "name": "沅子🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046283772455485440/1778978420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 192,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2086398359707791642",
+        "name": "jusir",
+        "pinned_tweet_id": "2082312956562583682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 2863,
+          "like_count": 7561,
+          "listed_count": 11,
+          "media_count": 870,
+          "tweet_count": 3801
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

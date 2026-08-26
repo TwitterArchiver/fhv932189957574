@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086793697623236730",
+    "created_at": "2026-08-10T12:36:02.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086793697623236730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2086759209023189503",
+          "start": 26,
+          "url": "https://t.co/pMFEy6VdoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086793697623236730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086759209023189503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这伊蕾娜怎么这么好看😋，不过记得伊蕾娜是少女来着🤔 https://t.co/pMFEy6VdoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2086750164103188480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWgN9pb0AA72Hh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086793697623236730",
+        "created_at": "2026-08-10T12:36:02.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086793697623236730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2086759209023189503",
+              "start": 26,
+              "url": "https://t.co/pMFEy6VdoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086793697623236730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086759209023189503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这伊蕾娜怎么这么好看😋，不过记得伊蕾娜是少女来着🤔 https://t.co/pMFEy6VdoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086750164103188480"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086759209023189503",
+        "created_at": "2026-08-10T10:19:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086759209023189503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdgmFuLjy1",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2086759209023189503/photo/1",
+              "media_key": "3_2086750164103188480",
+              "start": 17,
+              "url": "https://t.co/pdgmFuLjy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086759209023189503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086750164103188480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2686,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "岳父：看来年轻人需要加大电量了😡 https://t.co/pdgmFuLjy1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086793697623236730",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 480,
+          "like_count": 15269,
+          "listed_count": 0,
+          "media_count": 1223,
+          "tweet_count": 3584
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086791257859494254",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14819,
+          "following_count": 880,
+          "like_count": 33100,
+          "listed_count": 25,
+          "media_count": 2555,
+          "tweet_count": 11937
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

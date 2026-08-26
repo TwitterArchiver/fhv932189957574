@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090083175271940096"
+      ],
+      "media_source_tweet_id": [
+        "2090083182431572362"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090104412639527071",
+    "created_at": "2026-08-19T15:51:38.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090104412639527071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050966735453564928",
+          "start": 3,
+          "username": "Vindicatorn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ItDtJfqjnM",
+          "end": 43,
+          "expanded_url": "https://x.com/Vindicatorn/status/2090083182431572362/photo/1",
+          "media_key": "3_2090083175271940096",
+          "start": 20,
+          "url": "https://t.co/ItDtJfqjnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090104412639527071",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090083175271940096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090083182431572362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vindicatorn: 😰😰 https://t.co/ItDtJfqjnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2090083175271940096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF3kv0awAAfCV6.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090083175271940096"
+          ],
+          "media_source_tweet_id": [
+            "2090083182431572362"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090104412639527071",
+        "created_at": "2026-08-19T15:51:38.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090104412639527071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050966735453564928",
+              "start": 3,
+              "username": "Vindicatorn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItDtJfqjnM",
+              "end": 43,
+              "expanded_url": "https://x.com/Vindicatorn/status/2090083182431572362/photo/1",
+              "media_key": "3_2090083175271940096",
+              "start": 20,
+              "url": "https://t.co/ItDtJfqjnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090104412639527071",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090083175271940096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090083182431572362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vindicatorn: 😰😰 https://t.co/ItDtJfqjnM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090083175271940096"
+          ]
+        },
+        "author_id": "2050966735453564928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090083182431572362",
+        "created_at": "2026-08-19T14:27:17.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090083182431572362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItDtJfqjnM",
+              "end": 26,
+              "expanded_url": "https://x.com/Vindicatorn/status/2090083182431572362/photo/1",
+              "media_key": "3_2090083175271940096",
+              "start": 3,
+              "url": "https://t.co/ItDtJfqjnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090083182431572362",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090083175271940096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1406,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😰😰 https://t.co/ItDtJfqjnM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2090104412639527071",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 473,
+          "like_count": 16197,
+          "listed_count": 0,
+          "media_count": 1246,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T15:53:20.000Z",
+        "description": "我跟你好",
+        "id": "2050966735453564928",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2090098701419327739",
+        "name": "Vindicator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050966735453564928/1785560366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150003230015488/gIlQD9j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 2735,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "Vindicatorn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

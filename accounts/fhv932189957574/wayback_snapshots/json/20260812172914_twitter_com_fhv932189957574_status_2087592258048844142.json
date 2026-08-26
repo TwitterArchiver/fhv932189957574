@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087509000686555136",
+        "3_2087509000682393600",
+        "3_2087509000669794304"
+      ],
+      "media_source_tweet_id": [
+        "2087509010157346965",
+        "2087509010157346965",
+        "2087509010157346965"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087592258048844142",
+    "created_at": "2026-08-12T17:29:14.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087592258048844142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1885969073386954752",
+          "start": 3,
+          "username": "JisshaNoTakosen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zR2Trjjf3P",
+          "end": 77,
+          "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+          "media_key": "3_2087509000686555136",
+          "start": 54,
+          "url": "https://t.co/zR2Trjjf3P"
+        },
+        {
+          "display_url": "pic.x.com/zR2Trjjf3P",
+          "end": 77,
+          "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+          "media_key": "3_2087509000682393600",
+          "start": 54,
+          "url": "https://t.co/zR2Trjjf3P"
+        },
+        {
+          "display_url": "pic.x.com/zR2Trjjf3P",
+          "end": 77,
+          "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+          "media_key": "3_2087509000669794304",
+          "start": 54,
+          "url": "https://t.co/zR2Trjjf3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087592258048844142",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087509000686555136"
+      },
+      {
+        "media_key": "3_2087509000682393600"
+      },
+      {
+        "media_key": "3_2087509000669794304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087509010157346965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JisshaNoTakosen: 30MPの虹夏ちゃんを作りました\n\n虹夏ちゃんはかわいいね💪💪💪 https://t.co/zR2Trjjf3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2087509000686555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSYENaUAAq3tH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087509000682393600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSYEMa0AAmjNb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2087509000669794304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSYEJakAARRXe.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087509000686555136",
+            "3_2087509000682393600",
+            "3_2087509000669794304"
+          ]
+        },
+        "author_id": "1885969073386954752",
+        "conversation_id": "2087509010157346965",
+        "created_at": "2026-08-12T11:58:26.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087509010157346965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 56,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000686555136",
+              "start": 33,
+              "url": "https://t.co/zR2Trjjf3P"
+            },
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 56,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000682393600",
+              "start": 33,
+              "url": "https://t.co/zR2Trjjf3P"
+            },
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 56,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000669794304",
+              "start": 33,
+              "url": "https://t.co/zR2Trjjf3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087509010157346965",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087509000686555136"
+          },
+          {
+            "media_key": "3_2087509000682393600"
+          },
+          {
+            "media_key": "3_2087509000669794304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 63001,
+          "like_count": 1349,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "30MPの虹夏ちゃんを作りました\n\n虹夏ちゃんはかわいいね💪💪💪 https://t.co/zR2Trjjf3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087509000686555136",
+            "3_2087509000682393600",
+            "3_2087509000669794304"
+          ],
+          "media_source_tweet_id": [
+            "2087509010157346965",
+            "2087509010157346965",
+            "2087509010157346965"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087592258048844142",
+        "created_at": "2026-08-12T17:29:14.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087592258048844142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1885969073386954752",
+              "start": 3,
+              "username": "JisshaNoTakosen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 77,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000686555136",
+              "start": 54,
+              "url": "https://t.co/zR2Trjjf3P"
+            },
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 77,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000682393600",
+              "start": 54,
+              "url": "https://t.co/zR2Trjjf3P"
+            },
+            {
+              "display_url": "pic.x.com/zR2Trjjf3P",
+              "end": 77,
+              "expanded_url": "https://x.com/JisshaNoTakosen/status/2087509010157346965/photo/1",
+              "media_key": "3_2087509000669794304",
+              "start": 54,
+              "url": "https://t.co/zR2Trjjf3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087592258048844142",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087509000686555136"
+          },
+          {
+            "media_key": "3_2087509000682393600"
+          },
+          {
+            "media_key": "3_2087509000669794304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087509010157346965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JisshaNoTakosen: 30MPの虹夏ちゃんを作りました\n\n虹夏ちゃんはかわいいね💪💪💪 https://t.co/zR2Trjjf3P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087592258048844142",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 481,
+          "like_count": 15621,
+          "listed_count": 0,
+          "media_count": 1231,
+          "tweet_count": 3647
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T08:35:03.000Z",
+        "description": "#ぼっち・ざ・ろっく 用アカウント、雑ならくがきとかしてます、たまに模型、キタニタツヤもたしなみます。お気軽に絡んでいただけるとありがたいです😌 正体→ @A4Zvyhmb5XXBAAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "ぼっち・ざ・ろっく"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "A4Zvyhmb5XXBAAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/118981110",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/118981110",
+                "start": 0,
+                "url": "https://t.co/YszYIim592"
+              }
+            ]
+          }
+        },
+        "id": "1885969073386954752",
+        "is_identity_verified": false,
+        "location": "江ノ島からは遠く離れた地で…",
+        "most_recent_tweet_id": "2087525419641983387",
+        "name": "実写のたこせんべい",
+        "pinned_tweet_id": "2039293575717097546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885969073386954752/1775880159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039292315479801856/Qg_8tfsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 199,
+          "like_count": 15841,
+          "listed_count": 1,
+          "media_count": 1718,
+          "tweet_count": 7697
+        },
+        "url": "https://t.co/YszYIim592",
+        "username": "JisshaNoTakosen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

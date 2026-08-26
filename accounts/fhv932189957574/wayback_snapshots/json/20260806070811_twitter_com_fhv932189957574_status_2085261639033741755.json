@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085067271366737921"
+      ],
+      "media_source_tweet_id": [
+        "2085200689790161313"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2085261639033741755",
+    "created_at": "2026-08-06T07:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085261639033741755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zkwMOpOfHq",
+          "end": 49,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2085200689790161313/video/1",
+          "media_key": "13_2085067271366737921",
+          "start": 26,
+          "url": "https://t.co/zkwMOpOfHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085261639033741755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085200689790161313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 好肥美的视频 https://t.co/zkwMOpOfHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15162,
+        "height": 956,
+        "media_key": "13_2085067271366737921",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085067271366737921/img/P1n6SP6PKhRn58_G.jpg",
+        "public_metrics": {
+          "view_count": 406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085067271366737921/vid/avc1/320x424/bIJxa42xgqclaMlT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085067271366737921/vid/avc1/480x636/0oZ2Gde8dEL9TWAz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085067271366737921/vid/avc1/720x956/xptDoR4GujkzwX3v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085067271366737921/pl/XFBdTd5SyZ8Whxk7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085067271366737921"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2085200689790161313",
+        "created_at": "2026-08-06T03:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085200689790161313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkwMOpOfHq",
+              "end": 30,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2085200689790161313/video/1",
+              "media_key": "13_2085067271366737921",
+              "start": 7,
+              "url": "https://t.co/zkwMOpOfHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085200689790161313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1101,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好肥美的视频 https://t.co/zkwMOpOfHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085067271366737921"
+          ],
+          "media_source_tweet_id": [
+            "2085200689790161313"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2085261639033741755",
+        "created_at": "2026-08-06T07:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085261639033741755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkwMOpOfHq",
+              "end": 49,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2085200689790161313/video/1",
+              "media_key": "13_2085067271366737921",
+              "start": 26,
+              "url": "https://t.co/zkwMOpOfHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085261639033741755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085200689790161313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 好肥美的视频 https://t.co/zkwMOpOfHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 483,
+          "like_count": 14729,
+          "listed_count": 0,
+          "media_count": 1194,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14242,
+          "following_count": 1843,
+          "like_count": 26707,
+          "listed_count": 17,
+          "media_count": 5950,
+          "tweet_count": 29813
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

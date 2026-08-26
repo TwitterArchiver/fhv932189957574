@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2090853596703412292",
+    "created_at": "2026-08-21T17:28:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090853596703412292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1456122926432862223",
+          "start": 3,
+          "username": "giantcutie666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090853596703412292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090802198003200439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giantcutie666: 武大又出了一个杰出女校友，博士毕业入职腾讯据说年包有300W\n\n最近被爆出来原来是学术妲己，平时干的活也都是交给力工男友\n\n现在出轨小奶狗被发现，吞安眠药闹自杀😅\n\n建议腾讯可以直接把她的力工男友招过来，再搭配一个颜值高的小助理，绝对像奶牛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_2090802170404749312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQFfxaXQAA-d8v.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2255,
+        "media_key": "3_2090802181100191744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQFgZQWwAAnm5F.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2260,
+        "media_key": "3_2090802188473778176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQFg0uWwAAg6AA.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2288,
+        "media_key": "3_2090802193435602944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQFhHNWMAAnq3h.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2090853596703412292",
+        "created_at": "2026-08-21T17:28:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090853596703412292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1456122926432862223",
+              "start": 3,
+              "username": "giantcutie666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090853596703412292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090802198003200439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giantcutie666: 武大又出了一个杰出女校友，博士毕业入职腾讯据说年包有300W\n\n最近被爆出来原来是学术妲己，平时干的活也都是交给力工男友\n\n现在出轨小奶狗被发现，吞安眠药闹自杀😅\n\n建议腾讯可以直接把她的力工男友招过来，再搭配一个颜值高的小助理，绝对像奶牛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090802170404749312",
+            "3_2090802181100191744",
+            "3_2090802188473778176",
+            "3_2090802193435602944"
+          ]
+        },
+        "author_id": "1456122926432862223",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2090802198003200439",
+        "created_at": "2026-08-21T14:04:23.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090802198003200439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5HsVrhTYPO",
+              "end": 152,
+              "expanded_url": "https://x.com/giantcutie666/status/2090802198003200439/photo/1",
+              "media_key": "3_2090802170404749312",
+              "start": 129,
+              "url": "https://t.co/5HsVrhTYPO"
+            },
+            {
+              "display_url": "pic.x.com/5HsVrhTYPO",
+              "end": 152,
+              "expanded_url": "https://x.com/giantcutie666/status/2090802198003200439/photo/1",
+              "media_key": "3_2090802181100191744",
+              "start": 129,
+              "url": "https://t.co/5HsVrhTYPO"
+            },
+            {
+              "display_url": "pic.x.com/5HsVrhTYPO",
+              "end": 152,
+              "expanded_url": "https://x.com/giantcutie666/status/2090802198003200439/photo/1",
+              "media_key": "3_2090802188473778176",
+              "start": 129,
+              "url": "https://t.co/5HsVrhTYPO"
+            },
+            {
+              "display_url": "pic.x.com/5HsVrhTYPO",
+              "end": 152,
+              "expanded_url": "https://x.com/giantcutie666/status/2090802198003200439/photo/1",
+              "media_key": "3_2090802193435602944",
+              "start": 129,
+              "url": "https://t.co/5HsVrhTYPO"
+            },
+            {
+              "display_url": "x.com/giantcutie666/…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/giantcutie666/status/2053818520882810957",
+              "start": 153,
+              "url": "https://t.co/TWz66LE2Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090802198003200439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090802170404749312"
+          },
+          {
+            "media_key": "3_2090802181100191744"
+          },
+          {
+            "media_key": "3_2090802188473778176"
+          },
+          {
+            "media_key": "3_2090802193435602944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 273690,
+          "like_count": 703,
+          "quote_count": 5,
+          "reply_count": 242,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053818520882810957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "武大又出了一个杰出女校友，博士毕业入职腾讯据说年包有300W\n\n最近被爆出来原来是学术妲己，平时干的活也都是交给力工男友\n\n现在出轨小奶狗被发现，吞安眠药闹自杀😅\n\n建议腾讯可以直接把她的力工男友招过来，再搭配一个颜值高的小助理，绝对像奶牛一样的疯狂输出😁 https://t.co/5HsVrhTYPO https://t.co/TWz66LE2Dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2090853596703412292",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 473,
+          "like_count": 16529,
+          "listed_count": 0,
+          "media_count": 1255,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-04T04:55:47.000Z",
+        "description": "CLabs 创始人|历经两轮牛熊| TG群：https://t.co/MWphcCTLCk，视频号搜索“漂亮财经”，商务合作：https://t.co/pSuhrQgmkj ，交易账号：@giantcutie777 土狗交易：@GiantCutie888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "giantcutie777"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "GiantCutie888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/giantcutie6688",
+                "end": 45,
+                "expanded_url": "https://t.me/giantcutie6688",
+                "start": 22,
+                "url": "https://t.co/MWphcCTLCk"
+              },
+              {
+                "display_url": "t.me/clabskoala1900",
+                "end": 86,
+                "expanded_url": "https://t.me/clabskoala1900",
+                "start": 63,
+                "url": "https://t.co/pSuhrQgmkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GiantCutie-CH",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@GiantCutie-CH",
+                "start": 0,
+                "url": "https://t.co/WCLhfZDD0e"
+              }
+            ]
+          }
+        },
+        "id": "1456122926432862223",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090813670074753480",
+        "name": "大漂亮| C Labs",
+        "pinned_tweet_id": "1716448495811674381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456122926432862223/1696657363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550390972714029056/gf_BBRIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136204,
+          "following_count": 1473,
+          "like_count": 14770,
+          "listed_count": 998,
+          "media_count": 3124,
+          "tweet_count": 16557
+        },
+        "url": "https://t.co/WCLhfZDD0e",
+        "username": "giantcutie666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

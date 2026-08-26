@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086224026909749248"
+      ],
+      "media_source_tweet_id": [
+        "2086224029879324918"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086420441330323881",
+    "created_at": "2026-08-09T11:52:51.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086420441330323881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4241238254",
+          "start": 3,
+          "username": "4rch1er"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWGJvxoDwg",
+          "end": 36,
+          "expanded_url": "https://x.com/4rch1er/status/2086224029879324918/photo/1",
+          "media_key": "3_2086224026909749248",
+          "start": 13,
+          "url": "https://t.co/nWGJvxoDwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086420441330323881",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "alt_text": "Firefly | ホタル\nHonkai: Star Rail | 崩壊：スターレイル",
+        "media_key": "3_2086224026909749248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086224029879324918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4rch1er: https://t.co/nWGJvxoDwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Firefly | ホタル\nHonkai: Star Rail | 崩壊：スターレイル",
+        "height": 720,
+        "media_key": "3_2086224026909749248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPBsv3XMAADrjG.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086224026909749248"
+          ]
+        },
+        "author_id": "4241238254",
+        "conversation_id": "2086224029879324918",
+        "created_at": "2026-08-08T22:52:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T23:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086224029879324918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWGJvxoDwg",
+              "end": 23,
+              "expanded_url": "https://x.com/4rch1er/status/2086224029879324918/photo/1",
+              "media_key": "3_2086224026909749248",
+              "start": 0,
+              "url": "https://t.co/nWGJvxoDwg"
+            },
+            {
+              "display_url": "x.com/popcomes/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/popcomes/status/2086075541782983018",
+              "start": 24,
+              "url": "https://t.co/wA7Z050iyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086224029879324918",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Firefly | ホタル\nHonkai: Star Rail | 崩壊：スターレイル",
+            "media_key": "3_2086224026909749248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3503,
+          "like_count": 415,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086075541782983018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nWGJvxoDwg https://t.co/wA7Z050iyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086224026909749248"
+          ],
+          "media_source_tweet_id": [
+            "2086224029879324918"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086420441330323881",
+        "created_at": "2026-08-09T11:52:51.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086420441330323881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4241238254",
+              "start": 3,
+              "username": "4rch1er"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWGJvxoDwg",
+              "end": 36,
+              "expanded_url": "https://x.com/4rch1er/status/2086224029879324918/photo/1",
+              "media_key": "3_2086224026909749248",
+              "start": 13,
+              "url": "https://t.co/nWGJvxoDwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086420441330323881",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Firefly | ホタル\nHonkai: Star Rail | 崩壊：スターレイル",
+            "media_key": "3_2086224026909749248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086224029879324918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4rch1er: https://t.co/nWGJvxoDwg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086420441330323881",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 478,
+          "like_count": 15116,
+          "listed_count": 0,
+          "media_count": 1216,
+          "tweet_count": 3538
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-15T03:11:55.000Z",
+        "description": "Firefly/ホタル/流螢 lover\nGacha-focused page\nEN / 日本語 🆗\n穹×女性キャラ固定 (NL)\nFreely blocking low IQ people",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "archier.straw.page",
+                "end": 23,
+                "expanded_url": "https://archier.straw.page",
+                "start": 0,
+                "url": "https://t.co/xnEgZ0zz4Q"
+              }
+            ]
+          }
+        },
+        "id": "4241238254",
+        "is_identity_verified": false,
+        "location": "Planarcadia",
+        "most_recent_tweet_id": "2086400148762951850",
+        "name": "Archie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4241238254/1764925192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074415622159527936/u0gx8IHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6345,
+          "following_count": 664,
+          "like_count": 144427,
+          "listed_count": 15,
+          "media_count": 2312,
+          "tweet_count": 12572
+        },
+        "url": "https://t.co/xnEgZ0zz4Q",
+        "username": "4rch1er",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

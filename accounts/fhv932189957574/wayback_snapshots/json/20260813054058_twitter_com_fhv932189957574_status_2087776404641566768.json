@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2081233113615626240"
+      ],
+      "media_source_tweet_id": [
+        "2081233132141916442"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087776404641566768",
+    "created_at": "2026-08-13T05:40:58.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087776404641566768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "862102947626405889",
+          "start": 3,
+          "username": "costelinhaMe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjvluflyCx",
+          "end": 64,
+          "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+          "media_key": "16_2081233113615626240",
+          "start": 41,
+          "url": "https://t.co/wjvluflyCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087776404641566768",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "16_2081233113615626240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087575842024989154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @costelinhaMe: Queria ser um gato pão https://t.co/wjvluflyCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2081233113615626240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOIGfW_W8AAa7KE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOIGfW_W8AAa7KE.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ]
+        },
+        "author_id": "412997648",
+        "conversation_id": "2081233132141916442",
+        "created_at": "2026-07-26T04:20:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081233132141916442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vyiwEFNIu",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 0,
+              "url": "https://t.co/4vyiwEFNIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081233132141916442",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2081233113615626240"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "source_link": "https://x.com/hardestgifs/status/2081233132141916442?s=20",
+            "suggestion": "The gif attached appears to be AI Generated. The post has already amassed 100K+ likes, with at least two other users requesting a community note due to how much traction the gif is getting.",
+            "suggestion_id": "2081472702553137253"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18195,
+          "impression_count": 5836827,
+          "like_count": 171350,
+          "quote_count": 1589,
+          "reply_count": 674,
+          "retweet_count": 28454
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links_with_counts": [
+          {
+            "count": "2",
+            "url": "https://x.com/hardestgifs/status/2081233132141916442"
+          }
+        ],
+        "text": "https://t.co/4vyiwEFNIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ],
+          "media_source_tweet_id": [
+            "2081233132141916442"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087776404641566768",
+        "created_at": "2026-08-13T05:40:58.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087776404641566768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862102947626405889",
+              "start": 3,
+              "username": "costelinhaMe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjvluflyCx",
+              "end": 64,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 41,
+              "url": "https://t.co/wjvluflyCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087776404641566768",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "16_2081233113615626240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087575842024989154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @costelinhaMe: Queria ser um gato pão https://t.co/wjvluflyCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ],
+          "media_source_tweet_id": [
+            "2081233132141916442"
+          ]
+        },
+        "author_id": "862102947626405889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087575842024989154",
+        "created_at": "2026-08-12T16:24:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087575842024989154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjvluflyCx",
+              "end": 46,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 23,
+              "url": "https://t.co/wjvluflyCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087575842024989154",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "16_2081233113615626240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1410,
+          "impression_count": 511437,
+          "like_count": 19588,
+          "quote_count": 170,
+          "reply_count": 52,
+          "retweet_count": 3499
+        },
+        "reply_settings": "everyone",
+        "text": "Queria ser um gato pão https://t.co/wjvluflyCx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087776404641566768",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 482,
+          "like_count": 15645,
+          "listed_count": 0,
+          "media_count": 1232,
+          "tweet_count": 3654
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-10T00:32:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/im_luizz/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/im_luizz/",
+                "start": 0,
+                "url": "https://t.co/sOzwL86zyr"
+              }
+            ]
+          }
+        },
+        "id": "862102947626405889",
+        "is_identity_verified": false,
+        "location": "São Paulo, Brasil",
+        "most_recent_tweet_id": "2087664035420344424",
+        "name": "Luiz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862102947626405889/1754408292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026789155401764864/8evKtvk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 337,
+          "like_count": 98615,
+          "listed_count": 1,
+          "media_count": 2329,
+          "tweet_count": 14945
+        },
+        "url": "https://t.co/sOzwL86zyr",
+        "username": "costelinhaMe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

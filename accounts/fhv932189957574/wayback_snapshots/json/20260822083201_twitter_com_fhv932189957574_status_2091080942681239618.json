@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090982419549859840"
+      ],
+      "media_source_tweet_id": [
+        "2090982458925953192"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2091080942681239618",
+    "created_at": "2026-08-22T08:32:01.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091080942681239618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1652244649241878529",
+          "start": 3,
+          "username": "austro_hungary_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nk7HXHkZOf",
+          "end": 71,
+          "expanded_url": "https://x.com/austro_hungary_/status/2090982458925953192/video/1",
+          "media_key": "13_2090982419549859840",
+          "start": 48,
+          "url": "https://t.co/nk7HXHkZOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091080942681239618",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090982419549859840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090982458925953192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @austro_hungary_: MrBeastの中国語版の垢名が「野兽先生」で今これ https://t.co/nk7HXHkZOf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26864,
+        "height": 720,
+        "media_key": "13_2090982419549859840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090982419549859840/img/1AQx5-E6NOM2nEdB.jpg",
+        "public_metrics": {
+          "view_count": 32306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090982419549859840/vid/avc1/476x270/VprxeL_1nLHaWd2G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090982419549859840/vid/avc1/636x360/ycjtOYux64ro8rv4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090982419549859840/vid/avc1/1272x720/emO_Uu2Nbl81PJuZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090982419549859840/pl/DU4WTkk0DPav4O00.m3u8?v=f0f"
+          }
+        ],
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090982419549859840"
+          ],
+          "media_source_tweet_id": [
+            "2090982458925953192"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2091080942681239618",
+        "created_at": "2026-08-22T08:32:01.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091080942681239618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1652244649241878529",
+              "start": 3,
+              "username": "austro_hungary_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk7HXHkZOf",
+              "end": 71,
+              "expanded_url": "https://x.com/austro_hungary_/status/2090982458925953192/video/1",
+              "media_key": "13_2090982419549859840",
+              "start": 48,
+              "url": "https://t.co/nk7HXHkZOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091080942681239618",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090982419549859840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090982458925953192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @austro_hungary_: MrBeastの中国語版の垢名が「野兽先生」で今これ https://t.co/nk7HXHkZOf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090982419549859840"
+          ]
+        },
+        "author_id": "1652244649241878529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          }
+        ],
+        "conversation_id": "2090982458925953192",
+        "created_at": "2026-08-22T02:00:41.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090982458925953192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk7HXHkZOf",
+              "end": 50,
+              "expanded_url": "https://x.com/austro_hungary_/status/2090982458925953192/video/1",
+              "media_key": "13_2090982419549859840",
+              "start": 27,
+              "url": "https://t.co/nk7HXHkZOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090982458925953192",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090982419549859840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 63389,
+          "like_count": 1067,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "MrBeastの中国語版の垢名が「野兽先生」で今これ https://t.co/nk7HXHkZOf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091080942681239618",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 478,
+          "like_count": 16639,
+          "listed_count": 0,
+          "media_count": 1264,
+          "tweet_count": 3830
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-29T09:33:53.000Z",
+        "description": "2028年まで低浮上寄り",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/mAw45FSWHH"
+              }
+            ]
+          }
+        },
+        "id": "1652244649241878529",
+        "is_identity_verified": false,
+        "location": "トイレ",
+        "most_recent_tweet_id": "2091077886598053985",
+        "name": "帝國主義者",
+        "pinned_tweet_id": "1905492794124505422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652244649241878529/1735637934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905564844998496256/wSWr9Nzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 3853,
+          "like_count": 50480,
+          "listed_count": 7,
+          "media_count": 3518,
+          "tweet_count": 25828
+        },
+        "url": "https://t.co/mAw45FSWHH",
+        "username": "austro_hungary_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

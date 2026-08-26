@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085378389201031169"
+      ],
+      "media_source_tweet_id": [
+        "2085378399468650725"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.",
+          "id": "10000503832",
+          "name": "Breaking Bad"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263551484706213889",
+          "name": "Breaking Bad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1263551484706213889",
+          "name": "Breaking Bad"
+        }
+      }
+    ],
+    "conversation_id": "2085626788781433135",
+    "created_at": "2026-08-07T07:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085626788781433135"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "brba"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1979541930079113216",
+          "start": 3,
+          "username": "jjajji765"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1SvXq2EPh",
+          "end": 44,
+          "expanded_url": "https://x.com/jjajji765/status/2085378399468650725/video/1",
+          "media_key": "13_2085378389201031169",
+          "start": 21,
+          "url": "https://t.co/n1SvXq2EPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085626788781433135",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5082
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085378399468650725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jjajji765: #brba https://t.co/n1SvXq2EPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1560,
+        "height": 436,
+        "media_key": "13_2085378389201031169",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085378389201031169/img/t90CwiEiNxengsbo.jpg",
+        "public_metrics": {
+          "view_count": 250058
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085378389201031169/vid/avc1/294x270/j1k8uaZ1WQRkIcNO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085378389201031169/vid/avc1/476x436/zmnhZEtrKxQ26reT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085378389201031169/pl/bvtD_DIwBh906_GB.m3u8?tag=14"
+          }
+        ],
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085378389201031169"
+          ]
+        },
+        "author_id": "1979541930079113216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.",
+              "id": "10000503832",
+              "name": "Breaking Bad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263551484706213889",
+              "name": "Breaking Bad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263551484706213889",
+              "name": "Breaking Bad"
+            }
+          }
+        ],
+        "conversation_id": "2085378399468650725",
+        "created_at": "2026-08-06T14:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085378399468650725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "brba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1SvXq2EPh",
+              "end": 29,
+              "expanded_url": "https://x.com/jjajji765/status/2085378399468650725/video/1",
+              "media_key": "13_2085378389201031169",
+              "start": 6,
+              "url": "https://t.co/n1SvXq2EPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085378399468650725",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5437,
+          "impression_count": 1020442,
+          "like_count": 48522,
+          "quote_count": 236,
+          "reply_count": 114,
+          "retweet_count": 5082
+        },
+        "reply_settings": "everyone",
+        "text": "#brba https://t.co/n1SvXq2EPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085378389201031169"
+          ],
+          "media_source_tweet_id": [
+            "2085378399468650725"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.",
+              "id": "10000503832",
+              "name": "Breaking Bad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263551484706213889",
+              "name": "Breaking Bad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263551484706213889",
+              "name": "Breaking Bad"
+            }
+          }
+        ],
+        "conversation_id": "2085626788781433135",
+        "created_at": "2026-08-07T07:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085626788781433135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "brba"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1979541930079113216",
+              "start": 3,
+              "username": "jjajji765"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1SvXq2EPh",
+              "end": 44,
+              "expanded_url": "https://x.com/jjajji765/status/2085378399468650725/video/1",
+              "media_key": "13_2085378389201031169",
+              "start": 21,
+              "url": "https://t.co/n1SvXq2EPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085626788781433135",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5082
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085378399468650725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jjajji765: #brba https://t.co/n1SvXq2EPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14839,
+          "listed_count": 0,
+          "media_count": 1197,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T13:35:59.000Z",
+        "description": "월터제시주세요",
+        "id": "1979541930079113216",
+        "name": "짜찌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982353153929482240/L8yNB0WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 62,
+          "like_count": 7051,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2973
+        },
+        "url": "",
+        "username": "jjajji765",
+        "verified": false
+      }
+    ]
+  }
+}

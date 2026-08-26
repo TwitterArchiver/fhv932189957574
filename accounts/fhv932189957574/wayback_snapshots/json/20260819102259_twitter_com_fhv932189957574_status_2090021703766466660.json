@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2089760486892146884",
+    "created_at": "2026-08-19T10:22:59.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090021703766466660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1743688833756266496",
+          "start": 0,
+          "username": "fushihui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fhv93218995757…",
+          "end": 33,
+          "expanded_url": "https://x.com/fhv932189957574/status/2090020704037360051?s=46",
+          "start": 10,
+          "url": "https://t.co/dUbSwLe0eX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090021703766466660",
+    "in_reply_to_user_id": "1743688833756266496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090020704037360051",
+        "type": "quoted"
+      },
+      {
+        "id": "2089760486892146884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushihui https://t.co/dUbSwLe0eX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2089760241588293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBR3iGa0AAmNdZ.jpg",
+        "width": 1272
+      },
+      {
+        "duration_ms": 36033,
+        "height": 1080,
+        "media_key": "13_2089760241865170944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089760241865170944/img/FtifjQ1ou5RDdsJ8.jpg",
+        "public_metrics": {
+          "view_count": 670950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089760241865170944/vid/avc1/320x622/Ar6RltKM1Mponhuv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089760241865170944/vid/avc1/480x934/AjuIdeIBzmTmJ5N9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089760241865170944/vid/avc1/554x1080/MAyc99lMBDFtxQ3h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089760241865170944/pl/-EOMdr2M96XVGPwR.m3u8"
+          }
+        ],
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2089760486892146884",
+        "created_at": "2026-08-19T10:22:59.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090021703766466660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1743688833756266496",
+              "start": 0,
+              "username": "fushihui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 33,
+              "expanded_url": "https://x.com/fhv932189957574/status/2090020704037360051?s=46",
+              "start": 10,
+              "url": "https://t.co/dUbSwLe0eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090021703766466660",
+        "in_reply_to_user_id": "1743688833756266496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090020704037360051",
+            "type": "quoted"
+          },
+          {
+            "id": "2089760486892146884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushihui https://t.co/dUbSwLe0eX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089760241588293632",
+            "13_2089760241865170944"
+          ]
+        },
+        "author_id": "1743688833756266496",
+        "conversation_id": "2089760486892146884",
+        "created_at": "2026-08-18T17:05:00.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:04:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089760312392294590",
+          "2089760486892146884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6lmwHKIx1",
+              "end": 160,
+              "expanded_url": "https://x.com/fushihui/status/2089760486892146884/video/1",
+              "media_key": "3_2089760241588293632",
+              "start": 137,
+              "url": "https://t.co/O6lmwHKIx1"
+            },
+            {
+              "display_url": "pic.x.com/O6lmwHKIx1",
+              "end": 160,
+              "expanded_url": "https://x.com/fushihui/status/2089760486892146884/video/1",
+              "media_key": "13_2089760241865170944",
+              "start": 137,
+              "url": "https://t.co/O6lmwHKIx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089760486892146884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089760241588293632"
+          },
+          {
+            "media_key": "13_2089760241865170944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "重庆这次线下对决事件，说明男女对立情绪在未成年人群体里已经非常严重了。\n小红书等网媒宣扬厌男仇男、父权压迫的女权叙事在初高中女生群体里面非常流行，由此滋生出了男女隔离的对立情绪。再加上司法机关在司法过程中又经常拉偏架，对男的一套，对女的又是另一套，由此进一步加深对立情绪。\n不止一次在知乎平台看到初高中一线教师反应班级里男女对立现象严重。\n这次事件是男女对立在现实世界中的一次显化，既是一个标志事件，也是一种警示：下一代的男女对立情绪如此严重，影响恐怕是非常长久、深远的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 831,
+          "impression_count": 983939,
+          "like_count": 4595,
+          "quote_count": 20,
+          "reply_count": 621,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "重庆这次线下对决事件，说明男女对立情绪在未成年人群体里已经非常严重了。\n小红书等网媒宣扬厌男仇男、父权压迫的女权叙事在初高中女生群体里面非常流行，由此滋生出了男女隔离的对立情绪。再加上司法机关在司法过程中又经常拉偏架，对男的一套，对女的又是另一套，由此进一步加深对立情绪。 https://t.co/O6lmwHKIx1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2090020704037360051",
+        "created_at": "2026-08-19T10:19:01.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090020704037360051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090020704037360051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现好像重庆这件事好像不是男女对立，那群男的好像大部分都是起号博主，不代表全体男性啊喂😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2090021703766466660",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 473,
+          "like_count": 16152,
+          "listed_count": 0,
+          "media_count": 1245,
+          "tweet_count": 3733
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T17:40:34.000Z",
+        "description": "性别平权主义者，关注男性人权\n让我们明确一个概念：性别平等≠女权主义\n女权=女拳=极端+温和=女利。女权主义解构传统，对女权主义再解构不是为了回到过去，而是为了回答未来。",
+        "id": "1743688833756266496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089993366846992417",
+        "name": "浮世绘",
+        "pinned_tweet_id": "2062548992744132619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743688833756266496/1779615923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042438076757327872/EymDfaFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 73,
+          "like_count": 8452,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "fushihui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

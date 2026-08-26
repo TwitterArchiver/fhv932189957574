@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091415641869959168"
+      ],
+      "media_source_tweet_id": [
+        "2091415667681739060"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091586357143675306",
+    "created_at": "2026-08-23T18:00:21.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T19:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091586357143675306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1282620543338835970",
+          "start": 3,
+          "username": "abtkkz2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oioocXBHym",
+          "end": 51,
+          "expanded_url": "https://x.com/abtkkz2/status/2091415667681739060/photo/1",
+          "media_key": "3_2091415641869959168",
+          "start": 28,
+          "url": "https://t.co/oioocXBHym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091586357143675306",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091415641869959168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091415667681739060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abtkkz2: 毛沢東だよ...毛沢東... https://t.co/oioocXBHym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2091415641869959168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYzcgtawAAaJkS.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091415641869959168"
+          ],
+          "media_source_tweet_id": [
+            "2091415667681739060"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091586357143675306",
+        "created_at": "2026-08-23T18:00:21.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091586357143675306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1282620543338835970",
+              "start": 3,
+              "username": "abtkkz2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oioocXBHym",
+              "end": 51,
+              "expanded_url": "https://x.com/abtkkz2/status/2091415667681739060/photo/1",
+              "media_key": "3_2091415641869959168",
+              "start": 28,
+              "url": "https://t.co/oioocXBHym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091586357143675306",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091415641869959168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091415667681739060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abtkkz2: 毛沢東だよ...毛沢東... https://t.co/oioocXBHym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091415641869959168"
+          ]
+        },
+        "author_id": "1282620543338835970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091415667681739060",
+        "created_at": "2026-08-23T06:42:06.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091415667681739060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oioocXBHym",
+              "end": 38,
+              "expanded_url": "https://x.com/abtkkz2/status/2091415667681739060/photo/1",
+              "media_key": "3_2091415641869959168",
+              "start": 15,
+              "url": "https://t.co/oioocXBHym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091415667681739060",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091415641869959168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 28194,
+          "like_count": 733,
+          "quote_count": 16,
+          "reply_count": 12,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "毛沢東だよ...毛沢東... https://t.co/oioocXBHym"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091586357143675306",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 479,
+          "like_count": 16982,
+          "listed_count": 0,
+          "media_count": 1284,
+          "tweet_count": 3895
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-13T10:19:10.000Z",
+        "description": "旅行🇺🇸🇻🇳🇰🇷🇹🇼🇨🇳🇹🇭🇱🇦🇭🇰🇲🇴🇲🇾🇸🇬\n|鉄道|海外铁|ラブライブ!|二郎|\nなど活動は多岐に渡る\n@oumishiotsu521←鉄分摂取",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "oumishiotsu521"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seinchu.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://seinchu.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/9YqgdBzBlj"
+              }
+            ]
+          }
+        },
+        "id": "1282620543338835970",
+        "is_identity_verified": false,
+        "location": "おけいせい",
+        "most_recent_tweet_id": "2091539872897212874",
+        "name": "鰹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282620543338835970/1778267254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052364833702723584/-R1iVNJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 858,
+          "like_count": 32658,
+          "listed_count": 9,
+          "media_count": 2573,
+          "tweet_count": 8990
+        },
+        "url": "https://t.co/9YqgdBzBlj",
+        "username": "abtkkz2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

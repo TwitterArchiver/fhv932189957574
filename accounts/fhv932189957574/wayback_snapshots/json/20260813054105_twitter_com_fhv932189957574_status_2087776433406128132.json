@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087504193313521664"
+      ],
+      "media_source_tweet_id": [
+        "2087510592726708341"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087776433406128132",
+    "created_at": "2026-08-13T05:41:05.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087776433406128132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2069248180265390080",
+          "start": 3,
+          "username": "goldfishbrahduc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVyHxmlC7j",
+          "end": 44,
+          "expanded_url": "https://x.com/goldfishbrahduc/status/2087510592726708341/video/1",
+          "media_key": "13_2087504193313521664",
+          "start": 21,
+          "url": "https://t.co/JVyHxmlC7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087776433406128132",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2087504193313521664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087510592726708341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goldfishbrahduc: https://t.co/JVyHxmlC7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22151,
+        "height": 1176,
+        "media_key": "13_2087504193313521664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087504193313521664/img/42hVHSBJPRMdccci.jpg",
+        "public_metrics": {
+          "view_count": 643030
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087504193313521664/vid/avc1/320x522/Z7BzhK1ohIVKiTgP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087504193313521664/vid/avc1/480x784/U077jcOjoyKAu34E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087504193313521664/vid/avc1/720x1176/RO8jM7nIE1D6NBGr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087504193313521664/pl/IDL_Lo1tE4I6eUbA.m3u8?tag=14&v=909"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087504193313521664"
+          ]
+        },
+        "author_id": "2069248180265390080",
+        "conversation_id": "2087510592726708341",
+        "created_at": "2026-08-12T12:04:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087510592726708341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVyHxmlC7j",
+              "end": 23,
+              "expanded_url": "https://x.com/goldfishbrahduc/status/2087510592726708341/video/1",
+              "media_key": "13_2087504193313521664",
+              "start": 0,
+              "url": "https://t.co/JVyHxmlC7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087510592726708341",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087504193313521664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11690,
+          "impression_count": 992818,
+          "like_count": 26921,
+          "quote_count": 302,
+          "reply_count": 135,
+          "retweet_count": 1656
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JVyHxmlC7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087504193313521664"
+          ],
+          "media_source_tweet_id": [
+            "2087510592726708341"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087776433406128132",
+        "created_at": "2026-08-13T05:41:05.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087776433406128132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2069248180265390080",
+              "start": 3,
+              "username": "goldfishbrahduc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVyHxmlC7j",
+              "end": 44,
+              "expanded_url": "https://x.com/goldfishbrahduc/status/2087510592726708341/video/1",
+              "media_key": "13_2087504193313521664",
+              "start": 21,
+              "url": "https://t.co/JVyHxmlC7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087776433406128132",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087504193313521664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087510592726708341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goldfishbrahduc: https://t.co/JVyHxmlC7j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087776433406128132",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 482,
+          "like_count": 15646,
+          "listed_count": 0,
+          "media_count": 1232,
+          "tweet_count": 3655
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T02:38:31.000Z",
+        "description": "#YouTuber 🇹🇼🇺🇾\n合作邀約請寄email❤️nerdyboy@nerdyboy.com.tw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "YouTuber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buff.ly/rwFcAMY",
+                "end": 23,
+                "expanded_url": "https://buff.ly/rwFcAMY",
+                "start": 0,
+                "url": "https://t.co/sMUdK59FyU"
+              }
+            ]
+          }
+        },
+        "id": "2069248180265390080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087558437152477461",
+        "name": "金魚腦❤️",
+        "pinned_tweet_id": "2087558437152477461",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072993656672518144/Wk2JsPTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/sMUdK59FyU",
+        "username": "goldfishbrahduc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

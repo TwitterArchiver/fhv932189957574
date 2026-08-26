@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2090964665031598231",
+    "created_at": "2026-08-22T08:48:45.000Z",
+    "display_text_range": [
+      22,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091085154416722233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183048952708395009",
+          "start": 0,
+          "username": "KGY_HN"
+        },
+        {
+          "end": 21,
+          "id": "1237960533694799872",
+          "start": 8,
+          "username": "BillChen2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091085154416722233",
+    "in_reply_to_user_id": "1183048952708395009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090964665031598231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KGY_HN @BillChen2001 我我我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29800,
+        "height": 848,
+        "media_key": "13_2090962630181830656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090962630181830656/img/6DSGbELZLkQxbhHB.jpg",
+        "public_metrics": {
+          "view_count": 383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090962630181830656/vid/avc1/848x848/O9O1G4sxcCqD1VtK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090962630181830656/pl/vGTWW8LxoLQX_Ih8.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090962630181830656/vid/avc1/540x540/A0oUDmgF3qGXxZX_.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090962630181830656/vid/avc1/320x320/Ecoupv03IWX9CIgH.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090962630181830656/vid/avc1/720x720/586gwGSMQjPl8dti.mp4"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2090964665031598231",
+        "created_at": "2026-08-22T08:48:45.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091085154416722233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183048952708395009",
+              "start": 0,
+              "username": "KGY_HN"
+            },
+            {
+              "end": 21,
+              "id": "1237960533694799872",
+              "start": 8,
+              "username": "BillChen2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091085154416722233",
+        "in_reply_to_user_id": "1183048952708395009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090964665031598231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KGY_HN @BillChen2001 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090962630181830656"
+          ]
+        },
+        "author_id": "1183048952708395009",
+        "conversation_id": "2090964665031598231",
+        "created_at": "2026-08-22T00:49:59.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090964665031598231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1237960533694799872",
+              "start": 79,
+              "username": "BillChen2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTJBaIU4YX",
+              "end": 129,
+              "expanded_url": "https://x.com/KGY_HN/status/2090964665031598231/video/1",
+              "media_key": "13_2090962630181830656",
+              "start": 106,
+              "url": "https://t.co/iTJBaIU4YX"
+            },
+            {
+              "display_url": "x.com/KGY_HN/status/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/KGY_HN/status/2089682171028263300",
+              "start": 130,
+              "url": "https://t.co/Ro2AQdVLXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090964665031598231",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090962630181830656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1375,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089682171028263300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸，我才发现 Procreate 可以导出缩时录影的绘画过程，看起来真的超炫酷的！\n收到作品的朋友如果想要自己头像的缩时录影，也可以发私信给我哦🌟\n\n下图为 @BillChen2001 头像的示例，真是很可爱呢 https://t.co/iTJBaIU4YX https://t.co/Ro2AQdVLXX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091085154416722233",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 478,
+          "like_count": 16664,
+          "listed_count": 0,
+          "media_count": 1266,
+          "tweet_count": 3835
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T15:57:33.000Z",
+        "description": "欠了网友1000张头像的人，目前进度4%……",
+        "id": "1183048952708395009",
+        "is_identity_verified": false,
+        "location": "Thailand",
+        "most_recent_tweet_id": "2091082395319783528",
+        "name": "🌸@绘画千人斩修行中",
+        "pinned_tweet_id": "2090298595459412258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183048952708395009/1786346603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086714967827570688/SRAh-9Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14934,
+          "following_count": 3222,
+          "like_count": 2437,
+          "listed_count": 35,
+          "media_count": 1094,
+          "tweet_count": 12184
+        },
+        "url": "",
+        "username": "KGY_HN",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-12T04:36:11.000Z",
+        "description": "🏳️‍⚧️ | 地球爆炸爱好者 | https://t.co/IVhA5A1YVo | https://t.co/lWNdxde2Mn  | Fuck twitter/X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bcom.moe/@billchenchina",
+                "end": 41,
+                "expanded_url": "http://bcom.moe/@billchenchina",
+                "start": 18,
+                "url": "https://t.co/IVhA5A1YVo"
+              },
+              {
+                "display_url": "t.me/billchenchina",
+                "end": 67,
+                "expanded_url": "http://t.me/billchenchina",
+                "start": 44,
+                "url": "https://t.co/lWNdxde2Mn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billchen.bid",
+                "end": 23,
+                "expanded_url": "https://billchen.bid/",
+                "start": 0,
+                "url": "https://t.co/ZQGh0t6cQt"
+              }
+            ]
+          }
+        },
+        "id": "1237960533694799872",
+        "is_identity_verified": false,
+        "location": "Wuhan, China",
+        "most_recent_tweet_id": "2090702479339979102",
+        "name": "Billchenchina 🏳️‍⚧️ | 喵喵 bot",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1255370151865847811/dmIYCMjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1297,
+          "like_count": 18285,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 4008
+        },
+        "url": "https://t.co/ZQGh0t6cQt",
+        "username": "BillChen2001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

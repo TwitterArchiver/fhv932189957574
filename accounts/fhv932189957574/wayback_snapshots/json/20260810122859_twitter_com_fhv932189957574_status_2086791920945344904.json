@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086772931850596352"
+      ],
+      "media_source_tweet_id": [
+        "2086772954113966292"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086791920945344904",
+    "created_at": "2026-08-10T12:28:59.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086791920945344904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2906703900",
+          "start": 3,
+          "username": "deerdeer19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eealXcUKJo",
+          "end": 63,
+          "expanded_url": "https://x.com/deerdeer19/status/2086772954113966292/photo/1",
+          "media_key": "3_2086772931850596352",
+          "start": 40,
+          "url": "https://t.co/eealXcUKJo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086791920945344904",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086772931850596352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086772954113966292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deerdeer19: 202601~08\n這簡直不像同一個人畫ORZ https://t.co/eealXcUKJo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086772931850596352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW07OHa8AANeFO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086772931850596352"
+          ]
+        },
+        "author_id": "2906703900",
+        "conversation_id": "2086772954113966292",
+        "created_at": "2026-08-10T11:13:37.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086772954113966292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eealXcUKJo",
+              "end": 47,
+              "expanded_url": "https://x.com/deerdeer19/status/2086772954113966292/photo/1",
+              "media_key": "3_2086772931850596352",
+              "start": 24,
+              "url": "https://t.co/eealXcUKJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086772954113966292",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086772931850596352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 835,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "202601~08\n這簡直不像同一個人畫ORZ https://t.co/eealXcUKJo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086772931850596352"
+          ],
+          "media_source_tweet_id": [
+            "2086772954113966292"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086791920945344904",
+        "created_at": "2026-08-10T12:28:59.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086791920945344904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2906703900",
+              "start": 3,
+              "username": "deerdeer19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eealXcUKJo",
+              "end": 63,
+              "expanded_url": "https://x.com/deerdeer19/status/2086772954113966292/photo/1",
+              "media_key": "3_2086772931850596352",
+              "start": 40,
+              "url": "https://t.co/eealXcUKJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086791920945344904",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086772931850596352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086772954113966292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deerdeer19: 202601~08\n這簡直不像同一個人畫ORZ https://t.co/eealXcUKJo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086791920945344904",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 480,
+          "like_count": 15265,
+          "listed_count": 0,
+          "media_count": 1223,
+          "tweet_count": 3580
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-22T06:15:17.000Z",
+        "description": "i draw (Firefly/HSR mainly)   中/EN \n謝謝你在宇宙角落找到我👉👈\n❌AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/12015…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/12015011",
+                "start": 0,
+                "url": "https://t.co/pfKZjxY2tA"
+              }
+            ]
+          }
+        },
+        "id": "2906703900",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086772954113966292",
+        "name": "aliuwu",
+        "pinned_tweet_id": "2086361046407946613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2906703900/1778305158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052988041556611072/33-qO33q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 603,
+          "like_count": 24980,
+          "listed_count": 6,
+          "media_count": 194,
+          "tweet_count": 7942
+        },
+        "url": "https://t.co/pfKZjxY2tA",
+        "username": "deerdeer19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

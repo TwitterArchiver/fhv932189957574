@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087210002935402971",
+    "created_at": "2026-08-11T16:10:17.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087210002935402971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xtheo520/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/0xtheo520/status/2086864862353957226",
+          "start": 11,
+          "url": "https://t.co/47AccjTxmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087210002935402971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086864862353957226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的兽设是十二生肖😋 https://t.co/47AccjTxmQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087210002935402971",
+        "created_at": "2026-08-11T16:10:17.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087210002935402971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xtheo520/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/0xtheo520/status/2086864862353957226",
+              "start": 11,
+              "url": "https://t.co/47AccjTxmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087210002935402971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086864862353957226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的兽设是十二生肖😋 https://t.co/47AccjTxmQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870818143071059968",
+        "conversation_id": "2086864862353957226",
+        "created_at": "2026-08-10T17:18:49.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086864862353957226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086864862353957226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18063,
+          "like_count": 471,
+          "quote_count": 4,
+          "reply_count": 85,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷告诉你们一个冷知识：\n\n其实古人发明十二生肖是为了证明每个人都是畜生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087210002935402971",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 482,
+          "like_count": 15379,
+          "listed_count": 0,
+          "media_count": 1228,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "段子手｜梗图｜人间观察 | 认知提升 | 洞察人性 | 精神状态领先全网\n尊重他人命运，放下助人情结，伸手会带来厄运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCyH95"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "is_identity_verified": false,
+        "location": "不含任何建议",
+        "most_recent_tweet_id": "2087209738149019943",
+        "name": "Theo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 2363,
+          "like_count": 3348,
+          "listed_count": 8,
+          "media_count": 171,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/YpPMXCyH95",
+        "username": "0xTheo520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

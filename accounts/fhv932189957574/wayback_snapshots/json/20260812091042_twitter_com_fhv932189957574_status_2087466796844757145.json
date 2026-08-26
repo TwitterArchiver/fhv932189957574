@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087401277454249985"
+      ],
+      "media_source_tweet_id": [
+        "2087401283544080525"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087466796844757145",
+    "created_at": "2026-08-12T09:10:42.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087466796844757145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811384610749874176",
+          "start": 3,
+          "username": "wgddking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nvqPAwNdcv",
+          "end": 43,
+          "expanded_url": "https://x.com/wgddking/status/2087401283544080525/photo/1",
+          "media_key": "3_2087401277454249985",
+          "start": 20,
+          "url": "https://t.co/nvqPAwNdcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087466796844757145",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087401277454249985"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087401283544080525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgddking: ？？？？？ https://t.co/nvqPAwNdcv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2087401277454249985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfwZv5bcAEvc7o.jpg",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087401277454249985"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2087401283544080525",
+        "created_at": "2026-08-12T04:50:22.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087401283544080525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvqPAwNdcv",
+              "end": 29,
+              "expanded_url": "https://x.com/wgddking/status/2087401283544080525/photo/1",
+              "media_key": "3_2087401277454249985",
+              "start": 6,
+              "url": "https://t.co/nvqPAwNdcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087401283544080525",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087401277454249985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1485,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？？？ https://t.co/nvqPAwNdcv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087401277454249985"
+          ],
+          "media_source_tweet_id": [
+            "2087401283544080525"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087466796844757145",
+        "created_at": "2026-08-12T09:10:42.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087466796844757145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811384610749874176",
+              "start": 3,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvqPAwNdcv",
+              "end": 43,
+              "expanded_url": "https://x.com/wgddking/status/2087401283544080525/photo/1",
+              "media_key": "3_2087401277454249985",
+              "start": 20,
+              "url": "https://t.co/nvqPAwNdcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087466796844757145",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087401277454249985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087401283544080525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgddking: ？？？？？ https://t.co/nvqPAwNdcv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087466796844757145",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 481,
+          "like_count": 15560,
+          "listed_count": 0,
+          "media_count": 1231,
+          "tweet_count": 3638
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "自由 平等 博爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "is_identity_verified": false,
+        "location": "Hitachi-shi, Ibaraki",
+        "most_recent_tweet_id": "2087436828357906891",
+        "name": "wgdd",
+        "pinned_tweet_id": "2084275640656904451",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811384610749874176/1780900493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 86,
+          "like_count": 2279,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

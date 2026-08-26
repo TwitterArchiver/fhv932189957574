@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086304718624788480"
+      ],
+      "media_source_tweet_id": [
+        "2086304740481303009"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086425781862117402",
+    "created_at": "2026-08-09T12:14:04.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086425781862117402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TdvBDZDjmt",
+          "end": 51,
+          "expanded_url": "https://x.com/TopGyaru/status/2086304740481303009/video/1",
+          "media_key": "13_2086304718624788480",
+          "start": 28,
+          "url": "https://t.co/TdvBDZDjmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086425781862117402",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086304718624788480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086304740481303009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: Give it back! https://t.co/TdvBDZDjmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8801,
+        "height": 1280,
+        "media_key": "13_2086304718624788480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086304718624788480/img/XaZDhZTCA6Vg05UT.jpg",
+        "public_metrics": {
+          "view_count": 135930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086304718624788480/vid/avc1/320x568/PKQGUitrmgypMVef.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086304718624788480/vid/avc1/480x852/HVhxgjBBiObQGp4k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086304718624788480/vid/avc1/720x1280/Rk0jXYvhTebYOPYg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086304718624788480/pl/NIYjGysjq35CZ46Z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086304718624788480"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "2086304740481303009",
+        "created_at": "2026-08-09T04:13:06.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086304740481303009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdvBDZDjmt",
+              "end": 37,
+              "expanded_url": "https://x.com/TopGyaru/status/2086304740481303009/video/1",
+              "media_key": "13_2086304718624788480",
+              "start": 14,
+              "url": "https://t.co/TdvBDZDjmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086304740481303009",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086304718624788480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1630,
+          "impression_count": 313334,
+          "like_count": 12579,
+          "quote_count": 28,
+          "reply_count": 42,
+          "retweet_count": 1361
+        },
+        "reply_settings": "everyone",
+        "text": "Give it back! https://t.co/TdvBDZDjmt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086304718624788480"
+          ],
+          "media_source_tweet_id": [
+            "2086304740481303009"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086425781862117402",
+        "created_at": "2026-08-09T12:14:04.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086425781862117402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdvBDZDjmt",
+              "end": 51,
+              "expanded_url": "https://x.com/TopGyaru/status/2086304740481303009/video/1",
+              "media_key": "13_2086304718624788480",
+              "start": 28,
+              "url": "https://t.co/TdvBDZDjmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086425781862117402",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086304718624788480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086304740481303009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: Give it back! https://t.co/TdvBDZDjmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086425781862117402",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 478,
+          "like_count": 15126,
+          "listed_count": 0,
+          "media_count": 1216,
+          "tweet_count": 3539
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "is_identity_verified": false,
+        "location": " She/Her",
+        "most_recent_tweet_id": "2086343028013408605",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471640417519030275/1692833107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280549,
+          "following_count": 1410,
+          "like_count": 146958,
+          "listed_count": 502,
+          "media_count": 11004,
+          "tweet_count": 29412
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

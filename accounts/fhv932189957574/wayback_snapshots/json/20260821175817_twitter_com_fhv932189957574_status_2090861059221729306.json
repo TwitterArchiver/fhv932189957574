@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2090741911187255534",
+    "created_at": "2026-08-21T17:58:17.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090861059221729306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083404870346764288",
+          "start": 0,
+          "username": "yumi1105qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090861059221729306",
+    "in_reply_to_user_id": "2083404870346764288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090741911187255534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumi1105qwq （反制，把你法了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2090741911187255534",
+        "created_at": "2026-08-21T17:58:17.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090861059221729306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083404870346764288",
+              "start": 0,
+              "username": "yumi1105qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090861059221729306",
+        "in_reply_to_user_id": "2083404870346764288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090741911187255534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumi1105qwq （反制，把你法了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083404870346764288",
+        "conversation_id": "2090741911187255534",
+        "created_at": "2026-08-21T10:04:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090741911187255534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090741911187255534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20054,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 192,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都被我法了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2090861059221729306",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 475,
+          "like_count": 16553,
+          "listed_count": 0,
+          "media_count": 1257,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:12:01.000Z",
+        "description": "生产日期:2011-1105\n我是男生👿😭😭😭\n不O不割|心里正常|互fo😋\n缅怀：@yumi1105_/@Bochichan250hh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "yumi1105_"
+              },
+              {
+                "end": 68,
+                "start": 53,
+                "username": "Bochichan250hh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yumi_1105",
+                "end": 23,
+                "expanded_url": "https://t.me/yumi_1105",
+                "start": 0,
+                "url": "https://t.co/ceiXsTUY0h"
+              }
+            ]
+          }
+        },
+        "id": "2083404870346764288",
+        "is_identity_verified": false,
+        "location": "福建洛杉矶",
+        "most_recent_tweet_id": "2090820534426534131",
+        "name": "𝕐𝕄",
+        "pinned_tweet_id": "2084244409898377320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083404870346764288/1786896122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089878812003643392/3utrfWcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 223,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/ceiXsTUY0h",
+        "username": "yumi1105qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091139945528487936"
+      ],
+      "media_source_tweet_id": [
+        "2091362038417391767"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091586607757562079",
+    "created_at": "2026-08-23T18:01:21.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T19:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091586607757562079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1884545482124603392",
+          "start": 3,
+          "username": "beast___senpai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rpHvay8iWf",
+          "end": 92,
+          "expanded_url": "https://x.com/beast___senpai/status/2091362038417391767/video/1",
+          "media_key": "13_2091139945528487936",
+          "start": 69,
+          "url": "https://t.co/rpHvay8iWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091586607757562079",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091139945528487936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091362038417391767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beast___senpai: Elon paints a picture for his beloved Yajusenpai https://t.co/rpHvay8iWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20053,
+        "height": 960,
+        "media_key": "13_2091139945528487936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091139945528487936/img/gLJWXdVf9l2YF05L.jpg",
+        "public_metrics": {
+          "view_count": 13653
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091139945528487936/pl/ZEvPrIt027RO7gkT.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091139945528487936/vid/avc1/320x320/3Nwttk3RpC6DiF1J.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091139945528487936/vid/avc1/720x720/iBZWOeC891iNsfCA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091139945528487936/vid/avc1/540x540/9FEdYiYY3KwCIC31.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091139945528487936/vid/avc1/960x960/MRUqsJAzU-BNVHiU.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091139945528487936"
+          ],
+          "media_source_tweet_id": [
+            "2091362038417391767"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091586607757562079",
+        "created_at": "2026-08-23T18:01:21.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091586607757562079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1884545482124603392",
+              "start": 3,
+              "username": "beast___senpai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpHvay8iWf",
+              "end": 92,
+              "expanded_url": "https://x.com/beast___senpai/status/2091362038417391767/video/1",
+              "media_key": "13_2091139945528487936",
+              "start": 69,
+              "url": "https://t.co/rpHvay8iWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091586607757562079",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091139945528487936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091362038417391767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beast___senpai: Elon paints a picture for his beloved Yajusenpai https://t.co/rpHvay8iWf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091139945528487936"
+          ]
+        },
+        "author_id": "1884545482124603392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091362038417391767",
+        "created_at": "2026-08-23T03:09:00.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091362038417391767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpHvay8iWf",
+              "end": 72,
+              "expanded_url": "https://x.com/beast___senpai/status/2091362038417391767/video/1",
+              "media_key": "13_2091139945528487936",
+              "start": 49,
+              "url": "https://t.co/rpHvay8iWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091362038417391767",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091139945528487936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 30484,
+          "like_count": 626,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "Elon paints a picture for his beloved Yajusenpai https://t.co/rpHvay8iWf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091586607757562079",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 479,
+          "like_count": 16984,
+          "listed_count": 0,
+          "media_count": 1284,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:14:00.000Z",
+        "description": "▶︎Spreading Japan’s legendary meme “YAJUSENPAI” to the world 🌎\n▶︎$BEAST Dev (Launched Dec 14, 2024)\n▶︎YAJUSENPAI GAME: https://t.co/P5jp3yj21P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yajusenpai-game.com",
+                "end": 142,
+                "expanded_url": "https://yajusenpai-game.com/",
+                "start": 119,
+                "url": "https://t.co/P5jp3yj21P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yajusenpai.net",
+                "end": 23,
+                "expanded_url": "https://yajusenpai.net/",
+                "start": 0,
+                "url": "https://t.co/yBrMpxafE6"
+              }
+            ]
+          }
+        },
+        "id": "1884545482124603392",
+        "is_identity_verified": true,
+        "location": "He is everywhere and nowhere",
+        "most_recent_tweet_id": "2091554628420919683",
+        "name": "YAJUSENPAI ($BEAST dev)",
+        "pinned_tweet_id": "2053160868398137683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884545482124603392/1784760986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884551000092262400/S4afjJir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3247,
+          "following_count": 1843,
+          "like_count": 27745,
+          "listed_count": 4,
+          "media_count": 3050,
+          "tweet_count": 4212
+        },
+        "url": "https://t.co/yBrMpxafE6",
+        "username": "beast___senpai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

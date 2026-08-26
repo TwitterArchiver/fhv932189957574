@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1427786661203562498",
+          "name": "AliExpress"
+        }
+      }
+    ],
+    "conversation_id": "2091514510842732933",
+    "created_at": "2026-08-23T13:14:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091514510842732933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "257245904",
+          "start": 3,
+          "username": "brave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091514510842732933",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091232672659972110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brave: Alibaba's AliExpress was caught using users' audio systems to track them.\n\nAliExpress wasn't recording users but instead playing…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427786661203562498",
+              "name": "AliExpress"
+            }
+          }
+        ],
+        "conversation_id": "2091514510842732933",
+        "created_at": "2026-08-23T13:14:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091514510842732933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "257245904",
+              "start": 3,
+              "username": "brave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091514510842732933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091232672659972110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brave: Alibaba's AliExpress was caught using users' audio systems to track them.\n\nAliExpress wasn't recording users but instead playing…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257245904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427786661203562498",
+              "name": "AliExpress"
+            }
+          }
+        ],
+        "conversation_id": "2091232672659972110",
+        "created_at": "2026-08-22T18:34:57.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091232672659972110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091232672659972110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5144,
+          "impression_count": 3364459,
+          "like_count": 32662,
+          "quote_count": 489,
+          "reply_count": 338,
+          "retweet_count": 3450
+        },
+        "reply_settings": "everyone",
+        "text": "Alibaba's AliExpress was caught using users' audio systems to track them.\n\nAliExpress wasn't recording users but instead playing a silent sound and measuring how users' specific devices processed it in order to fingerprint them.\n\nBut don't worry because Brave stops this."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091514510842732933",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 479,
+          "like_count": 16877,
+          "listed_count": 0,
+          "media_count": 1276,
+          "tweet_count": 3870
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:18:01.000Z",
+        "description": "Browse and search faster and privately. Now over 122M users!\n\nSupport us: https://t.co/yFEtGCXExI\nBuild: https://t.co/JjscXOnw78\nGet help: @BraveSupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "BraveSupport"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "brave.com/premium",
+                "end": 97,
+                "expanded_url": "http://brave.com/premium",
+                "start": 74,
+                "url": "https://t.co/yFEtGCXExI"
+              },
+              {
+                "display_url": "brave.com/api",
+                "end": 128,
+                "expanded_url": "https://brave.com/api",
+                "start": 105,
+                "url": "https://t.co/JjscXOnw78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brave.com/links/",
+                "end": 23,
+                "expanded_url": "https://brave.com/links/",
+                "start": 0,
+                "url": "https://t.co/5BzLDYBq6j"
+              }
+            ]
+          }
+        },
+        "id": "257245904",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2091508962684276839",
+        "name": "Brave",
+        "pinned_tweet_id": "2087933578390712411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257245904/1724686389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951131044171644928/7RtvNuKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423923,
+          "following_count": 186,
+          "like_count": 23483,
+          "listed_count": 2714,
+          "media_count": 2333,
+          "tweet_count": 16192
+        },
+        "url": "https://t.co/5BzLDYBq6j",
+        "username": "brave",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

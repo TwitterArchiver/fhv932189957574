@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2085371871076475248",
+    "created_at": "2026-08-06T14:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085372779327840712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712830996398096384",
+          "start": 0,
+          "username": "yuno_yumemita"
+        },
+        {
+          "end": 29,
+          "id": "1182578997906964481",
+          "start": 15,
+          "username": "Aimoto_Rinku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085372779327840712",
+    "in_reply_to_user_id": "1712830996398096384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085371871076475248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuno_yumemita @Aimoto_Rinku_ いや、いや！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2085371871076475248",
+        "created_at": "2026-08-06T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085372779327840712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712830996398096384",
+              "start": 0,
+              "username": "yuno_yumemita"
+            },
+            {
+              "end": 29,
+              "id": "1182578997906964481",
+              "start": 15,
+              "username": "Aimoto_Rinku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085372779327840712",
+        "in_reply_to_user_id": "1712830996398096384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085371871076475248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuno_yumemita @Aimoto_Rinku_ いや、いや！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712830996398096384",
+        "conversation_id": "2085371871076475248",
+        "created_at": "2026-08-06T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085371871076475248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "アニメゆめみた"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085371871076475248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4775,
+          "like_count": 470,
+          "quote_count": 13,
+          "reply_count": 82,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "うんうん、それはみんな悪くないね\nじゃ、バンド辞めるね\n\n#アニメゆめみた"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 484,
+          "like_count": 14808,
+          "listed_count": 0,
+          "media_count": 1196,
+          "tweet_count": 3444
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T14:02:09.000Z",
+        "description": "バンドリ！夢限大みゅーたいぷ(@BDP_yumemita) DJ&Mp. 千石ユノ￤ヴァンガードが好きです\nアニメ▶︎#アニメゆめみた FA▶︎#ユノ展 エゴサ▶︎#みてユノ 配信▶︎#ユノの生存報告 顔面▶︎https://t.co/SRwnzkh5Yt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "アニメゆめみた"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "ユノ展"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "みてユノ"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "tag": "ユノの生存報告"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "BDP_yumemita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yunoch1",
+                "end": 128,
+                "expanded_url": "https://www.instagram.com/yunoch1",
+                "start": 105,
+                "url": "https://t.co/SRwnzkh5Yt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yuno_yumemita",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yuno_yumemita",
+                "start": 0,
+                "url": "https://t.co/BBK9yIdCgq"
+              }
+            ]
+          }
+        },
+        "id": "1712830996398096384",
+        "location": "配信スケジュールはハイライトにあります✌️",
+        "name": "千石ユノ",
+        "pinned_tweet_id": "2027710178544783529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722602929792901120/ILzmMz9M_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45220,
+          "following_count": 57,
+          "like_count": 60900,
+          "listed_count": 312,
+          "media_count": 866,
+          "tweet_count": 6409
+        },
+        "url": "https://t.co/BBK9yIdCgq",
+        "username": "yuno_yumemita",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-11T08:49:56.000Z",
+        "description": "05 バンドリーマー歴9年。よく大学生と間違われます。Ave Mujicaキャスト全員推し。丸山彩、千早愛音、八幡海鈴推し。最近は千石ユノをめちゃくちゃ推してます。マリカーとテトリス、モンストもしてます。",
+        "id": "1182578997906964481",
+        "location": "八幡海鈴の家",
+        "name": "ギスカン🖤🩷",
+        "pinned_tweet_id": "1772258631620399247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083197411724509184/1CA9175G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 4499,
+          "like_count": 315636,
+          "listed_count": 49,
+          "media_count": 21047,
+          "tweet_count": 202804
+        },
+        "url": "",
+        "username": "Aimoto_Rinku_",
+        "verified": false
+      }
+    ]
+  }
+}

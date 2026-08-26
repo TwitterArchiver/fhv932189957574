@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2087620657295360000"
+      ],
+      "media_source_tweet_id": [
+        "2087620670763200711"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087776551509402067",
+    "created_at": "2026-08-13T05:41:33.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087776551509402067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1262973808371101696",
+          "start": 3,
+          "username": "spiffyyyyyyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuoqFujMkE",
+          "end": 87,
+          "expanded_url": "https://x.com/spiffyyyyyyy/status/2087620670763200711/photo/1",
+          "media_key": "16_2087620657295360000",
+          "start": 64,
+          "url": "https://t.co/GuoqFujMkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087776551509402067",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2087620657295360000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087620670763200711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spiffyyyyyyy: I MISS FIREFLY WAHHHHHHHHHH I WANT HER SO BAD https://t.co/GuoqFujMkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2087620657295360000",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPi37VfbgAA-rkP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPi37VfbgAA-rkP.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087620657295360000"
+          ]
+        },
+        "author_id": "1262973808371101696",
+        "conversation_id": "2087620670763200711",
+        "created_at": "2026-08-12T19:22:08.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087620670763200711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuoqFujMkE",
+              "end": 69,
+              "expanded_url": "https://x.com/spiffyyyyyyy/status/2087620670763200711/photo/1",
+              "media_key": "16_2087620657295360000",
+              "start": 46,
+              "url": "https://t.co/GuoqFujMkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087620670763200711",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2087620657295360000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 2603,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "I MISS FIREFLY WAHHHHHHHHHH I WANT HER SO BAD https://t.co/GuoqFujMkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087620657295360000"
+          ],
+          "media_source_tweet_id": [
+            "2087620670763200711"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087776551509402067",
+        "created_at": "2026-08-13T05:41:33.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087776551509402067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1262973808371101696",
+              "start": 3,
+              "username": "spiffyyyyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuoqFujMkE",
+              "end": 87,
+              "expanded_url": "https://x.com/spiffyyyyyyy/status/2087620670763200711/photo/1",
+              "media_key": "16_2087620657295360000",
+              "start": 64,
+              "url": "https://t.co/GuoqFujMkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087776551509402067",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2087620657295360000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087620670763200711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spiffyyyyyyy: I MISS FIREFLY WAHHHHHHHHHH I WANT HER SO BAD https://t.co/GuoqFujMkE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087776551509402067",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 482,
+          "like_count": 15647,
+          "listed_count": 0,
+          "media_count": 1232,
+          "tweet_count": 3656
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-20T05:10:07.000Z",
+        "description": "he/any | deadlocker & tokusatsu fan | full time firefly fan/yume | subscribe to @quandarywins",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "quandarywins"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…ffyyytheawesomeandfortnite.straw.page",
+                "end": 23,
+                "expanded_url": "https://spiffyyytheawesomeandfortnite.straw.page",
+                "start": 0,
+                "url": "https://t.co/SMY3JVmJ6K"
+              }
+            ]
+          }
+        },
+        "id": "1262973808371101696",
+        "is_identity_verified": false,
+        "location": "em wave changing! || 19",
+        "most_recent_tweet_id": "2087769480596431107",
+        "name": "spiffyyy",
+        "pinned_tweet_id": "2080356361607720985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262973808371101696/1772573512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080150995078897664/g9ZVssTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 1237,
+          "like_count": 182723,
+          "listed_count": 6,
+          "media_count": 1191,
+          "tweet_count": 29820
+        },
+        "url": "https://t.co/SMY3JVmJ6K",
+        "username": "spiffyyyyyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

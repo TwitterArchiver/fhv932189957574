@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086464364941541376"
+      ],
+      "media_source_tweet_id": [
+        "2086464384516452439"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2086546049301397877",
+    "created_at": "2026-08-09T20:11:58.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086546049301397877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877277569550266370",
+          "start": 3,
+          "username": "Tamz520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07Qca7Mt3E",
+          "end": 57,
+          "expanded_url": "https://x.com/Tamz520/status/2086464384516452439/photo/1",
+          "media_key": "3_2086464364941541376",
+          "start": 34,
+          "url": "https://t.co/07Qca7Mt3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086546049301397877",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086464364941541376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086464384516452439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tamz520: 什么样的遭遇才会让一个男人穿上这套行装？ https://t.co/07Qca7Mt3E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1808,
+        "media_key": "3_2086464364941541376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPScSQzaAAAX48S.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086464364941541376"
+          ]
+        },
+        "author_id": "1877277569550266370",
+        "conversation_id": "2086464384516452439",
+        "created_at": "2026-08-09T14:47:28.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086464384516452439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07Qca7Mt3E",
+              "end": 44,
+              "expanded_url": "https://x.com/Tamz520/status/2086464384516452439/photo/1",
+              "media_key": "3_2086464364941541376",
+              "start": 21,
+              "url": "https://t.co/07Qca7Mt3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086464384516452439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086464364941541376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么样的遭遇才会让一个男人穿上这套行装？ https://t.co/07Qca7Mt3E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086464364941541376"
+          ],
+          "media_source_tweet_id": [
+            "2086464384516452439"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2086546049301397877",
+        "created_at": "2026-08-09T20:11:58.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086546049301397877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877277569550266370",
+              "start": 3,
+              "username": "Tamz520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07Qca7Mt3E",
+              "end": 57,
+              "expanded_url": "https://x.com/Tamz520/status/2086464384516452439/photo/1",
+              "media_key": "3_2086464364941541376",
+              "start": 34,
+              "url": "https://t.co/07Qca7Mt3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086546049301397877",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086464364941541376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086464384516452439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tamz520: 什么样的遭遇才会让一个男人穿上这套行装？ https://t.co/07Qca7Mt3E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2086546049301397877",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 478,
+          "like_count": 15157,
+          "listed_count": 0,
+          "media_count": 1218,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-09T08:54:01.000Z",
+        "description": "柒彩云端汇青蓝，\n头顶万象聚飞鸟。\n互助赢来千帆留，\n关山不阻众心步。",
+        "id": "1877277569550266370",
+        "is_identity_verified": false,
+        "location": "Near 0.5km",
+        "most_recent_tweet_id": "2086499901459095641",
+        "name": "广式柒头🫵",
+        "pinned_tweet_id": "2079511010281717938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877277569550266370/1776053720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047808347836170240/hj9eocM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 3568,
+          "like_count": 14601,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 6301
+        },
+        "url": "",
+        "username": "Tamz520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

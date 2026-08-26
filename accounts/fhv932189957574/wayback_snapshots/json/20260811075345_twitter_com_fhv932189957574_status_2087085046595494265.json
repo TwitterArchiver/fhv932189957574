@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086889643237412864"
+      ],
+      "media_source_tweet_id": [
+        "2086889652238336134"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2087085046595494265",
+    "created_at": "2026-08-11T07:53:45.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087085046595494265"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 29,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486735778562461700",
+          "start": 3,
+          "username": "_samuperior"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fXRrrER71J",
+          "end": 64,
+          "expanded_url": "https://x.com/_samuperior/status/2086889652238336134/photo/1",
+          "media_key": "3_2086889643237412864",
+          "start": 41,
+          "url": "https://t.co/fXRrrER71J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087085046595494265",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086889643237412864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086889652238336134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_samuperior: arale punch\n#bandoriart https://t.co/fXRrrER71J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2086889643237412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYfEt6bkAAYdJe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086889643237412864"
+          ]
+        },
+        "author_id": "1486735778562461700",
+        "conversation_id": "2086889652238336134",
+        "created_at": "2026-08-10T18:57:20.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086889652238336134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXRrrER71J",
+              "end": 47,
+              "expanded_url": "https://x.com/_samuperior/status/2086889652238336134/photo/1",
+              "media_key": "3_2086889643237412864",
+              "start": 24,
+              "url": "https://t.co/fXRrrER71J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086889652238336134",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086889643237412864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 23110,
+          "like_count": 2979,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "arale punch\n#bandoriart https://t.co/fXRrrER71J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086889643237412864"
+          ],
+          "media_source_tweet_id": [
+            "2086889652238336134"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2087085046595494265",
+        "created_at": "2026-08-11T07:53:45.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087085046595494265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486735778562461700",
+              "start": 3,
+              "username": "_samuperior"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXRrrER71J",
+              "end": 64,
+              "expanded_url": "https://x.com/_samuperior/status/2086889652238336134/photo/1",
+              "media_key": "3_2086889643237412864",
+              "start": 41,
+              "url": "https://t.co/fXRrrER71J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087085046595494265",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086889643237412864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086889652238336134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_samuperior: arale punch\n#bandoriart https://t.co/fXRrrER71J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087085046595494265",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 480,
+          "like_count": 15318,
+          "listed_count": 0,
+          "media_count": 1225,
+          "tweet_count": 3601
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-27T16:20:20.000Z",
+        "description": "✦ Samu/Regulus ✦ 20 ✦ she/her ✦ mostly bandori related ✦ I draw what I really like 🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "samuperior.carrd.co",
+                "end": 23,
+                "expanded_url": "https://samuperior.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/OHcjMKrpzQ"
+              }
+            ]
+          }
+        },
+        "id": "1486735778562461700",
+        "is_identity_verified": false,
+        "location": "🇲🇾",
+        "most_recent_tweet_id": "2086962536621150665",
+        "name": "Regulus Samu",
+        "pinned_tweet_id": "2075212571532316963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486735778562461700/1778555457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032081411629596677/9ZvckRuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 262,
+          "like_count": 39789,
+          "listed_count": 14,
+          "media_count": 722,
+          "tweet_count": 4517
+        },
+        "url": "https://t.co/OHcjMKrpzQ",
+        "username": "_samuperior",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

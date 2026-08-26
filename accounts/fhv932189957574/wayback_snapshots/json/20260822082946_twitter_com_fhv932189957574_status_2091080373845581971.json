@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2091080373845581971",
+    "created_at": "2026-08-22T08:29:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091080373845581971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1177787785614434304",
+          "start": 3,
+          "username": "oarrozoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091080373845581971",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9790
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090849528203165728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oarrozoi: Que porra de vídeo é esse KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10356,
+        "height": 568,
+        "media_key": "13_2090849517352415232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090849517352415232/img/asBzliLmlYRRrVco.jpg",
+        "public_metrics": {
+          "view_count": 1020669
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090849517352415232/vid/avc1/320x568/FBz3bOWPBcngLp0Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090849517352415232/pl/m5sxl8Ay7zaECbh6.m3u8?v=3d8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2091080373845581971",
+        "created_at": "2026-08-22T08:29:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091080373845581971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1177787785614434304",
+              "start": 3,
+              "username": "oarrozoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091080373845581971",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9790
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090849528203165728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oarrozoi: Que porra de vídeo é esse KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090849517352415232"
+          ]
+        },
+        "author_id": "1177787785614434304",
+        "conversation_id": "2090849528203165728",
+        "created_at": "2026-08-21T17:12:28.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090849528203165728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGSFLn1OLs",
+              "end": 171,
+              "expanded_url": "https://x.com/oarrozoi/status/2090849528203165728/video/1",
+              "media_key": "13_2090849517352415232",
+              "start": 148,
+              "url": "https://t.co/sGSFLn1OLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090849528203165728",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2090849517352415232"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "This is an AI generated video",
+            "suggestion_id": "2090956165668618701"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15624,
+          "impression_count": 2016434,
+          "like_count": 74670,
+          "quote_count": 748,
+          "reply_count": 699,
+          "retweet_count": 9790
+        },
+        "reply_settings": "everyone",
+        "text": "Que porra de vídeo é esse KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK https://t.co/sGSFLn1OLs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2091080373845581971",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 478,
+          "like_count": 16635,
+          "listed_count": 0,
+          "media_count": 1263,
+          "tweet_count": 3827
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-28T03:31:09.000Z",
+        "description": "Tenho fome",
+        "id": "1177787785614434304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091065892964618549",
+        "name": "Arroz",
+        "pinned_tweet_id": "2061573793244455124",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177787785614434304/1787277415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090619150171242496/CR5XeRa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 361,
+          "like_count": 10437,
+          "listed_count": 5,
+          "media_count": 2999,
+          "tweet_count": 17277
+        },
+        "url": "",
+        "username": "oarrozoi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

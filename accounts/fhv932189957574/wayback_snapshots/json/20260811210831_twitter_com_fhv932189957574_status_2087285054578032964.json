@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087119686932807680"
+      ],
+      "media_source_tweet_id": [
+        "2087119698777493935"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2087285054578032964",
+    "created_at": "2026-08-11T21:08:31.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T22:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087285054578032964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702988704921608192",
+          "start": 3,
+          "username": "Ele_1177"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dY8mhxyYx1",
+          "end": 51,
+          "expanded_url": "https://x.com/Ele_1177/status/2087119698777493935/photo/1",
+          "media_key": "3_2087119686932807680",
+          "start": 28,
+          "url": "https://t.co/dY8mhxyYx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087285054578032964",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087119686932807680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087119698777493935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ele_1177: 推し絵師と恋人になって1年 https://t.co/dY8mhxyYx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2087119686932807680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbwTBdawAAP-Bv.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087119686932807680"
+          ]
+        },
+        "author_id": "1702988704921608192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2087119698777493935",
+        "created_at": "2026-08-11T10:11:27.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087119698777493935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY8mhxyYx1",
+              "end": 37,
+              "expanded_url": "https://x.com/Ele_1177/status/2087119698777493935/photo/1",
+              "media_key": "3_2087119686932807680",
+              "start": 14,
+              "url": "https://t.co/dY8mhxyYx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087119698777493935",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087119686932807680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 77650,
+          "like_count": 3115,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "推し絵師と恋人になって1年 https://t.co/dY8mhxyYx1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087119686932807680"
+          ],
+          "media_source_tweet_id": [
+            "2087119698777493935"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2087285054578032964",
+        "created_at": "2026-08-11T21:08:31.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087285054578032964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702988704921608192",
+              "start": 3,
+              "username": "Ele_1177"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY8mhxyYx1",
+              "end": 51,
+              "expanded_url": "https://x.com/Ele_1177/status/2087119698777493935/photo/1",
+              "media_key": "3_2087119686932807680",
+              "start": 28,
+              "url": "https://t.co/dY8mhxyYx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087285054578032964",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087119686932807680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087119698777493935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ele_1177: 推し絵師と恋人になって1年 https://t.co/dY8mhxyYx1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 137,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 114,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦",
+        "most_recent_tweet_id": "2087285054578032964",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 482,
+          "like_count": 15439,
+          "listed_count": 0,
+          "media_count": 1230,
+          "tweet_count": 3622
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-16T10:12:10.000Z",
+        "description": "男の娘大好き。fantia-https://t.co/oWyYrkD473 /ファンボ-https://t.co/DbCSZ9S0Xi /サブ垢-@Ele_17sub /Youtube-@ChinoEleTube /恋人-@ChinoMaron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Ele_17sub"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "ChinoEleTube"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "ChinoMaron"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/ele1177",
+                "end": 37,
+                "expanded_url": "https://fantia.jp/ele1177",
+                "start": 14,
+                "url": "https://t.co/oWyYrkD473"
+              },
+              {
+                "display_url": "ele-1177.fanbox.cc",
+                "end": 67,
+                "expanded_url": "https://ele-1177.fanbox.cc",
+                "start": 44,
+                "url": "https://t.co/DbCSZ9S0Xi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2YOKBCRPLVSFA?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/kQCVVavkpy"
+              }
+            ]
+          }
+        },
+        "id": "1702988704921608192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087119698777493935",
+        "name": "エレ",
+        "pinned_tweet_id": "2083856427769270500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702988704921608192/1765446001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999161025548132352/HpcRa02Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 339,
+          "like_count": 388,
+          "listed_count": 37,
+          "media_count": 394,
+          "tweet_count": 4129
+        },
+        "url": "https://t.co/kQCVVavkpy",
+        "username": "Ele_1177",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
