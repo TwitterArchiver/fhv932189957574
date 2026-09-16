@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084595442768343040"
+      ],
+      "media_source_tweet_id": [
+        "2084595446690037776"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2085044765217984533",
+    "created_at": "2026-08-05T16:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085044765217984533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 25,
+          "tag": "うちのゆめみたぷちっしゅみて"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1182813598227107841",
+          "start": 3,
+          "username": "shibaken_315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EsoFHgXgrW",
+          "end": 64,
+          "expanded_url": "https://x.com/shibaken_315/status/2084595446690037776/photo/1",
+          "media_key": "3_2084595442768343040",
+          "start": 41,
+          "url": "https://t.co/EsoFHgXgrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085044765217984533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084595446690037776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibaken_315: バブみたｽﾞ\n#うちのゆめみたぷちっしゅみて https://t.co/EsoFHgXgrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2084595442768343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO34grKa8AA2CH_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084595442768343040"
+          ]
+        },
+        "author_id": "1182813598227107841",
+        "conversation_id": "2084595446690037776",
+        "created_at": "2026-08-04T11:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084595446690037776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 7,
+              "tag": "うちのゆめみたぷちっしゅみて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsoFHgXgrW",
+              "end": 46,
+              "expanded_url": "https://x.com/shibaken_315/status/2084595446690037776/photo/1",
+              "media_key": "3_2084595442768343040",
+              "start": 23,
+              "url": "https://t.co/EsoFHgXgrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084595446690037776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9173,
+          "like_count": 709,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "バブみたｽﾞ\n#うちのゆめみたぷちっしゅみて https://t.co/EsoFHgXgrW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084595442768343040"
+          ],
+          "media_source_tweet_id": [
+            "2084595446690037776"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2085044765217984533",
+        "created_at": "2026-08-05T16:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085044765217984533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 25,
+              "tag": "うちのゆめみたぷちっしゅみて"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1182813598227107841",
+              "start": 3,
+              "username": "shibaken_315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsoFHgXgrW",
+              "end": 64,
+              "expanded_url": "https://x.com/shibaken_315/status/2084595446690037776/photo/1",
+              "media_key": "3_2084595442768343040",
+              "start": 41,
+              "url": "https://t.co/EsoFHgXgrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085044765217984533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084595446690037776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shibaken_315: バブみたｽﾞ\n#うちのゆめみたぷちっしゅみて https://t.co/EsoFHgXgrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 483,
+          "like_count": 14653,
+          "listed_count": 0,
+          "media_count": 1194,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-12T00:22:01.000Z",
+        "description": "Aqours/夢限大みゅーたいぷ (ぽまえら・YUNO's🖤🩷)\nRAISE A SUILEN/Ave Mujica/MyGO!!!!!\nトゲナシトゲアリ/結束バンド\n打首獄門同好会/HEY-SMITH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kenmaru1534?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kenmaru1534?igsh=Ymh4dWxiZzkxaDA4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tXQmERq8Lt"
+              }
+            ]
+          }
+        },
+        "id": "1182813598227107841",
+        "location": "日本",
+        "name": "しばけん",
+        "pinned_tweet_id": "2004157228891406827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083330030181216256/GrjLdYCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 923,
+          "like_count": 4692,
+          "listed_count": 17,
+          "media_count": 1676,
+          "tweet_count": 4930
+        },
+        "url": "https://t.co/tXQmERq8Lt",
+        "username": "shibaken_315",
+        "verified": false
+      }
+    ]
+  }
+}

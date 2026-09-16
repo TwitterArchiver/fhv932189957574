@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099887175638872064"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2099618725083394260",
+    "created_at": "2026-09-15T15:44:53.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099887183230562801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089284143603728384",
+          "start": 0,
+          "username": "uffyebanda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alOuc3udZJ",
+          "end": 35,
+          "expanded_url": "https://x.com/fhv932189957574/status/2099887183230562801/photo/1",
+          "media_key": "3_2099887175638872064",
+          "start": 12,
+          "url": "https://t.co/alOuc3udZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099887183230562801",
+    "in_reply_to_user_id": "2089284143603728384",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2099887175638872064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099618725083394260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uffyebanda https://t.co/alOuc3udZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099887175638872064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRMQrRacAAg_g8.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099887175638872064"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2099618725083394260",
+        "created_at": "2026-09-15T15:44:53.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099887183230562801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089284143603728384",
+              "start": 0,
+              "username": "uffyebanda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alOuc3udZJ",
+              "end": 35,
+              "expanded_url": "https://x.com/fhv932189957574/status/2099887183230562801/photo/1",
+              "media_key": "3_2099887175638872064",
+              "start": 12,
+              "url": "https://t.co/alOuc3udZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099887183230562801",
+        "in_reply_to_user_id": "2089284143603728384",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099887175638872064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099618725083394260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uffyebanda https://t.co/alOuc3udZJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089284143603728384",
+        "conversation_id": "2099618725083394260",
+        "created_at": "2026-09-14T21:58:07.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099618725083394260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099618725083394260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 502485,
+          "like_count": 3824,
+          "quote_count": 3235,
+          "reply_count": 3160,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "NO cheating, post your last saved image without any context"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099887183230562801",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 515,
+          "like_count": 19592,
+          "listed_count": 0,
+          "media_count": 1425,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T09:34:32.000Z",
+        "description": "uffffff",
+        "id": "2089284143603728384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099839631248494925",
+        "name": "yreva",
+        "pinned_tweet_id": "2096975198935564478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089284143603728384/1786959555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094675473104330752/0zRw3Mce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 4,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "uffyebanda",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

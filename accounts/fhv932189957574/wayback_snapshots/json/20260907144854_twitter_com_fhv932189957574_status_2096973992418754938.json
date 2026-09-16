@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096973917718253569"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2096966299415150781",
+    "created_at": "2026-09-07T14:48:54.000Z",
+    "display_text_range": [
+      9,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096973992418754938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t2stpNJd9z",
+          "end": 33,
+          "expanded_url": "https://x.com/fhv932189957574/status/2096973992418754938/video/1",
+          "media_key": "13_2096973917718253569",
+          "start": 10,
+          "url": "https://t.co/t2stpNJd9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096973992418754938",
+    "in_reply_to_user_id": "193648759",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2096973917718253569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096966299415150781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 https://t.co/t2stpNJd9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33227,
+        "height": 1280,
+        "media_key": "13_2096973917718253569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096973917718253569/img/Kam3VX4eLWAEzrZN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096973917718253569/vid/avc1/320x568/RJAGRIg5VuvKXwmj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096973917718253569/vid/avc1/480x852/Xbv43smKc-Xzraoc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096973917718253569/vid/avc1/720x1280/nWPiyZ8hcD8fQ21K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096973917718253569/pl/7T6gmelptI7VKvI7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096973917718253569"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2096966299415150781",
+        "created_at": "2026-09-07T14:48:54.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096973992418754938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2stpNJd9z",
+              "end": 33,
+              "expanded_url": "https://x.com/fhv932189957574/status/2096973992418754938/video/1",
+              "media_key": "13_2096973917718253569",
+              "start": 10,
+              "url": "https://t.co/t2stpNJd9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096973992418754938",
+        "in_reply_to_user_id": "193648759",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2096973917718253569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096966299415150781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 https://t.co/t2stpNJd9z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2096966299415150781",
+        "created_at": "2026-09-07T14:18:20.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096966299415150781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/enorez2/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/enorez2/status/2096966162965737832",
+              "start": 9,
+              "url": "https://t.co/AKVbXdznZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096966299415150781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096966162965737832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘情牛肉面是什么 https://t.co/AKVbXdznZK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2096973992418754938",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 507,
+          "like_count": 18132,
+          "listed_count": 0,
+          "media_count": 1368,
+          "tweet_count": 4155
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "is_identity_verified": true,
+        "location": "東側",
+        "most_recent_tweet_id": "2096972401410191497",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193648759/1701241565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13374,
+          "following_count": 1451,
+          "like_count": 76677,
+          "listed_count": 140,
+          "media_count": 4622,
+          "tweet_count": 55833
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

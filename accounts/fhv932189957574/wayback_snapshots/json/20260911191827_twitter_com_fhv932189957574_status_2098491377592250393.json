@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2097968700477620707",
+    "created_at": "2026-09-11T19:18:27.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098491377592250393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2087533307689144320",
+          "start": 0,
+          "username": "WilberMikuzng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098491377592250393",
+    "in_reply_to_user_id": "2087533307689144320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097968700477620707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@WilberMikuzng 为什么我可以回复"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6757,
+        "height": 1280,
+        "media_key": "13_2097968666776408064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097968666776408064/img/ynnotp8FLfYFUkRE.jpg",
+        "public_metrics": {
+          "view_count": 515448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097968666776408064/vid/avc1/320x568/MjQ7Kf_iRDPczgVC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097968666776408064/vid/avc1/480x852/0iuniPsS5c9wraqy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097968666776408064/vid/avc1/720x1280/UdRbQgpjzeRdEc2H.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097968666776408064/pl/ie43LmEmvVL52rBT.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2097968700477620707",
+        "created_at": "2026-09-11T19:18:27.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098491377592250393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2087533307689144320",
+              "start": 0,
+              "username": "WilberMikuzng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098491377592250393",
+        "in_reply_to_user_id": "2087533307689144320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097968700477620707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@WilberMikuzng 为什么我可以回复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097968666776408064"
+          ]
+        },
+        "author_id": "2087533307689144320",
+        "conversation_id": "2097968700477620707",
+        "created_at": "2026-09-10T08:41:31.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097968700477620707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Track clicks. Protect links. Grow faster.",
+              "display_url": "media1.slivedrice.space/a/0bala2.mp4",
+              "end": 23,
+              "expanded_url": "https://media1.slivedrice.space/a/0bala2.mp4",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2097656646193606656/uRKMrNJi?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097656646193606656/uRKMrNJi?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Sholink - Smart URL Shortener",
+              "unwound_url": "https://twimg-media.site/PIBtmx",
+              "url": "https://t.co/4m6Qg2jkpC"
+            },
+            {
+              "description": "Track clicks. Protect links. Grow faster.",
+              "display_url": "media2.slivedrice.space/wIHMfT5.mp4",
+              "end": 47,
+              "expanded_url": "https://media2.slivedrice.space/wIHMfT5.mp4",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2097568296908296192/mnLG5Kcx?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097568296908296192/mnLG5Kcx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Sholink - Smart URL Shortener",
+              "unwound_url": "https://twimg-media.site/oKs6GB",
+              "url": "https://t.co/DL5bnNiP8i"
+            },
+            {
+              "display_url": "pic.x.com/9hyW9qe6jM",
+              "end": 71,
+              "expanded_url": "https://x.com/WilberMikuzng/status/2097968700477620707/video/1",
+              "media_key": "13_2097968666776408064",
+              "start": 48,
+              "url": "https://t.co/9hyW9qe6jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097968700477620707",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097968666776408064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4668,
+          "impression_count": 1076265,
+          "like_count": 12856,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "reply_settings": "verified",
+        "text": "https://t.co/4m6Qg2jkpC\nhttps://t.co/DL5bnNiP8i https://t.co/9hyW9qe6jM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2098491377592250393",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 513,
+          "like_count": 18742,
+          "listed_count": 0,
+          "media_count": 1403,
+          "tweet_count": 4270
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T13:35:42.000Z",
+        "description": "",
+        "id": "2087533307689144320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098354592136471030",
+        "name": "Wilber Mikulski",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087533528879910912/UueGr8ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 45,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "WilberMikuzng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

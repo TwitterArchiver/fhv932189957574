@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097712521490886657"
+      ],
+      "media_source_tweet_id": [
+        "2097712525131280732"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2097779278658384001",
+    "created_at": "2026-09-09T20:08:49.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T21:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097779278658384001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "107238136",
+          "start": 3,
+          "username": "duolingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouC7qtEaVF",
+          "end": 89,
+          "expanded_url": "https://x.com/duolingo/status/2097712525131280732/photo/1",
+          "media_key": "3_2097712521490886657",
+          "start": 66,
+          "url": "https://t.co/ouC7qtEaVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097779278658384001",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097712521490886657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097712525131280732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duolingo: they named a phone after me and made it bend over 😭 https://t.co/ouC7qtEaVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2097712521490886657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRySbJRacAEw7fO.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097712521490886657"
+          ],
+          "media_source_tweet_id": [
+            "2097712525131280732"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2097779278658384001",
+        "created_at": "2026-09-09T20:08:49.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T21:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097779278658384001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "107238136",
+              "start": 3,
+              "username": "duolingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouC7qtEaVF",
+              "end": 89,
+              "expanded_url": "https://x.com/duolingo/status/2097712525131280732/photo/1",
+              "media_key": "3_2097712521490886657",
+              "start": 66,
+              "url": "https://t.co/ouC7qtEaVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097779278658384001",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097712521490886657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097712525131280732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duolingo: they named a phone after me and made it bend over 😭 https://t.co/ouC7qtEaVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097712521490886657"
+          ]
+        },
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2097712525131280732",
+        "created_at": "2026-09-09T15:43:34.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097712525131280732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouC7qtEaVF",
+              "end": 75,
+              "expanded_url": "https://x.com/duolingo/status/2097712525131280732/photo/1",
+              "media_key": "3_2097712521490886657",
+              "start": 52,
+              "url": "https://t.co/ouC7qtEaVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097712525131280732",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097712521490886657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1508,
+          "impression_count": 1281391,
+          "like_count": 32464,
+          "quote_count": 898,
+          "reply_count": 572,
+          "retweet_count": 3286
+        },
+        "reply_settings": "everyone",
+        "text": "they named a phone after me and made it bend over 😭 https://t.co/ouC7qtEaVF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2097779278658384001",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 511,
+          "like_count": 18522,
+          "listed_count": 0,
+          "media_count": 1390,
+          "tweet_count": 4232
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "hot owl summer 💚🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "http://duolingo.com",
+                "start": 0,
+                "url": "https://t.co/rkZWsyHSRz"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097772611753099401",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107238136/1770052240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072277831376093184/U5-jTCUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034644,
+          "following_count": 506,
+          "like_count": 24510,
+          "listed_count": 2790,
+          "media_count": 2109,
+          "tweet_count": 54289
+        },
+        "url": "https://t.co/rkZWsyHSRz",
+        "username": "duolingo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097268019118661632"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2097021041419997252",
+    "created_at": "2026-09-08T10:17:17.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097268026118971740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961430478701182976",
+          "start": 0,
+          "username": "ohnohyw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLYsAj63vO",
+          "end": 46,
+          "expanded_url": "https://x.com/fhv932189957574/status/2097268026118971740/photo/1",
+          "media_key": "3_2097268019118661632",
+          "start": 23,
+          "url": "https://t.co/gLYsAj63vO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097268026118971740",
+    "in_reply_to_user_id": "1961430478701182976",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097268019118661632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097021041419997252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohnohyw 爱音简直奥特曼，爱人这一块 https://t.co/gLYsAj63vO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2097268019118661632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr-Js5a4AAtE5Z.jpg",
+        "width": 1130
+      },
+      {
+        "height": 500,
+        "media_key": "16_2097021022528770048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRodgm5akAADTeN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRodgm5akAADTeN.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097268019118661632"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2097021041419997252",
+        "created_at": "2026-09-08T10:17:17.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097268026118971740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961430478701182976",
+              "start": 0,
+              "username": "ohnohyw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLYsAj63vO",
+              "end": 46,
+              "expanded_url": "https://x.com/fhv932189957574/status/2097268026118971740/photo/1",
+              "media_key": "3_2097268019118661632",
+              "start": 23,
+              "url": "https://t.co/gLYsAj63vO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097268026118971740",
+        "in_reply_to_user_id": "1961430478701182976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097268019118661632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097021041419997252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohnohyw 爱音简直奥特曼，爱人这一块 https://t.co/gLYsAj63vO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097021022528770048"
+          ]
+        },
+        "author_id": "1961430478701182976",
+        "conversation_id": "2097021041419997252",
+        "created_at": "2026-09-07T17:55:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097021041419997252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjgDglRh7y",
+              "end": 164,
+              "expanded_url": "https://x.com/ohnohyw/status/2097021041419997252/photo/1",
+              "media_key": "16_2097021022528770048",
+              "start": 141,
+              "url": "https://t.co/sjgDglRh7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097021041419997252",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2097021022528770048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4014,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天是东京时间9月8起，是MyGO!!!!!的吉他高手千早爱音的生日。也恭喜千早爱音加冕2026届b萌萌王。转发这条消息到十个群聊，就能得到ANONTOKYO服装店爱音亲手签名的衣服一件。我试过了是假的，还被人骂圣厨癔症又犯了。但今天真的是爱音的生日，让我们祝anno酱生日快乐！ https://t.co/sjgDglRh7y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2097268026118971740",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 508,
+          "like_count": 18190,
+          "listed_count": 0,
+          "media_count": 1373,
+          "tweet_count": 4172
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "霜打青松松更青，血染红旗旗更红｜生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo，qq扩列请私信丨晶哥不要给我推文加书签了我是良民啊",
+        "id": "1961430478701182976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097220888634810777",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961430478701182976/1762917232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022228574091333632/ULOdG8Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 758,
+          "like_count": 7371,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3664
+        },
+        "url": "",
+        "username": "ohnohyw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097625979233648640"
+      ],
+      "media_source_tweet_id": [
+        "2097626609125851527"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2097771977285202097",
+    "created_at": "2026-09-09T19:39:48.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097771977285202097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1930508629997948928",
+          "start": 3,
+          "username": "Dark_Accel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dz0oxhcLYq",
+          "end": 45,
+          "expanded_url": "https://x.com/Dark_Accel/status/2097626609125851527/photo/1",
+          "media_key": "3_2097625979233648640",
+          "start": 22,
+          "url": "https://t.co/dz0oxhcLYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097771977285202097",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097625979233648640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097626609125851527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dark_Accel: 呪いの人形 https://t.co/dz0oxhcLYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2097625979233648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxDtuPaQAAtDRW.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097625979233648640"
+          ],
+          "media_source_tweet_id": [
+            "2097626609125851527"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2097771977285202097",
+        "created_at": "2026-09-09T19:39:48.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097771977285202097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1930508629997948928",
+              "start": 3,
+              "username": "Dark_Accel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dz0oxhcLYq",
+              "end": 45,
+              "expanded_url": "https://x.com/Dark_Accel/status/2097626609125851527/photo/1",
+              "media_key": "3_2097625979233648640",
+              "start": 22,
+              "url": "https://t.co/dz0oxhcLYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097771977285202097",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097625979233648640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097626609125851527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dark_Accel: 呪いの人形 https://t.co/dz0oxhcLYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097625979233648640"
+          ]
+        },
+        "author_id": "1930508629997948928",
+        "conversation_id": "2097626609125851527",
+        "created_at": "2026-09-09T10:02:10.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097626609125851527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dz0oxhcLYq",
+              "end": 29,
+              "expanded_url": "https://x.com/Dark_Accel/status/2097626609125851527/photo/1",
+              "media_key": "3_2097625979233648640",
+              "start": 6,
+              "url": "https://t.co/dz0oxhcLYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097626609125851527",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097625979233648640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6503,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "呪いの人形 https://t.co/dz0oxhcLYq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2097771977285202097",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 511,
+          "like_count": 18510,
+          "listed_count": 0,
+          "media_count": 1389,
+          "tweet_count": 4229
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-05T06:15:04.000Z",
+        "description": "AI\n\nUse NovelAI \n\nhttps://t.co/RKef2Kk5dm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3439532",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/3439532",
+                "start": 18,
+                "url": "https://t.co/RKef2Kk5dm"
+              }
+            ]
+          }
+        },
+        "id": "1930508629997948928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097702123031101696",
+        "name": "DarkAccel",
+        "pinned_tweet_id": "2083936695842676837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930508629997948928/1787681241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092312884009394176/20NWXQR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7692,
+          "following_count": 0,
+          "like_count": 199,
+          "listed_count": 30,
+          "media_count": 2398,
+          "tweet_count": 2466
+        },
+        "url": "",
+        "username": "Dark_Accel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

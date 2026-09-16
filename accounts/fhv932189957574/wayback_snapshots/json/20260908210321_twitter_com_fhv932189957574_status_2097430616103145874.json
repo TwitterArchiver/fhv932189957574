@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097319022929027072"
+      ],
+      "media_source_tweet_id": [
+        "2097319285521805761"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2097430616103145874",
+    "created_at": "2026-09-08T21:03:21.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097430616103145874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 64,
+          "tag": "Vtuberㅤ"
+        },
+        {
+          "end": 80,
+          "start": 73,
+          "tag": "Live2d"
+        },
+        {
+          "end": 93,
+          "start": 81,
+          "tag": "VtuberModel"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790289619478810624",
+          "start": 3,
+          "username": "reyn_emote"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7e2Z1Bf77",
+          "end": 117,
+          "expanded_url": "https://x.com/reyn_emote/status/2097319285521805761/video/1",
+          "media_key": "13_2097319022929027072",
+          "start": 94,
+          "url": "https://t.co/S7e2Z1Bf77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097430616103145874",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097319022929027072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097319285521805761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reyn_emote: Non-human VTubers are always a fun challenge😍✨\n\n#Vtuberㅤ #Live2d #VtuberModel https://t.co/S7e2Z1Bf77"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28537,
+        "height": 1080,
+        "media_key": "13_2097319022929027072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097319022929027072/img/yZjBJqbqc-5dUzcU.jpg",
+        "public_metrics": {
+          "view_count": 79331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097319022929027072/pl/1dpUOWtNMdsTbjzh.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097319022929027072/vid/avc1/432x270/MsvLkfVYZZoVIpJq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097319022929027072/vid/avc1/576x360/AaK2XBKcp3j2kG6n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097319022929027072/vid/avc1/1152x720/NNja5Arq9WaHOuC4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097319022929027072/vid/avc1/1728x1080/tQ7PP4jy13k5Fn5P.mp4"
+          }
+        ],
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097319022929027072"
+          ],
+          "media_source_tweet_id": [
+            "2097319285521805761"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2097430616103145874",
+        "created_at": "2026-09-08T21:03:21.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097430616103145874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "Vtuberㅤ"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "Live2d"
+            },
+            {
+              "end": 93,
+              "start": 81,
+              "tag": "VtuberModel"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790289619478810624",
+              "start": 3,
+              "username": "reyn_emote"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7e2Z1Bf77",
+              "end": 117,
+              "expanded_url": "https://x.com/reyn_emote/status/2097319285521805761/video/1",
+              "media_key": "13_2097319022929027072",
+              "start": 94,
+              "url": "https://t.co/S7e2Z1Bf77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097430616103145874",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097319022929027072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097319285521805761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reyn_emote: Non-human VTubers are always a fun challenge😍✨\n\n#Vtuberㅤ #Live2d #VtuberModel https://t.co/S7e2Z1Bf77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097319022929027072"
+          ]
+        },
+        "author_id": "1790289619478810624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2097319285521805761",
+        "created_at": "2026-09-08T13:40:58.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097319285521805761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "Vtuberㅤ"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "Live2d"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "VtuberModel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7e2Z1Bf77",
+              "end": 101,
+              "expanded_url": "https://x.com/reyn_emote/status/2097319285521805761/video/1",
+              "media_key": "13_2097319022929027072",
+              "start": 78,
+              "url": "https://t.co/S7e2Z1Bf77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097319285521805761",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097319022929027072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 133275,
+          "like_count": 1978,
+          "quote_count": 50,
+          "reply_count": 90,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Non-human VTubers are always a fun challenge😍✨\n\n#Vtuberㅤ #Live2d #VtuberModel https://t.co/S7e2Z1Bf77"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2097430616103145874",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 507,
+          "like_count": 18379,
+          "listed_count": 0,
+          "media_count": 1382,
+          "tweet_count": 4208
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T07:54:50.000Z",
+        "description": "🎨 VTuber & Character Design \n✨ Live2D Models • Rigging • Emotes • PNGtubers\n📩 Open for commissions (Provide quality work in all budget)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reynstudio.carrd.co",
+                "end": 23,
+                "expanded_url": "https://reynstudio.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/QxFdQdJRuV"
+              }
+            ]
+          }
+        },
+        "id": "1790289619478810624",
+        "is_identity_verified": false,
+        "location": "Reyn Studio",
+        "most_recent_tweet_id": "2097319285521805761",
+        "name": "REYN Studio | COMMS OPEN",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790289619478810624/1783390692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009471439691501570/Lxv7IiZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 395,
+          "like_count": 3023,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/QxFdQdJRuV",
+        "username": "reyn_emote",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2094028178566303768",
+    "created_at": "2026-08-30T11:43:17.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094028178566303768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonlight_ruri…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/moonlight_ruri/status/2093930607097389421",
+          "start": 20,
+          "url": "https://t.co/WA7PQUVyMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094028178566303768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093930607097389421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警惕网络男娘,他们可能是装男娘的gay https://t.co/WA7PQUVyMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093930599233052672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8iyS-bYAAZPLX.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093930599543418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8iyUIbMAA7dKR.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093930599224602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8iyS8acAAP88z.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093930599522484224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8iyUDbwAATxAc.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2094028178566303768",
+        "created_at": "2026-08-30T11:43:17.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094028178566303768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2093930607097389421",
+              "start": 20,
+              "url": "https://t.co/WA7PQUVyMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094028178566303768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093930607097389421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警惕网络男娘,他们可能是装男娘的gay https://t.co/WA7PQUVyMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093930599233052672",
+            "3_2093930599543418880",
+            "3_2093930599224602624",
+            "3_2093930599522484224"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2093930607097389421",
+        "created_at": "2026-08-30T05:15:34.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093930607097389421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjxutt6BaG",
+              "end": 88,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2093930607097389421/photo/1",
+              "media_key": "3_2093930599233052672",
+              "start": 65,
+              "url": "https://t.co/tjxutt6BaG"
+            },
+            {
+              "display_url": "pic.x.com/tjxutt6BaG",
+              "end": 88,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2093930607097389421/photo/1",
+              "media_key": "3_2093930599543418880",
+              "start": 65,
+              "url": "https://t.co/tjxutt6BaG"
+            },
+            {
+              "display_url": "pic.x.com/tjxutt6BaG",
+              "end": 88,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2093930607097389421/photo/1",
+              "media_key": "3_2093930599224602624",
+              "start": 65,
+              "url": "https://t.co/tjxutt6BaG"
+            },
+            {
+              "display_url": "pic.x.com/tjxutt6BaG",
+              "end": 88,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2093930607097389421/photo/1",
+              "media_key": "3_2093930599522484224",
+              "start": 65,
+              "url": "https://t.co/tjxutt6BaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093930607097389421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093930599233052672"
+          },
+          {
+            "media_key": "3_2093930599543418880"
+          },
+          {
+            "media_key": "3_2093930599224602624"
+          },
+          {
+            "media_key": "3_2093930599522484224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 26810,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 88,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "【新闻】VRC（vrchat，虚拟现实社交好友）圈药娘和网友面基差点被强奸决定脱坑药娘变回阳光大男孩\n\n更多聊天记录见评论区⬇️ https://t.co/tjxutt6BaG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "要有笑声\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，纯粹纯洁的笑啊\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2094028178566303768",
+        "name": "f hv",
+        "pinned_tweet_id": "2093404046208176269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 495,
+          "like_count": 17863,
+          "listed_count": 0,
+          "media_count": 1335,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2093930639276056913",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15516,
+          "following_count": 1128,
+          "like_count": 1115,
+          "listed_count": 32,
+          "media_count": 478,
+          "tweet_count": 2593
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

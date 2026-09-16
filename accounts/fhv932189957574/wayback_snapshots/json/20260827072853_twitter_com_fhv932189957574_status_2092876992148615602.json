@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1062418447433256960",
+          "name": "Shampoohat"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "id": "1062418447433256960",
+          "name": "Shampoohat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1062418447433256960",
+          "name": "Shampoohat"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hair Care",
+          "id": "854761964874088448",
+          "name": "Hair care"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Shampoo",
+          "id": "854762499299614720",
+          "name": "Shampoo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shampoo",
+          "id": "854762499299614720",
+          "name": "Shampoo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Shampoo",
+          "id": "854762499299614720",
+          "name": "Shampoo"
+        }
+      }
+    ],
+    "conversation_id": "2092876992148615602",
+    "created_at": "2026-08-27T07:28:53.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092876992148615602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zerojirou/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/zerojirou/status/2092830729306870043",
+          "start": 2,
+          "url": "https://t.co/n0H7eM4Cf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092876992148615602",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092830729306870043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/n0H7eM4Cf4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          }
+        ],
+        "conversation_id": "2092876992148615602",
+        "created_at": "2026-08-27T07:28:53.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092876992148615602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zerojirou/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/zerojirou/status/2092830729306870043",
+              "start": 2,
+              "url": "https://t.co/n0H7eM4Cf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092876992148615602",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092830729306870043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/n0H7eM4Cf4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "465361938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1062418447433256960",
+              "name": "Shampoohat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          }
+        ],
+        "conversation_id": "2092830729306870043",
+        "created_at": "2026-08-27T04:25:03.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092830729306870043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Police are on the hunt for a 'serial defecator' who they say is tormenting local businesses by smearing faeces on walls while wearing a thong, mask and shower cap",
+              "display_url": "dailystar.co.uk/news/latest-ne…",
+              "end": 108,
+              "expanded_url": "https://www.dailystar.co.uk/news/latest-news/serial-poo-smearer-hunted-cops-37593674",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2092622919578873856/q0Q6Mx5e?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092622919578873856/q0Q6Mx5e?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "Serial poo smearer hunted by cops was last seen wearing thong and creepy mask",
+              "unwound_url": "https://www.dailystar.co.uk/news/latest-news/serial-poo-smearer-hunted-cops-37593674",
+              "url": "https://t.co/JGSNqiPA25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092830729306870043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 884,
+          "impression_count": 429333,
+          "like_count": 4900,
+          "quote_count": 386,
+          "reply_count": 119,
+          "retweet_count": 1480
+        },
+        "reply_settings": "everyone",
+        "text": "ショッピングセンターに“連続脱糞魔”出現、警察が行方追う…シャンプーハットをかぶり、穴あきマスクにTバック姿　袋詰めの糞を持ち歩き、壁や扉に塗りたくる　米・オクラホマ州\nhttps://t.co/JGSNqiPA25"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2092876992148615602",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 487,
+          "like_count": 17519,
+          "listed_count": 0,
+          "media_count": 1315,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-16T08:08:29.000Z",
+        "description": "ライター。国内外のB級ニュースを漁るのが好き。B級ニュース情報サイト「BQN」管理人。趣味で街のステッカーも撮ります。 #tokyostickers",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 60,
+                "tag": "tokyostickers"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bqn.news",
+                "end": 23,
+                "expanded_url": "https://bqn.news/",
+                "start": 0,
+                "url": "https://t.co/P0O03A3sNj"
+              }
+            ]
+          }
+        },
+        "id": "465361938",
+        "is_identity_verified": false,
+        "location": "ゼロ次元",
+        "most_recent_tweet_id": "2092830729306870043",
+        "name": "ゼロ次郎",
+        "pinned_tweet_id": "1799646285185900954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/465361938/1559618109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586492711833522177/NNDK_kxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31942,
+          "following_count": 783,
+          "like_count": 53501,
+          "listed_count": 486,
+          "media_count": 16366,
+          "tweet_count": 77986
+        },
+        "url": "https://t.co/P0O03A3sNj",
+        "username": "zerojirou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

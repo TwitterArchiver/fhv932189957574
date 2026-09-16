@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092315031807660032"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2092173988281905380",
+    "created_at": "2026-08-25T18:15:52.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092315036555587901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "_yuki_owo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W6YxbH6dGm",
+          "end": 40,
+          "expanded_url": "https://x.com/fhv932189957574/status/2092315036555587901/photo/1",
+          "media_key": "3_2092315031807660032",
+          "start": 17,
+          "url": "https://t.co/W6YxbH6dGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092315036555587901",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092315031807660032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092173988281905380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuki_owo 没那么困难 https://t.co/W6YxbH6dGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2092315031807660032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQllb5UbEAA0Qb5.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092315031807660032"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2092173988281905380",
+        "created_at": "2026-08-25T18:15:52.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092315036555587901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6YxbH6dGm",
+              "end": 40,
+              "expanded_url": "https://x.com/fhv932189957574/status/2092315036555587901/photo/1",
+              "media_key": "3_2092315031807660032",
+              "start": 17,
+              "url": "https://t.co/W6YxbH6dGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092315036555587901",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092315031807660032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092173988281905380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 没那么困难 https://t.co/W6YxbH6dGm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2092173988281905380",
+        "created_at": "2026-08-25T08:55:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092173988281905380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092173988281905380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 948,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "逗我这种缺爱的人简直就和逗狗一样简单"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2092315036555587901",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 486,
+          "like_count": 17354,
+          "listed_count": 0,
+          "media_count": 1308,
+          "tweet_count": 3992
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2092173988281905380",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092177123457040384/c-tznVV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 755,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2126
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

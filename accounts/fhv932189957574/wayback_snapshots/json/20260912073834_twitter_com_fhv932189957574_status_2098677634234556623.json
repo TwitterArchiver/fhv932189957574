@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098651532325699584"
+      ],
+      "media_source_tweet_id": [
+        "2098651537514127542"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2098677634234556623",
+    "created_at": "2026-09-12T07:38:34.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098677634234556623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1108660165505486848",
+          "start": 3,
+          "username": "Asahi_rise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VM7vsUzyHK",
+          "end": 65,
+          "expanded_url": "https://x.com/Asahi_rise/status/2098651537514127542/photo/1",
+          "media_key": "3_2098651532325699584",
+          "start": 42,
+          "url": "https://t.co/VM7vsUzyHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098677634234556623",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098651532325699584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098651537514127542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asahi_rise: 猫がバンジョーかき鳴らすやつのパロrkgk（モむ） https://t.co/VM7vsUzyHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2874,
+        "media_key": "3_2098651532325699584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_ocxOaQAA8IFp.jpg",
+        "width": 2603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098651532325699584"
+          ],
+          "media_source_tweet_id": [
+            "2098651537514127542"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098677634234556623",
+        "created_at": "2026-09-12T07:38:34.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098677634234556623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1108660165505486848",
+              "start": 3,
+              "username": "Asahi_rise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VM7vsUzyHK",
+              "end": 65,
+              "expanded_url": "https://x.com/Asahi_rise/status/2098651537514127542/photo/1",
+              "media_key": "3_2098651532325699584",
+              "start": 42,
+              "url": "https://t.co/VM7vsUzyHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098677634234556623",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098651532325699584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098651537514127542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asahi_rise: 猫がバンジョーかき鳴らすやつのパロrkgk（モむ） https://t.co/VM7vsUzyHK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098651532325699584"
+          ]
+        },
+        "author_id": "1108660165505486848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098651537514127542",
+        "created_at": "2026-09-12T05:54:52.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098651537514127542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VM7vsUzyHK",
+              "end": 49,
+              "expanded_url": "https://x.com/Asahi_rise/status/2098651537514127542/photo/1",
+              "media_key": "3_2098651532325699584",
+              "start": 26,
+              "url": "https://t.co/VM7vsUzyHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098651537514127542",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098651532325699584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 6079,
+          "like_count": 612,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "猫がバンジョーかき鳴らすやつのパロrkgk（モむ） https://t.co/VM7vsUzyHK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2098677646771310902",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 515,
+          "like_count": 18820,
+          "listed_count": 0,
+          "media_count": 1407,
+          "tweet_count": 4284
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-21T09:22:36.000Z",
+        "description": "絵と日常￤成人済￤好きなものだけ￤ﾏｼｭﾏﾛ▹▸https://t.co/E6bpYsIpi6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/bYc54",
+                "end": 47,
+                "expanded_url": "https://x.gd/bYc54",
+                "start": 24,
+                "url": "https://t.co/E6bpYsIpi6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40199158",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40199158",
+                "start": 0,
+                "url": "https://t.co/DKJZa6aZ7S"
+              }
+            ]
+          }
+        },
+        "id": "1108660165505486848",
+        "is_identity_verified": false,
+        "location": "無断転載・AI学習・自作発言･画像編集等禁止",
+        "most_recent_tweet_id": "2098651537514127542",
+        "name": "旭陽",
+        "pinned_tweet_id": "2096483885202956324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108660165505486848/1775012303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039365886168162304/6Cej-g7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12693,
+          "following_count": 600,
+          "like_count": 54705,
+          "listed_count": 112,
+          "media_count": 3452,
+          "tweet_count": 79023
+        },
+        "url": "https://t.co/DKJZa6aZ7S",
+        "username": "Asahi_rise",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

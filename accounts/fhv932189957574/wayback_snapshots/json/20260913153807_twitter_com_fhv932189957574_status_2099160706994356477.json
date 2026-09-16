@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2098954998092894252",
+    "created_at": "2026-09-13T15:38:07.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099160706994356477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        },
+        {
+          "end": 24,
+          "id": "1821096817439703040",
+          "start": 9,
+          "username": "honhon_MaoMao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099160706994356477",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098954998092894252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei @honhon_MaoMao1介绍给你认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2098954998092894252",
+        "created_at": "2026-09-13T15:38:07.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099160706994356477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            },
+            {
+              "end": 24,
+              "id": "1821096817439703040",
+              "start": 9,
+              "username": "honhon_MaoMao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099160706994356477",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098954998092894252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei @honhon_MaoMao1介绍给你认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206710758467231744",
+              "name": "Calligraphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206710758467231744",
+              "name": "Calligraphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2098954998092894252",
+        "created_at": "2026-09-13T02:00:42.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098954998092894252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroyei/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kuroyei/status/2009603757668200866",
+              "start": 41,
+              "url": "https://t.co/vdDmLglga9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098954998092894252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10443,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009603757668200866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "書道を学んで、いつかこういう中国共産党のスローガンを綺麗に書けるようになりたいな https://t.co/vdDmLglga9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099160706994356477",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 518,
+          "like_count": 19077,
+          "listed_count": 0,
+          "media_count": 1419,
+          "tweet_count": 4339
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2099073504192905437",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26242,
+          "following_count": 944,
+          "like_count": 136832,
+          "listed_count": 65,
+          "media_count": 9581,
+          "tweet_count": 39476
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T08:11:36.000Z",
+        "description": "日本账号→@honhonMAOMAO\n\n🇯🇵我是日本人17歳♀\n\n好きな人は毛沢東です！毛沢東ガチ恋勢　⚠️同嫁拒否\n我最爱的人是毛泽东！\n毛泽东是世界上最可爱的人❤️🩷💞\n\n🔞性的つぶやき有\n\n没有任何政治目的！！！\n我没有侮辱他！！！\n\n我不会说中文😭\n我总是使用翻译😭\n妹→@bikabaka1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "honhonMAOMAO"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "bikabaka1"
+              }
+            ]
+          }
+        },
+        "id": "1821096817439703040",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "1821110753803239874",
+        "name": "🇯🇵毛红红@💖毛沢東夢女子💖　❤🇨🇳🌞😺❤　💖毛泽东梦女💖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821096817439703040/1723018373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821096897295106048/1TloLsb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 83,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "honhon_MaoMao1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

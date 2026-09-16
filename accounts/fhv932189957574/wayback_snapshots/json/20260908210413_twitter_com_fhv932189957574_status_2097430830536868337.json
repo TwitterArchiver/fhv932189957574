@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097237648712814593",
+        "3_2097237648666775552"
+      ],
+      "media_source_tweet_id": [
+        "2097237658757922855",
+        "2097237658757922855"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2097430830536868337",
+    "created_at": "2026-09-08T21:04:13.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097430830536868337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706622483061686272",
+          "start": 3,
+          "username": "prtygal777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jfrtTaXIzY",
+          "end": 80,
+          "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+          "media_key": "3_2097237648712814593",
+          "start": 57,
+          "url": "https://t.co/jfrtTaXIzY"
+        },
+        {
+          "display_url": "pic.x.com/jfrtTaXIzY",
+          "end": 80,
+          "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+          "media_key": "3_2097237648666775552",
+          "start": 57,
+          "url": "https://t.co/jfrtTaXIzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097430830536868337",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097237648712814593"
+      },
+      {
+        "media_key": "3_2097237648666775552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097237658757922855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prtygal777: from 1 fries tall to more than 2 burgers https://t.co/jfrtTaXIzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_2097237648712814593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrih6UaUAEP5IG.jpg",
+        "width": 995
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2097237648666775552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrih6Jb0AAnxDt.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097237648712814593",
+            "3_2097237648666775552"
+          ],
+          "media_source_tweet_id": [
+            "2097237658757922855",
+            "2097237658757922855"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2097430830536868337",
+        "created_at": "2026-09-08T21:04:13.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097430830536868337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706622483061686272",
+              "start": 3,
+              "username": "prtygal777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfrtTaXIzY",
+              "end": 80,
+              "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+              "media_key": "3_2097237648712814593",
+              "start": 57,
+              "url": "https://t.co/jfrtTaXIzY"
+            },
+            {
+              "display_url": "pic.x.com/jfrtTaXIzY",
+              "end": 80,
+              "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+              "media_key": "3_2097237648666775552",
+              "start": 57,
+              "url": "https://t.co/jfrtTaXIzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097430830536868337",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097237648712814593"
+          },
+          {
+            "media_key": "3_2097237648666775552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097237658757922855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prtygal777: from 1 fries tall to more than 2 burgers https://t.co/jfrtTaXIzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097237648712814593",
+            "3_2097237648666775552"
+          ]
+        },
+        "author_id": "1706622483061686272",
+        "conversation_id": "2097237658757922855",
+        "created_at": "2026-09-08T08:16:37.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097237658757922855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfrtTaXIzY",
+              "end": 64,
+              "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+              "media_key": "3_2097237648712814593",
+              "start": 41,
+              "url": "https://t.co/jfrtTaXIzY"
+            },
+            {
+              "display_url": "pic.x.com/jfrtTaXIzY",
+              "end": 64,
+              "expanded_url": "https://x.com/prtygal777/status/2097237658757922855/photo/1",
+              "media_key": "3_2097237648666775552",
+              "start": 41,
+              "url": "https://t.co/jfrtTaXIzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097237658757922855",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097237648712814593"
+          },
+          {
+            "media_key": "3_2097237648666775552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 304299,
+          "like_count": 19177,
+          "quote_count": 45,
+          "reply_count": 32,
+          "retweet_count": 502
+        },
+        "reply_settings": "everyone",
+        "text": "from 1 fries tall to more than 2 burgers https://t.co/jfrtTaXIzY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2097430830536868337",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 507,
+          "like_count": 18382,
+          "listed_count": 0,
+          "media_count": 1382,
+          "tweet_count": 4209
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-26T10:51:44.000Z",
+        "description": "Free Palestine | Doing It All For Love",
+        "id": "1706622483061686272",
+        "is_identity_verified": false,
+        "location": "DM for credit-removal-promoꨄ︎",
+        "most_recent_tweet_id": "2097430517805191653",
+        "name": "gal౨ৎ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706622483061686272/1731143909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856165117261426688/ybxv-m_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121811,
+          "following_count": 697,
+          "like_count": 58950,
+          "listed_count": 461,
+          "media_count": 4670,
+          "tweet_count": 21474
+        },
+        "url": "",
+        "username": "prtygal777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

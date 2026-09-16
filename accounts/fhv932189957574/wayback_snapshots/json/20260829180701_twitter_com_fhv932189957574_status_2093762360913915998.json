@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2093700819308933429",
+    "created_at": "2026-08-29T18:07:01.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T19:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093762360913915998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "搬屎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2092699519679176704",
+          "start": 0,
+          "username": "orangevnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fhv93218995757…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/fhv932189957574/status/2093388106313728420",
+          "start": 24,
+          "url": "https://t.co/L8RiL2KCc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093762360913915998",
+    "in_reply_to_user_id": "2092699519679176704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093388106313728420",
+        "type": "quoted"
+      },
+      {
+        "id": "2093758381723095459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangevnb 别这么说别这么说，#搬屎 https://t.co/L8RiL2KCc7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2093700819308933429",
+        "created_at": "2026-08-29T18:07:01.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093762360913915998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "搬屎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2092699519679176704",
+              "start": 0,
+              "username": "orangevnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2093388106313728420",
+              "start": 24,
+              "url": "https://t.co/L8RiL2KCc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093762360913915998",
+        "in_reply_to_user_id": "2092699519679176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093388106313728420",
+            "type": "quoted"
+          },
+          {
+            "id": "2093758381723095459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangevnb 别这么说别这么说，#搬屎 https://t.co/L8RiL2KCc7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092699519679176704",
+        "conversation_id": "2093700819308933429",
+        "created_at": "2026-08-29T17:51:13.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093758381723095459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093758381723095459",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093756550175506637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 只是为了你开心吧你这家伙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2093388106313728420",
+        "created_at": "2026-08-28T17:19:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093388106313728420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2093257240329261111",
+              "start": 141,
+              "url": "https://t.co/Klzh6WV8DC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093388106313728420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哈哈哈哈哈，搬屎就是快乐，哈哈哈哈哈，不希望是因为觉得该笑才笑，而是暂时放下心中的一切事物放心开怀的大笑，或者突然意识到什么想笑，亦或者就是想笑，总之就是想笑，哈哈哈哈哈哈哈，要有笑声，当然笑声不能是建立在他人的痛苦上的，大笑也不是对苦难者的嘲笑，没有人觉得奶龙大笑很神圣吗，一群人只要听到或者想到奶龙大笑就会想笑，难道不是很神圣吗😋，（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（歇一口气）（继续捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑）（捧腹大笑），所有人立刻大笑"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093257240329261111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈，搬屎就是快乐，哈哈哈哈哈，不希望是因为觉得该笑才笑，而是暂时放下心中的一切事物放心开怀的大笑，或者突然意识到什么想笑，亦或者就是想笑，总之就是想笑，哈哈哈哈哈哈哈，要有笑声，当然笑声不能是建立在他人的痛苦上的，大笑也不是对苦难者的嘲笑，没有人觉得奶龙大笑很神圣吗，一群 https://t.co/Klzh6WV8DC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "要有笑声\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，纯粹纯洁的笑啊\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2093762360913915998",
+        "name": "f hv",
+        "pinned_tweet_id": "2093404046208176269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 496,
+          "like_count": 17808,
+          "listed_count": 0,
+          "media_count": 1333,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T19:44:23.000Z",
+        "description": "只是妈妈@aberyoheiabe的小狗（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "aberyoheiabe"
+              }
+            ]
+          }
+        },
+        "id": "2092699519679176704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093758381723095459",
+        "name": "orange",
+        "pinned_tweet_id": "2092703438299922677",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092699779163918336/DQJ63vMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 68,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "orangevnb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

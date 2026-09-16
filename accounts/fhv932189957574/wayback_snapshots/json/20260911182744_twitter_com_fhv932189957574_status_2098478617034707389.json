@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098339037182607360"
+      ],
+      "media_source_tweet_id": [
+        "2098339049173884978"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098478617034707389",
+    "created_at": "2026-09-11T18:27:44.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098478617034707389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881554066863788032",
+          "start": 3,
+          "username": "1248_25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4yjrfrJlZ",
+          "end": 56,
+          "expanded_url": "https://x.com/1248_25/status/2098339049173884978/video/1",
+          "media_key": "13_2098339037182607360",
+          "start": 33,
+          "url": "https://t.co/q4yjrfrJlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098478617034707389",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2098339037182607360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098339049173884978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1248_25: 아..ㅈㄴ잘생김 서방님....... https://t.co/q4yjrfrJlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1467,
+        "height": 644,
+        "media_key": "13_2098339037182607360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098339037182607360/img/xCAIU3T-rRUWzYRu.jpg",
+        "public_metrics": {
+          "view_count": 3381
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098339037182607360/vid/avc1/320x426/5LNFIRq39ppPVEHi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098339037182607360/vid/avc1/482x644/ouiWZg-eQCYUV94N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098339037182607360/pl/KfHiK7getpXHwQWy.m3u8"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098339037182607360"
+          ],
+          "media_source_tweet_id": [
+            "2098339049173884978"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098478617034707389",
+        "created_at": "2026-09-11T18:27:44.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098478617034707389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881554066863788032",
+              "start": 3,
+              "username": "1248_25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4yjrfrJlZ",
+              "end": 56,
+              "expanded_url": "https://x.com/1248_25/status/2098339049173884978/video/1",
+              "media_key": "13_2098339037182607360",
+              "start": 33,
+              "url": "https://t.co/q4yjrfrJlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098478617034707389",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2098339037182607360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098339049173884978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1248_25: 아..ㅈㄴ잘생김 서방님....... https://t.co/q4yjrfrJlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098339037182607360"
+          ]
+        },
+        "author_id": "1881554066863788032",
+        "conversation_id": "2098339049173884978",
+        "created_at": "2026-09-11T09:13:09.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098339049173884978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4yjrfrJlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/1248_25/status/2098339049173884978/video/1",
+              "media_key": "13_2098339037182607360",
+              "start": 20,
+              "url": "https://t.co/q4yjrfrJlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098339049173884978",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2098339037182607360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 17889,
+          "like_count": 1278,
+          "quote_count": 29,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "아..ㅈㄴ잘생김 서방님....... https://t.co/q4yjrfrJlZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2098478617034707389",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 513,
+          "like_count": 18687,
+          "listed_count": 0,
+          "media_count": 1399,
+          "tweet_count": 4258
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-21T04:07:19.000Z",
+        "description": "20↑ 와까바 므추미 순덕계",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/124825",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/124825",
+                "start": 0,
+                "url": "https://t.co/vjev5dUI92"
+              }
+            ]
+          }
+        },
+        "id": "1881554066863788032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098477424849883556",
+        "name": "여화",
+        "pinned_tweet_id": "2098339049173884978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881554066863788032/1786239025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070096520423309312/F_K01nPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 15,
+          "like_count": 5719,
+          "listed_count": 5,
+          "media_count": 66,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/vjev5dUI92",
+        "username": "1248_25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099499327928610816"
+      ],
+      "media_source_tweet_id": [
+        "2099499361927565515"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2099541462606393806",
+    "created_at": "2026-09-14T16:51:06.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099541462606393806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "930717373883039746",
+          "start": 3,
+          "username": "AbilfloridaArts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLKY8ClELr",
+          "end": 44,
+          "expanded_url": "https://x.com/AbilfloridaArts/status/2099499361927565515/photo/1",
+          "media_key": "3_2099499327928610816",
+          "start": 21,
+          "url": "https://t.co/JLKY8ClELr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099541462606393806",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2099499327928610816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099499361927565515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbilfloridaArts: https://t.co/JLKY8ClELr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2099499327928610816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLrg99bMAAG-T7.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099499327928610816"
+          ],
+          "media_source_tweet_id": [
+            "2099499361927565515"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2099541462606393806",
+        "created_at": "2026-09-14T16:51:06.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099541462606393806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "930717373883039746",
+              "start": 3,
+              "username": "AbilfloridaArts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKY8ClELr",
+              "end": 44,
+              "expanded_url": "https://x.com/AbilfloridaArts/status/2099499361927565515/photo/1",
+              "media_key": "3_2099499327928610816",
+              "start": 21,
+              "url": "https://t.co/JLKY8ClELr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099541462606393806",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099499327928610816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099499361927565515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbilfloridaArts: https://t.co/JLKY8ClELr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099499327928610816"
+          ]
+        },
+        "author_id": "930717373883039746",
+        "conversation_id": "2099499361927565515",
+        "created_at": "2026-09-14T14:03:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099499361927565515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKY8ClELr",
+              "end": 23,
+              "expanded_url": "https://x.com/AbilfloridaArts/status/2099499361927565515/photo/1",
+              "media_key": "3_2099499327928610816",
+              "start": 0,
+              "url": "https://t.co/JLKY8ClELr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099499361927565515",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099499327928610816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2358,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JLKY8ClELr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099541462606393806",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 518,
+          "like_count": 19359,
+          "listed_count": 0,
+          "media_count": 1422,
+          "tweet_count": 4368
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-15T08:41:28.000Z",
+        "description": "3D R16 & will surprise you with R18 post\n\nhttps://t.co/x4GPfp3Vr5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/abilfloridaarts",
+                "end": 65,
+                "expanded_url": "http://patreon.com/abilfloridaarts",
+                "start": 42,
+                "url": "https://t.co/x4GPfp3Vr5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/abilfloridaarts",
+                "end": 23,
+                "expanded_url": "http://patreon.com/abilfloridaarts",
+                "start": 0,
+                "url": "https://t.co/x4GPfp3Vr5"
+              }
+            ]
+          }
+        },
+        "id": "930717373883039746",
+        "is_identity_verified": false,
+        "location": "W N I",
+        "most_recent_tweet_id": "2099539236362010951",
+        "name": "Abilflorida Arts",
+        "pinned_tweet_id": "2087783729133764644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930717373883039746/1785429930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074108522204389377/er9Dd98M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93734,
+          "following_count": 2065,
+          "like_count": 66845,
+          "listed_count": 167,
+          "media_count": 4049,
+          "tweet_count": 14771
+        },
+        "url": "https://t.co/x4GPfp3Vr5",
+        "username": "AbilfloridaArts",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

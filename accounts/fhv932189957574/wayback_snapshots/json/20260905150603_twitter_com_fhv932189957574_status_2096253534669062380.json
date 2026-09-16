@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2096253534669062380",
+    "created_at": "2026-09-05T15:06:03.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096253534669062380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fhv93218995757…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/fhv932189957574/status/2096250392376143984",
+          "start": 91,
+          "url": "https://t.co/asxrYPNBIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096253534669062380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "孩子们我真正的第一篇正常文章（悲），纯我个人需要所以搞岀来的，应该算全网首发，国内国外都没有看到类似教程，我去保修手机结果一查维修要清零数据要备份（怒），又查了一下发现iCloud 好像要钱（又怒）不太了解iCloud，发现Apple设备不花钱，发现没提供改路经（再怒），然后改成功后就有了这篇文章🙂‍↕️"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096250392376143984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们我真正的第一篇正常文章（悲），纯我个人需要所以搞岀来的，应该算全网首发，国内国外都没有看到类似教程，我去保修手机结果一查维修要清零数据要备份（怒），又查了一下发现iCloud https://t.co/asxrYPNBIl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2096253534669062380",
+        "created_at": "2026-09-05T15:06:03.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096253534669062380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fhv93218995757…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/fhv932189957574/status/2096250392376143984",
+              "start": 91,
+              "url": "https://t.co/asxrYPNBIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096253534669062380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "孩子们我真正的第一篇正常文章（悲），纯我个人需要所以搞岀来的，应该算全网首发，国内国外都没有看到类似教程，我去保修手机结果一查维修要清零数据要备份（怒），又查了一下发现iCloud 好像要钱（又怒）不太了解iCloud，发现Apple设备不花钱，发现没提供改路经（再怒），然后改成功后就有了这篇文章🙂‍↕️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096250392376143984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们我真正的第一篇正常文章（悲），纯我个人需要所以搞岀来的，应该算全网首发，国内国外都没有看到类似教程，我去保修手机结果一查维修要清零数据要备份（怒），又查了一下发现iCloud https://t.co/asxrYPNBIl"
+      },
+      {
+        "article": {
+          "cover_media": "3_2096249436116828160",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://support.apple.com/zh-cn/118290"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2096242731035336706",
+            "3_2096242648080388096",
+            "3_2096241004705988608",
+            "3_2096244098021916672",
+            "3_2096241196905730048",
+            "3_2096241923841572864",
+            "3_2096244391119908864",
+            "3_2096240630569852928",
+            "3_2096244468001460224",
+            "3_2096241773630967808"
+          ],
+          "plain_text": "操作系统：Windows11\nApple设备是做什么的\n备份iPhone、还原装置，更新 iOS回复系统，同步音乐、电影、照片、档案，查看装置资讯、容量、序号等\n怎么下载\n只建议在Microsoft Store（微软商店） 下载，不建议从第三方网站下安装包。\n下载地址：https://support.apple.com/zh-cn/118290\n \n或在Microsoft Store搜索apple设备\n \n备份前的准备：\n准备一根原装或质量好的充电线，知道备份设备的锁屏密码与AppleID密码，最好将备份设备电量充至百分之五十以上，提前在手机里删掉不需要或不想备份的 App 数据、缓存\n打开Apple设备\n \n然后将用数据线（或充电线）同时插在手机和电脑接口上，若备份设备第一次接入该电脑，手机上会出现是否信任此电脑的弹窗，输入密码即可\n \n一、关闭Apple 设备 App，在D盘或外置硬盘中新建一个文件夹，并重命名为iPhoneBackup\n二、同时按 Win + R，在框中输入\n \n%USERPROFILE\\Apple\\MobileSync\\Backup并点击确定，把里面的 Backup 文件夹剪切到刚刚创建的iPhoneBackup文件夹中\n三、点击开始或按windows键，搜索cmd或往下滑到z字母分类找到＂终端＂，鼠标右键单击终端后，选择以管理员身份运行，如果出现＂允许此应用对设备更改吗＂则选择＂是＂\n \n \n \n正确的样子如图1，图2是错误的没有以管理员身份运行\n \n \n四、复制粘贴此段命令：\nmklink /J \"%USERPROFILE%\\Apple\\MobileSync\\Backup\" \"D:\\iPhoneBackup\"\n五、如果iPhoneBackup文件夹下还有Backup文件夹则用此段命令\nmklink /J \"%USERPROFILE%\\Apple\\MobileSync\\Backup\" \"D:\\iPhoneBackup\\Backup\"\n六、如果不是D盘要将位置改为正确位置\n七、按下回车（enter）键，出现已创建接合就成功径了\n八、点击＂将所有的数据备份到此电脑＂，再点击＂同步＂，点击＂立即备份＂，若手机出现＂是信任的电脑吗＂则输入密码就可以开始备份了\n要提醒的是，存储空间不够不会一开始就提醒，一定要保持存储空间足够，不然可能备份到一半或最后一些时才会告诉你存储空间不够备份失败（悲）\n饿啊，如有错误请指出，非常感谢，我只是一个普通人，我只有两岁",
+          "preview_text": "操作系统：Windows11\nApple设备是做什么的\n备份iPhone、还原装置，更新 iOS回复系统，同步音乐、电影、照片、档案，查看装置资讯、容量、序号等\n怎么下载\n只建议在Microsoft Store（微软商店）",
+          "title": "Apple设备备份与改备份位置"
+        },
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2096250392376143984",
+        "created_at": "2026-09-05T14:53:34.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096250392376143984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2096…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/article/2096201484597882880",
+              "start": 16,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2096201484597882880",
+              "url": "https://t.co/1m9YgJI3D1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096250392376143984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple设备备份与改备份位置 https://t.co/1m9YgJI3D1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2096253534669062380",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 501,
+          "like_count": 18021,
+          "listed_count": 0,
+          "media_count": 1352,
+          "tweet_count": 4128
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

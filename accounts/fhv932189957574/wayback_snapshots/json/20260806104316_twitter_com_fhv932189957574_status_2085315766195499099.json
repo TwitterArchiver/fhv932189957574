@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084993994678022144",
+        "3_2084993994711515136",
+        "3_2084993994707324928",
+        "3_2084993994703224832"
+      ],
+      "media_source_tweet_id": [
+        "2084993999404953973",
+        "2084993999404953973",
+        "2084993999404953973",
+        "2084993999404953973"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2085315766195499099",
+    "created_at": "2026-08-06T10:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085315766195499099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1583393075803496448",
+          "start": 3,
+          "username": "AleFa00000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVjGP6btvh",
+          "end": 44,
+          "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+          "media_key": "3_2084993994678022144",
+          "start": 21,
+          "url": "https://t.co/cVjGP6btvh"
+        },
+        {
+          "display_url": "pic.x.com/cVjGP6btvh",
+          "end": 44,
+          "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+          "media_key": "3_2084993994711515136",
+          "start": 21,
+          "url": "https://t.co/cVjGP6btvh"
+        },
+        {
+          "display_url": "pic.x.com/cVjGP6btvh",
+          "end": 44,
+          "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+          "media_key": "3_2084993994707324928",
+          "start": 21,
+          "url": "https://t.co/cVjGP6btvh"
+        },
+        {
+          "display_url": "pic.x.com/cVjGP6btvh",
+          "end": 44,
+          "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+          "media_key": "3_2084993994703224832",
+          "start": 21,
+          "url": "https://t.co/cVjGP6btvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085315766195499099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084993999404953973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AleFa00000: 喜怒哀楽 https://t.co/cVjGP6btvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2084993994678022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9i_cubMAAG0WO.jpg",
+        "width": 959
+      },
+      {
+        "height": 330,
+        "media_key": "3_2084993994711515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9i_c2aQAAXSNI.jpg",
+        "width": 588
+      },
+      {
+        "height": 330,
+        "media_key": "3_2084993994707324928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9i_c1aUAAbXRQ.jpg",
+        "width": 588
+      },
+      {
+        "height": 675,
+        "media_key": "3_2084993994703224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9i_c0bwAA4KWh.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084993994678022144",
+            "3_2084993994711515136",
+            "3_2084993994707324928",
+            "3_2084993994703224832"
+          ]
+        },
+        "author_id": "1583393075803496448",
+        "conversation_id": "2084993999404953973",
+        "created_at": "2026-08-05T13:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084993999404953973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 28,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994678022144",
+              "start": 5,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 28,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994711515136",
+              "start": 5,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 28,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994707324928",
+              "start": 5,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 28,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994703224832",
+              "start": 5,
+              "url": "https://t.co/cVjGP6btvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084993999404953973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5520,
+          "like_count": 163,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "喜怒哀楽 https://t.co/cVjGP6btvh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084993994678022144",
+            "3_2084993994711515136",
+            "3_2084993994707324928",
+            "3_2084993994703224832"
+          ],
+          "media_source_tweet_id": [
+            "2084993999404953973",
+            "2084993999404953973",
+            "2084993999404953973",
+            "2084993999404953973"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2085315766195499099",
+        "created_at": "2026-08-06T10:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085315766195499099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1583393075803496448",
+              "start": 3,
+              "username": "AleFa00000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 44,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994678022144",
+              "start": 21,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 44,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994711515136",
+              "start": 21,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 44,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994707324928",
+              "start": 21,
+              "url": "https://t.co/cVjGP6btvh"
+            },
+            {
+              "display_url": "pic.x.com/cVjGP6btvh",
+              "end": 44,
+              "expanded_url": "https://x.com/AleFa00000/status/2084993999404953973/photo/1",
+              "media_key": "3_2084993994703224832",
+              "start": 21,
+              "url": "https://t.co/cVjGP6btvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085315766195499099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084993999404953973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AleFa00000: 喜怒哀楽 https://t.co/cVjGP6btvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErpXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 142,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 119,
+                "url": "https://t.co/LfSVdErpXM"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哦哦哦",
+        "name": "f hv",
+        "pinned_tweet_id": "2078840318561231044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 483,
+          "like_count": 14760,
+          "listed_count": 0,
+          "media_count": 1195,
+          "tweet_count": 3439
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-21T09:41:57.000Z",
+        "description": "アニメ、特撮、ギター好きです。 投稿はまちまちですがギター(主に機材関係)について上げてます。 その他にもアニメ関係、ゲームなど色々上げます。 バンドリーマー MyGO!!!!!推し リプなど気軽に声かけてもらえると嬉しいです… 精神的に不安定なので時々病み投稿ありますが無視していただけると幸いです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/arufa123456789…",
+                "end": 23,
+                "expanded_url": "https://x.com/arufa1234567890?s=21&t=iRfAh70m2On4Hduz8sgGeQ",
+                "start": 0,
+                "url": "https://t.co/3qetsJk8eP"
+              }
+            ]
+          }
+        },
+        "id": "1583393075803496448",
+        "name": "GingerAle",
+        "pinned_tweet_id": "1960633894837084267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993318409434808320/DcuikSOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 718,
+          "like_count": 55383,
+          "listed_count": 3,
+          "media_count": 3151,
+          "tweet_count": 7781
+        },
+        "url": "https://t.co/3qetsJk8eP",
+        "username": "AleFa00000",
+        "verified": false
+      }
+    ]
+  }
+}

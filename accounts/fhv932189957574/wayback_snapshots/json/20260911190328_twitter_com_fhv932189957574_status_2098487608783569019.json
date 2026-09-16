@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2097532312892461121",
+    "created_at": "2026-09-11T19:03:28.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098487608783569019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749642822788268032",
+          "start": 0,
+          "username": "8w9e6n4ji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sagerrgyalpo/s…",
+          "end": 37,
+          "expanded_url": "https://x.com/sagerrgyalpo/status/2060785690372349958?s=46",
+          "start": 14,
+          "url": "https://t.co/2tco2e0Zbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098487608783569019",
+    "in_reply_to_user_id": "1749642822788268032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060785690372349958",
+        "type": "quoted"
+      },
+      {
+        "id": "2097532312892461121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8w9e6n4ji sb https://t.co/2tco2e0Zbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060785685699969025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlhqaJbQAEB1Qm.jpg",
+        "width": 1102
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060785685699948544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlhqaJa8AAoFgi.jpg",
+        "width": 980
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060785685708353536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlhqaLbMAAcY0H.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2097532312892461121",
+        "created_at": "2026-09-11T19:03:28.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098487608783569019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749642822788268032",
+              "start": 0,
+              "username": "8w9e6n4ji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 37,
+              "expanded_url": "https://x.com/sagerrgyalpo/status/2060785690372349958?s=46",
+              "start": 14,
+              "url": "https://t.co/2tco2e0Zbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098487608783569019",
+        "in_reply_to_user_id": "1749642822788268032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060785690372349958",
+            "type": "quoted"
+          },
+          {
+            "id": "2097532312892461121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8w9e6n4ji sb https://t.co/2tco2e0Zbu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749642822788268032",
+        "conversation_id": "2097532312892461121",
+        "created_at": "2026-09-09T03:47:28.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097532312892461121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097532312892461121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 841,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢亮血条就杀给你看，这本书在哪里引起了舆论？一被公畜举报就锁文、实体书解约？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060785685699969025",
+            "3_2060785685699948544",
+            "3_2060785685708353536"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2060785690372349958",
+        "created_at": "2026-05-30T18:09:30.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060785690372349958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlGsrQAr7D",
+              "end": 126,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2060785690372349958/photo/1",
+              "media_key": "3_2060785685699969025",
+              "start": 103,
+              "url": "https://t.co/GlGsrQAr7D"
+            },
+            {
+              "display_url": "pic.x.com/GlGsrQAr7D",
+              "end": 126,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2060785690372349958/photo/1",
+              "media_key": "3_2060785685699948544",
+              "start": 103,
+              "url": "https://t.co/GlGsrQAr7D"
+            },
+            {
+              "display_url": "pic.x.com/GlGsrQAr7D",
+              "end": 126,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2060785690372349958/photo/1",
+              "media_key": "3_2060785685708353536",
+              "start": 103,
+              "url": "https://t.co/GlGsrQAr7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060785690372349958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2060785685699969025"
+          },
+          {
+            "media_key": "3_2060785685699948544"
+          },
+          {
+            "media_key": "3_2060785685708353536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 97103,
+          "like_count": 418,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "当代女权对男性的仇恨究竟到了什么程度？\n\n她们有一个词叫“亚型人”，指的是男性，出处是作者薇我无酒的激进女权主义小说《敢亮血条就杀给你看》。\n\n优生学、性别本质主义都出来了，可见对面已经魔怔到了什么程度。 https://t.co/GlGsrQAr7D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2098487608783569019",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 513,
+          "like_count": 18731,
+          "listed_count": 0,
+          "media_count": 1400,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-23T03:59:04.000Z",
+        "description": "碎碎念空间，不断向自己发问，在属于自己的女权路上行走。女权互醒。反对辱女词/反美役/反对女权商业化。 非女权不要关注我，锁推主页没有内容会被移除关注",
+        "id": "1749642822788268032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097607477584134194",
+        "name": "问8己964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749642822788268032/1706846799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751515751599800321/3hQS6EFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 70,
+          "like_count": 9859,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "8w9e6n4ji",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛",
+        "id": "1622255626066731010",
+        "is_identity_verified": false,
+        "location": "Zagreb, Hrvatska",
+        "most_recent_tweet_id": "2098463668103238093",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622255626066731010/1747812844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11979,
+          "following_count": 938,
+          "like_count": 1606,
+          "listed_count": 53,
+          "media_count": 3032,
+          "tweet_count": 5958
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

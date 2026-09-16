@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092489992782438400",
+        "3_2092489992786563072"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2092351164411163031",
+    "created_at": "2026-08-26T05:51:11.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092490018367693208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yoIlvNm8Fw",
+          "end": 44,
+          "expanded_url": "https://x.com/fhv932189957574/status/2092490018367693208/photo/1",
+          "media_key": "3_2092489992782438400",
+          "start": 21,
+          "url": "https://t.co/yoIlvNm8Fw"
+        },
+        {
+          "display_url": "pic.x.com/yoIlvNm8Fw",
+          "end": 44,
+          "expanded_url": "https://x.com/fhv932189957574/status/2092490018367693208/photo/1",
+          "media_key": "3_2092489992786563072",
+          "start": 21,
+          "url": "https://t.co/yoIlvNm8Fw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092490018367693208",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092489992782438400"
+      },
+      {
+        "media_key": "3_2092489992786563072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092351164411163031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 精品跨圈神人 https://t.co/yoIlvNm8Fw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2092489992782438400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEj9vbYAAZtdW.jpg",
+        "width": 1047
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2092489992786563072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEj9waUAAkKud.jpg",
+        "width": 1077
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092344770299613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmAe51a0AAiZUU.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092489992782438400",
+            "3_2092489992786563072"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2092351164411163031",
+        "created_at": "2026-08-26T05:51:11.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092490018367693208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoIlvNm8Fw",
+              "end": 44,
+              "expanded_url": "https://x.com/fhv932189957574/status/2092490018367693208/photo/1",
+              "media_key": "3_2092489992782438400",
+              "start": 21,
+              "url": "https://t.co/yoIlvNm8Fw"
+            },
+            {
+              "display_url": "pic.x.com/yoIlvNm8Fw",
+              "end": 44,
+              "expanded_url": "https://x.com/fhv932189957574/status/2092490018367693208/photo/1",
+              "media_key": "3_2092489992786563072",
+              "start": 21,
+              "url": "https://t.co/yoIlvNm8Fw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092490018367693208",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092489992782438400"
+          },
+          {
+            "media_key": "3_2092489992786563072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092351164411163031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 精品跨圈神人 https://t.co/yoIlvNm8Fw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092344770299613184"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2092351164411163031",
+        "created_at": "2026-08-25T20:39:26.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:14:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092344788414829023",
+          "2092351164411163031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j67wv1cGba",
+              "end": 94,
+              "expanded_url": "https://x.com/ServalCandle/status/2092351164411163031/photo/1",
+              "media_key": "3_2092344770299613184",
+              "start": 71,
+              "url": "https://t.co/j67wv1cGba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092351164411163031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092344770299613184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12435,
+          "like_count": 132,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "做了没有什么实际意义的漫画_(:з」∠)_\n\n单纯是因为今天看到这两条推肩并肩出现在时间线上有点抽象（（（\n\n“跨性别也要参加男女对立吗？” https://t.co/j67wv1cGba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "活的小号@fnvku67498｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜看番但不多｜爱搬屎｜个人自由主义｜应该无性恋｜xp机器人｜哈哈哈哈哈哈哈｜https://t.co/kx7T6bbtRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2092490018367693208",
+        "name": "f hv",
+        "pinned_tweet_id": "2088240518677565913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 487,
+          "like_count": 17397,
+          "listed_count": 0,
+          "media_count": 1314,
+          "tweet_count": 4007
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2092373220917969069",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34178,
+          "following_count": 422,
+          "like_count": 237684,
+          "listed_count": 110,
+          "media_count": 9393,
+          "tweet_count": 61202
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

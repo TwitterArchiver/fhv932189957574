@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732125993910272",
+          "name": "test (us,ja)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089733029857988608",
+          "name": "test (other,ja)"
+        }
+      }
+    ],
+    "conversation_id": "2096260307517944076",
+    "created_at": "2026-09-05T15:32:58.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096260307517944076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erai_sensei/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/erai_sensei/status/2095808111697391758",
+          "start": 33,
+          "url": "https://t.co/dI3DCJBJY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096260307517944076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095808111697391758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大概率给老人吧，老人走的最慢，我好奇的是这几个人怎么不跑去躲雨啊 https://t.co/dI3DCJBJY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2095808103354929152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXOXa3bEAAcpeo.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732125993910272",
+              "name": "test (us,ja)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089733029857988608",
+              "name": "test (other,ja)"
+            }
+          }
+        ],
+        "conversation_id": "2096260307517944076",
+        "created_at": "2026-09-05T15:32:58.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096260307517944076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erai_sensei/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/erai_sensei/status/2095808111697391758",
+              "start": 33,
+              "url": "https://t.co/dI3DCJBJY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096260307517944076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095808111697391758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概率给老人吧，老人走的最慢，我好奇的是这几个人怎么不跑去躲雨啊 https://t.co/dI3DCJBJY3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095808103354929152"
+          ]
+        },
+        "author_id": "1177329825129713664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732125993910272",
+              "name": "test (us,ja)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089733029857988608",
+              "name": "test (other,ja)"
+            }
+          }
+        ],
+        "conversation_id": "2095808111697391758",
+        "created_at": "2026-09-04T09:36:06.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095808111697391758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLKcMrsT0J",
+              "end": 51,
+              "expanded_url": "https://x.com/erai_sensei/status/2095808111697391758/photo/1",
+              "media_key": "3_2095808103354929152",
+              "start": 28,
+              "url": "https://t.co/BLKcMrsT0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095808111697391758",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095808103354929152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2822,
+          "impression_count": 17624749,
+          "like_count": 10315,
+          "quote_count": 3448,
+          "reply_count": 2263,
+          "retweet_count": 697
+        },
+        "reply_settings": "everyone",
+        "text": "怖いほど当たる心理テスト。\n\n「　だれに傘を渡す？　」 https://t.co/BLKcMrsT0J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "（捧腹大笑）\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，所有人都要大笑\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bbtRT l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 139,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 116,
+                "url": "https://t.co/kx7T6bbtRT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwfxY"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2096260307517944076",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 501,
+          "like_count": 18034,
+          "listed_count": 0,
+          "media_count": 1354,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/uMu7ZPwfxY",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-26T21:11:27.000Z",
+        "description": "あなたの頭と心を、少しだけ柔らかく。\n毎日、心理テスト・クイズ・雑学を出題🧠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/erasen",
+                "end": 23,
+                "expanded_url": "https://lit.link/erasen",
+                "start": 0,
+                "url": "https://t.co/Kh3Eko284J"
+              }
+            ]
+          }
+        },
+        "id": "1177329825129713664",
+        "is_identity_verified": false,
+        "location": "著書・ほかの活動はこちら↓",
+        "most_recent_tweet_id": "2096169565709603315",
+        "name": "えらせん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177329825129713664/1786961018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070237362559610880/w2vyfojn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47566,
+          "following_count": 4,
+          "like_count": 1370,
+          "listed_count": 67,
+          "media_count": 398,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/Kh3Eko284J",
+        "username": "erai_sensei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

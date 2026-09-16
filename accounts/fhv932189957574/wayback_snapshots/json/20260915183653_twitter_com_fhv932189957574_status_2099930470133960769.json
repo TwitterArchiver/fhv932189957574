@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099930446549413888",
+        "3_2099930446549385216"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2099930470133960769",
+    "created_at": "2026-09-15T18:36:53.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099930470133960769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILGogv4UoG",
+          "end": 31,
+          "expanded_url": "https://x.com/fhv932189957574/status/2099930470133960769/photo/1",
+          "media_key": "3_2099930446549413888",
+          "start": 8,
+          "url": "https://t.co/ILGogv4UoG"
+        },
+        {
+          "display_url": "pic.x.com/ILGogv4UoG",
+          "end": 31,
+          "expanded_url": "https://x.com/fhv932189957574/status/2099930470133960769/photo/1",
+          "media_key": "3_2099930446549385216",
+          "start": 8,
+          "url": "https://t.co/ILGogv4UoG"
+        },
+        {
+          "display_url": "x.com/alemisuu/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/alemisuu/status/2099784277571375468",
+          "start": 32,
+          "url": "https://t.co/2kzUfGV23y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099930470133960769",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099930446549413888"
+      },
+      {
+        "media_key": "3_2099930446549385216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099784277571375468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么一鬼一神的 https://t.co/ILGogv4UoG https://t.co/2kzUfGV23y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099930446549413888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRznX-a8AAlOMw.jpg",
+        "width": 1184
+      },
+      {
+        "height": 1734,
+        "media_key": "3_2099930446549385216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRznX-agAACs-U.jpg",
+        "width": 1220
+      },
+      {
+        "duration_ms": 8800,
+        "height": 468,
+        "media_key": "13_2099517969789341699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099517969789341699/img/vGLM7Wf8UeW_EM_-.jpg",
+        "public_metrics": {
+          "view_count": 903874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099517969789341699/vid/avc1/320x468/Cqhr5bZffeKNzbNe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099517969789341699/pl/mQTqsowKPu7DpmYk.m3u8?tag=14"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099930446549413888",
+            "3_2099930446549385216"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099930470133960769",
+        "created_at": "2026-09-15T18:36:53.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099930470133960769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILGogv4UoG",
+              "end": 31,
+              "expanded_url": "https://x.com/fhv932189957574/status/2099930470133960769/photo/1",
+              "media_key": "3_2099930446549413888",
+              "start": 8,
+              "url": "https://t.co/ILGogv4UoG"
+            },
+            {
+              "display_url": "pic.x.com/ILGogv4UoG",
+              "end": 31,
+              "expanded_url": "https://x.com/fhv932189957574/status/2099930470133960769/photo/1",
+              "media_key": "3_2099930446549385216",
+              "start": 8,
+              "url": "https://t.co/ILGogv4UoG"
+            },
+            {
+              "display_url": "x.com/alemisuu/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/alemisuu/status/2099784277571375468",
+              "start": 32,
+              "url": "https://t.co/2kzUfGV23y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099930470133960769",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099930446549413888"
+          },
+          {
+            "media_key": "3_2099930446549385216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099784277571375468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么一鬼一神的 https://t.co/ILGogv4UoG https://t.co/2kzUfGV23y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099517969789341699"
+          ],
+          "media_source_tweet_id": [
+            "2099517992367165466"
+          ]
+        },
+        "author_id": "1639386681454329859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099784277571375468",
+        "created_at": "2026-09-15T08:55:58.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099784277571375468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rn2otrF2ke",
+              "end": 59,
+              "expanded_url": "https://x.com/bringeroroaring/status/2099517992367165466/video/1",
+              "media_key": "13_2099517969789341699",
+              "start": 36,
+              "url": "https://t.co/rn2otrF2ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099784277571375468",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099517969789341699"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 775,
+          "impression_count": 138282,
+          "like_count": 9665,
+          "quote_count": 104,
+          "reply_count": 67,
+          "retweet_count": 1144
+        },
+        "reply_settings": "everyone",
+        "text": "this is how genshin fans draw varka https://t.co/rn2otrF2ke"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099930470133960769",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 515,
+          "like_count": 19644,
+          "listed_count": 0,
+          "media_count": 1426,
+          "tweet_count": 4417
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-24T22:00:46.000Z",
+        "description": "ㅤㅤㅤㅤㅤᘡ ۫ 𖨂 𓈒 she/they ۟ ៹ 𓂂 hangeist ྀ۪۪۪ ˑ ⊹ ۫ ꒱ hsr, genshin, aot ˚ · . ✮",
+        "id": "1639386681454329859",
+        "is_identity_verified": false,
+        "location": "20 . mdni",
+        "most_recent_tweet_id": "2099925107883868389",
+        "name": "alek",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639386681454329859/1787827026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092929248545632256/UdW6sddH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 88,
+          "like_count": 97232,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "alemisuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
