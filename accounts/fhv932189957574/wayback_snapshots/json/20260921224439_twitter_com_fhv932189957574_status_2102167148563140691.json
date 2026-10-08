@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2101837886069121051",
+    "created_at": "2026-09-21T22:44:39.000Z",
+    "display_text_range": [
+      12,
+      171
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T23:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102167148563140691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102167148563140691",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你说得对，但是《原神》是由上海米哈游网络科技股份有限公司制作发行的一款开放世界冒险游戏，于2017年1月底立项，原初测试于2019年6月21日开启，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启。在数据方面，同在官方服务器的情况下，iOS、PC、Android、鸿蒙平台之间的账号数据互通，玩家可以在同一账号下切换设备。2026年1月20日起，《原神》小米服务器正式停服。游戏发生在一个被称作“提瓦特大陆”的幻想世界，在这里，被神选中的人将被授予“神之眼”，导引元素之力。玩家将扮演一位名为“旅行者”的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘“原神”的真相。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101837886069121051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 你说得对，但是《原神》是由上海米哈游网络科技股份有限公司制作发行的一款开放世界冒险游戏，于2017年1月底立项，原初测试于2019年6月21日开启，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启。在数据方面，同在官方服务器的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2101837886069121051",
+        "created_at": "2026-09-21T22:44:39.000Z",
+        "display_text_range": [
+          12,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102167148563140691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102167148563140691",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说得对，但是《原神》是由上海米哈游网络科技股份有限公司制作发行的一款开放世界冒险游戏，于2017年1月底立项，原初测试于2019年6月21日开启，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启。在数据方面，同在官方服务器的情况下，iOS、PC、Android、鸿蒙平台之间的账号数据互通，玩家可以在同一账号下切换设备。2026年1月20日起，《原神》小米服务器正式停服。游戏发生在一个被称作“提瓦特大陆”的幻想世界，在这里，被神选中的人将被授予“神之眼”，导引元素之力。玩家将扮演一位名为“旅行者”的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘“原神”的真相。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101837886069121051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 你说得对，但是《原神》是由上海米哈游网络科技股份有限公司制作发行的一款开放世界冒险游戏，于2017年1月底立项，原初测试于2019年6月21日开启，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启。在数据方面，同在官方服务器的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342135083252105216",
+        "conversation_id": "2101837886069121051",
+        "created_at": "2026-09-21T00:56:16.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101837886069121051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101837886069121051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天阴蒂与阴道累计高潮了整整十次。感觉小穴深处的神经像绷紧的弹簧般不停蹦跳，指尖沾满的淫水多得宛如射出的精液。\n\n整整一天的自慰带来了极致的爽快感，下体早已充血发烫，软绵绵地糊成了一块热烘烘的小面包。\n\n后来，我跪在桌下为主人口交。🥵🩵\n\n主人按住我的头部猛力深喉，当那根巨物硬生生顶进喉咙最深处时，我的双手与头部被死死按住，动弹不得。\n\n因无法呼吸，喉咙里只能不断发出呜呜的求饶声，口水不受控制地顺着角嘴角流淌，呼吸越来越急促，拼命想要争夺那一丝稀缺的氧气。\n\n可主人的手却越按越紧。\n\n直到看我快要撑到极限，主人适时放开少许，赏赐给我微薄的空气。然而还没等我喘过气来，就再次被狠狠顶到最深处，瞬间拉回窒息的深渊。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9875,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天阴蒂与阴道累计高潮了整整十次。感觉小穴深处的神经像绷紧的弹簧般不停蹦跳，指尖沾满的淫水多得宛如射出的精液。\n\n整整一天的自慰带来了极致的爽快感，下体早已充血发烫，软绵绵地糊成了一块热烘烘的小面包。\n\n后来，我跪在桌下为主人口交。🥵🩵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102167148563140691",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 522,
+          "like_count": 21437,
+          "listed_count": 0,
+          "media_count": 1497,
+          "tweet_count": 4810
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 每天都要去迪士尼版（贝儿粉）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsJNbl"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2102079478948344221",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090127412013182976/-_Pe7Ang_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59735,
+          "following_count": 1250,
+          "like_count": 15901,
+          "listed_count": 491,
+          "media_count": 5670,
+          "tweet_count": 27506
+        },
+        "url": "https://t.co/Xf4PjsJNbl",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

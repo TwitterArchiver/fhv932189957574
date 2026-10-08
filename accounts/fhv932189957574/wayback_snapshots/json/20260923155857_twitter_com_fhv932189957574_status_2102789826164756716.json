@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102307134633635840"
+      ],
+      "media_source_tweet_id": [
+        "2102307138299445355"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2102789826164756716",
+    "created_at": "2026-09-23T15:58:57.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102789826164756716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1875609349131005955",
+          "start": 3,
+          "username": "Requiem0requiem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/noR3EB5oZF",
+          "end": 68,
+          "expanded_url": "https://x.com/Requiem0requiem/status/2102307138299445355/photo/1",
+          "media_key": "3_2102307134633635840",
+          "start": 45,
+          "url": "https://t.co/noR3EB5oZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102789826164756716",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102307134633635840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102307138299445355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Requiem0requiem: これだけで何のアニメのシーンかわかった人は猛者 https://t.co/noR3EB5oZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2102307134633635840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzlM1CbcAA_tqv.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102307134633635840"
+          ],
+          "media_source_tweet_id": [
+            "2102307138299445355"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2102789826164756716",
+        "created_at": "2026-09-23T15:58:57.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102789826164756716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1875609349131005955",
+              "start": 3,
+              "username": "Requiem0requiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noR3EB5oZF",
+              "end": 68,
+              "expanded_url": "https://x.com/Requiem0requiem/status/2102307138299445355/photo/1",
+              "media_key": "3_2102307134633635840",
+              "start": 45,
+              "url": "https://t.co/noR3EB5oZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102789826164756716",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102307134633635840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102307138299445355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Requiem0requiem: これだけで何のアニメのシーンかわかった人は猛者 https://t.co/noR3EB5oZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102307134633635840"
+          ]
+        },
+        "author_id": "1875609349131005955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2102307138299445355",
+        "created_at": "2026-09-22T08:00:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102307138299445355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/noR3EB5oZF",
+              "end": 47,
+              "expanded_url": "https://x.com/Requiem0requiem/status/2102307138299445355/photo/1",
+              "media_key": "3_2102307134633635840",
+              "start": 24,
+              "url": "https://t.co/noR3EB5oZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102307138299445355",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102307134633635840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4176,
+          "impression_count": 6826862,
+          "like_count": 76406,
+          "quote_count": 1045,
+          "reply_count": 627,
+          "retweet_count": 7586
+        },
+        "reply_settings": "everyone",
+        "text": "これだけで何のアニメのシーンかわかった人は猛者 https://t.co/noR3EB5oZF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102789826164756716",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 526,
+          "like_count": 21680,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 4855
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T18:24:58.000Z",
+        "description": "ここは「退く」のだ…………… ここで一時「退く」のは 敗北ではない……………！ オレは頂点に返り咲ける能力があるッ！\n\nジョジョの奇妙な冒険に関する情報を投稿しています",
+        "id": "1875609349131005955",
+        "is_identity_verified": true,
+        "location": "自認ディアボロ",
+        "most_recent_tweet_id": "2102762559845843206",
+        "name": "レクイエム・レクイエム",
+        "pinned_tweet_id": "1920407491260661938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875609349131005955/1789986211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030163440984281094/iUvhs81b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37608,
+          "following_count": 3,
+          "like_count": 3038,
+          "listed_count": 16,
+          "media_count": 530,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "Requiem0requiem",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100044110279454720",
+        "3_2100044110283612160",
+        "3_2100044110262566913"
+      ],
+      "media_source_tweet_id": [
+        "2100044117053243830",
+        "2100044117053243830",
+        "2100044117053243830"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100230948675829968",
+    "created_at": "2026-09-16T14:30:53.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100230948675829968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775436213270519808",
+          "start": 3,
+          "username": "better__time"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0oQ5ecow9R",
+          "end": 58,
+          "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+          "media_key": "3_2100044110279454720",
+          "start": 35,
+          "url": "https://t.co/0oQ5ecow9R"
+        },
+        {
+          "display_url": "pic.x.com/0oQ5ecow9R",
+          "end": 58,
+          "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+          "media_key": "3_2100044110283612160",
+          "start": 35,
+          "url": "https://t.co/0oQ5ecow9R"
+        },
+        {
+          "display_url": "pic.x.com/0oQ5ecow9R",
+          "end": 58,
+          "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+          "media_key": "3_2100044110262566913",
+          "start": 35,
+          "url": "https://t.co/0oQ5ecow9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100230948675829968",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2100044110279454720"
+      },
+      {
+        "media_key": "3_2100044110283612160"
+      },
+      {
+        "media_key": "3_2100044110262566913"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5728
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100044117053243830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @better__time: 고구마만 보면 돌변하는 강아지 https://t.co/0oQ5ecow9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_2100044110279454720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTa_eXbsAAPuu1.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1970,
+        "media_key": "3_2100044110283612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTa_eYbIAAITS3.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2100044110262566913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTa_eTaAAECR2c.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100044110279454720",
+            "3_2100044110283612160",
+            "3_2100044110262566913"
+          ],
+          "media_source_tweet_id": [
+            "2100044117053243830",
+            "2100044117053243830",
+            "2100044117053243830"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100230948675829968",
+        "created_at": "2026-09-16T14:30:53.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100230948675829968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775436213270519808",
+              "start": 3,
+              "username": "better__time"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 58,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110279454720",
+              "start": 35,
+              "url": "https://t.co/0oQ5ecow9R"
+            },
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 58,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110283612160",
+              "start": 35,
+              "url": "https://t.co/0oQ5ecow9R"
+            },
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 58,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110262566913",
+              "start": 35,
+              "url": "https://t.co/0oQ5ecow9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100230948675829968",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2100044110279454720"
+          },
+          {
+            "media_key": "3_2100044110283612160"
+          },
+          {
+            "media_key": "3_2100044110262566913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5728
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100044117053243830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @better__time: 고구마만 보면 돌변하는 강아지 https://t.co/0oQ5ecow9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100044110279454720",
+            "3_2100044110283612160",
+            "3_2100044110262566913"
+          ]
+        },
+        "author_id": "1775436213270519808",
+        "conversation_id": "2100044117053243830",
+        "created_at": "2026-09-16T02:08:29.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100044117053243830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 40,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110279454720",
+              "start": 17,
+              "url": "https://t.co/0oQ5ecow9R"
+            },
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 40,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110283612160",
+              "start": 17,
+              "url": "https://t.co/0oQ5ecow9R"
+            },
+            {
+              "display_url": "pic.x.com/0oQ5ecow9R",
+              "end": 40,
+              "expanded_url": "https://x.com/better__time/status/2100044117053243830/photo/1",
+              "media_key": "3_2100044110262566913",
+              "start": 17,
+              "url": "https://t.co/0oQ5ecow9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100044117053243830",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2100044110279454720"
+          },
+          {
+            "media_key": "3_2100044110283612160"
+          },
+          {
+            "media_key": "3_2100044110262566913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1271,
+          "impression_count": 681260,
+          "like_count": 25620,
+          "quote_count": 235,
+          "reply_count": 37,
+          "retweet_count": 5728
+        },
+        "reply_settings": "everyone",
+        "text": "고구마만 보면 돌변하는 강아지 https://t.co/0oQ5ecow9R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100230948675829968",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 19856,
+          "listed_count": 0,
+          "media_count": 1432,
+          "tweet_count": 4455
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T08:12:47.000Z",
+        "description": "지친 하루에, 작은 위로가 되는 공간",
+        "id": "1775436213270519808",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100188286136492409",
+        "name": "better time",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775436213270519808/1745801840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973156619044397056/I7tAHB-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20744,
+          "following_count": 1109,
+          "like_count": 65505,
+          "listed_count": 41,
+          "media_count": 3122,
+          "tweet_count": 50617
+        },
+        "url": "",
+        "username": "better__time",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

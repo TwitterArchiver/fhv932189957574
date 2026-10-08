@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2104605649946710339",
+    "created_at": "2026-09-29T23:58:26.000Z",
+    "display_text_range": [
+      9,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105084822364549152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1519614092616503296",
+          "start": 0,
+          "username": "jjjjbom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bringeroroarin…",
+          "end": 32,
+          "expanded_url": "https://x.com/bringeroroaring/status/2099517992367165466?s=46",
+          "start": 9,
+          "url": "https://t.co/eiWq88C1ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105084822364549152",
+    "in_reply_to_user_id": "1519614092616503296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099517992367165466",
+        "type": "quoted"
+      },
+      {
+        "id": "2104605649946710339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjjjbom https://t.co/eiWq88C1ix"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8800,
+        "height": 468,
+        "media_key": "13_2099517969789341699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099517969789341699/img/vGLM7Wf8UeW_EM_-.jpg",
+        "public_metrics": {
+          "view_count": 1215819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099517969789341699/vid/avc1/320x468/Cqhr5bZffeKNzbNe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099517969789341699/pl/mQTqsowKPu7DpmYk.m3u8?tag=14"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2104605649946710339",
+        "created_at": "2026-09-29T23:58:26.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105084822364549152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1519614092616503296",
+              "start": 0,
+              "username": "jjjjbom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bringeroroarin…",
+              "end": 32,
+              "expanded_url": "https://x.com/bringeroroaring/status/2099517992367165466?s=46",
+              "start": 9,
+              "url": "https://t.co/eiWq88C1ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105084822364549152",
+        "in_reply_to_user_id": "1519614092616503296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099517992367165466",
+            "type": "quoted"
+          },
+          {
+            "id": "2104605649946710339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjjjbom https://t.co/eiWq88C1ix"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519614092616503296",
+        "conversation_id": "2104605649946710339",
+        "created_at": "2026-09-28T16:14:23.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104605649946710339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104605649946710339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 346015,
+          "like_count": 12580,
+          "quote_count": 29,
+          "reply_count": 191,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "多少年后才能看见主流二游男角色，衣服到处开洞，走路奶子一晃一晃，这时候镜头给到胯下，几把也小巧思的做出了动感跟果冻似的，尤其是枪战，翻身躲子弹刚好擦到了蛋蛋，最后再来个高潮脸。而且648皮肤必然是泳装，大脚踩，大手探，大胸挤，大屁夹，这时候剧情终于推进到了有他的部分，说他是个神明。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099517969789341699"
+          ]
+        },
+        "author_id": "2074136586598404096",
+        "conversation_id": "2099517992367165466",
+        "created_at": "2026-09-14T15:17:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099517992367165466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pufwb03gAu",
+              "end": 23,
+              "expanded_url": "https://x.com/bringeroroaring/status/2099517992367165466/video/1",
+              "media_key": "13_2099517969789341699",
+              "start": 0,
+              "url": "https://t.co/Pufwb03gAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099517992367165466",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2099517969789341699"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11317,
+          "impression_count": 2179320,
+          "like_count": 59950,
+          "quote_count": 1783,
+          "reply_count": 1060,
+          "retweet_count": 7984
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pufwb03gAu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2105084822364549152",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 526,
+          "like_count": 23299,
+          "listed_count": 0,
+          "media_count": 1563,
+          "tweet_count": 5111
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T09:46:55.000Z",
+        "description": "=茅 杂食且恶俗 接受不了我的内容请勿关注\n单机不交友。\n我只是个产生诡异图片的营销号，别把我当人",
+        "id": "1519614092616503296",
+        "is_identity_verified": false,
+        "location": "🚫AI",
+        "most_recent_tweet_id": "2105006569532604512",
+        "name": "咋办我oc好美味",
+        "pinned_tweet_id": "2103751676238917647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519614092616503296/1787673346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089023096460349440/sNLjOOFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1007,
+          "like_count": 6284,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "jjjjbom",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T14:22:18.000Z",
+        "description": "",
+        "id": "2074136586598404096",
+        "is_identity_verified": false,
+        "location": "???",
+        "most_recent_tweet_id": "2101159174944047549",
+        "name": "Bringer of Roaring",
+        "pinned_tweet_id": "2099517264315687048",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074136586598404096/1784170162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075288892379369472/7qQqzUpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 126,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "bringeroroaring",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

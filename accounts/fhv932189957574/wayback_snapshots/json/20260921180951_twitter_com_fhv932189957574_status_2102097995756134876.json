@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2101960142090891332",
+    "created_at": "2026-09-21T18:09:51.000Z",
+    "display_text_range": [
+      22,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102097995756134876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982043571940438016",
+          "start": 0,
+          "username": "Chiazu_meow"
+        },
+        {
+          "end": 21,
+          "id": "1922104321128513536",
+          "start": 13,
+          "username": "miya37M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102097995756134876",
+    "in_reply_to_user_id": "1982043571940438016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101960142090891332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiazu_meow @miya37M 😋感謝翻譯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101960134574649344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSupmxFasAALtPF.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2101960142090891332",
+        "created_at": "2026-09-21T18:09:51.000Z",
+        "display_text_range": [
+          22,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102097995756134876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982043571940438016",
+              "start": 0,
+              "username": "Chiazu_meow"
+            },
+            {
+              "end": 21,
+              "id": "1922104321128513536",
+              "start": 13,
+              "username": "miya37M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102097995756134876",
+        "in_reply_to_user_id": "1982043571940438016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101960142090891332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiazu_meow @miya37M 😋感謝翻譯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101960134574649344"
+          ]
+        },
+        "author_id": "1982043571940438016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2101960142090891332",
+        "created_at": "2026-09-21T09:02:05.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101960142090891332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "崩壞星穹鐵道"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "中文翻譯"
+            },
+            {
+              "end": 85,
+              "start": 70,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 88,
+              "start": 86,
+              "tag": "星"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "流螢"
+            },
+            {
+              "end": 101,
+              "start": 93,
+              "tag": "Firefly"
+            },
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "Stelle"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "ホタル"
+            },
+            {
+              "end": 125,
+              "start": 116,
+              "tag": "崩壊スターレイル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1922104321128513536",
+              "start": 19,
+              "username": "miya37M"
+            },
+            {
+              "end": 54,
+              "id": "1982043571940438016",
+              "start": 42,
+              "username": "Chiazu_meow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ip0u475rHI",
+              "end": 149,
+              "expanded_url": "https://x.com/Chiazu_meow/status/2101960142090891332/photo/1",
+              "media_key": "3_2101960134574649344",
+              "start": 126,
+              "url": "https://t.co/ip0u475rHI"
+            },
+            {
+              "display_url": "x.com/miya37M/status…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/miya37M/status/2100779292959662420",
+              "start": 150,
+              "url": "https://t.co/cFX5DJ3zOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101960142090891332",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101960134574649344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6394,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100779292959662420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【流螢，請和我結婚】\n\n繪師：しののめ@miya37M\n修圖＆\n翻譯：貓鋪子〃七日末@Chiazu_meow\n\n#崩壞星穹鐵道 #中文翻譯 #HonkaiStarRail #星 #流螢 #Firefly #Stelle  #ホタル #崩壊スターレイル https://t.co/ip0u475rHI https://t.co/cFX5DJ3zOy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102097995756134876",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 519,
+          "like_count": 21312,
+          "listed_count": 0,
+          "media_count": 1496,
+          "tweet_count": 4794
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T11:16:53.000Z",
+        "description": "日常自翻漫畫,, 努力日更灬१有翻譯錯誤、建議，歡迎下方留言·͜·↬輕鬆聊┊︎放鬆看｜\n※非繪師及翻譯者同意，禁止二次轉載。\n▶︎不專業熟肉•́ฅ追跟、支持，就是翻譯動力！",
+        "id": "1982043571940438016",
+        "is_identity_verified": false,
+        "location": "❌無断転載、商業用途",
+        "most_recent_tweet_id": "2101960641330413862",
+        "name": "貓鋪子〃七日末",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982043571940438016/1763161289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012624700946415617/tUbf2OKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4447,
+          "following_count": 1573,
+          "like_count": 14866,
+          "listed_count": 16,
+          "media_count": 331,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "Chiazu_meow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-13T01:39:39.000Z",
+        "description": "好きなオリジナル、二次創作百合イラスト描いてます😎\nskeb↓\nhttps://t.co/KlK2SD46Ny\nファンボックス↓\nhttps://t.co/h7C4msSz3S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@miya37M",
+                "end": 55,
+                "expanded_url": "https://skeb.jp/@miya37M",
+                "start": 32,
+                "url": "https://t.co/KlK2SD46Ny"
+              },
+              {
+                "display_url": "shinonome0981.fanbox.cc",
+                "end": 88,
+                "expanded_url": "https://shinonome0981.fanbox.cc/",
+                "start": 65,
+                "url": "https://t.co/h7C4msSz3S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5810715",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/5810715",
+                "start": 0,
+                "url": "https://t.co/eOqjhKsJ3E"
+              }
+            ]
+          }
+        },
+        "id": "1922104321128513536",
+        "is_identity_verified": false,
+        "location": "パラディ島",
+        "most_recent_tweet_id": "2102042619388084704",
+        "name": "しののめ🌸",
+        "pinned_tweet_id": "2074682765451428239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922104321128513536/1765672377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981864556465905664/ejv2iuFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 18,
+          "like_count": 3988,
+          "listed_count": 24,
+          "media_count": 142,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/eOqjhKsJ3E",
+        "username": "miya37M",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

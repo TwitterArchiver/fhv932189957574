@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2100622915402367162",
+    "created_at": "2026-09-17T16:28:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100622915402367162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033772279596040192",
+          "start": 3,
+          "username": "23AIart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100622915402367162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100528845325738404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @23AIart: 放課後、ノートを買いに立ち寄った雑貨店の店先には、気がつけばハロウィンのオレンジ色が賑やかに並んでいた。\n\n季節の棚を物珍しそうに眺めていたホタルが、棚にあった大きな帽子を被り、小さな星のステッキを手に取ってこちらへ向き直る。\n\n『見て、穹。もうハロウ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2100528674126929921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaTszXboAEDUDt.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2100622915402367162",
+        "created_at": "2026-09-17T16:28:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100622915402367162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033772279596040192",
+              "start": 3,
+              "username": "23AIart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100622915402367162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100528845325738404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @23AIart: 放課後、ノートを買いに立ち寄った雑貨店の店先には、気がつけばハロウィンのオレンジ色が賑やかに並んでいた。\n\n季節の棚を物珍しそうに眺めていたホタルが、棚にあった大きな帽子を被り、小さな星のステッキを手に取ってこちらへ向き直る。\n\n『見て、穹。もうハロウ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100528674126929921"
+          ]
+        },
+        "author_id": "2033772279596040192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2100528845325738404",
+        "created_at": "2026-09-17T10:14:37.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100528845325738404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCNLFNRu84",
+              "end": 162,
+              "expanded_url": "https://x.com/23AIart/status/2100528845325738404/photo/1",
+              "media_key": "3_2100528674126929921",
+              "start": 139,
+              "url": "https://t.co/pCNLFNRu84"
+            },
+            {
+              "display_url": "x.com/23AIart/status…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/23AIart/status/2100444048104538364",
+              "start": 163,
+              "url": "https://t.co/BPqSFhd2If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100528845325738404",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100528674126929921"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "放課後、ノートを買いに立ち寄った雑貨店の店先には、気がつけばハロウィンのオレンジ色が賑やかに並んでいた。\n\n季節の棚を物珍しそうに眺めていたホタルが、棚にあった大きな帽子を被り、小さな星のステッキを手に取ってこちらへ向き直る。\n\n『見て、穹。もうハロウィンのものが並んでるよ』\n\nちょんとステッキを掲げて、悪戯っぽく微笑んでみせる。\n\n『……どうかな？ ちゃんと小さな魔女に見える？』\n\n昼間の強い日差しから一転、秋色に染まり始めた雑貨店の灯りの中で、彼女の楽しげな声が静かに響いていた。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1295,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100444048104538364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "放課後、ノートを買いに立ち寄った雑貨店の店先には、気がつけばハロウィンのオレンジ色が賑やかに並んでいた。\n\n季節の棚を物珍しそうに眺めていたホタルが、棚にあった大きな帽子を被り、小さな星のステッキを手に取ってこちらへ向き直る。\n\n『見て、穹。もうハロウィンのものが並んでるよ』 https://t.co/pCNLFNRu84 https://t.co/BPqSFhd2If"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100622915402367162",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 517,
+          "like_count": 20378,
+          "listed_count": 0,
+          "media_count": 1444,
+          "tweet_count": 4539
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-17T05:08:08.000Z",
+        "description": "AIなんでも屋🌱イラスト〜AI動画\n今のメイン👇\n🔥スタレ二次創作『隣のホタルちゃん』シリーズ毎日4枚\n🎸創作4人組ガールズバンド『Astre Brilliant』毎日2〜3枚\n時々プロンプト検証・技術共有｜好きなAI作品RP多め\n🤝クリエイター関連フォロバ100%｜無言フォロー歓迎\nフォロー・閲覧が励みです",
+        "id": "2033772279596040192",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2100596445745487939",
+        "name": "23Sensei",
+        "pinned_tweet_id": "2099825382556090806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033772279596040192/1789156011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098412888683950080/seItLxgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 816,
+          "like_count": 24729,
+          "listed_count": 12,
+          "media_count": 1532,
+          "tweet_count": 14098
+        },
+        "url": "",
+        "username": "23AIart",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

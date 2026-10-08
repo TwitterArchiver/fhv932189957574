@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102085177023528960"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2101928147423994074",
+    "created_at": "2026-09-21T17:18:57.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T18:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102085184095170626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1045913787121917952",
+          "start": 0,
+          "username": "asirisenpai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/acFrCJbi7J",
+          "end": 44,
+          "expanded_url": "https://x.com/fhv932189957574/status/2102085184095170626/photo/1",
+          "media_key": "3_2102085177023528960",
+          "start": 21,
+          "url": "https://t.co/acFrCJbi7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102085184095170626",
+    "in_reply_to_user_id": "1045913787121917952",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102085177023528960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101928147423994074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asirisenpai ホタル可愛い！ https://t.co/acFrCJbi7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2102085177023528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwbVMgaAAAlwcF.jpg",
+        "width": 600
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2101928130982395904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuMf6abQAA8y3M.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102085177023528960"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2101928147423994074",
+        "created_at": "2026-09-21T17:18:57.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102085184095170626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1045913787121917952",
+              "start": 0,
+              "username": "asirisenpai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/acFrCJbi7J",
+              "end": 44,
+              "expanded_url": "https://x.com/fhv932189957574/status/2102085184095170626/photo/1",
+              "media_key": "3_2102085177023528960",
+              "start": 21,
+              "url": "https://t.co/acFrCJbi7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102085184095170626",
+        "in_reply_to_user_id": "1045913787121917952",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102085177023528960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101928147423994074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asirisenpai ホタル可愛い！ https://t.co/acFrCJbi7J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101928130982395904"
+          ]
+        },
+        "author_id": "1045913787121917952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2101928147423994074",
+        "created_at": "2026-09-21T06:54:56.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101928147423994074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 3,
+              "tag": "firefly"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "流萤"
+            },
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "honkaistarrail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WwrM2ISfT",
+              "end": 55,
+              "expanded_url": "https://x.com/asirisenpai/status/2101928147423994074/photo/1",
+              "media_key": "3_2101928130982395904",
+              "start": 32,
+              "url": "https://t.co/2WwrM2ISfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101928147423994074",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2101928130982395904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 19246,
+          "like_count": 3359,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "✌️\n#firefly #流萤 #honkaistarrail https://t.co/2WwrM2ISfT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102085185223410156",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 519,
+          "like_count": 21267,
+          "listed_count": 0,
+          "media_count": 1496,
+          "tweet_count": 4784
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-29T05:50:53.000Z",
+        "description": "COMMISSION OPEN ◽  Inquiry : ✉️ diobrendi0821@gmail.com◽ Modest artwork◽ 🚫Don't use my art for Ai,print or sell! ◽ Repost allowed with Source/credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/asirisenpai",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/asirisenpai",
+                "start": 0,
+                "url": "https://t.co/znKZwbb59y"
+              }
+            ]
+          }
+        },
+        "id": "1045913787121917952",
+        "is_identity_verified": false,
+        "location": "Indonesia",
+        "most_recent_tweet_id": "2101928147423994074",
+        "name": "Asiri",
+        "pinned_tweet_id": "1996077026227486921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045913787121917952/1582905722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974687425730654208/9nr5OY3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100789,
+          "following_count": 1137,
+          "like_count": 11139,
+          "listed_count": 324,
+          "media_count": 580,
+          "tweet_count": 4371
+        },
+        "url": "https://t.co/znKZwbb59y",
+        "username": "asirisenpai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

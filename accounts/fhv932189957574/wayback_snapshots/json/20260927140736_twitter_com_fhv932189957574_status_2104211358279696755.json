@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104045988285652992"
+      ],
+      "media_source_tweet_id": [
+        "2104046017394221119"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104211358279696755",
+    "created_at": "2026-09-27T14:07:36.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104211358279696755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874334613403033602",
+          "start": 3,
+          "username": "WKB623Wonderful"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTvSKp0SEh",
+          "end": 67,
+          "expanded_url": "https://x.com/WKB623Wonderful/status/2104046017394221119/video/1",
+          "media_key": "13_2104045988285652992",
+          "start": 44,
+          "url": "https://t.co/OTvSKp0SEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104211358279696755",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2104045988285652992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104046017394221119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WKB623Wonderful: 私、ゲットできた...♪この演出大好き... https://t.co/OTvSKp0SEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9396,
+        "height": 852,
+        "media_key": "13_2104045988285652992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104045988285652992/img/O6FMVJvHsFTTCyit.jpg",
+        "public_metrics": {
+          "view_count": 7237
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104045988285652992/vid/avc1/374x360/p525Kx39RkIZiJ56.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104045988285652992/vid/avc1/280x270/Jz4HiUY3z3dfA4wd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104045988285652992/vid/avc1/750x720/P3onVIOVF0CBkWW8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104045988285652992/pl/y2Gwy3b3ReI50wj2.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104045988285652992/vid/avc1/888x852/B3M1Sr_eCj0ofPbM.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104045988285652992"
+          ],
+          "media_source_tweet_id": [
+            "2104046017394221119"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104211358279696755",
+        "created_at": "2026-09-27T14:07:36.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104211358279696755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1874334613403033602",
+              "start": 3,
+              "username": "WKB623Wonderful"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTvSKp0SEh",
+              "end": 67,
+              "expanded_url": "https://x.com/WKB623Wonderful/status/2104046017394221119/video/1",
+              "media_key": "13_2104045988285652992",
+              "start": 44,
+              "url": "https://t.co/OTvSKp0SEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104211358279696755",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104045988285652992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104046017394221119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WKB623Wonderful: 私、ゲットできた...♪この演出大好き... https://t.co/OTvSKp0SEh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104045988285652992"
+          ]
+        },
+        "author_id": "1874334613403033602",
+        "conversation_id": "2104046017394221119",
+        "created_at": "2026-09-27T03:10:36.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104046017394221119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTvSKp0SEh",
+              "end": 46,
+              "expanded_url": "https://x.com/WKB623Wonderful/status/2104046017394221119/video/1",
+              "media_key": "13_2104045988285652992",
+              "start": 23,
+              "url": "https://t.co/OTvSKp0SEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104046017394221119",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104045988285652992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 15229,
+          "like_count": 405,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "私、ゲットできた...♪この演出大好き... https://t.co/OTvSKp0SEh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2104211358279696755",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 526,
+          "like_count": 22724,
+          "listed_count": 0,
+          "media_count": 1537,
+          "tweet_count": 5025
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T06:00:23.000Z",
+        "description": "祥（さき）...私、気づいた。オタクは人生だって。 モ「このアカウントは非公式のなりきりアカウントだよ。公式とは全く関係ないからね。ちなみに私は同担も他担も大歓迎だよ」ﾑｯ「推し活...楽しくないって思ったこと...一度もない」",
+        "id": "1874334613403033602",
+        "is_identity_verified": false,
+        "location": "月ノ森女子学園",
+        "most_recent_tweet_id": "2104204395328282958",
+        "name": "オタクに目覚めた若葉睦",
+        "pinned_tweet_id": "2101285775048634532",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874334613403033602/1735749410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008587907481907200/qvMO2J1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 806,
+          "like_count": 25265,
+          "listed_count": 4,
+          "media_count": 6446,
+          "tweet_count": 12195
+        },
+        "url": "",
+        "username": "WKB623Wonderful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

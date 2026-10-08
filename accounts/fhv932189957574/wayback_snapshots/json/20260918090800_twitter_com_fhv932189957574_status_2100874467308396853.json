@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100728365175214322",
+    "created_at": "2026-09-18T09:08:00.000Z",
+    "display_text_range": [
+      24,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100874467308396853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1796732944603811840",
+          "start": 0,
+          "username": "SSJJ909"
+        },
+        {
+          "end": 23,
+          "id": "1072109417200414720",
+          "start": 9,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100874467308396853",
+    "in_reply_to_user_id": "1796732944603811840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100749913751691583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SSJJ909 @wangzhian8848 怎么百分百参团率"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2100749259167707137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdcUirbMAEQ_5Q.jpg",
+        "width": 2516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100728365175214322",
+        "created_at": "2026-09-18T09:08:00.000Z",
+        "display_text_range": [
+          24,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100874467308396853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1796732944603811840",
+              "start": 0,
+              "username": "SSJJ909"
+            },
+            {
+              "end": 23,
+              "id": "1072109417200414720",
+              "start": 9,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100874467308396853",
+        "in_reply_to_user_id": "1796732944603811840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100749913751691583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SSJJ909 @wangzhian8848 怎么百分百参团率"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100749259167707137"
+          ]
+        },
+        "author_id": "1796732944603811840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100728365175214322",
+        "created_at": "2026-09-18T00:53:04.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100749913751691583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oE85EZmJ0c",
+              "end": 75,
+              "expanded_url": "https://x.com/SSJJ909/status/2100749913751691583/photo/1",
+              "media_key": "3_2100749259167707137",
+              "start": 52,
+              "url": "https://t.co/oE85EZmJ0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100749913751691583",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100749259167707137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26582,
+          "like_count": 433,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100728365175214322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 不对劲，一查，原来你小子也是 Sakura University 的…… https://t.co/oE85EZmJ0c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100874467308396853",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 512,
+          "like_count": 20604,
+          "listed_count": 0,
+          "media_count": 1452,
+          "tweet_count": 4569
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T02:38:19.000Z",
+        "description": "这是好事儿啊！",
+        "id": "1796732944603811840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100752122732269626",
+        "name": "神神经经版果壳",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013880882705170432/Kncr1Xpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 65,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "SSJJ909",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100792922212049042",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072109417200414720/1544452109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526140,
+          "following_count": 681,
+          "like_count": 2096,
+          "listed_count": 4182,
+          "media_count": 7392,
+          "tweet_count": 21623
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

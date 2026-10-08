@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2099646916707705076",
+    "created_at": "2026-09-21T15:16:19.000Z",
+    "display_text_range": [
+      29,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102054323975008759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077035952655163392",
+          "start": 0,
+          "username": "sacrificeQAQ"
+        },
+        {
+          "end": 28,
+          "id": "1569270033230233603",
+          "start": 14,
+          "username": "Selinameowbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102054323975008759",
+    "in_reply_to_user_id": "1077035952655163392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099735701868904952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacrificeQAQ @Selinameowbot 哲学和文学我认为是偏主观的，一个人不是学了哲学和文学就不是sb，为什么非要相信他的言论，他是耶稣还是克苏鲁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2099646916707705076",
+        "created_at": "2026-09-21T15:16:19.000Z",
+        "display_text_range": [
+          29,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102054323975008759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077035952655163392",
+              "start": 0,
+              "username": "sacrificeQAQ"
+            },
+            {
+              "end": 28,
+              "id": "1569270033230233603",
+              "start": 14,
+              "username": "Selinameowbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102054323975008759",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099735701868904952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacrificeQAQ @Selinameowbot 哲学和文学我认为是偏主观的，一个人不是学了哲学和文学就不是sb，为什么非要相信他的言论，他是耶稣还是克苏鲁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2099646916707705076",
+        "created_at": "2026-09-15T05:42:57.000Z",
+        "display_text_range": [
+          15,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099735701868904952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569270033230233603",
+              "start": 0,
+              "username": "Selinameowbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099735701868904952",
+        "in_reply_to_user_id": "1569270033230233603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099688877045002688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selinameowbot 那更不可能，智商再低的人拿到哲学和文学学士和硕士学位之后智商都不会低"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102054323975008759",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 516,
+          "like_count": 21191,
+          "listed_count": 0,
+          "media_count": 1491,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎 感音神经性聋",
+        "id": "1077035952655163392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101972524770680959",
+        "name": "lastwidecat𓃠",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1928,
+          "like_count": 225918,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 8203
+        },
+        "url": "",
+        "username": "sacrificeQAQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-12T10:22:12.000Z",
+        "description": "女同性恋 | 老婆 @QiuNing_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "1569270033230233603",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102053040127942992",
+        "name": "昕月喵-2.0 Pro",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569270033230233603/1663821077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087037865087897600/sl9os4QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 79,
+          "like_count": 4781,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "Selinameowbot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

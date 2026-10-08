@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1960427927256096771"
+      ],
+      "media_source_tweet_id": [
+        "1960427984088965586"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099927849373483038",
+    "created_at": "2026-09-15T18:26:28.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099927849373483038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006685748708388864",
+          "start": 3,
+          "username": "aaaa1dae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hMKHhBF2L",
+          "end": 45,
+          "expanded_url": "https://x.com/koveindeut/status/1960427984088965586/video/1",
+          "media_key": "7_1960427927256096771",
+          "start": 22,
+          "url": "https://t.co/5hMKHhBF2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099927849373483038",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "7_1960427927256096771"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 999
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099733660761309301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa1dae: 요즘기분이이런 https://t.co/5hMKHhBF2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48660,
+        "height": 722,
+        "media_key": "7_1960427927256096771",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960427927256096771/pu/img/pReJ_1wJn0IgUrfN.jpg",
+        "public_metrics": {
+          "view_count": 58202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960427927256096771/pu/vid/avc1/320x320/0uWq6s3p3QwFcoLL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960427927256096771/pu/vid/avc1/480x480/RoBPNUIic0XoBdVw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960427927256096771/pu/vid/avc1/720x722/Il00jtCDYXR3iZUO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960427927256096771/pu/pl/OYQwOcpKgnHCZgGN.m3u8?tag=12&v=79b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960427927256096771"
+          ],
+          "media_source_tweet_id": [
+            "1960427984088965586"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099927849373483038",
+        "created_at": "2026-09-15T18:26:28.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099927849373483038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006685748708388864",
+              "start": 3,
+              "username": "aaaa1dae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hMKHhBF2L",
+              "end": 45,
+              "expanded_url": "https://x.com/koveindeut/status/1960427984088965586/video/1",
+              "media_key": "7_1960427927256096771",
+              "start": 22,
+              "url": "https://t.co/5hMKHhBF2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099927849373483038",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "7_1960427927256096771"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 999
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099733660761309301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa1dae: 요즘기분이이런 https://t.co/5hMKHhBF2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960427927256096771"
+          ],
+          "media_source_tweet_id": [
+            "1960427984088965586"
+          ]
+        },
+        "author_id": "2006685748708388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099733660761309301",
+        "created_at": "2026-09-15T05:34:50.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099733660761309301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hMKHhBF2L",
+              "end": 31,
+              "expanded_url": "https://x.com/koveindeut/status/1960427984088965586/video/1",
+              "media_key": "7_1960427927256096771",
+              "start": 8,
+              "url": "https://t.co/5hMKHhBF2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099733660761309301",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "7_1960427927256096771"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 719,
+          "impression_count": 73235,
+          "like_count": 3285,
+          "quote_count": 165,
+          "reply_count": 1,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "요즘기분이이런 https://t.co/5hMKHhBF2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960427927256096771"
+          ]
+        },
+        "author_id": "1571756946398810112",
+        "conversation_id": "1960427984088965586",
+        "created_at": "2025-08-26T19:43:49.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2025-08-26T20:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960427984088965586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZk2AwJwwK",
+              "end": 51,
+              "expanded_url": "https://x.com/koveindeut/status/1960427984088965586/video/1",
+              "media_key": "7_1960427927256096771",
+              "start": 28,
+              "url": "https://t.co/WZk2AwJwwK"
+            },
+            {
+              "display_url": "x.com/koveindeut/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/koveindeut/status/1960037518751236456",
+              "start": 52,
+              "url": "https://t.co/jD7jZUnQ2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960427984088965586",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "7_1960427927256096771"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 150182,
+          "like_count": 1064,
+          "quote_count": 415,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960037518751236456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1초마다 라투디가 휙휙 바뀜\n그것도 매우 다양하게 https://t.co/WZk2AwJwwK https://t.co/jD7jZUnQ2F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099927849373483038",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 515,
+          "like_count": 19639,
+          "listed_count": 0,
+          "media_count": 1425,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T11:15:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/codbsl21",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/codbsl21",
+                "start": 0,
+                "url": "https://t.co/kiZVZcR40O"
+              }
+            ]
+          }
+        },
+        "id": "2006685748708388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099860237180407869",
+        "name": "채유니",
+        "pinned_tweet_id": "2099416082922762666",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006685748708388864/1789372661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099798751443648512/-AQX2q8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 57,
+          "like_count": 1587,
+          "listed_count": 4,
+          "media_count": 1009,
+          "tweet_count": 8095
+        },
+        "url": "https://t.co/kiZVZcR40O",
+        "username": "aaaa1dae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

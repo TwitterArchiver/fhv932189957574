@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100257064006386153",
+    "created_at": "2026-09-16T16:14:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100257064006386153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "761664001361211392",
+          "start": 3,
+          "username": "turkiyetimescom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100257064006386153",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100097665123950887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @turkiyetimescom: Çin’li şirket, güneş panellerini temizlemek için geliştirdiği yeni İHA’yı tanıtmak için sokakta bir köpeği böyle yıkad…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15928,
+        "height": 960,
+        "media_key": "13_2100097640515948544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100097640515948544/img/MQOdwNZ4QxtZRBFv.jpg",
+        "public_metrics": {
+          "view_count": 954456
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100097640515948544/vid/avc1/320x426/BABHr4_2Hb0Mkflr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100097640515948544/vid/avc1/480x640/oRDBqwbWMRAohxo5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100097640515948544/vid/avc1/720x960/GBDycMh8Z98w4uRa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100097640515948544/pl/Ch5J0Wx7Yb4TrZoa.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100257064006386153",
+        "created_at": "2026-09-16T16:14:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100257064006386153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "761664001361211392",
+              "start": 3,
+              "username": "turkiyetimescom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100257064006386153",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100097665123950887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @turkiyetimescom: Çin’li şirket, güneş panellerini temizlemek için geliştirdiği yeni İHA’yı tanıtmak için sokakta bir köpeği böyle yıkad…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100097640515948544"
+          ]
+        },
+        "author_id": "761664001361211392",
+        "conversation_id": "2100097665123950887",
+        "created_at": "2026-09-16T05:41:15.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100097665123950887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwHBW59K87",
+              "end": 144,
+              "expanded_url": "https://x.com/turkiyetimescom/status/2100097665123950887/video/1",
+              "media_key": "13_2100097640515948544",
+              "start": 121,
+              "url": "https://t.co/zwHBW59K87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100097665123950887",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2100097640515948544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 3158720,
+          "like_count": 3475,
+          "quote_count": 180,
+          "reply_count": 55,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "Çin’li şirket, güneş panellerini temizlemek için geliştirdiği yeni İHA’yı tanıtmak için sokakta bir köpeği böyle yıkadı: https://t.co/zwHBW59K87"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100257064006386153",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 19990,
+          "listed_count": 0,
+          "media_count": 1433,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-05T20:43:43.000Z",
+        "description": "Türkiye'nin yeni nesil haber platformu.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "turkiyetimes.com.tr",
+                "end": 23,
+                "expanded_url": "http://turkiyetimes.com.tr",
+                "start": 0,
+                "url": "https://t.co/wbMf2aQNOr"
+              }
+            ]
+          }
+        },
+        "id": "761664001361211392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100206110846165088",
+        "name": "Türkiye Times",
+        "pinned_tweet_id": "1760396907145290162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/761664001361211392/1725056118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829636808906321921/SssDIW8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89717,
+          "following_count": 1,
+          "like_count": 253,
+          "listed_count": 297,
+          "media_count": 18164,
+          "tweet_count": 25524
+        },
+        "url": "https://t.co/wbMf2aQNOr",
+        "username": "turkiyetimescom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100684356385960037",
+    "created_at": "2026-09-17T20:32:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T21:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100684356385960037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050810570570649601",
+          "start": 3,
+          "username": "ceciarmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100684356385960037",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100607778062512634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceciarmy: Tenía la puerta del coche llena de arañazos y decidió convertirlos en arte: el resultado fue este increíble samurái. https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2100607626115502080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbbgacXUAAVWiZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2100607757304926209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbboDKXEAEQ_C8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100684356385960037",
+        "created_at": "2026-09-17T20:32:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T21:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100684356385960037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050810570570649601",
+              "start": 3,
+              "username": "ceciarmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100684356385960037",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100607778062512634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceciarmy: Tenía la puerta del coche llena de arañazos y decidió convertirlos en arte: el resultado fue este increíble samurái. https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100607626115502080",
+            "3_2100607757304926209"
+          ]
+        },
+        "author_id": "1050810570570649601",
+        "conversation_id": "2100607778062512634",
+        "created_at": "2026-09-17T15:28:16.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100607778062512634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4EugwiFyV",
+              "end": 140,
+              "expanded_url": "https://x.com/ceciarmy/status/2100607778062512634/photo/1",
+              "media_key": "3_2100607626115502080",
+              "start": 117,
+              "url": "https://t.co/P4EugwiFyV"
+            },
+            {
+              "display_url": "pic.x.com/P4EugwiFyV",
+              "end": 140,
+              "expanded_url": "https://x.com/ceciarmy/status/2100607778062512634/photo/1",
+              "media_key": "3_2100607757304926209",
+              "start": 117,
+              "url": "https://t.co/P4EugwiFyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100607778062512634",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2100607626115502080"
+          },
+          {
+            "media_key": "3_2100607757304926209"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 269388,
+          "like_count": 7259,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "Tenía la puerta del coche llena de arañazos y decidió convertirlos en arte: el resultado fue este increíble samurái. https://t.co/P4EugwiFyV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100684356385960037",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 518,
+          "like_count": 20463,
+          "listed_count": 0,
+          "media_count": 1446,
+          "tweet_count": 4547
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-12T18:08:57.000Z",
+        "description": "business@ceciarmy.com",
+        "id": "1050810570570649601",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100676192370147592",
+        "name": "ceciarmy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1050810570570649601/1604957138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029487364909752322/VIqTXBpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673230,
+          "following_count": 0,
+          "like_count": 179,
+          "listed_count": 822,
+          "media_count": 4999,
+          "tweet_count": 5194
+        },
+        "url": "",
+        "username": "ceciarmy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

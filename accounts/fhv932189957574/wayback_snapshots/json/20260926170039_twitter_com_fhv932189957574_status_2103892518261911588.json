@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2103714995045650491",
+    "created_at": "2026-09-26T17:00:39.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103892518261911588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257977880841080832",
+          "start": 0,
+          "username": "NEKONO14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103892518261911588",
+    "in_reply_to_user_id": "1257977880841080832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103714995045650491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKONO14 鸡公煲，鸡公煲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10727,
+        "height": 640,
+        "media_key": "13_2103714976687136769",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103714976687136769/img/S6Kjktxiwkh0zW1b.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103714976687136769/vid/avc1/320x320/ZeVJAMfFbuN7GJ3m.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103714976687136769/vid/avc1/540x540/2FnCZp8ceij33Cp2.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103714976687136769/vid/avc1/640x640/55JmqTcn9Xf-2ct0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103714976687136769/pl/fVkUaqA1T1TVDzoi.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2103714995045650491",
+        "created_at": "2026-09-26T17:00:39.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103892518261911588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257977880841080832",
+              "start": 0,
+              "username": "NEKONO14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103892518261911588",
+        "in_reply_to_user_id": "1257977880841080832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103714995045650491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKONO14 鸡公煲，鸡公煲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103714976687136769"
+          ]
+        },
+        "author_id": "1257977880841080832",
+        "conversation_id": "2103714995045650491",
+        "created_at": "2026-09-26T05:15:14.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103714995045650491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g04nqNaV6i",
+              "end": 37,
+              "expanded_url": "https://x.com/NEKONO14/status/2103714995045650491/video/1",
+              "media_key": "13_2103714976687136769",
+              "start": 14,
+              "url": "https://t.co/g04nqNaV6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103714995045650491",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103714976687136769"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示，尼禄快要解封了哦 https://t.co/g04nqNaV6i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2103892518261911588",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 527,
+          "like_count": 22618,
+          "listed_count": 0,
+          "media_count": 1528,
+          "tweet_count": 5003
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "私は妃宮千早／O割クーポン／再フォーカス・再抑圧／ADHD／C-PTSD／薬理学と心理学が好き／同じような人には無限に親切／性別はお姉さん大人／お姉さんは永遠にあなたを愛します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2103879849438044412",
+        "name": "御门千早",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790084774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102390600683425792/OaVHbXBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 55,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

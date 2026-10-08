@@ -1,0 +1,712 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2102965120976728438",
+    "created_at": "2026-09-24T18:37:11.000Z",
+    "display_text_range": [
+      22,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103192036312764473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2000999384469954561",
+          "start": 0,
+          "username": "srwwtwo"
+        },
+        {
+          "end": 21,
+          "id": "2050966735453564928",
+          "start": 9,
+          "username": "Vindicatorn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ikemenfangirl/…",
+          "end": 45,
+          "expanded_url": "https://x.com/ikemenfangirl/status/2062059330170683533?s=46",
+          "start": 22,
+          "url": "https://t.co/lMXMbc5TJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103192036312764473",
+    "in_reply_to_user_id": "2000999384469954561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062059330170683533",
+        "type": "quoted"
+      },
+      {
+        "id": "2103050981089202196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@srwwtwo @Vindicatorn https://t.co/lMXMbc5TJO\n这个好像是黄油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062059306774839296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oA6YaQAADSLW.jpg",
+        "width": 1069
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062059306787483648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oA6bbMAAXRK4.jpg",
+        "width": 1061
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2062059306783293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oA6abQAAAe_q.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2062059306841960449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oA6oacAEVR47.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2102965120976728438",
+        "created_at": "2026-09-24T18:37:11.000Z",
+        "display_text_range": [
+          22,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103192036312764473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2000999384469954561",
+              "start": 0,
+              "username": "srwwtwo"
+            },
+            {
+              "end": 21,
+              "id": "2050966735453564928",
+              "start": 9,
+              "username": "Vindicatorn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ikemenfangirl/…",
+              "end": 45,
+              "expanded_url": "https://x.com/ikemenfangirl/status/2062059330170683533?s=46",
+              "start": 22,
+              "url": "https://t.co/lMXMbc5TJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103192036312764473",
+        "in_reply_to_user_id": "2000999384469954561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062059330170683533",
+            "type": "quoted"
+          },
+          {
+            "id": "2103050981089202196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@srwwtwo @Vindicatorn https://t.co/lMXMbc5TJO\n这个好像是黄油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000999384469954561",
+        "conversation_id": "2102965120976728438",
+        "created_at": "2026-09-24T09:16:41.000Z",
+        "display_text_range": [
+          13,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103050981089202196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050966735453564928",
+              "start": 0,
+              "username": "Vindicatorn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103050981089202196",
+        "in_reply_to_user_id": "2050966735453564928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10901,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102965120976728438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vindicatorn 然而现在的二游卖屁股都不会卖，说好的一般向结果就那么几个男的还裹得严严实实，女的倒是要多骚就有多骚，说实话他们做二游前没有先玩过同类的竞品之类的吗？比如说东京放课后之类的？能写得好情话和擦边球也不用直接放黄油cg的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062059306774839296",
+            "3_2062059306787483648",
+            "3_2062059306783293440",
+            "3_2062059306841960449"
+          ]
+        },
+        "author_id": "229779297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          }
+        ],
+        "conversation_id": "2062059330170683533",
+        "created_at": "2026-06-03T06:30:30.000Z",
+        "display_text_range": [
+          0,
+          254
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062059330170683533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 227,
+              "start": 216,
+              "tag": "MobileGame"
+            },
+            {
+              "end": 233,
+              "start": 228,
+              "tag": "代号砰砰"
+            },
+            {
+              "end": 239,
+              "start": 234,
+              "tag": "夜幕之下"
+            },
+            {
+              "end": 249,
+              "start": 240,
+              "tag": "femalemc"
+            },
+            {
+              "end": 254,
+              "start": 250,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "facebook.com/share/p/1FtCQo…",
+              "end": 133,
+              "expanded_url": "https://www.facebook.com/share/p/1FtCQogyS5/?mibextid=wwXIfr",
+              "start": 110,
+              "unwound_url": "https://www.facebook.com/share/p/1FtCQogyS5/?mibextid=wwXIfr",
+              "url": "https://t.co/XVua3zmlHQ"
+            },
+            {
+              "display_url": "pic.x.com/5sGv5XZAOF",
+              "end": 278,
+              "expanded_url": "https://x.com/Ikemenfangirl/status/2062059330170683533/photo/1",
+              "media_key": "3_2062059306774839296",
+              "start": 255,
+              "url": "https://t.co/5sGv5XZAOF"
+            },
+            {
+              "display_url": "pic.x.com/5sGv5XZAOF",
+              "end": 278,
+              "expanded_url": "https://x.com/Ikemenfangirl/status/2062059330170683533/photo/1",
+              "media_key": "3_2062059306787483648",
+              "start": 255,
+              "url": "https://t.co/5sGv5XZAOF"
+            },
+            {
+              "display_url": "pic.x.com/5sGv5XZAOF",
+              "end": 278,
+              "expanded_url": "https://x.com/Ikemenfangirl/status/2062059330170683533/photo/1",
+              "media_key": "3_2062059306783293440",
+              "start": 255,
+              "url": "https://t.co/5sGv5XZAOF"
+            },
+            {
+              "display_url": "pic.x.com/5sGv5XZAOF",
+              "end": 278,
+              "expanded_url": "https://x.com/Ikemenfangirl/status/2062059330170683533/photo/1",
+              "media_key": "3_2062059306841960449",
+              "start": 255,
+              "url": "https://t.co/5sGv5XZAOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062059330170683533",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2062059306774839296"
+          },
+          {
+            "media_key": "3_2062059306787483648"
+          },
+          {
+            "media_key": "3_2062059306783293440"
+          },
+          {
+            "media_key": "3_2062059306841960449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 31018,
+          "like_count": 340,
+          "quote_count": 30,
+          "reply_count": 7,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "Reign of Nightfall  (Project Bang Bang) 【 Mainland Chna 】\n\nOpen beta on 5 June, 2026 (Chinese only)\nmore info https://t.co/XVua3zmlHQ\n\n*Chinese nation id and phone number require\n\n★ Female mafia BOSS\n★ Mature theme\n\n#MobileGame #代号砰砰 #夜幕之下 #femalemc #女性向 https://t.co/5sGv5XZAOF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2103192036312764473",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 526,
+          "like_count": 21881,
+          "listed_count": 0,
+          "media_count": 1505,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-16T18:40:17.000Z",
+        "description": "你爹我又回来了！",
+        "id": "2000999384469954561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103054282341982327",
+        "name": "谁人闻2号机",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000999520520548352/tXuFGMra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 621,
+          "like_count": 10571,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "srwwtwo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T15:53:20.000Z",
+        "description": "我跟你好",
+        "id": "2050966735453564928",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2103171040604209332",
+        "name": "Vindicator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050966735453564928/1785560366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150003230015488/gIlQD9j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 3042,
+          "like_count": 2940,
+          "listed_count": 3,
+          "media_count": 549,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "Vindicatorn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-12-23T09:08:34.000Z",
+        "description": "Otome game player who enjoys 2D fictional characters แหล่งรวมเกมหนุ่มหล่อ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ikemenfangirl",
+                "end": 23,
+                "expanded_url": "https://lit.link/ikemenfangirl",
+                "start": 0,
+                "url": "https://t.co/wcWUsxCOUA"
+              }
+            ]
+          }
+        },
+        "id": "229779297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103096907019243644",
+        "name": "Ikémen fangirl",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229779297/1774495245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882674063669370880/e_nLgKEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34705,
+          "following_count": 0,
+          "like_count": 4212,
+          "listed_count": 85,
+          "media_count": 10011,
+          "tweet_count": 13198
+        },
+        "url": "https://t.co/wcWUsxCOUA",
+        "username": "Ikemenfangirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

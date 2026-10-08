@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103383405572628480"
+      ],
+      "media_source_tweet_id": [
+        "2103383635739185451"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103895623422644402",
+    "created_at": "2026-09-26T17:12:59.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103895623422644402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1465540462106742788",
+          "start": 3,
+          "username": "JOJO85871961"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3PKVE0YLi",
+          "end": 76,
+          "expanded_url": "https://x.com/JOJO85871961/status/2103383635739185451/video/1",
+          "media_key": "13_2103383405572628480",
+          "start": 53,
+          "url": "https://t.co/N3PKVE0YLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103895623422644402",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2103383405572628480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103383635739185451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JOJO85871961: 荒诞喜剧《不倒车》\n现实虚无主义，这片太牛逼了，我以为爱死机更新了呢 https://t.co/N3PKVE0YLi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 415765,
+        "height": 1080,
+        "media_key": "13_2103383405572628480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103383405572628480/img/G08j44oHzj0ynzCs.jpg",
+        "public_metrics": {
+          "view_count": 60747
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383405572628480/vid/avc1/1280x720/QpyGKGP1pP5QWN6F.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383405572628480/vid/avc1/480x270/ar7D-cE9DVtThfYB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383405572628480/vid/avc1/640x360/6vQljL0J0a2l9vID.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383405572628480/vid/avc1/1920x1080/Bbp29HV3p5yN04KQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103383405572628480/pl/0QkNmJMG6z5xhNZs.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103383405572628480"
+          ],
+          "media_source_tweet_id": [
+            "2103383635739185451"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103895623422644402",
+        "created_at": "2026-09-26T17:12:59.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103895623422644402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1465540462106742788",
+              "start": 3,
+              "username": "JOJO85871961"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3PKVE0YLi",
+              "end": 76,
+              "expanded_url": "https://x.com/JOJO85871961/status/2103383635739185451/video/1",
+              "media_key": "13_2103383405572628480",
+              "start": 53,
+              "url": "https://t.co/N3PKVE0YLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103895623422644402",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103383405572628480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103383635739185451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JOJO85871961: 荒诞喜剧《不倒车》\n现实虚无主义，这片太牛逼了，我以为爱死机更新了呢 https://t.co/N3PKVE0YLi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103383405572628480"
+          ]
+        },
+        "author_id": "1465540462106742788",
+        "conversation_id": "2103383635739185451",
+        "created_at": "2026-09-25T07:18:32.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103383635739185451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3PKVE0YLi",
+              "end": 58,
+              "expanded_url": "https://x.com/JOJO85871961/status/2103383635739185451/video/1",
+              "media_key": "13_2103383405572628480",
+              "start": 35,
+              "url": "https://t.co/N3PKVE0YLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103383635739185451",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103383405572628480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 787,
+          "impression_count": 99501,
+          "like_count": 1207,
+          "quote_count": 22,
+          "reply_count": 53,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "荒诞喜剧《不倒车》\n现实虚无主义，这片太牛逼了，我以为爱死机更新了呢 https://t.co/N3PKVE0YLi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2103895623422644402",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 527,
+          "like_count": 22628,
+          "listed_count": 0,
+          "media_count": 1528,
+          "tweet_count": 5004
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T04:37:45.000Z",
+        "description": "AI & Digital Business Builder  |  美股价值投资 | 退役年销售千万跨境电商操盘手 | Web3币圈   |  行为心理学/行为经济学专家 |  玄学/算命\nAI代充网站：https://t.co/K0tsOJ79Nc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "catfk.com/shop/longquanyi",
+                "end": 125,
+                "expanded_url": "https://catfk.com/shop/longquanyi",
+                "start": 102,
+                "url": "https://t.co/K0tsOJ79Nc"
+              }
+            ]
+          }
+        },
+        "id": "1465540462106742788",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2103883529805541758",
+        "name": "龙泉毅",
+        "pinned_tweet_id": "2103269608987971762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465540462106742788/1788806497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065838713222156289/EY4Ml_G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4027,
+          "following_count": 1647,
+          "like_count": 1832,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1827
+        },
+        "url": "",
+        "username": "JOJO85871961",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

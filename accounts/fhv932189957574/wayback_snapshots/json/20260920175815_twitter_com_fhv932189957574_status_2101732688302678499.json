@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101594381014679552"
+      ],
+      "media_source_tweet_id": [
+        "2101594406742540632"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2101732688302678499",
+    "created_at": "2026-09-20T17:58:15.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101732688302678499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1677533186597990400",
+          "start": 3,
+          "username": "majidawan764334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qjmHbOCqLg",
+          "end": 44,
+          "expanded_url": "https://x.com/majidawan764334/status/2101594406742540632/video/1",
+          "media_key": "13_2101594381014679552",
+          "start": 21,
+          "url": "https://t.co/qjmHbOCqLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101732688302678499",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2101594381014679552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 894
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101594406742540632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majidawan764334: https://t.co/qjmHbOCqLg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5038,
+        "height": 900,
+        "media_key": "13_2101594381014679552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101594381014679552/img/zB7OaYxT7ozrD83S.jpg",
+        "public_metrics": {
+          "view_count": 34147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101594381014679552/vid/avc1/320x400/sbxpXPXCElAm0grj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101594381014679552/vid/avc1/480x600/HEBntoIFVzLbZuqz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101594381014679552/vid/avc1/720x900/RKI3LL3cbn_AWdLJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101594381014679552/pl/6cc3ahk9AL9TF0pM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101594381014679552"
+          ],
+          "media_source_tweet_id": [
+            "2101594406742540632"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2101732688302678499",
+        "created_at": "2026-09-20T17:58:15.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101732688302678499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1677533186597990400",
+              "start": 3,
+              "username": "majidawan764334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjmHbOCqLg",
+              "end": 44,
+              "expanded_url": "https://x.com/majidawan764334/status/2101594406742540632/video/1",
+              "media_key": "13_2101594381014679552",
+              "start": 21,
+              "url": "https://t.co/qjmHbOCqLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101732688302678499",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101594381014679552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 894
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101594406742540632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majidawan764334: https://t.co/qjmHbOCqLg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101594381014679552"
+          ]
+        },
+        "author_id": "1677533186597990400",
+        "conversation_id": "2101594406742540632",
+        "created_at": "2026-09-20T08:48:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101594406742540632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjmHbOCqLg",
+              "end": 23,
+              "expanded_url": "https://x.com/majidawan764334/status/2101594406742540632/video/1",
+              "media_key": "13_2101594381014679552",
+              "start": 0,
+              "url": "https://t.co/qjmHbOCqLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101594406742540632",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101594381014679552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 850,
+          "impression_count": 123171,
+          "like_count": 7102,
+          "quote_count": 167,
+          "reply_count": 15,
+          "retweet_count": 894
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qjmHbOCqLg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2101732688302678499",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 518,
+          "like_count": 21106,
+          "listed_count": 0,
+          "media_count": 1476,
+          "tweet_count": 4706
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T04:21:20.000Z",
+        "description": "wlg fan club 🐈 dm for submissions +\ncredit! (can't always respond but 😘 them all) forced blue check 👎 (gfy EM) IG: @",
+        "id": "1677533186597990400",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2101714696986570857",
+        "name": "X rabbit 🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677533186597990400/1788064157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093921471752175617/tPrTMWrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9773,
+          "following_count": 6198,
+          "like_count": 15185,
+          "listed_count": 30,
+          "media_count": 4102,
+          "tweet_count": 8936
+        },
+        "url": "",
+        "username": "majidawan764334",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

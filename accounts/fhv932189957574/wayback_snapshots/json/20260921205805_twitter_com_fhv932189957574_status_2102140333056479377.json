@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2102140333056479377",
+    "created_at": "2026-09-21T20:58:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102140333056479377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909774678824304643",
+          "start": 3,
+          "username": "tatybrun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102140333056479377",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102039214489555017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatybrun: Meu gato tem 10 anos e eu só fui descobrir AGORA que ele é Saturno. O anel sempre esteve ali e eu não percebi. 🪐😂 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10240,
+        "height": 1280,
+        "media_key": "13_2102039191110508544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102039191110508544/img/fBinydvoshwCCtvf.jpg",
+        "public_metrics": {
+          "view_count": 35665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102039191110508544/vid/avc1/320x568/T8s1GHfAqOLj__sL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102039191110508544/vid/avc1/480x852/vuwD4KGqFAtLnUs3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102039191110508544/vid/avc1/720x1280/KXHTfA2MVEXHuka8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102039191110508544/pl/VzilMW9T8Uqqk97o.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 672,
+        "media_key": "3_2102039210068762624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvxhkQXYAApUzU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2102140333056479377",
+        "created_at": "2026-09-21T20:58:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102140333056479377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909774678824304643",
+              "start": 3,
+              "username": "tatybrun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102140333056479377",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102039214489555017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatybrun: Meu gato tem 10 anos e eu só fui descobrir AGORA que ele é Saturno. O anel sempre esteve ali e eu não percebi. 🪐😂 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102039191110508544",
+            "3_2102039210068762624"
+          ]
+        },
+        "author_id": "1909774678824304643",
+        "conversation_id": "2102039214489555017",
+        "created_at": "2026-09-21T14:16:17.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102039214489555017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUxDKwVZSx",
+              "end": 137,
+              "expanded_url": "https://x.com/taty902204/status/2102039214489555017/video/1",
+              "media_key": "13_2102039191110508544",
+              "start": 114,
+              "url": "https://t.co/RUxDKwVZSx"
+            },
+            {
+              "display_url": "pic.x.com/RUxDKwVZSx",
+              "end": 137,
+              "expanded_url": "https://x.com/taty902204/status/2102039214489555017/video/1",
+              "media_key": "3_2102039210068762624",
+              "start": 114,
+              "url": "https://t.co/RUxDKwVZSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102039214489555017",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2102039191110508544"
+          },
+          {
+            "media_key": "3_2102039210068762624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 63758,
+          "like_count": 5271,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "Meu gato tem 10 anos e eu só fui descobrir AGORA que ele é Saturno. O anel sempre esteve ali e eu não percebi. 🪐😂 https://t.co/RUxDKwVZSx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102140333056479377",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 521,
+          "like_count": 21409,
+          "listed_count": 0,
+          "media_count": 1497,
+          "tweet_count": 4804
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-09T01:05:59.000Z",
+        "description": "Estudante, música, e aventureira 🎸✨🤗😍",
+        "id": "1909774678824304643",
+        "is_identity_verified": false,
+        "location": "Brazil",
+        "most_recent_tweet_id": "2102041514784272630",
+        "name": "Taty",
+        "pinned_tweet_id": "2097499707010383897",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909774678824304643/1744161106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089512727664312320/U2-Xq5ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 446,
+          "like_count": 10714,
+          "listed_count": 15,
+          "media_count": 1884,
+          "tweet_count": 7378
+        },
+        "url": "",
+        "username": "tatybrun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

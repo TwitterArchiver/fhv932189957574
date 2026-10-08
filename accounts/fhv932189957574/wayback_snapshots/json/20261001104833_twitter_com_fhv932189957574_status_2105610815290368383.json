@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105610805052047360",
+        "3_2105610805081444352"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2105475535652495828",
+    "created_at": "2026-10-01T10:48:33.000Z",
+    "display_text_range": [
+      27,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105610815290368383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059685711847280640",
+          "start": 0,
+          "username": "MitureTai"
+        },
+        {
+          "end": 26,
+          "id": "1918274202580467713",
+          "start": 11,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/saigyoujihane/…",
+          "end": 69,
+          "expanded_url": "https://x.com/saigyoujihane/status/2105366908803641796?s=46",
+          "start": 46,
+          "url": "https://t.co/PnH1v6rlE4"
+        },
+        {
+          "display_url": "pic.x.com/AXZovA5CP2",
+          "end": 93,
+          "expanded_url": "https://x.com/fhv932189957574/status/2105610815290368383/photo/1",
+          "media_key": "3_2105610805052047360",
+          "start": 70,
+          "url": "https://t.co/AXZovA5CP2"
+        },
+        {
+          "display_url": "pic.x.com/AXZovA5CP2",
+          "end": 93,
+          "expanded_url": "https://x.com/fhv932189957574/status/2105610815290368383/photo/1",
+          "media_key": "3_2105610805081444352",
+          "start": 70,
+          "url": "https://t.co/AXZovA5CP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105610815290368383",
+    "in_reply_to_user_id": "2059685711847280640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105610805052047360"
+      },
+      {
+        "media_key": "3_2105610805081444352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105366908803641796",
+        "type": "quoted"
+      },
+      {
+        "id": "2105573562455343223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MitureTai @CyberKanjousen 是资助吗难绷，看他推还觉得自己很委屈\nhttps://t.co/PnH1v6rlE4 https://t.co/AXZovA5CP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_2105610805052047360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTih3wZaAAAivYR.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1969,
+        "media_key": "3_2105610805081444352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTih3wgakAAMyei.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2105366901845319680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfECuJa4AAiryY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105610805052047360",
+            "3_2105610805081444352"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2105475535652495828",
+        "created_at": "2026-10-01T10:48:33.000Z",
+        "display_text_range": [
+          27,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105610815290368383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059685711847280640",
+              "start": 0,
+              "username": "MitureTai"
+            },
+            {
+              "end": 26,
+              "id": "1918274202580467713",
+              "start": 11,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/saigyoujihane/…",
+              "end": 69,
+              "expanded_url": "https://x.com/saigyoujihane/status/2105366908803641796?s=46",
+              "start": 46,
+              "url": "https://t.co/PnH1v6rlE4"
+            },
+            {
+              "display_url": "pic.x.com/AXZovA5CP2",
+              "end": 93,
+              "expanded_url": "https://x.com/fhv932189957574/status/2105610815290368383/photo/1",
+              "media_key": "3_2105610805052047360",
+              "start": 70,
+              "url": "https://t.co/AXZovA5CP2"
+            },
+            {
+              "display_url": "pic.x.com/AXZovA5CP2",
+              "end": 93,
+              "expanded_url": "https://x.com/fhv932189957574/status/2105610815290368383/photo/1",
+              "media_key": "3_2105610805081444352",
+              "start": 70,
+              "url": "https://t.co/AXZovA5CP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105610815290368383",
+        "in_reply_to_user_id": "2059685711847280640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105610805052047360"
+          },
+          {
+            "media_key": "3_2105610805081444352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105366908803641796",
+            "type": "quoted"
+          },
+          {
+            "id": "2105573562455343223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MitureTai @CyberKanjousen 是资助吗难绷，看他推还觉得自己很委屈\nhttps://t.co/PnH1v6rlE4 https://t.co/AXZovA5CP2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059685711847280640",
+        "conversation_id": "2105475535652495828",
+        "created_at": "2026-10-01T08:20:31.000Z",
+        "display_text_range": [
+          16,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105573562455343223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105573562455343223",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105475535652495828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 哎，不知道该怎么喷环状线\n这家伙他是受人资助了，资助人一看他的推全是蔚蓝档案的色图直接绷不住了，给他举报了还要收回资助\n这……\n涉及到钱的问题我就只能说受着了，很难判定到底谁对谁错。\n不过有一件事是确定的，就是翻墙这个事情平时不上称，上了称打不住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105366901845319680"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "conversation_id": "2104983592208367815",
+        "created_at": "2026-09-30T18:39:21.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105366908803641796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952590461995986944",
+              "start": 0,
+              "username": "SQing64903"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdASOPKviw",
+              "end": 46,
+              "expanded_url": "https://x.com/SaigyoujiHane/status/2105366908803641796/photo/1",
+              "media_key": "3_2105366901845319680",
+              "start": 23,
+              "url": "https://t.co/NdASOPKviw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105366908803641796",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105366901845319680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2186,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105283580729671988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQing64903 然后还有这种cos图 https://t.co/NdASOPKviw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2105610815290368383",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 528,
+          "like_count": 23452,
+          "listed_count": 1,
+          "media_count": 1577,
+          "tweet_count": 5156
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T17:19:49.000Z",
+        "description": "感谢马圣开源，世界的本质是一个巨大的贴吧",
+        "id": "2059685711847280640",
+        "is_identity_verified": false,
+        "location": "命莲寺",
+        "most_recent_tweet_id": "2105593680610414796",
+        "name": "一般扑克脸秦小姐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059685711847280640/1790012624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105584198568603649/5PpJ-9F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 83,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "MitureTai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105608381528670292",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104975397016219648/zuGLMOkY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21595,
+          "following_count": 894,
+          "like_count": 37098,
+          "listed_count": 33,
+          "media_count": 3382,
+          "tweet_count": 14402
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "Bio",
+        "id": "943439286287851520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105607323096170730",
+        "name": "🌸❀Saigyouji　Hanes✿💮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1781669075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105311809758752768/igaFuKgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3581,
+          "following_count": 6515,
+          "like_count": 124304,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 38351
+        },
+        "url": "",
+        "username": "SaigyoujiHane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

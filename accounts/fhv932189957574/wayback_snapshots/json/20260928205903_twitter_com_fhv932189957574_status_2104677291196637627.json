@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2104677291196637627",
+    "created_at": "2026-09-28T20:59:03.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104677291196637627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cho_kaguyahime…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cho_kaguyahime/status/2104179254829420859",
+          "start": 5,
+          "url": "https://t.co/RhKXRcpOU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104677291196637627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104179254829420859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是官方 https://t.co/RhKXRcpOU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10510,
+        "height": 1920,
+        "media_key": "13_2103383282687647744",
+        "preview_image_url": "https://pbs.twimg.com/media/HTC4IOAbsAA0eCI.jpg",
+        "public_metrics": {
+          "view_count": 207850
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383282687647744/vid/avc1/480x852/V_lP319_0pZRRLe_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383282687647744/vid/avc1/720x1280/ArMTVTS0dLmr1oMt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103383282687647744/pl/A5E3q8sVGgBSRL6r.m3u8?v=96c"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383282687647744/vid/avc1/1080x1920/R1ZUjX6QIFBCBJ9q.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103383282687647744/vid/avc1/320x568/TyytmnhQ0p1j27W7.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2104677291196637627",
+        "created_at": "2026-09-28T20:59:03.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104677291196637627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cho_kaguyahime…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cho_kaguyahime/status/2104179254829420859",
+              "start": 5,
+              "url": "https://t.co/RhKXRcpOU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104677291196637627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104179254829420859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是官方 https://t.co/RhKXRcpOU7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103383282687647744"
+          ]
+        },
+        "author_id": "1975006867245207553",
+        "conversation_id": "2104179254829420859",
+        "created_at": "2026-09-27T12:00:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104179254829420859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZFmqJ3H6B",
+              "end": 62,
+              "expanded_url": "https://x.com/Cho_KaguyaHime/status/2104179254829420859/video/1",
+              "media_key": "13_2103383282687647744",
+              "start": 39,
+              "url": "https://t.co/aZFmqJ3H6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104179254829420859",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2103383282687647744",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2340,
+          "impression_count": 645962,
+          "like_count": 28051,
+          "quote_count": 175,
+          "reply_count": 71,
+          "retweet_count": 4210
+        },
+        "reply_settings": "everyone",
+        "text": "😝🙌😝🙌😝🙌😝🙌😝🙌😝🙌\n😝🙌😝🙌😝🙌😝🙌😝🙌😝🙌\n😝🙌😝🙌😝🙌😝🙌😝🙌😝🙌 https://t.co/aZFmqJ3H6B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2104677291196637627",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 524,
+          "like_count": 23161,
+          "listed_count": 0,
+          "media_count": 1560,
+          "tweet_count": 5090
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "映画『#超かぐや姫！』公式／9/18(金)～特別フォーマット＆通常版 復活上映中／Netflixにて世界独占配信中／公式スピンオフマンガ『#超かぐやメシ！』「ビビビコミック」にて連載中／無料オンラインライブイベント「#ツクヨミ感謝祭」12月26日開催 #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 3,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "tag": "超かぐやメシ"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "tag": "ツクヨミ感謝祭"
+              },
+              {
+                "end": 147,
+                "start": 126,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUfpA3"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "is_identity_verified": false,
+        "location": "仮想空間＜ツクヨミ＞",
+        "most_recent_tweet_id": "2104496345377870141",
+        "name": "『超かぐや姫！』公式＠映画 復活上映中！",
+        "pinned_tweet_id": "2100600673209368718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975006867245207553/1789700052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505070,
+          "following_count": 31,
+          "like_count": 567,
+          "listed_count": 771,
+          "media_count": 949,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/ODAIRUfpA3",
+        "username": "Cho_KaguyaHime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2103167579527241956",
+    "created_at": "2026-09-24T19:05:44.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T20:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103199222296395785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103199222296395785",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103167579527241956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 其实我有一个问题，是文案还是真情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2103150143021383681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_j6YAaAAEPMJS.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2103150143004696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_j6X8bYAAWQjT.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2103150143214354432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_j6YuagAAK_5K.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103150143218569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_j6Yva0AAXIXm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2103167579527241956",
+        "created_at": "2026-09-24T19:05:44.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103199222296395785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103199222296395785",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103167579527241956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 其实我有一个问题，是文案还是真情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103150143021383681",
+            "3_2103150143004696576",
+            "3_2103150143214354432",
+            "3_2103150143218569216"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2103167579527241956",
+        "created_at": "2026-09-24T17:00:00.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103167579527241956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2j7b3Z5Ja",
+              "end": 153,
+              "expanded_url": "https://x.com/xixikawaii/status/2103167579527241956/photo/1",
+              "media_key": "3_2103150143021383681",
+              "start": 130,
+              "url": "https://t.co/p2j7b3Z5Ja"
+            },
+            {
+              "display_url": "pic.x.com/p2j7b3Z5Ja",
+              "end": 153,
+              "expanded_url": "https://x.com/xixikawaii/status/2103167579527241956/photo/1",
+              "media_key": "3_2103150143004696576",
+              "start": 130,
+              "url": "https://t.co/p2j7b3Z5Ja"
+            },
+            {
+              "display_url": "pic.x.com/p2j7b3Z5Ja",
+              "end": 153,
+              "expanded_url": "https://x.com/xixikawaii/status/2103167579527241956/photo/1",
+              "media_key": "3_2103150143214354432",
+              "start": 130,
+              "url": "https://t.co/p2j7b3Z5Ja"
+            },
+            {
+              "display_url": "pic.x.com/p2j7b3Z5Ja",
+              "end": 153,
+              "expanded_url": "https://x.com/xixikawaii/status/2103167579527241956/photo/1",
+              "media_key": "3_2103150143218569216",
+              "start": 130,
+              "url": "https://t.co/p2j7b3Z5Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103167579527241956",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103150143021383681"
+          },
+          {
+            "media_key": "3_2103150143004696576"
+          },
+          {
+            "media_key": "3_2103150143214354432"
+          },
+          {
+            "media_key": "3_2103150143218569216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "人的本能，除了呼唤“妈妈”，应该还有一个“我不知道”。\n\n是夜，辗转反侧，我又失眠了。\n其实我很喜欢睡觉，喜欢到恨不得一整天二十四小时都躺在床上，什么都不干，只是睡觉，很纯粹地睡觉。\n正因如此，我的失眠也同样纯粹。\n不是想刷视频，不是想听歌，也不是想打游戏。\n只是闭上眼和睁开眼时，四周都是一片漆黑，都是同样的安静，我也是同样的清醒。\n\n太晚了，风都不再言语。\n不睡觉自然就容易想的太多，想多了就会觉得，其实死亡比幸福要离得近。\n\n有时候我也挺害怕的，怕考不上，怕没有钱，怕疼，怕死……\n但又觉得，死了就没什么别的好怕的了。\n但在此之前，我还怕疼。\n有这个念头，是因为精神上的疼痛；\n害怕这个念头，也就是我怕这个疼，是因为生理上的疼痛。\n它们在我的身体里矛盾却又相互交织，所以我活着，所以我睡不着。\n为什么会这样？我不知道。\n\n日子像循环的圆，一天又一天。\n“如果这世间的事物一直循环往复，那么何日方知我是我？”\n重复的多了，或者说习惯了，就连乏味也感受不到了，因为麻木。\n\n每每这时，绵长的雨季就来临了。\n因为被麻木裹挟的精神领地，恰是最好的肥料，只等着雨淋下来，干涸的土壤便会转化为湿润的泥土，也正好添了命运波澜的起伏。\n\n对比愈大，痛苦愈剧。\n连带着从前心底折页的地方，也被雨渍晕开。\n连同此刻的雨，一起缓慢地流入土壤，让人只能嗅出苦涩的气息，像命运很早以前埋下的女儿红，在这片土壤里碎裂了，于是你就忽然明白了，原来“此人，是命运每饮苦酒惯用之杯”。\n\n我也想过接纳，想过和解。\n想的太久，直至那个最隐秘的伤疤也被雨水冲出一片墨色……\n我忽然想起自己曾说“我是为了恨才活着的”，朋友听了之后什么也没说，只给我转发了一个文案，上面写“靠恨活着的人，大仇得报之时，能否睡个好觉？”\n我愣住了。\n我觉得有点可笑，我这个自诩怨恨“恨”的人，其实迷茫到大仇得报了该怎么睡个好觉都不确定。\n如果连恨都没了，那个怕疼的借口能支撑着我活到什么时候？\n我不知道。\n\n我总是容易多想，想过去，想未来。\n但我活在现在，一个恰好地，改变不了过去也不能拥有理想未来的时间，所以痛苦。\n在那片土地数不清的沟壑里，无知是最深的一道。\n知道的越多越痛苦，一个更古不变的道理。\n因为你知道的越多，就会控制不住地去学习，去思考，去提前想未来的事情。\n但无知太痛了，所以我宁愿知道的多一点，再多一点。\n即使我会想的更多。\n我从来这么矛盾。\n\n我清楚我睡不着是因为想太多，但等一会应该就好了，\n等我熬不住了，等我累了，等雨停了，\n要等多久？\n我不知道。\n\n“文字有时候太贫瘠，有些感情太重太浓，像一团湿棉花堵在心口，你问我想要说什么，我不知道，于是我看着你，忽然就好想叹气。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2719,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人的本能，除了呼唤“妈妈”，应该还有一个“我不知道”。\n\n是夜，辗转反侧，我又失眠了。\n其实我很喜欢睡觉，喜欢到恨不得一整天二十四小时都躺在床上，什么都不干，只是睡觉，很纯粹地睡觉。\n正因如此，我的失眠也同样纯粹。\n不是想刷视频，不是想听歌，也不是想打游戏。 https://t.co/p2j7b3Z5Ja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2103199222296395785",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 526,
+          "like_count": 21951,
+          "listed_count": 0,
+          "media_count": 1507,
+          "tweet_count": 4901
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2103167579527241956",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103144044511768577/k7UNep_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60031,
+          "following_count": 1250,
+          "like_count": 15931,
+          "listed_count": 492,
+          "media_count": 5683,
+          "tweet_count": 27553
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

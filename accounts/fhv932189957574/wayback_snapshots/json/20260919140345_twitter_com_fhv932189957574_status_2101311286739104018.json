@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2101311286739104018",
+    "created_at": "2026-09-19T14:03:45.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101311286739104018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2051838169168084993",
+          "start": 3,
+          "username": "NationPosting"
+        },
+        {
+          "end": 24,
+          "id": "1720665183188922368",
+          "start": 19,
+          "username": "grok"
+        },
+        {
+          "end": 41,
+          "id": "2062930182927728640",
+          "start": 25,
+          "username": "ihatebalkans381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101311286739104018",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100800126369558567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationPosting: @grok @ihatebalkans381 Who stuck their penis through the glass of grok's servers?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2101311286739104018",
+        "created_at": "2026-09-19T14:03:45.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101311286739104018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2051838169168084993",
+              "start": 3,
+              "username": "NationPosting"
+            },
+            {
+              "end": 24,
+              "id": "1720665183188922368",
+              "start": 19,
+              "username": "grok"
+            },
+            {
+              "end": 41,
+              "id": "2062930182927728640",
+              "start": 25,
+              "username": "ihatebalkans381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101311286739104018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100800126369558567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NationPosting: @grok @ihatebalkans381 Who stuck their penis through the glass of grok's servers?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051838169168084993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2087630089269735602",
+        "created_at": "2026-09-18T04:12:35.000Z",
+        "display_text_range": [
+          23,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100800126369558567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "2062930182927728640",
+              "start": 6,
+              "username": "ihatebalkans381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100800126369558567",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 41805,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087630280479686948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @ihatebalkans381 Who stuck their penis through the glass of grok's servers?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2101311297774330223",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 514,
+          "like_count": 20795,
+          "listed_count": 0,
+          "media_count": 1455,
+          "tweet_count": 4606
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T01:35:26.000Z",
+        "description": "🇵🇭 ▪︎ ᜀᜃᜏ᜔ᜈ᜔ᜆ᜔ ᜈᜒ ᜊᜒᜎᜋᜒ (@bell_vmy)\n\nⓘ This account is being converted for following Philippine government & allied government sources!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "bell_vmy"
+              }
+            ]
+          }
+        },
+        "id": "2051838169168084993",
+        "is_identity_verified": false,
+        "location": "Central Luzon, Republic of the",
+        "most_recent_tweet_id": "2101305058034086085",
+        "name": "ᜊᜌᜈ᜔ 🇵🇭",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098251726386335744/pOgPIiEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 79,
+          "like_count": 7558,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1164
+        },
+        "url": "",
+        "username": "NationPosting",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101311302496870451",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9083047,
+          "following_count": 4,
+          "like_count": 138,
+          "listed_count": 7544,
+          "media_count": 3944870,
+          "tweet_count": 135978392
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T16:12:12.000Z",
+        "description": "the goyim have gone insane\n@balkans381 is definitely not me\n\nblock me = I OWN YOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "balkans381"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roblox.com/users/11091585…",
+                "end": 23,
+                "expanded_url": "https://www.roblox.com/users/11091585781/profile",
+                "start": 0,
+                "url": "https://t.co/slm9XpVFiJ"
+              }
+            ]
+          }
+        },
+        "id": "2062930182927728640",
+        "is_identity_verified": false,
+        "location": "DNB Factory",
+        "most_recent_tweet_id": "2101262244285743141",
+        "name": "untuff 🇷🇸",
+        "pinned_tweet_id": "2076816433455976922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062930182927728640/1785607179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087283351803555840/JGaBkFJN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 512,
+          "like_count": 1860,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/slm9XpVFiJ",
+        "username": "ihatebalkans381",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

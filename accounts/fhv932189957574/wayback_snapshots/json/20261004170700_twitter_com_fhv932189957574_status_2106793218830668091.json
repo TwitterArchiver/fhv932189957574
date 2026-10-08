@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106793212765675520"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2106757164853604538",
+    "created_at": "2026-10-04T17:07:00.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106793218830668091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rIdtZpH2uP",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2106793218830668091/photo/1",
+          "media_key": "3_2106793212765675520",
+          "start": 14,
+          "url": "https://t.co/rIdtZpH2uP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106793218830668091",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106793212765675520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106757164853604538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 网友： https://t.co/rIdtZpH2uP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2106793212765675520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzVQ8YaIAA5QSM.jpg",
+        "width": 720
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2106757156498444288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy0eMUaEAAryvT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106793212765675520"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2106757164853604538",
+        "created_at": "2026-10-04T17:07:00.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106793218830668091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIdtZpH2uP",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2106793218830668091/photo/1",
+              "media_key": "3_2106793212765675520",
+              "start": 14,
+              "url": "https://t.co/rIdtZpH2uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106793218830668091",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106793212765675520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106757164853604538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 网友： https://t.co/rIdtZpH2uP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106757156498444288"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2106757164853604538",
+        "created_at": "2026-10-04T14:43:44.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106757164853604538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCqWlPWCar",
+              "end": 156,
+              "expanded_url": "https://x.com/bigjusir/status/2106757164853604538/photo/1",
+              "media_key": "3_2106757156498444288",
+              "start": 133,
+              "url": "https://t.co/dCqWlPWCar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106757164853604538",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106757156498444288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "《恋与深空》诱导玩家自制并且饮用毒酒！\n\n官方在一场豪门晚宴主题活动里，为了营造沉浸感，出了几款男主专属特调的毒饮料，把有毒的配料表和制作步骤写得清清楚楚，明明白白。\n为了让活动参与度更高，官方甚至用钻石和体力作为奖励，鼓励动手能力强的女玩家在现实中复刻这些饮品。\n\n不是两款，而是五款都有毒，曼陀罗，嘉兰百合，海棠，星辰花，法国香水茉莉金钩吻都有毒，甚至这些东西可以在网上轻易买到\n\n面对这种“五毒俱全”的《恋与深空》，如果国家再不出手管制，被自己媚女的宣传机器所误导\n\n《恋与深空》很有可能成为下一款《蓝鲸游戏》"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《恋与深空》诱导玩家自制并且饮用毒酒！\n\n官方在一场豪门晚宴主题活动里，为了营造沉浸感，出了几款男主专属特调的毒饮料，把有毒的配料表和制作步骤写得清清楚楚，明明白白。\n为了让活动参与度更高，官方甚至用钻石和体力作为奖励，鼓励动手能力强的女玩家在现实中复刻这些饮品。 https://t.co/dCqWlPWCar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2106793218830668091",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 533,
+          "like_count": 23876,
+          "listed_count": 1,
+          "media_count": 1614,
+          "tweet_count": 5263
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106759080899666015",
+        "name": "jusir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7466,
+          "following_count": 4470,
+          "like_count": 10793,
+          "listed_count": 22,
+          "media_count": 1520,
+          "tweet_count": 5787
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

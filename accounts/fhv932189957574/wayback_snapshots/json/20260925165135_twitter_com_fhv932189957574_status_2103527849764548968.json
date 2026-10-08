@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2103527849764548968",
+    "created_at": "2026-09-25T16:51:35.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103527849764548968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1151541169555480576",
+          "start": 3,
+          "username": "MRichster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103527849764548968",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103395758124990724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MRichster: Les infos dans le monde : guerre, Ukraine, essence, moyen orient \n\nLes infos en Turquie : chat musclé"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2103527849764548968",
+        "created_at": "2026-09-25T16:51:35.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103527849764548968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1151541169555480576",
+              "start": 3,
+              "username": "MRichster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103527849764548968",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103395758124990724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MRichster: Les infos dans le monde : guerre, Ukraine, essence, moyen orient \n\nLes infos en Turquie : chat musclé"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151541169555480576",
+        "conversation_id": "2103395758124990724",
+        "created_at": "2026-09-25T08:06:42.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103395758124990724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bpthaber/statu…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/bpthaber/status/2102660970719961088",
+              "start": 102,
+              "url": "https://t.co/n0Om8T84iM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103395758124990724",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1491,
+          "impression_count": 1029756,
+          "like_count": 35191,
+          "quote_count": 33,
+          "reply_count": 53,
+          "retweet_count": 2630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102660970719961088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Les infos dans le monde : guerre, Ukraine, essence, moyen orient \n\nLes infos en Turquie : chat musclé https://t.co/n0Om8T84iM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2103527849764548968",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 526,
+          "like_count": 22399,
+          "listed_count": 0,
+          "media_count": 1518,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-17T17:16:24.000Z",
+        "description": "L’anarcho chrétienne préférée de ta famille de gauchistes - 🏳️‍⚧️ - syndicaliste CGT 🚩- grande fan de origene et de chocolats  - FR/EN",
+        "id": "1151541169555480576",
+        "is_identity_verified": false,
+        "location": "Lyon, France",
+        "most_recent_tweet_id": "2103488464935329808",
+        "name": "Miranda Richster",
+        "pinned_tweet_id": "2101398801806204960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151541169555480576/1773273180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069012212568485888/4LqPJr9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 597,
+          "like_count": 51649,
+          "listed_count": 8,
+          "media_count": 12691,
+          "tweet_count": 56429
+        },
+        "url": "",
+        "username": "MRichster",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

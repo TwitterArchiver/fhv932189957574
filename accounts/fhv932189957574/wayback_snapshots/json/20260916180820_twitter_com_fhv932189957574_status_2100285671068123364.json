@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099993041289240576"
+      ],
+      "media_source_tweet_id": [
+        "2100000458991439927"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      }
+    ],
+    "conversation_id": "2100285671068123364",
+    "created_at": "2026-09-16T18:08:20.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100285671068123364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1551261351347109888",
+          "start": 3,
+          "username": "TheBestqueenx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rsm3DTM8TJ",
+          "end": 133,
+          "expanded_url": "https://x.com/TheBestqueenx/status/2100000458991439927/video/1",
+          "media_key": "13_2099993041289240576",
+          "start": 110,
+          "url": "https://t.co/Rsm3DTM8TJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100285671068123364",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2099993041289240576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 810
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100000458991439927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheBestqueenx: The owner was curious about what his cat was doing and wanted to check on it - and then... https://t.co/Rsm3DTM8TJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11006,
+        "height": 720,
+        "media_key": "13_2099993041289240576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099993041289240576/img/V2nbIDTWn5YJFnH1.jpg",
+        "public_metrics": {
+          "view_count": 86470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099993041289240576/vid/avc1/396x270/dljoyPZLYGXHgmvt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099993041289240576/vid/avc1/528x360/W2xQCD2XSMOV2ogn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099993041289240576/vid/avc1/1056x720/6yeQrAajbvuQUBGp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099993041289240576/pl/LlvMT9w-BYVQsoJy.m3u8?v=cfc"
+          }
+        ],
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099993041289240576"
+          ],
+          "media_source_tweet_id": [
+            "2100000458991439927"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "2100285671068123364",
+        "created_at": "2026-09-16T18:08:20.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100285671068123364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1551261351347109888",
+              "start": 3,
+              "username": "TheBestqueenx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rsm3DTM8TJ",
+              "end": 133,
+              "expanded_url": "https://x.com/TheBestqueenx/status/2100000458991439927/video/1",
+              "media_key": "13_2099993041289240576",
+              "start": 110,
+              "url": "https://t.co/Rsm3DTM8TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100285671068123364",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099993041289240576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 810
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100000458991439927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheBestqueenx: The owner was curious about what his cat was doing and wanted to check on it - and then... https://t.co/Rsm3DTM8TJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099993041289240576"
+          ]
+        },
+        "author_id": "1551261351347109888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "2100000458991439927",
+        "created_at": "2026-09-15T23:15:00.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100000458991439927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rsm3DTM8TJ",
+              "end": 114,
+              "expanded_url": "https://x.com/TheBestqueenx/status/2100000458991439927/video/1",
+              "media_key": "13_2099993041289240576",
+              "start": 91,
+              "url": "https://t.co/Rsm3DTM8TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100000458991439927",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099993041289240576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 161385,
+          "like_count": 9917,
+          "quote_count": 9,
+          "reply_count": 15,
+          "retweet_count": 810
+        },
+        "reply_settings": "everyone",
+        "text": "The owner was curious about what his cat was doing and wanted to check on it - and then... https://t.co/Rsm3DTM8TJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100285671068123364",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 20075,
+          "listed_count": 0,
+          "media_count": 1436,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-24T17:41:50.000Z",
+        "description": "Female / Pozitif content....",
+        "id": "1551261351347109888",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100230730995359750",
+        "name": "The Best",
+        "pinned_tweet_id": "2098496801057771610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551261351347109888/1779574110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058035682791112706/GRcIaeHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286635,
+          "following_count": 1,
+          "like_count": 12843,
+          "listed_count": 7044,
+          "media_count": 7559,
+          "tweet_count": 9111
+        },
+        "url": "",
+        "username": "TheBestqueenx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

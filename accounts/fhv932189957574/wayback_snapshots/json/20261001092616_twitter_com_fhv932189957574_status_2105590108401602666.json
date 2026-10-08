@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105531374426087424"
+      ],
+      "media_source_tweet_id": [
+        "2105531396752277673"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2105590108401602666",
+    "created_at": "2026-10-01T09:26:16.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105590108401602666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529143310966632449",
+          "start": 3,
+          "username": "magmamaxim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrBNtr675b",
+          "end": 89,
+          "expanded_url": "https://x.com/magmamaxim/status/2105531396752277673/video/1",
+          "media_key": "13_2105531374426087424",
+          "start": 66,
+          "url": "https://t.co/xrBNtr675b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105590108401602666",
+    "lang": "th",
+    "media_metadata": [
+      {
+        "media_key": "13_2105531374426087424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105531396752277673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magmamaxim: คนวัยเดียวกันประสบความสำเร็จแล้ว\n\nฉัน : ทำเต่าได้ https://t.co/xrBNtr675b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 1280,
+        "media_key": "13_2105531374426087424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105531374426087424/img/CHT2y1Ma2u689GiJ.jpg",
+        "public_metrics": {
+          "view_count": 315435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105531374426087424/vid/avc1/320x568/QnAIW8YkcDauOyez.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105531374426087424/vid/avc1/480x852/1UDgYObh__GnkKRL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105531374426087424/vid/avc1/720x1280/jj-Im-y4dwbZHdPg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105531374426087424/pl/Af22Xaa5OrZ30lLH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105531374426087424"
+          ],
+          "media_source_tweet_id": [
+            "2105531396752277673"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2105590108401602666",
+        "created_at": "2026-10-01T09:26:16.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105590108401602666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529143310966632449",
+              "start": 3,
+              "username": "magmamaxim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrBNtr675b",
+              "end": 89,
+              "expanded_url": "https://x.com/magmamaxim/status/2105531396752277673/video/1",
+              "media_key": "13_2105531374426087424",
+              "start": 66,
+              "url": "https://t.co/xrBNtr675b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105590108401602666",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "13_2105531374426087424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105531396752277673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magmamaxim: คนวัยเดียวกันประสบความสำเร็จแล้ว\n\nฉัน : ทำเต่าได้ https://t.co/xrBNtr675b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105531374426087424"
+          ]
+        },
+        "author_id": "1529143310966632449",
+        "conversation_id": "2105531396752277673",
+        "created_at": "2026-10-01T05:32:58.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105531396752277673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrBNtr675b",
+              "end": 73,
+              "expanded_url": "https://x.com/magmamaxim/status/2105531396752277673/video/1",
+              "media_key": "13_2105531374426087424",
+              "start": 50,
+              "url": "https://t.co/xrBNtr675b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105531396752277673",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "13_2105531374426087424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2276,
+          "impression_count": 809732,
+          "like_count": 33459,
+          "quote_count": 276,
+          "reply_count": 33,
+          "retweet_count": 16382
+        },
+        "reply_settings": "everyone",
+        "text": "คนวัยเดียวกันประสบความสำเร็จแล้ว\n\nฉัน : ทำเต่าได้ https://t.co/xrBNtr675b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2105590108401602666",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 528,
+          "like_count": 23421,
+          "listed_count": 1,
+          "media_count": 1568,
+          "tweet_count": 5137
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-24T16:52:51.000Z",
+        "description": "น้องชมพูแบ่งปันความสุข manifest ส่งมอบพลังบวกขอเป็น safe zone ของความสุขให้ทุกคน 🤍🩷",
+        "id": "1529143310966632449",
+        "is_identity_verified": false,
+        "location": "กรุงเทพมหานคร, ประเทศไทย",
+        "most_recent_tweet_id": "2105570324502999109",
+        "name": "ชลน เอง🩷🩵",
+        "pinned_tweet_id": "2091795409329061908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529143310966632449/1783270710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060574190672244736/xH5_tdp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 4754,
+          "like_count": 16401,
+          "listed_count": 2,
+          "media_count": 868,
+          "tweet_count": 14650
+        },
+        "url": "",
+        "username": "magmamaxim",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

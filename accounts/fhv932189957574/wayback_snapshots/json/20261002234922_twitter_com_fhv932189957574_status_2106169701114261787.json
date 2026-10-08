@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2105901728667484244",
+    "created_at": "2026-10-02T23:49:22.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T00:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106169701114261787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/johnny_onpucha…",
+          "end": 35,
+          "expanded_url": "https://x.com/johnny_onpuchan/status/2106057781052928471?s=20",
+          "start": 12,
+          "url": "https://t.co/v9NHMbgXo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106169701114261787",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106057781052928471",
+        "type": "quoted"
+      },
+      {
+        "id": "2105901728667484244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii https://t.co/v9NHMbgXo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15080,
+        "height": 836,
+        "media_key": "13_2105901706458669056",
+        "preview_image_url": "https://pbs.twimg.com/media/HTmqcciasAAR-tn.jpg",
+        "public_metrics": {
+          "view_count": 3927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105901706458669056/vid/avc1/320x556/hZ5qk8kyjWQzGpf4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105901706458669056/vid/avc1/480x836/DEesBNsx3WXXDx5N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105901706458669056/pl/htEVbDOv7Oq_qU-p.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2105901728667484244",
+        "created_at": "2026-10-02T23:49:22.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106169701114261787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/johnny_onpucha…",
+              "end": 35,
+              "expanded_url": "https://x.com/johnny_onpuchan/status/2106057781052928471?s=20",
+              "start": 12,
+              "url": "https://t.co/v9NHMbgXo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106169701114261787",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106057781052928471",
+            "type": "quoted"
+          },
+          {
+            "id": "2105901728667484244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii https://t.co/v9NHMbgXo8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105901706458669056"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2105901728667484244",
+        "created_at": "2026-10-02T06:04:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105901728667484244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTrmpDpRoI",
+              "end": 23,
+              "expanded_url": "https://x.com/xixikawaii/status/2105901728667484244/video/1",
+              "media_key": "13_2105901706458669056",
+              "start": 0,
+              "url": "https://t.co/LTrmpDpRoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105901728667484244",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2105901706458669056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 8179,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LTrmpDpRoI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2106057781052928471",
+        "created_at": "2026-10-02T16:24:38.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106057781052928471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106057781052928471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我仿佛要细细品味一般，一颗接一颗地，漫漫地解开习近平白色衬衫的纽扣。接着，我掀起那件微微湿润的内衣，露出他丰满的乳房。未经修剪的乳晕周围，体毛任其生长、杂乱丛生，宛如一片密林。\n\n凑近他的腋下闻了，能嗅到一股微酸、类似孜然般的辛香。可能这就是我多年来求之不得的、属于青春的气息。那散发出的香气宛如催情药一般，让我的小日本鬼子怒张。\n\n随即，习近平用右手缓缓握住我的阴茎，开始上山下乡运动。\n毕竟他活了七十多年，对方想要什么，大抵都心知肚明。\n我的九八式军刀前端渗出的透明树液让触感变得滑腻无比，那种快感令人难以抗拒，我不由自主地浑身战栗。\n那恰到好处的力度，既不让人感到痛苦，又能持续带来极致的性快感，或许正是他自己在文革時期经验過的，批斗的“折磨人却又不致死”高度技术。\n\n我觉得与我和习近平之间的恋情相比，最近的外交问题似乎并不怎么复杂。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7694,
+          "like_count": 131,
+          "quote_count": 8,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我仿佛要细细品味一般，一颗接一颗地，漫漫地解开习近平白色衬衫的纽扣。接着，我掀起那件微微湿润的内衣，露出他丰满的乳房。未经修剪的乳晕周围，体毛任其生长、杂乱丛生，宛如一片密林。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2106169701114261787",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 532,
+          "like_count": 23635,
+          "listed_count": 1,
+          "media_count": 1591,
+          "tweet_count": 5198
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=xixi",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=xixi",
+                "start": 0,
+                "url": "https://t.co/MKfyClPSiI"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2106062577952604602",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103144044511768577/k7UNep_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65291,
+          "following_count": 1248,
+          "like_count": 15994,
+          "listed_count": 504,
+          "media_count": 5743,
+          "tweet_count": 27714
+        },
+        "url": "https://t.co/MKfyClPSiI",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "is_identity_verified": true,
+        "location": "福冈反革命根据地",
+        "most_recent_tweet_id": "2106147258832232508",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2900565097/1458917216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19986,
+          "following_count": 1464,
+          "like_count": 141361,
+          "listed_count": 115,
+          "media_count": 7775,
+          "tweet_count": 140793
+        },
+        "url": "",
+        "username": "johnny_onpuchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

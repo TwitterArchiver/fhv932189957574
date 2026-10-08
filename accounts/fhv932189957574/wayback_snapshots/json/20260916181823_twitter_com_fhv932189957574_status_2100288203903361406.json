@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100253276042084352",
+        "3_2100253276012691456"
+      ],
+      "media_source_tweet_id": [
+        "2100253519802409320",
+        "2100253519802409320"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100288203903361406",
+    "created_at": "2026-09-16T18:18:23.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100288203903361406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmQkUW16s4",
+          "end": 116,
+          "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+          "media_key": "3_2100253276042084352",
+          "start": 93,
+          "url": "https://t.co/xmQkUW16s4"
+        },
+        {
+          "display_url": "pic.x.com/xmQkUW16s4",
+          "end": 116,
+          "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+          "media_key": "3_2100253276012691456",
+          "start": 93,
+          "url": "https://t.co/xmQkUW16s4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100288203903361406",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2100253276042084352"
+      },
+      {
+        "media_key": "3_2100253276012691456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100253519802409320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: Tubarão raro de coloração alaranjada foi avistado nas águas da Costa Rica. https://t.co/xmQkUW16s4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_2100253276042084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWZOhjWwAADadA.jpg",
+        "width": 1208
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2100253276012691456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWZOhcWQAApeyp.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100253276042084352",
+            "3_2100253276012691456"
+          ],
+          "media_source_tweet_id": [
+            "2100253519802409320",
+            "2100253519802409320"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100288203903361406",
+        "created_at": "2026-09-16T18:18:23.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100288203903361406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmQkUW16s4",
+              "end": 116,
+              "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+              "media_key": "3_2100253276042084352",
+              "start": 93,
+              "url": "https://t.co/xmQkUW16s4"
+            },
+            {
+              "display_url": "pic.x.com/xmQkUW16s4",
+              "end": 116,
+              "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+              "media_key": "3_2100253276012691456",
+              "start": 93,
+              "url": "https://t.co/xmQkUW16s4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100288203903361406",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2100253276042084352"
+          },
+          {
+            "media_key": "3_2100253276012691456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100253519802409320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: Tubarão raro de coloração alaranjada foi avistado nas águas da Costa Rica. https://t.co/xmQkUW16s4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100253276042084352",
+            "3_2100253276012691456"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "conversation_id": "2100253519802409320",
+        "created_at": "2026-09-16T16:00:34.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100253519802409320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmQkUW16s4",
+              "end": 98,
+              "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+              "media_key": "3_2100253276042084352",
+              "start": 75,
+              "url": "https://t.co/xmQkUW16s4"
+            },
+            {
+              "display_url": "pic.x.com/xmQkUW16s4",
+              "end": 98,
+              "expanded_url": "https://x.com/AcervoCharts/status/2100253519802409320/photo/1",
+              "media_key": "3_2100253276012691456",
+              "start": 75,
+              "url": "https://t.co/xmQkUW16s4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100253519802409320",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2100253276042084352"
+          },
+          {
+            "media_key": "3_2100253276012691456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 52497,
+          "like_count": 2368,
+          "quote_count": 128,
+          "reply_count": 47,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "Tubarão raro de coloração alaranjada foi avistado nas águas da Costa Rica. https://t.co/xmQkUW16s4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100288203903361406",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 517,
+          "like_count": 20092,
+          "listed_count": 0,
+          "media_count": 1436,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "is_identity_verified": false,
+        "location": "Brasil",
+        "most_recent_tweet_id": "2100278998316069084",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2100243315597676694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753424463560052736/1741140075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278024,
+          "following_count": 7518,
+          "like_count": 26950,
+          "listed_count": 353,
+          "media_count": 14902,
+          "tweet_count": 15846
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

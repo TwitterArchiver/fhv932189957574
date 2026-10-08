@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102057815213015041"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101957091724558414",
+    "created_at": "2026-09-21T15:30:13.000Z",
+    "display_text_range": [
+      16,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102057822666228056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615158827376349185",
+          "start": 0,
+          "username": "MinMin89485072"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FStRe1x8sq",
+          "end": 67,
+          "expanded_url": "https://x.com/fhv932189957574/status/2102057822666228056/photo/1",
+          "media_key": "3_2102057815213015041",
+          "start": 44,
+          "url": "https://t.co/FStRe1x8sq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102057822666228056",
+    "in_reply_to_user_id": "1615158827376349185",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102057815213015041"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101957091724558414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinMin89485072 评论区让我想当支黑了，不图能行吗，怎么还有支持杀人的？ https://t.co/FStRe1x8sq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2102057815213015041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwCch0bAAEMZYf.jpg",
+        "width": 611
+      },
+      {
+        "duration_ms": 13071,
+        "height": 960,
+        "media_key": "13_2101957079032569856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101957079032569856/img/r3E4K2Tphr3zJ40C.jpg",
+        "public_metrics": {
+          "view_count": 727813
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/vid/avc1/320x684/Z5hkPVZOJKA3F19h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/vid/avc1/448x960/R5-bhEDNyaH-msx_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/pl/fsFITFvTaIgajQ1U.m3u8?v=cfc"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101957079036829697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSum06UboAErU8U.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102057815213015041"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101957091724558414",
+        "created_at": "2026-09-21T15:30:13.000Z",
+        "display_text_range": [
+          16,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102057822666228056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615158827376349185",
+              "start": 0,
+              "username": "MinMin89485072"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FStRe1x8sq",
+              "end": 67,
+              "expanded_url": "https://x.com/fhv932189957574/status/2102057822666228056/photo/1",
+              "media_key": "3_2102057815213015041",
+              "start": 44,
+              "url": "https://t.co/FStRe1x8sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102057822666228056",
+        "in_reply_to_user_id": "1615158827376349185",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102057815213015041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101957091724558414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinMin89485072 评论区让我想当支黑了，不图能行吗，怎么还有支持杀人的？ https://t.co/FStRe1x8sq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101957079032569856",
+            "3_2101957079036829697"
+          ]
+        },
+        "author_id": "1615158827376349185",
+        "conversation_id": "2101957091724558414",
+        "created_at": "2026-09-21T08:49:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101957091724558414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cci3oTmKNh",
+              "end": 62,
+              "expanded_url": "https://x.com/MinMin89485072/status/2101957091724558414/video/1",
+              "media_key": "13_2101957079032569856",
+              "start": 39,
+              "url": "https://t.co/Cci3oTmKNh"
+            },
+            {
+              "display_url": "pic.x.com/Cci3oTmKNh",
+              "end": 62,
+              "expanded_url": "https://x.com/MinMin89485072/status/2101957091724558414/video/1",
+              "media_key": "3_2101957079036829697",
+              "start": 39,
+              "url": "https://t.co/Cci3oTmKNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101957091724558414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101957079032569856"
+          },
+          {
+            "media_key": "3_2101957079036829697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1682,
+          "impression_count": 1039576,
+          "like_count": 8929,
+          "quote_count": 153,
+          "reply_count": 336,
+          "retweet_count": 542
+        },
+        "reply_settings": "everyone",
+        "text": "太恐怖了😱！\n\n一名女生嫌舍友打游戏太吵，竟直接把舍友刀了。信息来源于：子砚 https://t.co/Cci3oTmKNh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102057822666228056",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 516,
+          "like_count": 21192,
+          "listed_count": 0,
+          "media_count": 1492,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-17T01:28:17.000Z",
+        "description": "捍卫自由，享受自由",
+        "id": "1615158827376349185",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2101960559562531298",
+        "name": "郑敏",
+        "pinned_tweet_id": "1752151508920197394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615158827376349185/1702426699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739811064005730304/_BfTzvUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19330,
+          "following_count": 2231,
+          "like_count": 1298,
+          "listed_count": 92,
+          "media_count": 2060,
+          "tweet_count": 4028
+        },
+        "url": "",
+        "username": "MinMin89485072",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

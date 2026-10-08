@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106593979907424256"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2106571226668040434",
+    "created_at": "2026-10-04T03:55:19.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106593986467312122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHA2wONye9",
+          "end": 48,
+          "expanded_url": "https://x.com/fhv932189957574/status/2106593986467312122/photo/1",
+          "media_key": "3_2106593979907424256",
+          "start": 25,
+          "url": "https://t.co/FHA2wONye9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106593986467312122",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106593979907424256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106571226668040434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 不是免费的你哈你妈气呢 https://t.co/FHA2wONye9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2106593979907424256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwgEEJbwAAZMEb.jpg",
+        "width": 420
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2106571205029646336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwLWZHb0AAJuCi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2106571210284998656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwLWssaIAASyBS.jpg",
+        "width": 803
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2106571215506935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwLXAJakAA4c4-.jpg",
+        "width": 704
+      },
+      {
+        "height": 1010,
+        "media_key": "3_2106571221408374784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwLXWIbYAA6zVD.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106593979907424256"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2106571226668040434",
+        "created_at": "2026-10-04T03:55:19.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106593986467312122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHA2wONye9",
+              "end": 48,
+              "expanded_url": "https://x.com/fhv932189957574/status/2106593986467312122/photo/1",
+              "media_key": "3_2106593979907424256",
+              "start": 25,
+              "url": "https://t.co/FHA2wONye9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106593986467312122",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106593979907424256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106571226668040434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 不是免费的你哈你妈气呢 https://t.co/FHA2wONye9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106571205029646336",
+            "3_2106571210284998656",
+            "3_2106571215506935808",
+            "3_2106571221408374784"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2106571226668040434",
+        "created_at": "2026-10-04T02:24:53.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106571226668040434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnPOY2hibH",
+              "end": 40,
+              "expanded_url": "https://x.com/realNyarime/status/2106571226668040434/photo/1",
+              "media_key": "3_2106571205029646336",
+              "start": 17,
+              "url": "https://t.co/PnPOY2hibH"
+            },
+            {
+              "display_url": "pic.x.com/PnPOY2hibH",
+              "end": 40,
+              "expanded_url": "https://x.com/realNyarime/status/2106571226668040434/photo/1",
+              "media_key": "3_2106571210284998656",
+              "start": 17,
+              "url": "https://t.co/PnPOY2hibH"
+            },
+            {
+              "display_url": "pic.x.com/PnPOY2hibH",
+              "end": 40,
+              "expanded_url": "https://x.com/realNyarime/status/2106571226668040434/photo/1",
+              "media_key": "3_2106571215506935808",
+              "start": 17,
+              "url": "https://t.co/PnPOY2hibH"
+            },
+            {
+              "display_url": "pic.x.com/PnPOY2hibH",
+              "end": 40,
+              "expanded_url": "https://x.com/realNyarime/status/2106571226668040434/photo/1",
+              "media_key": "3_2106571221408374784",
+              "start": 17,
+              "url": "https://t.co/PnPOY2hibH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106571226668040434",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106571205029646336"
+          },
+          {
+            "media_key": "3_2106571210284998656"
+          },
+          {
+            "media_key": "3_2106571215506935808"
+          },
+          {
+            "media_key": "3_2106571221408374784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9007,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "去别的地方玩，不要耽误AGI训练 https://t.co/PnPOY2hibH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2106593986467312122",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 531,
+          "like_count": 23822,
+          "listed_count": 1,
+          "media_count": 1605,
+          "tweet_count": 5240
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2106593414502662219",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50307,
+          "following_count": 669,
+          "like_count": 23506,
+          "listed_count": 218,
+          "media_count": 3021,
+          "tweet_count": 19591
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

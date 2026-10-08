@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100517119830241429",
+    "created_at": "2026-09-18T09:00:53.000Z",
+    "display_text_range": [
+      19,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100872679289237907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856301878814093315",
+          "start": 0,
+          "username": "NextShua"
+        },
+        {
+          "end": 18,
+          "id": "1890029305205608448",
+          "start": 10,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100872679289237907",
+    "in_reply_to_user_id": "1856301878814093315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100852341570408572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NextShua @wsl8297 这谁不羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100517119830241429",
+        "created_at": "2026-09-18T09:00:53.000Z",
+        "display_text_range": [
+          19,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100872679289237907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856301878814093315",
+              "start": 0,
+              "username": "NextShua"
+            },
+            {
+              "end": 18,
+              "id": "1890029305205608448",
+              "start": 10,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100872679289237907",
+        "in_reply_to_user_id": "1856301878814093315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100852341570408572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NextShua @wsl8297 这谁不羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856301878814093315",
+        "conversation_id": "2100517119830241429",
+        "created_at": "2026-09-18T07:40:04.000Z",
+        "display_text_range": [
+          26,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100852341570408572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            },
+            {
+              "end": 25,
+              "id": "1890029305205608448",
+              "start": 17,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100852341570408572",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100623298631791076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 @wsl8297 你只是羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100872679289237907",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 512,
+          "like_count": 20588,
+          "listed_count": 0,
+          "media_count": 1451,
+          "tweet_count": 4565
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-12T11:44:02.000Z",
+        "description": "10后|查看https://t.co/zFjQ21fAfc谢谢喵|我喜欢你",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Shua-github",
+                "end": 29,
+                "expanded_url": "http://github.com/Shua-github",
+                "start": 6,
+                "url": "https://t.co/zFjQ21fAfc"
+              }
+            ]
+          }
+        },
+        "id": "1856301878814093315",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2100858452155216026",
+        "name": "Shua",
+        "pinned_tweet_id": "2093604887066189955",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072271050394759168/7WunDsaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 108,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "NextShua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100868184702341620",
+        "name": "Joruno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890029305205608448/1768743778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22626,
+          "following_count": 703,
+          "like_count": 25547,
+          "listed_count": 112,
+          "media_count": 5555,
+          "tweet_count": 23822
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

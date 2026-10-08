@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102378408483151872"
+      ],
+      "media_source_tweet_id": [
+        "2102378447397933337"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2102788564270616686",
+    "created_at": "2026-09-23T15:53:56.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102788564270616686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561122305748746241",
+          "start": 3,
+          "username": "loveaissu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H9GIH6QbiM",
+          "end": 38,
+          "expanded_url": "https://x.com/loveaissu/status/2102378447397933337/video/1",
+          "media_key": "13_2102378408483151872",
+          "start": 15,
+          "url": "https://t.co/H9GIH6QbiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102788564270616686",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2102378408483151872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37483
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102378447397933337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveaissu: https://t.co/H9GIH6QbiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34271,
+        "height": 576,
+        "media_key": "13_2102378408483151872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102378408483151872/img/IJFT8Vt79igpP--n.jpg",
+        "public_metrics": {
+          "view_count": 1863930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102378408483151872/vid/avc1/320x320/eRB_unx8hTE6A-jj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102378408483151872/vid/avc1/576x576/Wj8FZjldtWK7VMOE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102378408483151872/pl/QvZiw3yyQV3ZoXX4.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102378408483151872"
+          ],
+          "media_source_tweet_id": [
+            "2102378447397933337"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2102788564270616686",
+        "created_at": "2026-09-23T15:53:56.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102788564270616686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561122305748746241",
+              "start": 3,
+              "username": "loveaissu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9GIH6QbiM",
+              "end": 38,
+              "expanded_url": "https://x.com/loveaissu/status/2102378447397933337/video/1",
+              "media_key": "13_2102378408483151872",
+              "start": 15,
+              "url": "https://t.co/H9GIH6QbiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102788564270616686",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2102378408483151872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37483
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102378447397933337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveaissu: https://t.co/H9GIH6QbiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102378408483151872"
+          ]
+        },
+        "author_id": "1561122305748746241",
+        "conversation_id": "2102378447397933337",
+        "created_at": "2026-09-22T12:44:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102378447397933337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9GIH6QbiM",
+              "end": 23,
+              "expanded_url": "https://x.com/loveaissu/status/2102378447397933337/video/1",
+              "media_key": "13_2102378408483151872",
+              "start": 0,
+              "url": "https://t.co/H9GIH6QbiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102378447397933337",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2102378408483151872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19724,
+          "impression_count": 4487709,
+          "like_count": 243657,
+          "quote_count": 1129,
+          "reply_count": 342,
+          "retweet_count": 37483
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H9GIH6QbiM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102788564270616686",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 526,
+          "like_count": 21670,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 4852
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T22:46:03.000Z",
+        "description": "Амбассадор_ка ''Вкусно и точки''. Инфоармян_ка. Против нацизма и экстремизма. Expert on the Middle East and North America",
+        "id": "1561122305748746241",
+        "is_identity_verified": false,
+        "location": "Barnaul. Altai Krai",
+        "most_recent_tweet_id": "2102786553915285855",
+        "name": "Робби (твиттерская пользовательница )",
+        "pinned_tweet_id": "1961773619069026625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561122305748746241/1661634114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073867556041920512/P_95I-cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4033,
+          "following_count": 653,
+          "like_count": 88957,
+          "listed_count": 99,
+          "media_count": 2449,
+          "tweet_count": 24667
+        },
+        "url": "",
+        "username": "loveaissu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104573730357944320",
+        "3_2104573730370547712",
+        "3_2104573730345345025"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2104497581900640473",
+    "created_at": "2026-09-28T14:07:37.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104573747785285632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGwUs95HJ9",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+          "media_key": "3_2104573730357944320",
+          "start": 13,
+          "url": "https://t.co/iGwUs95HJ9"
+        },
+        {
+          "display_url": "pic.x.com/iGwUs95HJ9",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+          "media_key": "3_2104573730370547712",
+          "start": 13,
+          "url": "https://t.co/iGwUs95HJ9"
+        },
+        {
+          "display_url": "pic.x.com/iGwUs95HJ9",
+          "end": 36,
+          "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+          "media_key": "3_2104573730345345025",
+          "start": 13,
+          "url": "https://t.co/iGwUs95HJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104573747785285632",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104573730357944320"
+      },
+      {
+        "media_key": "3_2104573730370547712"
+      },
+      {
+        "media_key": "3_2104573730345345025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104497581900640473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 美味 https://t.co/iGwUs95HJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2104573730357944320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTyqEGaoAAvKUK.jpg",
+        "width": 1086
+      },
+      {
+        "height": 690,
+        "media_key": "3_2104573730370547712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTyqEJa8AAEY97.jpg",
+        "width": 550
+      },
+      {
+        "height": 838,
+        "media_key": "3_2104573730345345025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTyqEDaYAEPBwz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1871,
+        "media_key": "3_2104497568420130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTStY2xa8AAit6d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104573730357944320",
+            "3_2104573730370547712",
+            "3_2104573730345345025"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2104497581900640473",
+        "created_at": "2026-09-28T14:07:37.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104573747785285632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGwUs95HJ9",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+              "media_key": "3_2104573730357944320",
+              "start": 13,
+              "url": "https://t.co/iGwUs95HJ9"
+            },
+            {
+              "display_url": "pic.x.com/iGwUs95HJ9",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+              "media_key": "3_2104573730370547712",
+              "start": 13,
+              "url": "https://t.co/iGwUs95HJ9"
+            },
+            {
+              "display_url": "pic.x.com/iGwUs95HJ9",
+              "end": 36,
+              "expanded_url": "https://x.com/fhv932189957574/status/2104573747785285632/photo/1",
+              "media_key": "3_2104573730345345025",
+              "start": 13,
+              "url": "https://t.co/iGwUs95HJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104573747785285632",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104573730357944320"
+          },
+          {
+            "media_key": "3_2104573730370547712"
+          },
+          {
+            "media_key": "3_2104573730345345025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104497581900640473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 美味 https://t.co/iGwUs95HJ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104497568420130816"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2104497581900640473",
+        "created_at": "2026-09-28T09:04:57.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104497581900640473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHXmblos6d",
+              "end": 132,
+              "expanded_url": "https://x.com/bigjusir/status/2104497581900640473/photo/1",
+              "media_key": "3_2104497568420130816",
+              "start": 109,
+              "url": "https://t.co/GHXmblos6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104497581900640473",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104497568420130816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1438,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "赛博藤壶把jusir屏蔽了，以前没有见过它，浏览别人的帖子看到的\n\n应该是jusir经常发鲸鱼娘导致的吧，本来不想随便支持哪一方了，看来还是必须狠狠支持吃白饭🍚的鲸鱼娘了\n\n打码了，看到鲸鱼娘火了就想蹭热度，门都没有 https://t.co/GHXmblos6d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2104573747785285632",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 524,
+          "like_count": 23046,
+          "listed_count": 0,
+          "media_count": 1553,
+          "tweet_count": 5069
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104568521187606563",
+        "name": "jusir",
+        "pinned_tweet_id": "2104013401475436713",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6962,
+          "following_count": 4383,
+          "like_count": 10363,
+          "listed_count": 23,
+          "media_count": 1410,
+          "tweet_count": 5551
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

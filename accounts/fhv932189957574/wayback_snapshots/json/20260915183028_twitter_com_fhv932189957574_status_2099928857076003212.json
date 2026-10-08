@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2099816186783654252",
+    "created_at": "2026-09-15T18:30:28.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099928857076003212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658109461595144192",
+          "start": 0,
+          "username": "kysam2297854"
+        },
+        {
+          "end": 29,
+          "id": "1721381996960845824",
+          "start": 14,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099928857076003212",
+    "in_reply_to_user_id": "1658109461595144192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099832084986732771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kysam2297854 @laozhouhengmei 再串打死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2099816186783654252",
+        "created_at": "2026-09-15T18:30:28.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099928857076003212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658109461595144192",
+              "start": 0,
+              "username": "kysam2297854"
+            },
+            {
+              "end": 29,
+              "id": "1721381996960845824",
+              "start": 14,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099928857076003212",
+        "in_reply_to_user_id": "1658109461595144192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099832084986732771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kysam2297854 @laozhouhengmei 再串打死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658109461595144192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2099816186783654252",
+        "created_at": "2026-09-15T12:05:56.000Z",
+        "display_text_range": [
+          16,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099832084986732771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721381996960845824",
+              "start": 0,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099832084986732771",
+        "in_reply_to_user_id": "1721381996960845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1667,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099816186783654252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhouhengmei 有没有可能是男性cosplay的，我和我闺蜜没遇到过这种人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2099928857076003212",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 515,
+          "like_count": 19641,
+          "listed_count": 0,
+          "media_count": 1425,
+          "tweet_count": 4415
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-15T13:58:23.000Z",
+        "description": "希望你度过一个美好的一天",
+        "id": "1658109461595144192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099842245956604340",
+        "name": "kysam",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658130657405710337/mroL70N1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "kysam2297854",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099838302006464765",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721381996960845824/1699280552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147458,
+          "following_count": 149,
+          "like_count": 16350,
+          "listed_count": 578,
+          "media_count": 1807,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

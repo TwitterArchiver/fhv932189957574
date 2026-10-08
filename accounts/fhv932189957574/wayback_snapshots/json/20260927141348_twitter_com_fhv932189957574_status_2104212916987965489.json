@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Steak",
+          "id": "825065204106948608",
+          "name": "Steak"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Steak",
+          "id": "825065204106948608",
+          "name": "Steak"
+        }
+      }
+    ],
+    "conversation_id": "2104151861637054753",
+    "created_at": "2026-09-27T14:13:48.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104212916987965489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rusu1034294/st…",
+          "end": 38,
+          "expanded_url": "https://x.com/rusu1034294/status/2103857019665121471?s=20",
+          "start": 15,
+          "url": "https://t.co/M2dsW7oB6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104212916987965489",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103857019665121471",
+        "type": "quoted"
+      },
+      {
+        "id": "2104151861637054753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 https://t.co/M2dsW7oB6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2104151820453224448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNy7rObIAA8ja-.jpg",
+        "width": 579
+      },
+      {
+        "height": 640,
+        "media_key": "3_2104151821367566336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNy7uoa4AAWA2O.jpg",
+        "width": 640
+      },
+      {
+        "height": 1473,
+        "media_key": "3_2103857013692489728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJmzqda4AAixI3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          }
+        ],
+        "conversation_id": "2104151861637054753",
+        "created_at": "2026-09-27T14:13:48.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104212916987965489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rusu1034294/st…",
+              "end": 38,
+              "expanded_url": "https://x.com/rusu1034294/status/2103857019665121471?s=20",
+              "start": 15,
+              "url": "https://t.co/M2dsW7oB6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104212916987965489",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103857019665121471",
+            "type": "quoted"
+          },
+          {
+            "id": "2104151861637054753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 https://t.co/M2dsW7oB6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104151820453224448",
+            "3_2104151821367566336"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "conversation_id": "2104151861637054753",
+        "created_at": "2026-09-27T10:11:11.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:10:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104151663284269386",
+          "2104151861637054753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYr9z3DJEL",
+              "end": 64,
+              "expanded_url": "https://x.com/galaxy1025850/status/2104151861637054753/photo/1",
+              "media_key": "3_2104151820453224448",
+              "start": 41,
+              "url": "https://t.co/IYr9z3DJEL"
+            },
+            {
+              "display_url": "pic.x.com/IYr9z3DJEL",
+              "end": 64,
+              "expanded_url": "https://x.com/galaxy1025850/status/2104151861637054753/photo/1",
+              "media_key": "3_2104151821367566336",
+              "start": 41,
+              "url": "https://t.co/IYr9z3DJEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104151861637054753",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104151820453224448"
+          },
+          {
+            "media_key": "3_2104151821367566336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 62930,
+          "like_count": 637,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "看来官方不反对甚至也很喜欢这个二创\n不然也不会用这个头像\n大肥鱼娘亲自招聘了喵~ https://t.co/IYr9z3DJEL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103857013692489728"
+          ]
+        },
+        "author_id": "1957851442141884418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          }
+        ],
+        "conversation_id": "2103857019665121471",
+        "created_at": "2026-09-26T14:39:35.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103857019665121471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uczxLLExPE",
+              "end": 52,
+              "expanded_url": "https://x.com/rusu1034294/status/2103857019665121471/photo/1",
+              "media_key": "3_2103857013692489728",
+              "start": 29,
+              "url": "https://t.co/uczxLLExPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103857019665121471",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103857013692489728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7123,
+          "impression_count": 9801127,
+          "like_count": 98000,
+          "quote_count": 2821,
+          "reply_count": 1214,
+          "retweet_count": 8027
+        },
+        "reply_settings": "everyone",
+        "text": "レアステーキ食べました！！！脂が乗ってて美味しかったです https://t.co/uczxLLExPE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2104212916987965489",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 526,
+          "like_count": 22734,
+          "listed_count": 0,
+          "media_count": 1537,
+          "tweet_count": 5027
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "20 y.o 计科大三摆烂人\n折腾爱好者、资深互联网冲浪手\n\n承诺所有文字手打不使用AI发推\nPan & 友跨 \n脾气超好，评论私信看到就会回，欢迎小可爱找我聊天～✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7Qxz9"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "us-east-1",
+        "most_recent_tweet_id": "2104186915310518572",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008233761763409920/1789997997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102032262686707712/9HjOQrkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1139,
+          "like_count": 3620,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 2153
+        },
+        "url": "https://t.co/3iZAC7Qxz9",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-19T17:05:48.000Z",
+        "description": "高校中退\n好きなツイートをリツイートすることで生計を立てています",
+        "id": "1957851442141884418",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104197594201358837",
+        "name": "留守番電話",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958118376238419968/K2i07v2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 211,
+          "like_count": 7980,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "rusu1034294",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

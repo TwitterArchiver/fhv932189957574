@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100268440170979438",
+    "created_at": "2026-09-16T16:59:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100268440170979438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1295621962593521666",
+          "start": 3,
+          "username": "luvalaixe_"
+        },
+        {
+          "end": 32,
+          "id": "2085994622342590464",
+          "start": 16,
+          "username": "xiaappleyizhous"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "e.tb.cn/h.8qI3UtVF2Rcc…",
+          "end": 97,
+          "expanded_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+          "start": 74,
+          "status": 200,
+          "unwound_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+          "url": "https://t.co/sjz86m7EEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100268440170979438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097879704888115463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luvalaixe_: @xiaappleyizhous Hi sissy I found it WHEEZE 😭\n【淘宝】7天无理由退货 https://t.co/sjz86m7EEU CZ225 「恋与深空秦彻夏以昼亚克力吸吸乐立牌喝水神器应援物料周边」\n点击链接直…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2097879675829899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0qcztaUAAyomD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100268440170979438",
+        "created_at": "2026-09-16T16:59:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100268440170979438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1295621962593521666",
+              "start": 3,
+              "username": "luvalaixe_"
+            },
+            {
+              "end": 32,
+              "id": "2085994622342590464",
+              "start": 16,
+              "username": "xiaappleyizhous"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.8qI3UtVF2Rcc…",
+              "end": 97,
+              "expanded_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+              "start": 74,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+              "url": "https://t.co/sjz86m7EEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100268440170979438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097879704888115463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luvalaixe_: @xiaappleyizhous Hi sissy I found it WHEEZE 😭\n【淘宝】7天无理由退货 https://t.co/sjz86m7EEU CZ225 「恋与深空秦彻夏以昼亚克力吸吸乐立牌喝水神器应援物料周边」\n点击链接直…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097879675829899264"
+          ]
+        },
+        "author_id": "1295621962593521666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097573626757419483",
+        "created_at": "2026-09-10T02:47:53.000Z",
+        "display_text_range": [
+          17,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097879704888115463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2085994622342590464",
+              "start": 0,
+              "username": "xiaappleyizhous"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.8qI3UtVF2Rcc…",
+              "end": 81,
+              "expanded_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+              "start": 58,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.8qI3UtVF2RccPDz?tk=zcocTSTO7WK",
+              "url": "https://t.co/sjz86m7EEU"
+            },
+            {
+              "display_url": "pic.x.com/rPqDxsKtMa",
+              "end": 162,
+              "expanded_url": "https://x.com/luvalaixe_/status/2097879704888115463/photo/1",
+              "media_key": "3_2097879675829899264",
+              "start": 139,
+              "url": "https://t.co/rPqDxsKtMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097879704888115463",
+        "in_reply_to_user_id": "2085994622342590464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097879675829899264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 713,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097573626757419483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaappleyizhous Hi sissy I found it WHEEZE 😭\n【淘宝】7天无理由退货 https://t.co/sjz86m7EEU CZ225 「恋与深空秦彻夏以昼亚克力吸吸乐立牌喝水神器应援物料周边」\n点击链接直接打开 或者 淘宝搜索直接打开 https://t.co/rPqDxsKtMa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100268440170979438",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 20030,
+          "listed_count": 0,
+          "media_count": 1433,
+          "tweet_count": 4487
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-18T07:22:30.000Z",
+        "description": "Average Luocha🌾 and ⭐🍎🐺❄️ fan\n☆I draw lots, multifandom!☆ \n some of my arts are 🔞+ :3 • 🇵🇭|🇦🇺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Aizyaixe",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Aizyaixe",
+                "start": 0,
+                "url": "https://t.co/nRnlBcytvu"
+              }
+            ]
+          }
+        },
+        "id": "1295621962593521666",
+        "is_identity_verified": false,
+        "location": "Melbourne, Victoria",
+        "most_recent_tweet_id": "2100177656943689798",
+        "name": "Aixe_aizy • 🐺",
+        "pinned_tweet_id": "2078803597442380039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295621962593521666/1787406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096886580401283072/bWtOO2Zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 326,
+          "like_count": 60227,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 13399
+        },
+        "url": "https://t.co/nRnlBcytvu",
+        "username": "luvalaixe_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T07:42:08.000Z",
+        "description": "i like and post all LIs and follow the cn trope 🍎🪷 @leblebapples @xiappleyizhous i rt 🔞 sometimes..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "leblebapples"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "xiappleyizhous"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xiappleyizhou…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xiappleyizhous?_r=1&_t=ZS-98vbEiK3Cc9",
+                "start": 0,
+                "url": "https://t.co/QdyrDZxJpR"
+              }
+            ]
+          }
+        },
+        "id": "2085994622342590464",
+        "is_identity_verified": false,
+        "location": "19 🛩️",
+        "most_recent_tweet_id": "2100264271691325822",
+        "name": "🍎 elle 🍎",
+        "pinned_tweet_id": "2086018481552851242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085994622342590464/1786184189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100075263858290688/jvq53HQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 97,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/QdyrDZxJpR",
+        "username": "xiaappleyizhous",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

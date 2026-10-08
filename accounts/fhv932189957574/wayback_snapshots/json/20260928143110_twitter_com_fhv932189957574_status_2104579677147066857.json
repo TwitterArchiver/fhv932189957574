@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104579473438048256",
+        "13_2104579473471598592"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2104321149035241975",
+    "created_at": "2026-09-28T14:31:10.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104579677147066857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXaDZBuZFM",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2104579677147066857/video/1",
+          "media_key": "3_2104579473438048256",
+          "start": 11,
+          "url": "https://t.co/OXaDZBuZFM"
+        },
+        {
+          "display_url": "pic.x.com/OXaDZBuZFM",
+          "end": 34,
+          "expanded_url": "https://x.com/fhv932189957574/status/2104579677147066857/video/1",
+          "media_key": "13_2104579473471598592",
+          "start": 11,
+          "url": "https://t.co/OXaDZBuZFM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104579677147066857",
+    "in_reply_to_user_id": "28940967",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2104579473438048256"
+      },
+      {
+        "media_key": "13_2104579473471598592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104321149035241975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz https://t.co/OXaDZBuZFM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2104579473438048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTT34WvagAARET4.jpg",
+        "width": 614
+      },
+      {
+        "duration_ms": 33180,
+        "height": 1280,
+        "media_key": "13_2104579473471598592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104579473471598592/img/0ULJ-2vfL-9fSJ16.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104579473471598592/vid/avc1/320x568/tQPL6qpIYgMq_I8H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104579473471598592/vid/avc1/480x852/ORqtF4UwzvqwGYl0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104579473471598592/vid/avc1/720x1280/UOhFGabzfz0dN38Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104579473471598592/pl/uiWv8RhUjVaQ-AEy.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 36641,
+        "height": 1440,
+        "media_key": "13_2104321032500707329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104321032500707329/img/PcX0QZHnfKMBmVf1.jpg",
+        "public_metrics": {
+          "view_count": 181710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321032500707329/vid/avc1/1278x720/cZ4whOkdv-bT5lzV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321032500707329/vid/avc1/638x360/l5dsZes_bxZKZ2WE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104321032500707329/pl/5XXWYjoRfhH7ObQ1.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321032500707329/vid/avc1/478x270/rg1sx7LAthvx_WDL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321032500707329/vid/avc1/2558x1440/dCBXYbZPgiJfXgN4.mp4"
+          }
+        ],
+        "width": 2558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104579473438048256",
+            "13_2104579473471598592"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2104321149035241975",
+        "created_at": "2026-09-28T14:31:10.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104579677147066857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXaDZBuZFM",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2104579677147066857/video/1",
+              "media_key": "3_2104579473438048256",
+              "start": 11,
+              "url": "https://t.co/OXaDZBuZFM"
+            },
+            {
+              "display_url": "pic.x.com/OXaDZBuZFM",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2104579677147066857/video/1",
+              "media_key": "13_2104579473471598592",
+              "start": 11,
+              "url": "https://t.co/OXaDZBuZFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104579677147066857",
+        "in_reply_to_user_id": "28940967",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104579473438048256"
+          },
+          {
+            "media_key": "13_2104579473471598592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104321149035241975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz https://t.co/OXaDZBuZFM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104321032500707329"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2104321149035241975",
+        "created_at": "2026-09-27T21:23:52.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104321149035241975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZF3LaMdan4",
+              "end": 68,
+              "expanded_url": "https://x.com/lidangzzz/status/2104321149035241975/video/1",
+              "media_key": "13_2104321032500707329",
+              "start": 45,
+              "url": "https://t.co/ZF3LaMdan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104321149035241975",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104321032500707329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 310700,
+          "like_count": 1319,
+          "quote_count": 14,
+          "reply_count": 102,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/ZF3LaMdan4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2104579677147066857",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 524,
+          "like_count": 23108,
+          "listed_count": 0,
+          "media_count": 1558,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（私信提问前请务必先到YouTube频道观看各期解答世间万物节目，有问题请到X Space上麦直接询问，未回私信证明你的问题已经在YouTube回答过了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "is_identity_verified": false,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2104569891420352800",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28940967/1590188835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610252,
+          "following_count": 2752,
+          "like_count": 29205,
+          "listed_count": 3905,
+          "media_count": 10240,
+          "tweet_count": 49374
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

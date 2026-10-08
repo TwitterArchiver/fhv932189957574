@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100779508517502977"
+      ],
+      "media_source_tweet_id": [
+        "2100940406855008548"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2101042104894157118",
+    "created_at": "2026-09-18T20:14:07.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T21:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101042104894157118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689053928",
+          "start": 3,
+          "username": "telegram"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NPUZiLEQX",
+          "end": 69,
+          "expanded_url": "https://x.com/telegram/status/2100940406855008548/photo/1",
+          "media_key": "3_2100779508517502977",
+          "start": 46,
+          "url": "https://t.co/8NPUZiLEQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101042104894157118",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2100779508517502977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 654
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100940406855008548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @telegram: fake wealth: 🛩️💰🏎️\nreal wealth: https://t.co/8NPUZiLEQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2100779508517502977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSd31SSbAAE6KJ7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100779508517502977"
+          ],
+          "media_source_tweet_id": [
+            "2100940406855008548"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2101042104894157118",
+        "created_at": "2026-09-18T20:14:07.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101042104894157118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689053928",
+              "start": 3,
+              "username": "telegram"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NPUZiLEQX",
+              "end": 69,
+              "expanded_url": "https://x.com/telegram/status/2100940406855008548/photo/1",
+              "media_key": "3_2100779508517502977",
+              "start": 46,
+              "url": "https://t.co/8NPUZiLEQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101042104894157118",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100779508517502977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 654
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100940406855008548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @telegram: fake wealth: 🛩️💰🏎️\nreal wealth: https://t.co/8NPUZiLEQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100779508517502977"
+          ]
+        },
+        "author_id": "1689053928",
+        "conversation_id": "2100940406855008548",
+        "created_at": "2026-09-18T13:30:01.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100940406855008548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NPUZiLEQX",
+              "end": 55,
+              "expanded_url": "https://x.com/telegram/status/2100940406855008548/photo/1",
+              "media_key": "3_2100779508517502977",
+              "start": 32,
+              "url": "https://t.co/8NPUZiLEQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100940406855008548",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100779508517502977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 463676,
+          "like_count": 9654,
+          "quote_count": 351,
+          "reply_count": 938,
+          "retweet_count": 655
+        },
+        "reply_settings": "everyone",
+        "text": "fake wealth: 🛩️💰🏎️\nreal wealth: https://t.co/8NPUZiLEQX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2101042104894157118",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 513,
+          "like_count": 20768,
+          "listed_count": 0,
+          "media_count": 1455,
+          "tweet_count": 4596
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lSFz6"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101025820710195364",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2096877603802186117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689053928/1783971691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026152,
+          "following_count": 9,
+          "like_count": 6938,
+          "listed_count": 4597,
+          "media_count": 4243,
+          "tweet_count": 51983
+        },
+        "url": "https://t.co/zHAc9lSFz6",
+        "username": "telegram",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

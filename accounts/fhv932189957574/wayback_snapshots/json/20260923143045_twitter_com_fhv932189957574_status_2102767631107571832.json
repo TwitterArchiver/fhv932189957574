@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2102573846591386107",
+    "created_at": "2026-09-23T14:30:45.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102767631107571832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618964540275965952",
+          "start": 0,
+          "username": "hjhwys10086"
+        },
+        {
+          "end": 26,
+          "id": "1622255626066731010",
+          "start": 13,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102767631107571832",
+    "in_reply_to_user_id": "1618964540275965952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102759097552810166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjhwys10086 @SagerRgyalpo threads"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2102573846591386107",
+        "created_at": "2026-09-23T14:30:45.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102767631107571832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618964540275965952",
+              "start": 0,
+              "username": "hjhwys10086"
+            },
+            {
+              "end": 26,
+              "id": "1622255626066731010",
+              "start": 13,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102767631107571832",
+        "in_reply_to_user_id": "1618964540275965952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102759097552810166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjhwys10086 @SagerRgyalpo threads"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618964540275965952",
+        "conversation_id": "2102573846591386107",
+        "created_at": "2026-09-23T13:56:50.000Z",
+        "display_text_range": [
+          31,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102759097552810166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            },
+            {
+              "end": 30,
+              "id": "1622255626066731010",
+              "start": 17,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102759097552810166",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102618524527317088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 @SagerRgyalpo 这啥软件？🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2102767631107571832",
+        "name": "f hv",
+        "pinned_tweet_id": "2101769519446491536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 523,
+          "like_count": 21540,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 4830
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-27T13:30:13.000Z",
+        "description": "",
+        "id": "1618964540275965952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102759097552810166",
+        "name": "wei哥厉害",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618964540275965952/1786211822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086149423948861440/F6SaNNg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "hjhwys10086",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛",
+        "id": "1622255626066731010",
+        "is_identity_verified": false,
+        "location": "Zagreb, Hrvatska",
+        "most_recent_tweet_id": "2102714811226468392",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622255626066731010/1747812844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12135,
+          "following_count": 932,
+          "like_count": 1617,
+          "listed_count": 54,
+          "media_count": 3065,
+          "tweet_count": 6028
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

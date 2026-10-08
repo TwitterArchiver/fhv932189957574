@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100067863507992576"
+      ],
+      "media_source_tweet_id": [
+        "2100067869661040798"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100252692325265877",
+    "created_at": "2026-09-16T15:57:17.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100252692325265877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050966735453564928",
+          "start": 3,
+          "username": "Vindicatorn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPGVhH1Mry",
+          "end": 50,
+          "expanded_url": "https://x.com/Vindicatorn/status/2100067869661040798/photo/1",
+          "media_key": "3_2100067863507992576",
+          "start": 27,
+          "url": "https://t.co/dPGVhH1Mry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100252692325265877",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100067863507992576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100067869661040798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vindicatorn: 我胆子就是肥嘟嘟的 https://t.co/dPGVhH1Mry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_2100067863507992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTwmGCbgAAZhkM.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100067863507992576"
+          ],
+          "media_source_tweet_id": [
+            "2100067869661040798"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100252692325265877",
+        "created_at": "2026-09-16T15:57:17.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100252692325265877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050966735453564928",
+              "start": 3,
+              "username": "Vindicatorn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPGVhH1Mry",
+              "end": 50,
+              "expanded_url": "https://x.com/Vindicatorn/status/2100067869661040798/photo/1",
+              "media_key": "3_2100067863507992576",
+              "start": 27,
+              "url": "https://t.co/dPGVhH1Mry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100252692325265877",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100067863507992576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100067869661040798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vindicatorn: 我胆子就是肥嘟嘟的 https://t.co/dPGVhH1Mry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100067863507992576"
+          ]
+        },
+        "author_id": "2050966735453564928",
+        "conversation_id": "2100067869661040798",
+        "created_at": "2026-09-16T03:42:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100067869661040798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPGVhH1Mry",
+              "end": 33,
+              "expanded_url": "https://x.com/Vindicatorn/status/2100067869661040798/photo/1",
+              "media_key": "3_2100067863507992576",
+              "start": 10,
+              "url": "https://t.co/dPGVhH1Mry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100067869661040798",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100067863507992576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 14179,
+          "like_count": 1032,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我胆子就是肥嘟嘟的 https://t.co/dPGVhH1Mry"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100252692325265877",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 19957,
+          "listed_count": 0,
+          "media_count": 1433,
+          "tweet_count": 4474
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T15:53:20.000Z",
+        "description": "我跟你好",
+        "id": "2050966735453564928",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2100244255818309859",
+        "name": "Vindicator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050966735453564928/1785560366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150003230015488/gIlQD9j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 3200,
+          "like_count": 2817,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "Vindicatorn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

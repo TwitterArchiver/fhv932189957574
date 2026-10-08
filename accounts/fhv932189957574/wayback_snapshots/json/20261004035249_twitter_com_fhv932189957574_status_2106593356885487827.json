@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106593350048788480",
+        "3_2106593350094921728"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2106530154063495578",
+    "created_at": "2026-10-04T03:52:49.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106593356885487827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "C103ofsixteen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uAaZ5w2t3b",
+          "end": 50,
+          "expanded_url": "https://x.com/fhv932189957574/status/2106593356885487827/photo/1",
+          "media_key": "3_2106593350048788480",
+          "start": 27,
+          "url": "https://t.co/uAaZ5w2t3b"
+        },
+        {
+          "display_url": "pic.x.com/uAaZ5w2t3b",
+          "end": 50,
+          "expanded_url": "https://x.com/fhv932189957574/status/2106593356885487827/photo/1",
+          "media_key": "3_2106593350094921728",
+          "start": 27,
+          "url": "https://t.co/uAaZ5w2t3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106593356885487827",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106593350048788480"
+      },
+      {
+        "media_key": "3_2106593350094921728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106530154063495578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C103ofsixteen 色孽被你看了一眼成神了 https://t.co/uAaZ5w2t3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2106593350048788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwffZvbsAAYnH-.jpg",
+        "width": 400
+      },
+      {
+        "height": 402,
+        "media_key": "3_2106593350094921728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwffZ6boAA1xZs.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106593350048788480",
+            "3_2106593350094921728"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2106530154063495578",
+        "created_at": "2026-10-04T03:52:49.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106593356885487827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "C103ofsixteen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAaZ5w2t3b",
+              "end": 50,
+              "expanded_url": "https://x.com/fhv932189957574/status/2106593356885487827/photo/1",
+              "media_key": "3_2106593350048788480",
+              "start": 27,
+              "url": "https://t.co/uAaZ5w2t3b"
+            },
+            {
+              "display_url": "pic.x.com/uAaZ5w2t3b",
+              "end": 50,
+              "expanded_url": "https://x.com/fhv932189957574/status/2106593356885487827/photo/1",
+              "media_key": "3_2106593350094921728",
+              "start": 27,
+              "url": "https://t.co/uAaZ5w2t3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106593356885487827",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106593350048788480"
+          },
+          {
+            "media_key": "3_2106593350094921728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106530154063495578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C103ofsixteen 色孽被你看了一眼成神了 https://t.co/uAaZ5w2t3b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2106530154063495578",
+        "created_at": "2026-10-03T23:41:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106530154063495578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106530154063495578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有没有那种学校迎宾发现女生不够叫了两个男生过去装女生结果被车上下来的大人物带去秘密房间潜规则时焦急的脱下裙子证明自己是男生结果发现大人物就好这一口后满脸绝望的被按在地上后入到有马甲线的线条感腹部被插出形状试图逃跑结果直接没戴上项圈狗链一顿草被拍下视频作为威胁不得已一脸嫌弃的口交结果大人物突然掏出幻龙插入挣扎一番后高潮到昏迷醒来后被套上情趣婚纱M字开腿嘴里被塞入假几把一脸绝望的转头发现正在直播后痛苦闭眼结果被捏住鼻子呼吸不畅加上恰好同时高潮下意识睁眼翻白眼余光看到屏幕反光里自己的阿黑颜精神崩溃后大人物准备提裤子走人时发现后穴饥渴难耐自己已经雌堕成欲求不满的骚男娘跪在地上打算嗦几把结果被大人物愤怒的用几把抽脸后眼睁睁看着硕大的几把离去，接着思春后穴滴水为了满足性欲主动穿上逆兔女郎在校园祭上当全校人的飞机杯本来只打算一次接待一位结果被变态同学反锁双手动弹不得被迫群p被肥猪男同学深喉射精到痉挛翻白眼呛到鼻子里喷出精液兴奋到波奇被同学发现是男生后同时艾草和被抓住几把打飞机双重刺激下高潮到崩坏然后同学拿来乳首开发道具吮吸乳头被开发到仅凭玩弄乳头也会高潮大腿乳首小腹都被贴上郊狼贴片后门塞入跳蛋同时开到最大功率且开启实时直播强忍着快感向观众打招呼过了几个小时满脸通红的打算下播结果手还没按到下播按钮就高潮到屁股撅起脸贴地哦齁齁齁的喷水被直播间剩余的观众疯狂录屏此时恰好最后被拿着冰块路过的恶趣味同学发现然后就被同学用大冰块狠狠塞入痛到昏迷醒来后发现身上全是精液一开始慌不择路的抓起风衣披在身上离开忘记了冰块还没融化于是满身精臭味的同时屁股还在一直滴水被路过的体育老师发现后热心的拖到保健室检查身体实则继续被弄玩弄把从屁眼里扣出的冰块放在乳首上涂抹刺激由于被过度开发仅仅是这样前列腺就开始不停高潮几把射到报废被气急败坏的体育老师用大柔帮教育到瞳孔涣散，然后躺在保健室的地板上被路过的学姐捡回家以为能慢慢回归正常生活结果学姐微笑着打开房间门后发现里面全是sm道具本来尖叫着想要逃跑结果因为过度高潮双腿无力瘫坐在地板上纤细的小手被学姐用手铐铐在背后无力的被学姐戴上口球然后学姐以自己超长的手指伸入后门连扣带揉带捏的玩了三个多小时后突然卸下口球刚想张嘴问是不是可以休息了结果被一条超过30cm的超大幻龙捅到嗓子眼里下意识干呕换来的是学姐无情的越捅越深感觉快窒息的瞬间学姐迅速抽出又插入来回二三十次后学姐终于结束了随即又开始掏出拉珠塞入你的后门并且被逼迫着数清全部的数目一边哭泣一边用颤抖的声音计数看着自己的肚子一点一点鼓起后被学姐拉起身按到落地窗前按揉腹股沟时发现楼下时不时有几个路人经过扭头想抗议直接被学姐来了个法式湿吻被学姐用舌头狠狠强奸了口穴随后学姐给你脖子戴上了狗链屁股里注满了仿真精液牵到路上呜呜咽咽的露出走到公园之后彻底忍不住喷出发现学姐假装勃然大怒的脱下裙子露出超过20cm的贾雕后被按在公园摇摇车上厚乳进行到一半学姐还恶趣味的投了一个币让摇摇车剧烈摇晃结果假几把在后门豪无规则的横冲直撞没过多久又高潮了射了一地后学姐拔出贾雕并下达命令要求用嘴清理干净后屈辱的照做被牵回家后看到了一张崭新的日程表后学姐微笑着说第一天强度先小一点明天开始调教时间和调教力度都会翻倍并且是697即早上六点开始晚上九点结束一周七天无休正当绝望的入睡时发现学姐突然戴上贾雕跑上床打算继续开发后穴一看钟表已经十点了高兴的指出今天的做爱时间已经过了后发现学姐把表回调了三个小时并且为了“照明”拿来了低温蜡烛往几把上滴随后拿来马克笔往大腿上写下数个正字的本子"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 14532,
+          "like_count": 278,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有没有那种学校迎宾发现女生不够叫了两个男生过去装女生结果被车上下来的大人物带去秘密房间潜规则时焦急的脱下裙子证明自己是男生结果发现大人物就好这一口后满脸绝望的被按在地上后入到有马甲线的线条感腹部被插出形状试图逃跑结果直接没戴上项圈狗链一顿草被拍下视频作为威胁不得已一脸嫌弃的口交结"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2106593356885487827",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 531,
+          "like_count": 23821,
+          "listed_count": 1,
+          "media_count": 1604,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "Lost Media | Mtf🏳️‍⚧️ |Little @CatgirlMonhrx5\n👇If you can't open it, turn off your VPN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "CatgirlMonhrx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bespoke-hamster-879987.netlify.app",
+                "end": 23,
+                "expanded_url": "https://bespoke-hamster-879987.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/GMggPO9VHN"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106592323140469135",
+        "name": "僧夏猫修🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1788629853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094307369488613376/6fq9E4Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 951,
+          "like_count": 7677,
+          "listed_count": 5,
+          "media_count": 2428,
+          "tweet_count": 6449
+        },
+        "url": "https://t.co/GMggPO9VHN",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

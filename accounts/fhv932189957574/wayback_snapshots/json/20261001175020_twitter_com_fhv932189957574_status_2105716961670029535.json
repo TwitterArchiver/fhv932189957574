@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105716938928480256",
+        "3_2105716938924306432",
+        "16_2105716938945298432"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105202298121314805",
+    "created_at": "2026-10-01T17:50:20.000Z",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105716961670029535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756384850989420544",
+          "start": 0,
+          "username": "PigSozz80951"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IEHderuPmn",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+          "media_key": "3_2105716938928480256",
+          "start": 14,
+          "url": "https://t.co/IEHderuPmn"
+        },
+        {
+          "display_url": "pic.x.com/IEHderuPmn",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+          "media_key": "3_2105716938924306432",
+          "start": 14,
+          "url": "https://t.co/IEHderuPmn"
+        },
+        {
+          "display_url": "pic.x.com/IEHderuPmn",
+          "end": 37,
+          "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+          "media_key": "16_2105716938945298432",
+          "start": 14,
+          "url": "https://t.co/IEHderuPmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105716961670029535",
+    "in_reply_to_user_id": "1756384850989420544",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2105716938928480256"
+      },
+      {
+        "media_key": "3_2105716938924306432"
+      },
+      {
+        "media_key": "16_2105716938945298432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105202298121314805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PigSozz80951 https://t.co/IEHderuPmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2105716938928480256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkCZj5a4AA5_QG.jpg",
+        "width": 600
+      },
+      {
+        "height": 642,
+        "media_key": "3_2105716938924306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkCZj4bMAAe_vf.jpg",
+        "width": 558
+      },
+      {
+        "height": 144,
+        "media_key": "16_2105716938945298432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTkCZj9bgAAgRNs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTkCZj9bgAAgRNs.mp4"
+          }
+        ],
+        "width": 108
+      },
+      {
+        "duration_ms": 40233,
+        "height": 480,
+        "media_key": "13_2105202251908427776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105202251908427776/img/Ym0s9mmflDGGXctn.jpg",
+        "public_metrics": {
+          "view_count": 114285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105202251908427776/vid/avc1/320x426/BIEC6K9bVTNNA0SZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105202251908427776/vid/avc1/360x480/sqnTaeWB9fakwib9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105202251908427776/pl/iQh_GExM9CXj9Xwj.m3u8?v=3c2"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105716938928480256",
+            "3_2105716938924306432",
+            "16_2105716938945298432"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105202298121314805",
+        "created_at": "2026-10-01T17:50:20.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105716961670029535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756384850989420544",
+              "start": 0,
+              "username": "PigSozz80951"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEHderuPmn",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+              "media_key": "3_2105716938928480256",
+              "start": 14,
+              "url": "https://t.co/IEHderuPmn"
+            },
+            {
+              "display_url": "pic.x.com/IEHderuPmn",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+              "media_key": "3_2105716938924306432",
+              "start": 14,
+              "url": "https://t.co/IEHderuPmn"
+            },
+            {
+              "display_url": "pic.x.com/IEHderuPmn",
+              "end": 37,
+              "expanded_url": "https://x.com/fhv932189957574/status/2105716961670029535/photo/1",
+              "media_key": "16_2105716938945298432",
+              "start": 14,
+              "url": "https://t.co/IEHderuPmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105716961670029535",
+        "in_reply_to_user_id": "1756384850989420544",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2105716938928480256"
+          },
+          {
+            "media_key": "3_2105716938924306432"
+          },
+          {
+            "media_key": "16_2105716938945298432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105202298121314805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PigSozz80951 https://t.co/IEHderuPmn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105202251908427776"
+          ]
+        },
+        "author_id": "1756384850989420544",
+        "conversation_id": "2105202298121314805",
+        "created_at": "2026-09-30T07:45:15.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105202298121314805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "肥爹"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "母狗"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "肥猪男"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "白富美"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "女神"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "下贱"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "倒贴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i0g8Hvtty",
+              "end": 68,
+              "expanded_url": "https://x.com/PigSozz80951/status/2105202298121314805/video/1",
+              "media_key": "13_2105202251908427776",
+              "start": 45,
+              "url": "https://t.co/6i0g8Hvtty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105202298121314805",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105202251908427776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 217309,
+          "like_count": 703,
+          "quote_count": 24,
+          "reply_count": 368,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "来几头喜欢倒贴的死妈下贱母猪 #肥爹 #母狗 #肥猪男 #白富美 #女神 #下贱 #倒贴 https://t.co/6i0g8Hvtty"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2105716961670029535",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 530,
+          "like_count": 23599,
+          "listed_count": 1,
+          "media_count": 1590,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-10T18:29:48.000Z",
+        "description": "",
+        "id": "1756384850989420544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105665040355611081",
+        "name": "Spig",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094276126864715776/das6n602_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 360,
+          "like_count": 1000,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "PigSozz80951",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

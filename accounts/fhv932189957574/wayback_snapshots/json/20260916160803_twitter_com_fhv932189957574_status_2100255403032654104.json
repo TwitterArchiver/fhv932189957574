@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2100037465361072128"
+      ],
+      "media_source_tweet_id": [
+        "2100041988338799002"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100255403032654104",
+    "created_at": "2026-09-16T16:08:03.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100255403032654104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860807053306200064",
+          "start": 3,
+          "username": "fricthefrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AHrDh7WqAQ",
+          "end": 40,
+          "expanded_url": "https://x.com/fricthefrog/status/2100041988338799002/photo/1",
+          "media_key": "16_2100037465361072128",
+          "start": 17,
+          "url": "https://t.co/AHrDh7WqAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100255403032654104",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2100037465361072128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1854
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100041988338799002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fricthefrog: https://t.co/AHrDh7WqAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2100037465361072128",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSTU8sHbwAA7lvY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSTU8sHbwAA7lvY.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100037465361072128"
+          ],
+          "media_source_tweet_id": [
+            "2100041988338799002"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100255403032654104",
+        "created_at": "2026-09-16T16:08:03.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100255403032654104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860807053306200064",
+              "start": 3,
+              "username": "fricthefrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHrDh7WqAQ",
+              "end": 40,
+              "expanded_url": "https://x.com/fricthefrog/status/2100041988338799002/photo/1",
+              "media_key": "16_2100037465361072128",
+              "start": 17,
+              "url": "https://t.co/AHrDh7WqAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100255403032654104",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2100037465361072128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1854
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100041988338799002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fricthefrog: https://t.co/AHrDh7WqAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100037465361072128"
+          ]
+        },
+        "author_id": "1860807053306200064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100041988338799002",
+        "created_at": "2026-09-16T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100041988338799002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHrDh7WqAQ",
+              "end": 23,
+              "expanded_url": "https://x.com/fricthefrog/status/2100041988338799002/photo/1",
+              "media_key": "16_2100037465361072128",
+              "start": 0,
+              "url": "https://t.co/AHrDh7WqAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100041988338799002",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2100037465361072128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 401069,
+          "like_count": 16588,
+          "quote_count": 59,
+          "reply_count": 9,
+          "retweet_count": 1854
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AHrDh7WqAQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100255403032654104",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 516,
+          "like_count": 19975,
+          "listed_count": 0,
+          "media_count": 1433,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T22:06:09.000Z",
+        "description": "Plushie adventures: https://t.co/UMHSRnf2sp\nhttps://t.co/jnCTtyb0Oz\n$FRIC\nca: EsP4kJfKUDLfX274WoBSiiEy74Sh4tZKUCDjfULHpump",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "FRIC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/fric_thefrog",
+                "end": 43,
+                "expanded_url": "http://instagram.com/fric_thefrog",
+                "start": 20,
+                "url": "https://t.co/UMHSRnf2sp"
+              },
+              {
+                "display_url": "linktr.ee/fricthefrog",
+                "end": 67,
+                "expanded_url": "http://linktr.ee/fricthefrog",
+                "start": 44,
+                "url": "https://t.co/jnCTtyb0Oz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fricshop.com",
+                "end": 23,
+                "expanded_url": "https://www.fricshop.com",
+                "start": 0,
+                "url": "https://t.co/JROe72iZYO"
+              }
+            ]
+          }
+        },
+        "id": "1860807053306200064",
+        "is_identity_verified": false,
+        "location": "Los Angeles x Seoul",
+        "most_recent_tweet_id": "2100223179918561601",
+        "name": "fric",
+        "pinned_tweet_id": "2003000557901132179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860807053306200064/1789146791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860975494608629760/5vY1BWTA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97452,
+          "following_count": 95,
+          "like_count": 23804,
+          "listed_count": 200,
+          "media_count": 9136,
+          "tweet_count": 11806
+        },
+        "url": "https://t.co/JROe72iZYO",
+        "username": "fricthefrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

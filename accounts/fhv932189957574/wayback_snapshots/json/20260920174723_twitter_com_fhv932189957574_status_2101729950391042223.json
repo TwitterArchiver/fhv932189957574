@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101729941629112320"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "conversation_id": "2101646699101901070",
+    "created_at": "2026-09-20T17:47:23.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101729950391042223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779127988719693824",
+          "start": 0,
+          "username": "skinnyswago"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iCWQDXnHcD",
+          "end": 39,
+          "expanded_url": "https://x.com/fhv932189957574/status/2101729950391042223/photo/1",
+          "media_key": "3_2101729941629112320",
+          "start": 16,
+          "url": "https://t.co/iCWQDXnHcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101729950391042223",
+    "in_reply_to_user_id": "1779127988719693824",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2101729941629112320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101646699101901070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skinnyswago ？！ https://t.co/iCWQDXnHcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2101729941629112320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrYPxibEAA205W.jpg",
+        "width": 1430
+      },
+      {
+        "height": 426,
+        "media_key": "16_2101646693745729536",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSqMiHAWoAAFgra.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSqMiHAWoAAFgra.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101729941629112320"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2101646699101901070",
+        "created_at": "2026-09-20T17:47:23.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101729950391042223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779127988719693824",
+              "start": 0,
+              "username": "skinnyswago"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCWQDXnHcD",
+              "end": 39,
+              "expanded_url": "https://x.com/fhv932189957574/status/2101729950391042223/photo/1",
+              "media_key": "3_2101729941629112320",
+              "start": 16,
+              "url": "https://t.co/iCWQDXnHcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101729950391042223",
+        "in_reply_to_user_id": "1779127988719693824",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2101729941629112320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101646699101901070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skinnyswago ？！ https://t.co/iCWQDXnHcD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101646693745729536"
+          ]
+        },
+        "author_id": "1779127988719693824",
+        "conversation_id": "2101646699101901070",
+        "created_at": "2026-09-20T12:16:34.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101646699101901070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqshwITIRR",
+              "end": 55,
+              "expanded_url": "https://x.com/skinnyswago/status/2101646699101901070/photo/1",
+              "media_key": "16_2101646693745729536",
+              "start": 32,
+              "url": "https://t.co/rqshwITIRR"
+            },
+            {
+              "display_url": "x.com/Edenedddy/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Edenedddy/status/2101515760866840698",
+              "start": 56,
+              "url": "https://t.co/7SelUz78ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101646699101901070",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "Shine Shining GIF",
+            "media_key": "16_2101646693745729536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 187683,
+          "like_count": 5778,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101515760866840698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**translated from chinese**😭😭😭😭 https://t.co/rqshwITIRR https://t.co/7SelUz78ow"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2101729950391042223",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 518,
+          "like_count": 21082,
+          "listed_count": 0,
+          "media_count": 1475,
+          "tweet_count": 4703
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T12:42:31.000Z",
+        "description": "hedonist | forca barca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emoruwaportfolio.vercel.app",
+                "end": 23,
+                "expanded_url": "http://www.emoruwaportfolio.vercel.app",
+                "start": 0,
+                "url": "https://t.co/X0KNjzxf1W"
+              }
+            ]
+          }
+        },
+        "id": "1779127988719693824",
+        "is_identity_verified": false,
+        "location": "spotify camp nou",
+        "most_recent_tweet_id": "2101660481379324245",
+        "name": "🕷️skinnyzee🕷️is voting tinubu out",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779127988719693824/1774224744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088622339982270464/5yJheNXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 71,
+          "like_count": 31135,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 3967
+        },
+        "url": "https://t.co/X0KNjzxf1W",
+        "username": "skinnyswago",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

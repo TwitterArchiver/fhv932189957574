@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025951595020845056",
+    "conversation_id": "2100155228838588911",
+    "created_at": "2026-09-16T18:42:35.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100294291298132446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100294291298132446",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100155228838588911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 想操逼魔怔了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2100155228838588911",
+        "created_at": "2026-09-16T18:42:35.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100294291298132446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100294291298132446",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100155228838588911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 想操逼魔怔了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239436070292320257",
+        "conversation_id": "2100155228838588911",
+        "created_at": "2026-09-16T09:30:00.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100155228838588911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100155228838588911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 257485,
+          "like_count": 560,
+          "quote_count": 1,
+          "reply_count": 138,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "送给大学毕业还没操过逼的男大学生一句话。\n\n大学毕业后，哪怕你分逼没有，也要贷款买个车。\n\n不然你到35也他妈操不上。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人（存疑）｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 113,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 90,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2100294291298132446",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 518,
+          "like_count": 20103,
+          "listed_count": 0,
+          "media_count": 1436,
+          "tweet_count": 4497
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "每日精进\n日拱一卒\n一起发东西南北旋风财！",
+        "id": "1239436070292320257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100275556365615486",
+        "name": "铁手",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239436070292320257/1779750869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052880484473217024/W7AIOFFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83460,
+          "following_count": 1871,
+          "like_count": 23567,
+          "listed_count": 440,
+          "media_count": 1995,
+          "tweet_count": 21319
+        },
+        "url": "",
+        "username": "0427SMtieshou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

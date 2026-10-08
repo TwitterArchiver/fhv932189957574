@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105692662665723904"
+      ],
+      "media_source_tweet_id": [
+        "2105692787932905734"
+      ]
+    },
+    "author_id": "2025951595020845056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2105752483402514548",
+    "created_at": "2026-10-01T20:11:29.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T21:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105752483402514548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3233838112",
+          "start": 3,
+          "username": "KFC_ES"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/loxfTuH9VE",
+          "end": 98,
+          "expanded_url": "https://x.com/KFC_ES/status/2105692787932905734/video/1",
+          "media_key": "13_2105692662665723904",
+          "start": 75,
+          "url": "https://t.co/loxfTuH9VE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105752483402514548",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2105692662665723904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105692787932905734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KFC_ES: DE VERDAD CREIAS QUE HABÍA DEJADO CAER MIS PALOMITAS DE POLLO? https://t.co/loxfTuH9VE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20033,
+        "height": 1440,
+        "media_key": "13_2105692662665723904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105692662665723904/img/GbPR8--8QbKWBPll.jpg",
+        "public_metrics": {
+          "view_count": 23059
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105692662665723904/vid/avc1/1080x1440/KQZRcLHEG4Mwr6ji.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105692662665723904/vid/avc1/320x426/sWnVNjO53N1F-slz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105692662665723904/vid/avc1/480x640/1Wh4rSVUE9l5ETfF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105692662665723904/vid/avc1/720x960/BHsEfObge0yTKib9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105692662665723904/pl/uHAlGweAJoobzL-m.m3u8?v=e4b"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105692662665723904"
+          ],
+          "media_source_tweet_id": [
+            "2105692787932905734"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2105752483402514548",
+        "created_at": "2026-10-01T20:11:29.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105752483402514548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3233838112",
+              "start": 3,
+              "username": "KFC_ES"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/loxfTuH9VE",
+              "end": 98,
+              "expanded_url": "https://x.com/KFC_ES/status/2105692787932905734/video/1",
+              "media_key": "13_2105692662665723904",
+              "start": 75,
+              "url": "https://t.co/loxfTuH9VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105752483402514548",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2105692662665723904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105692787932905734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KFC_ES: DE VERDAD CREIAS QUE HABÍA DEJADO CAER MIS PALOMITAS DE POLLO? https://t.co/loxfTuH9VE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105692662665723904"
+          ]
+        },
+        "author_id": "3233838112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2105692787932905734",
+        "created_at": "2026-10-01T16:14:17.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105692787932905734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/loxfTuH9VE",
+              "end": 86,
+              "expanded_url": "https://x.com/KFC_ES/status/2105692787932905734/video/1",
+              "media_key": "13_2105692662665723904",
+              "start": 63,
+              "url": "https://t.co/loxfTuH9VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105692787932905734",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2105692662665723904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 47420,
+          "like_count": 2221,
+          "quote_count": 15,
+          "reply_count": 11,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "DE VERDAD CREIAS QUE HABÍA DEJADO CAER MIS PALOMITAS DE POLLO? https://t.co/loxfTuH9VE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "众生欢笑不已\n帖子如果能让你开心一下就是我的幸运\n\n部分发言不代表真实立场｜希望大家活着｜不讨论政治不聊黄｜复读机乱搬梗图｜身份认同混乱｜个人自由主义｜应该无性恋｜当串子不代表自身真实思想｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 118,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 95,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "哦哦哦哦",
+        "most_recent_tweet_id": "2105752483402514548",
+        "name": "f hv",
+        "pinned_tweet_id": "2103204064133874169",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 530,
+          "like_count": 23611,
+          "listed_count": 1,
+          "media_count": 1591,
+          "tweet_count": 5199
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-04T16:49:23.000Z",
+        "description": "Cuenta oficial de memes. Vendemos pollo frito también.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.es",
+                "end": 23,
+                "expanded_url": "http://kfc.es",
+                "start": 0,
+                "url": "https://t.co/E4UZXk0Zo8"
+              }
+            ]
+          }
+        },
+        "id": "3233838112",
+        "is_identity_verified": false,
+        "location": "España",
+        "most_recent_tweet_id": "2105692982087401919",
+        "name": "KFC España",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233838112/1789733792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104867420565377024/1KXr0O-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163464,
+          "following_count": 531,
+          "like_count": 24583,
+          "listed_count": 742,
+          "media_count": 7500,
+          "tweet_count": 20942
+        },
+        "url": "https://t.co/E4UZXk0Zo8",
+        "username": "KFC_ES",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
